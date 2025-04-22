@@ -90,9 +90,11 @@ Die Antwort: Energie besitzt einen **höherdimensionalen Drehsinn**, der im klas
 **Letzte Bearbeitung**: 2025-04-20  
 **Theorieansatz**: Resonanzfeldtheorie nach Dominic Schu
 
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
 1. **Repository klonen**:  
    ```bash
-   git clone https://github.com/DominicRene/Resonanzfeldtheorie.git
+   git clone https://github.com/DominicReneSchu/Resonanzfeldtheorie.git
    cd Resonanzfeldtheorie
    ```
 ---

@@ -80,8 +80,8 @@ Wenn du beitragen möchtest, erstelle einen Pull Request oder kontaktiere direkt
 
 1. **Repository klonen**:  
    ```bash
-   git clone https://github.com/DominicRene/Resonanzfeldtheorie.git
+   git clone https://github.com/DominicReneSchu/Resonanzfeldtheorie.git
    cd Resonanzfeldtheorie
-
+   ```
 ---
 

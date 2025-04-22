@@ -54,3 +54,12 @@ Erst durch diesen Energieeintrag wird die Schwingung ausbalanciert – sie errei
 Was vorher Welle war, wird durch Potenzialeingabe konkret – messbar, sichtbar, scheinbar „greifbar“. Doch ohne Beobachtung bleibt das Feld dispers: rein resonant, rein wellenförmig.
 
 So zeigt sich: Der Dualismus ist kein Widerspruch – sondern ein Resonanzphänomen.
+
+
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+1. **Repository klonen**:  
+   ```bash
+   git clone https://github.com/DominicReneSchu/Resonanzfeldtheorie.git
+   cd Resonanzfeldtheorie
+   ```

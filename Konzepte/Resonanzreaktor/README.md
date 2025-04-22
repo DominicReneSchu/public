@@ -558,10 +558,11 @@ Mit einem klaren **Forschungsplan**, **Technologieentwicklungen** und einer gut 
 > — Dominic-René Schu (Resonanzfeld-Theorie)
 
 ---
+© Dominic-René Schu – Resonanzfeldtheorie 2025
 
 1. **Repository klonen**:  
    ```bash
-   git clone https://github.com/DominicRene/Resonanzfeldtheorie.git
+   git clone https://github.com/DominicReneSchu/Resonanzfeldtheorie.git
    cd Resonanzfeldtheorie
    ```
 ---
