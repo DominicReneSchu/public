@@ -55,11 +55,13 @@ Was vorher Welle war, wird durch Potenzialeingabe konkret – messbar, sichtbar,
 
 So zeigt sich: Der Dualismus ist kein Widerspruch – sondern ein Resonanzphänomen.
 
+---
 
 © Dominic-René Schu – Resonanzfeldtheorie 2025
 
 1. **Repository klonen**:  
    ```bash
-   git clone https://github.com/DominicReneSchu/Resonanzfeldtheorie.git
+   git clone https://github.com/DominicReneSchu/public.git
    cd Resonanzfeldtheorie
    ```
+---

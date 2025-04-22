@@ -126,7 +126,7 @@ Wenn Sie neugierig geworden sind, freue ich mich über Ihre Kontaktaufnahme.
 
 1. **Repository klonen**:  
    ```bash
-   git clone https://github.com/DominicReneSchu/Resonanzfeldtheorie.git
+   git clone https://github.com/DominicReneSchu/public.git
    cd Resonanzfeldtheorie
    ```
 
