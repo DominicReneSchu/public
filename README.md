@@ -30,6 +30,7 @@ Ziel ist es, die Struktur der Realität über fundamentale Größen wie **π**, 
 ---
 
 ### ⚙️ Konzepte
+- [ResoCalc (Konventionelle Drehmomentberechnung vs. ResoCalc (Resonanzfeldtheorie))](Konzepte/ResoCalc/resocalc.md)
 - [Energiezelle (Python)](Konzepte/Energiezelle/energiezelle.md)
 - [Kraftfeldgenerator (Python)](Konzepte/Kraftfeldgenerator/kraftfeldgenerator.md)
 - [Resonanzreaktor (Python)](Konzepte/Resonanzreaktor/README.md)
