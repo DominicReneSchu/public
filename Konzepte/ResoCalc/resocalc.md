@@ -10,7 +10,7 @@ In diesem Abschnitt vergleichen wir die klassische mechanische Berechnung des ef
 - Länge: $$l = 1\,0\mathrm{m}$$  
 - Anregungsfrequenz: $$f = 10\,0\mathrm{Hz}$$  
 - Resonanzfrequenz: $$f_r = 5\,0\mathrm{Hz}$$  
-- Kopplungsfaktor: $$\zeta = 0{,0}2$$
+- Kopplungsfaktor: $$\zeta = 0{,}2$$
 
 ---
 
@@ -19,9 +19,9 @@ In diesem Abschnitt vergleichen wir die klassische mechanische Berechnung des ef
 #### 🔵 Konventionell (klassisch):  
 Effektives Drehmoment:
 
-\[
+$$\
 M_{\text{konv}} = J \cdot \omega^2 \cdot \frac{\theta_{\text{max}}}{\sqrt{2}} \quad \text{mit} \quad J = m \cdot l^2
-\]
+\$$
 
 Dabei ist $$\theta_{\text{max}}$$ eine willkürlich gewählte Auslenkung – ein fundamentaler Schwachpunkt des klassischen Ansatzes.
 
@@ -29,9 +29,9 @@ Dabei ist $$\theta_{\text{max}}$$ eine willkürlich gewählte Auslenkung – ein
 
 #### 🔴 ResoCalc (Resonanzfeldtheorie – wie im Code verwendet):
 
-\[
+$$\
 M_{\text{reso}} = I \cdot (2\pi f)^2 \cdot \frac{1}{\sqrt{(1 - (f / f_r)^2)^2 + (2 \zeta \cdot (f / f_r))^2}}
-\]
+\$$
 
 mit:
 - $$I = m \cdot l^2$$: Trägheitsmoment
