@@ -6,7 +6,7 @@ In diesem Abschnitt vergleichen wir die klassische mechanische Berechnung des ef
 [![⚡ ResoCalc starten](https://img.shields.io/badge/⚡_ResoCalc_starten-Resonanzfeld_theorie-orange)](https://resoshift.com/)
 
 ### Ausgangswerte:
-- Masse $$m = 2\,\mathrm{kg}$$  
+- Masse $$m = 2\,0\mathrm{kg}$$  
 - Länge $$l = 1\,0\mathrm{m}$$  
 - Anregungsfrequenz $$f = 10\,0\mathrm{Hz}$$  
 - Resonanzfrequenz $$f_r = 5\,0\mathrm{Hz}$$  
