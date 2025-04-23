@@ -7,9 +7,9 @@ In diesem Abschnitt vergleichen wir die klassische mechanische Berechnung des ef
 
 ### Ausgangswerte:
 - Masse $$m = 2\,\mathrm{kg}$$  
-- Länge $$l = 1\,\mathrm{m}$$  
-- Anregungsfrequenz $$f = 10\,\mathrm{Hz}$$  
-- Resonanzfrequenz $$f_r = 5\,\mathrm{Hz}$$  
+- Länge $$l = 1\,0\mathrm{m}$$  
+- Anregungsfrequenz $$f = 10\,0\mathrm{Hz}$$  
+- Resonanzfrequenz $$f_r = 5\,0\mathrm{Hz}$$  
 - Kopplungsfaktor: 0.2
 
 ### Berechnungsansätze:
@@ -23,8 +23,8 @@ $$
 
 Die klassische Berechnung hängt von der **willkürlich festgelegten maximalen Auslenkung** $$\theta_{\text{max}}$$ ab, die oft als Beispielwert angenommen wird. In diesem Fall nehmen wir $$\theta_{\text{max}} = 5^\circ = \frac{\pi}{36} \,\text{rad}$$ an.
 
-- Trägheitsmoment: $$J = 2 \cdot 1^2 = 2\,\mathrm{kg \cdot m^2}$$
-- Kreisfrequenz: $$\omega = 2\pi \cdot f = 2\pi \cdot 10 = 62.83\,\mathrm{rad/s}$$
+- Trägheitsmoment: $$J = 2 \cdot 1^2 = 2\,0\mathrm{kg \cdot m^2}$$
+- Kreisfrequenz: $$\omega = 2\pi \cdot f = 2\pi \cdot 10 = 62\,83\mathrm{rad/s}$$
 
 Damit erhalten wir:
 
@@ -45,10 +45,10 @@ Erklärung der Formel:
 - **Resonanzverstärkung**: Das Verhältnis $$\frac{f}{f_r}$$ steuert die Verstärkung des Systems in Resonanz.
 
 Setzen wir die gegebenen Werte ein:
-- $$m = 2\,\text{kg}$$
-- $$l = 1\,\text{m}$$
-- $$f = 10\,\text{Hz}$$
-- $$f_r = 5\,\text{Hz}$$
+- $$m = 2\,0\text{kg}$$
+- $$l = 1\,0\text{m}$$
+- $$f = 10\,0\text{Hz}$$
+- $$f_r = 5\,0\text{Hz}$$
 - Kopplungsfaktor: 0.2
 
 Berechnung:
