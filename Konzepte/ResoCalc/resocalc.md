@@ -2,6 +2,9 @@
 
 In diesem Abschnitt vergleichen wir die klassische mechanische Berechnung des effektiven Drehmoments mit der neuen Methode auf Basis der Resonanzfeldtheorie (ResoCalc).
 
+👉 **Direkt zur Anwendung:** [![⚡ ResoCalc starten](https://img.shields.io/badge/⚡_ResoCalc_starten-Resonanzfeld_theorie-orange)](https://resoshift.com/)
+
+
 ### Ausgangswerte:
 - Masse $$m = 2\,\mathrm{kg}$$  
 - Länge $$l = 1\,\mathrm{m}$$  
