@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Konstanten
 k_B = 1.380649e-23  # Boltzmann-Konstante in J/K
 omega_0 = 2 * np.pi  # Eigenfrequenz des Systems

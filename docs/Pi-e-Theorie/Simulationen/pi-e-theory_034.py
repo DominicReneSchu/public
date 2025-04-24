@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Parameter
 omega_0 = 2 * np.pi  # Resonanzfrequenz (Hz)
 gamma = 0.1  # Dämpfungsfaktor

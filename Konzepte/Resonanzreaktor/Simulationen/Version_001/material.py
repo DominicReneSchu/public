@@ -1,5 +1,5 @@
 # material.py
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 class Isotope:
     def __init__(self, name, half_life, resonance_freq, decay_constant):
         self.name = name

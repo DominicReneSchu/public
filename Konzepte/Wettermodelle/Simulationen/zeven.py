@@ -2,7 +2,7 @@ import requests
 import math
 import random
 from datetime import datetime, timedelta
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # API-Schlüssel und URL für OpenWeather
 API_KEY = input("Bitte gib deinen OpenWeather API-Schlüssel ein: ")
 BASE_URL = "http://api.openweathermap.org/data/2.5/onecall/timemachine"

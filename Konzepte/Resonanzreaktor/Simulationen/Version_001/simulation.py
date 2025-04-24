@@ -1,5 +1,5 @@
 # simulation.py
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 import numpy as np
 import matplotlib.pyplot as plt
 from material import uranium_235, plutonium_239, thorium_232

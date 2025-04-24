@@ -1,5 +1,5 @@
 # resonance.py
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 import numpy as np
 
 def resonance_field(frequency, temperature):

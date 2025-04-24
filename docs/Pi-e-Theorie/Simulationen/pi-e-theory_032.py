@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Konstanten
 k_B = 1.38e-23  # Boltzmann-Konstante in J/K
 gamma = 0.1     # Dämpfungsfaktor

@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Physikalische Konstanten
 delta = 1.5e-3     # Energielücke Niob (eV)
 k_B = 8.617e-5     # Boltzmann-Konstante (eV/K)

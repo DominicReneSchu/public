@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Parameter
 k_B = 1.38e-23  # Boltzmann-Konstante in J/K
 A = 1.0  # Amplitude

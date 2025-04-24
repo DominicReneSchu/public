@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 st.title("Resonanz-Brennstab Optimierung")
 
 # Eingaben

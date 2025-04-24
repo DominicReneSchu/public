@@ -1,5 +1,5 @@
 import requests
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 def get_weather_data(latitude, longitude, api_key):
     """
     Holt aktuelle Wetterdaten von OpenWeather API anhand von geografischen Koordinaten.

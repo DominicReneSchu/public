@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.integrate import solve_ivp
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Systemparameter
 omega_0 = 2 * np.pi  # Eigenfrequenz des Systems
 gamma = 0.1          # Dämpfungsfaktor

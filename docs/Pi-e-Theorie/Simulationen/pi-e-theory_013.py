@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Systemparameter
 omega_0 = 2 * np.pi  # Eigenfrequenz des Systems (z.B. 1 Hz)
 gamma = 0.1          # Dämpfungsfaktor

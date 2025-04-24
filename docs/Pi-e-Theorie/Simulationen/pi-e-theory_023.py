@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Parameter
 k_B = 1  # Boltzmann-Konstante (vereinfacht)
 alpha = 1  # Konstante für die Entropieberechnung

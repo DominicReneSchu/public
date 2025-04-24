@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Beispiel für die Berechnungen
 def berechnungen(T, A):
     # Verhindern von unendlich hohen Werten (Singularität) bei Logarithmus und Division

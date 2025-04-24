@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Konstanten
 A = 14      # Maximale Sonneneinstrahlung in Watt/m² (vereinfachte Annahme)
 T0 = 5      # Anfangstemperatur am Morgen (°C)

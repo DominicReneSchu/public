@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Definieren von Parametern
 mass = 1.0  # Masse des Teilchens (z.B. Atomkern)
 k = 1.0  # Federkonstante (Repräsentation der Wechselwirkung)

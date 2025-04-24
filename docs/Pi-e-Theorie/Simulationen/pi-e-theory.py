@@ -2,7 +2,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Parameterraum
 f = np.linspace(0.1, 4 * np.pi, 200)  # Frequenz
 A = np.linspace(0.1, 2, 200)          # Amplitude

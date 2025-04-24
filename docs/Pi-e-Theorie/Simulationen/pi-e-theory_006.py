@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 import logging
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Fehlerprotokollierung einrichten
 logging.basicConfig(filename='log.txt', level=logging.DEBUG, format='%(asctime)s - %(message)s')
 

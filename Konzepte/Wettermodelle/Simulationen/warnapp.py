@@ -1,7 +1,7 @@
 import requests
 import time
 from datetime import datetime, timedelta
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # === HIER DEIN API-KEY ===
 API_KEY = "API_KEY"  # <-- Ersetze diesen String durch deinen tatsächlichen API-Key
 

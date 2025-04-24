@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Raumgitter
 size = 100
 x = np.linspace(-5, 5, size)

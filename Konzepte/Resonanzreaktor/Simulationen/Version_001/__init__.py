@@ -1,3 +1,4 @@
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Resonanzreaktor-Modul initialisiert
 from .simulation import run_simulation, plot_results
 from .resonance import resonance_field, excite_material

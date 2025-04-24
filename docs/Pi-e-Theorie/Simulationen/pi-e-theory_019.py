@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Parameter
 A = np.linspace(0.1, 10, 500)  # Amplitude
 omega_ext = np.linspace(1, 10, 100)  # Äußere Frequenz

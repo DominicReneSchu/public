@@ -5,7 +5,7 @@ from simulation.chaotic_dynamics import calculate_lyapunov_exponent
 from simulation.resonance_theory import resonance_field_interaction
 from simulation.schu_equation import schu_equation
 from simulation.time_dynamics import multi_dimensional_time
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 def main():
     # Schritt 1: Frage nach dem OpenWeather API-Schlüssel
     api_key = input("Bitte gib deinen OpenWeather API-Schlüssel ein: ").strip()

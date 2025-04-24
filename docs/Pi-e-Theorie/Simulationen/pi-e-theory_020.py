@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Parameter des Systems
 m = 1.0  # Masse in kg
 k = 1.0  # Federkonstante in N/m

@@ -1,5 +1,5 @@
 import numpy as np
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 def calculate_lyapunov_exponent(initial_conditions, time_steps):
     """
     Berechnet den Lyapunov-Exponenten basierend auf den Anfangsbedingungen und der Anzahl der Zeitschritte.

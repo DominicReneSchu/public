@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Konstanten
 k_B = 1.38e-23  # Boltzmann-Konstante in J/K
 hbar = 1.0545718e-34  # Reduziertes Plancksches Wirkungsquantum in J*s

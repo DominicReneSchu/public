@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Parameter für den Atommüll (z.B. Uran)
 N0 = 1e12  # Anfangszahl der Teilchen
 lambda_ = 1e-4  # Zerfallskonstante (je kleiner, desto langsamer der Zerfall)

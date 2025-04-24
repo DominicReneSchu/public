@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 st.title("Schu-Frequenzrechner")
 
 E = 1e-3

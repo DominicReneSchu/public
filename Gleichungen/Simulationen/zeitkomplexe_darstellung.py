@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Parameter
 alpha = np.arccos(np.e / np.pi)  # Phasenwinkel für π/e
 radius = 1  # Normierte Zeit-Hypotenuse

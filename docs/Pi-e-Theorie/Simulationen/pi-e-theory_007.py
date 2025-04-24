@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 import matplotlib.colors as mcolors
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Parameter
 pi = np.pi
 e = np.e

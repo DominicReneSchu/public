@@ -1,5 +1,5 @@
 import numpy as np
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 def resonance_field_interaction(temperature, wind_speed, humidity, temp_factor=0.1, wind_factor=0.05, humidity_factor=0.1):
     """
     Berechnet die Resonanzfeld-Interaktion basierend auf Temperatur, Windgeschwindigkeit und Luftfeuchtigkeit.

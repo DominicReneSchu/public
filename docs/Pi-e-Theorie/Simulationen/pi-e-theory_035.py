@@ -2,7 +2,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Parameterdefinition
 A = np.linspace(0.1, 5, 500)  # Amplitude A
 T = np.linspace(0.1, 5, 500)  # Temperatur T

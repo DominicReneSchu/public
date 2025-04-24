@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Definiere die Parameter für das System
 omega_0 = 2 * np.pi  # Eigenfrequenz des Systems (z. B. Resonanzfrequenz)
 gamma = 0.1          # Dämpfungskoeffizient

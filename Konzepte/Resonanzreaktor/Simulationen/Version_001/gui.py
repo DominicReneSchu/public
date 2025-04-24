@@ -1,5 +1,5 @@
 # gui.py
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 import tkinter as tk
 from tkinter import ttk
 from simulation import run_simulation, plot_results

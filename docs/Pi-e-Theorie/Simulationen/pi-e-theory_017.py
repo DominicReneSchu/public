@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Parameter
 m = 1e-26  # Masse der Atome (kg)
 omega_0 = 2 * np.pi * 1e13  # Eigenfrequenz des Systems (rad/s)

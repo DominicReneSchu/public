@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Frequenzbereich
 frequencies = np.linspace(0.1, 10, 1000)
 

@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+#© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Konstanten
 k_B = 1.380649e-23  # Boltzmann-Konstante (J/K)
 omega_0 = 2 * np.pi * 1e3  # Resonanzfrequenz (rad/s)
