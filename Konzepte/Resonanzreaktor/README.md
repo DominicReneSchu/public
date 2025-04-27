@@ -16,8 +16,6 @@ Der **Resonanzreaktor** ist ein neuartiges Energiekonzept, das modernste Technol
 
 ➡️ [Weiter zu: Der Generationenvertrag der Zukunft](generationenvertrag_der_zukunft.md)
 
-➡️ [Weiter zu: 🜂 Projekt Omega – Die Arche](Projekt_Omega.md)
-
 ➡️ [Weiter zu: Kraftfeldgenerator:](../Kraftfeldgenerator/kraftfeldgenerator.md)
 
 ---
