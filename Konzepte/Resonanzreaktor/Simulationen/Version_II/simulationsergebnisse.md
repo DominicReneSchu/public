@@ -96,7 +96,7 @@ Die Simulation modelliert den Zerfall und die Transmutation von Isotopen über e
 - Berechnet den verbleibenden Anteil des Isotops nach einer gegebenen Zeitspanne.
 - Verwendet die exponentielle Zerfallsgleichung:  
   $$\
-  N(t) = N_0 \cdot e^{-\lambda \cdot t}
+  \N(t) = N_0 \cdot e^{-\lambda \cdot t}
   \$$  
   wobei $$\ \lambda\$$ die Zerfallskonstante ist.
 
