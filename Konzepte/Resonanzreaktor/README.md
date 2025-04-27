@@ -10,6 +10,8 @@ Der **Resonanzreaktor** ist ein neuartiges Energiekonzept, das modernste Technol
 
 ---
 
+➡️ [Weiter zu: Simulationsergebnisse:](Simulationen/Version_II/simulationsergebnisse.md)
+
 ➡️ [Weiter zu: Kosten- Nutzenrechnung: Resonanzreaktor](Kosten_Nutzen_Rechnung_Resonanzreaktor.md)  
 
 ➡️ [Weiter zu: Globale Wohlstandsschere – Abschätzung der Entwicklung durch den Resonanzreaktor](globale_wohlstandsschere.md)
