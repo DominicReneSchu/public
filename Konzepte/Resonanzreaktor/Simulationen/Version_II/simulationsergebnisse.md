@@ -95,8 +95,9 @@ Die Simulation modelliert den Zerfall und die Transmutation von Isotopen über e
 ### 2. **Zerfallsmethode**
 - Berechnet den verbleibenden Anteil des Isotops nach einer gegebenen Zeitspanne.
 - Verwendet die exponentielle Zerfallsgleichung:  
+  
   $$\
-  \N(t) = N_0 \cdot e^{-\lambda \cdot t}
+  N(t) = N_0 \cdot e^{-\lambda \cdot t}
   \$$  
   wobei $$\ \lambda\$$ die Zerfallskonstante ist.
 
@@ -104,6 +105,7 @@ Die Simulation modelliert den Zerfall und die Transmutation von Isotopen über e
 
 ### 3. **Energiefreisetzung**
 - Die freigesetzte Energie wird basierend auf der Anzahl der Zerfälle und der Energie pro Zerfall berechnet:
+  
   $$\
   E(t) = N(t) \cdot \text{Energie pro Zerfall}
   \$$
