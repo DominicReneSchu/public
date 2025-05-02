@@ -48,11 +48,13 @@ Die Pi-𝜖-Theorie bietet auch tiefgehende Einblicke in die **Quanteninformatio
 
 Die Pi-𝜖-Theorie eröffnet nicht nur neue Perspektiven auf fundamentale physikalische Prozesse, sondern hat auch weitreichende praktische Anwendungen. Von der Energiegewinnung über medizinische Anwendungen bis hin zu Nanotechnologie und Quantencomputing bietet sie neue Ansätze für die Entwicklung innovativer Technologien und die Lösung drängender globaler Herausforderungen. Ihre Konzepte sind dabei nicht nur auf makroskopische Systeme beschränkt, sondern reichen tief in die mikroskopische und sogar Quantenwelt hinein. Die Weiterentwicklung und Anwendung der Pi-𝜖-Theorie könnte somit ein bedeutender Schritt in Richtung einer neuen Ära der Technologie und Wissenschaft sein.
 
+---
+
 1. **Repository klonen**:  
    ```bash
    git clone https://github.com/DominicRene/Resonanzfeldtheorie.git
    cd Resonanzfeldtheorie
-```
+
 ---
 
 ➡️ [Weiter zu: Kapitel 6](Kapitel_.md)  
