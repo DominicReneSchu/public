@@ -97,6 +97,7 @@ Die Simulation modelliert den Zerfall und die Transmutation von Isotopen über e
 - Verwendet die exponentielle Zerfallsgleichung:  
   
   $$\ N(t) = N_0 \cdot e^{-\lambda \cdot t} \$$  
+  
   wobei $$\ \lambda\$$ die Zerfallskonstante ist.
 
 ---

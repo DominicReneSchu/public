@@ -69,7 +69,7 @@ $$
 | Konventionell | 558,3 Nm              |
 | ResoCalc      | 2543,03 Nm            |
 
-Die konventionelle Methode ist abhängig von der **willkürlich gewählten Auslenkung** $$\theta_{\text{max}}$$, was zu unrealistisch großen Werten führen kann, insbesondere bei Resonanz.
+Die konventionelle Methode ist abhängig von der **willkürlich gewählten Auslenkung** $$\theta_{\text{max}}$$, was zu unrealistisch kleinen Werten führen kann, insbesondere bei Resonanz.
 
 Die ResoCalc-Methode hingegen nutzt das Verhältnis $$f / f_r$$ und die Resonanzverstärkung, um das Drehmoment realistisch und ohne willkürliche Annahmen zu berechnen. Die **Kopplung** sorgt für eine skalierte Energieübertragung und eine viel präzisere Modellierung der realen Mechanik.
 
