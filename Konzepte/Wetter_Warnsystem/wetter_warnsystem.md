@@ -60,7 +60,7 @@ $$\
 
 - [Schu-Gleichung](../../Gleichungen/README.md)  
 - [Wettermodelle](../Wettermodelle/wettermodelle.md)  
-- [Resonanzreaktor](../Resonanzreaktor/resonanzreaktor.md)  
+- [Resonanzreaktor](../Resonanzreaktor/README.md) 
 
 ---
 
