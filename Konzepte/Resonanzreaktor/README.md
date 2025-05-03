@@ -26,7 +26,7 @@ Der **Resonanzreaktor** ist ein neuartiges Energiekonzept, das modernste Technol
 ## 📖 Inhaltsverzeichnis
 
 1. [Was ist der Resonanzreaktor?](#1-was-ist-der-resonanzreaktor)
-2. [Wie funktioniert er?](#2-wie-funktioniert-er)
+2. [Wie funktioniert er?](#2-wie-funktioniert-resonanzenergie)
 3. [Technische Komponenten](#3-technische-komponenten)
 4. [Vergleich mit konventionellen Kraftwerken](#4-vergleich-mit-konventionellen-kraftwerken)
 5. [Vorteile und Herausforderungen](#5-vorteile-und-herausforderungen)
