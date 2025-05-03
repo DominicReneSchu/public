@@ -46,3 +46,8 @@ Das Doppelpendel, als einfaches Beispiel eines chaotischen Systems, hilft uns, d
 Das Doppelpendel zeigt uns, wie einfachste mechanische Systeme durch kleine Veränderungen in den Anfangsbedingungen zu äußerst komplexen und chaotischen Bewegungen führen können. Durch die Erforschung dieser Bewegungen haben wir einen tieferen Einblick in die Prinzipien der Resonanz, der Nichtlinearität und des Chaos gewonnen. Diese Prinzipien sind nicht nur in der Physik von Bedeutung, sondern können auch auf viele moderne Technologien angewendet werden, um neue Systeme zu entwickeln und bestehende zu optimieren.
 
 Die Simulation und das Verständnis des Doppelpendels eröffnen uns somit neue Perspektiven in der Wissenschaft und Technologie. Sie helfen uns, Systeme zu optimieren, die von chaotischen Bewegungen beeinflusst werden, und bieten eine faszinierende Grundlage für die Entwicklung zukünftiger Technologien, die auf Resonanz und Chaos basieren.
+
+
+#### Simulation
+
+➡️ [Simulation des Doppelpendels](Doppelpendel.py)
