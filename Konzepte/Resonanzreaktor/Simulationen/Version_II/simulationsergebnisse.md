@@ -167,4 +167,4 @@ Endgültiges Isotop: Americium-241
 
 Die Simulation bietet eine flexible Möglichkeit, den Zerfall und die Transmutation von Isotopen zu modellieren. Sie kann für verschiedene Anwendungen in der Kernphysik, Reaktordesign und Nuklearwissenschaft genutzt werden.
 
-⬅️ [Zurück zur Startseite](../README.md)
+⬅️ [Zurück zur Startseite](../../../README.md)
