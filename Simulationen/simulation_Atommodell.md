@@ -10,15 +10,12 @@ Die Anwendung demonstriert Elektronenbahnen, Energiezustände und Übergänge an
 - Anpassbare Parameter (z. B. Anzahl der Elektronen, Bahnradius)  
 - Einfache Benutzeroberfläche mit Matplotlib
 
-####🧩 Struktur
+#### 🧩 Struktur
 
-    run.py – Einstiegspunkt der Simulation
-
-    atommodell.py – Logik für Bahnen und Zustände
-
-    visualisierung.py – Darstellung mit Matplotlib
-
-    simulation_Atommodell.md – Projektbeschreibung
+- `run.py` – Einstiegspunkt der Simulation
+- `parameters_and_functions.py` – Logik für Bahnen und Zustände
+- `animation.py` – Darstellung mit Matplotlib
+- `simulation_Atommodell.md` – Projektbeschreibung
 
 ## ▶️ Nutzung
 
@@ -26,6 +23,7 @@ Die Anwendung demonstriert Elektronenbahnen, Energiezustände und Übergänge an
    ```bash
    git clone https://github.com/DominicReneSchu/public.git
    cd public/Simulationen/Simulation_Atommodell
+
    ```
 
 
@@ -35,7 +33,7 @@ pip install matplotlib numpy
 
 Simulation starten:
 
-    python main.py
+    python run.py
 
 ➡️ [Zur Simulation](Simulation_Atommodell/run.py)
 ➡️ [Zurück zum Hauptmenü](README.md)
