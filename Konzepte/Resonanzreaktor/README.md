@@ -52,7 +52,7 @@ Der Resonanzreaktor steht für eine neue Klasse von Energiequellen, die **keine 
 
 ---
 
-## 2. Wie funktioniert Resonanzenergie?
+## Wie funktioniert Resonanzenergie?
 
 Um die Idee hinter dem Resonanzreaktor zu verstehen, hilft ein alltägliches Beispiel: Stell dir vor, du bringst eine Schaukel ins Schwingen. Wenn du im richtigen Moment (in Resonanz) anstößt, brauchst du nur wenig Kraft – und trotzdem wird die Schaukel immer höher.
 
