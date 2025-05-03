@@ -6,9 +6,6 @@ $$
 E = \pi \cdot \varepsilon \cdot h \cdot (f_1 + f_2)
 $$
 
-$$
-E_\mathrm{trans} = \varepsilon \cdot \psi_1 \cdot \psi_2
-$$
 
 ---
 
@@ -42,26 +39,26 @@ $$
 - Auswahl der Kopplungsart:
   - **Linear**:  
   
-    $$
-	E_\mathrm{trans} = \varepsilon \cdot \psi_1 \cdot \psi_2
-	$$
+$$
+E_\mathrm{trans} = \varepsilon \cdot \psi_1 \cdot \psi_2
+$$
 	
   - **Quadratisch**:  
     
-	$$
-    E_\mathrm{trans} = \varepsilon \cdot \psi_1^2 \cdot \psi_2
-    $$
+$$
+E_\mathrm{trans} = \varepsilon \cdot \psi_1^2 \cdot \psi_2
+$$
   - **Trigonometrisch**:  
     
-	$$
-    E_\mathrm{trans} = \varepsilon \cdot \sin(\psi_1) \cdot \sin(\psi_2)
-    $$
+$$
+E_\mathrm{trans} = \varepsilon \cdot \sin(\psi_1) \cdot \sin(\psi_2)
+$$
 
 - Anzeige der **Resonanzbedingung** bei rationalem Frequenzverhältnis  
   
-  $$
-  \frac{f_1}{f_2} = \frac{n}{m}
-  $$
+$$
+\frac{f_1}{f_2} = \frac{n}{m}
+$$
 
 - Optionale Verwendung einer neuen Naturkonstante $$\eta$$ statt $$h$$  
 - Interaktive Visualisierung mit `ipywidgets`
