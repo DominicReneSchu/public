@@ -36,20 +36,20 @@ $$
 
 ## Features
 
-- Auswahl der Kopplungsart:
+Auswahl der Kopplungsart:
 
-  - **Linear**:  
+- **Linear**:  
   
 $$
 E_\mathrm{trans} = \varepsilon \cdot \psi_1 \cdot \psi_2
 $$
 	
-  - **Quadratisch**:  
+- **Quadratisch**:  
     
 $$
 E_\mathrm{trans} = \varepsilon \cdot \psi_1^2 \cdot \psi_2
 $$
-  - **Trigonometrisch**:  
+- **Trigonometrisch**:  
     
 $$
 E_\mathrm{trans} = \varepsilon \cdot \sin(\psi_1) \cdot \sin(\psi_2)
