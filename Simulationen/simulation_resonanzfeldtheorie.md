@@ -79,4 +79,4 @@ pip install numpy matplotlib ipywidgets
 ## Simulation
 
 ➡️ [Simulation](simulation_resonanzfeldtheorie.py)
-➡️ [Zurück zum Hauptprojekt](../README.md)
+➡️ [Zurück zum Hauptprojekt](README.md)
