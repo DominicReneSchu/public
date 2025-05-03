@@ -32,7 +32,6 @@ Der **Resonanzreaktor** ist ein neuartiges Energiekonzept, das modernste Technol
 5. [Vorteile und Herausforderungen](#5-vorteile-und-herausforderungen)
 6. [Entwicklungsphasen](#6-entwicklungsphasen)
 7. [Zukunftsperspektive](#7-zukunftsperspektive)
-8. [Verweise und Quellen](#8-verweise-und-quellen)
 
 ---
 ## 1. Was ist der Resonanzreaktor?
