@@ -6,6 +6,10 @@ $$
 E = \pi \cdot \varepsilon \cdot h \cdot (f_1 + f_2)
 $$
 
+$$
+E_\mathrm{trans} = \varepsilon \cdot \psi_1 \cdot \psi_2
+$$
+
 ---
 
 ## 🧭 Axiome der Resonanzfeldtheorie
