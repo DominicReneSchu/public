@@ -37,6 +37,7 @@ $$
 ## Features
 
 - Auswahl der Kopplungsart:
+
   - **Linear**:  
   
 $$
