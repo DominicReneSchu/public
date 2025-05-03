@@ -40,8 +40,7 @@ Ziel ist es, die Struktur der Realität über fundamentale Größen wie **π**, 
 ---
 
 ## 🌐 GitHub-Veröffentlichung
-- [Online verfügbar auf GitHub](https://github.com/DominicRene/Resonanzfeldtheorie)
-
+- [Online verfügbar auf GitHub](https://github.com/DominicReneSchu/public)
 ---
 
 ## 🧩 Philosophie der Theorie
