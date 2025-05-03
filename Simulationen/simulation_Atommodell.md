@@ -41,4 +41,4 @@ Simulation starten:
 
 
 ➡️ [Zur Simulation](Simulation_Atommodell/run.py)
-➡️ [Zurück zum Hauptprojekt](../README.md)
+➡️ [Zurück zum Hauptmenü](README.md)

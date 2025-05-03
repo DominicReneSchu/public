@@ -15,9 +15,9 @@ Ziel ist es, zentrale Gleichungen, Resonanzphänomene und neue Naturkonstanten d
 - [Simulation eines Doppelpendels](Doppelpendel.md)  
   - Eine interaktive Simulation, die das klassische Doppelpendel als Resonanzsystem darstellt.
   
-- [Simulationen zum Atommodell](Simulation_Atommodell/)  
+- [Simulationen zum Atommodell](simulation_Atommodell.md)  
   - Simulation eines quantenmechanischen Atommodells basierend auf Resonanzphänomenen.
 
 ---
 
-➡️ [Zurück zum Hauptprojekt](../README.md)
+➡️ [Zurück zur Startseite](../README.md)
