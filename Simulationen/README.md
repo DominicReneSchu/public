@@ -9,6 +9,9 @@ Ziel ist es, zentrale Gleichungen, Resonanzphänomene und neue Naturkonstanten d
 
 ### 1. Simulationen
 
+- [Simulation Resonanzfeldtheorie](simulation_resonanzfeldtheorie.md)  
+  - Eine interaktive Simulation, die das klassische Doppelpendel als Resonanzsystem darstellt.
+
 - [Simulation eines Doppelpendels](Doppelpendel.md)  
   - Eine interaktive Simulation, die das klassische Doppelpendel als Resonanzsystem darstellt.
   
