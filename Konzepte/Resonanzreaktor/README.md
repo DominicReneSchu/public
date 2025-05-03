@@ -35,8 +35,7 @@ Der **Resonanzreaktor** ist ein neuartiges Energiekonzept, das modernste Technol
 8. [Verweise und Quellen](#8-verweise-und-quellen)
 
 ---
-
-## Was ist der Resonanzreaktor?
+## 1. Was ist der Resonanzreaktor?
 
 Der **Resonanzreaktor** ist ein visionäres Energiekonzept, das auf einem einfachen, aber revolutionären Prinzip beruht: Energie aus **kontrollierten Schwingungen** – sogenannten **Resonanzen** – direkt nutzbar zu machen.
 
@@ -52,7 +51,7 @@ Der Resonanzreaktor steht für eine neue Klasse von Energiequellen, die **keine 
 
 ---
 
-## Wie funktioniert Resonanzenergie?
+## 2. Wie funktioniert Resonanzenergie?
 
 Um die Idee hinter dem Resonanzreaktor zu verstehen, hilft ein alltägliches Beispiel: Stell dir vor, du bringst eine Schaukel ins Schwingen. Wenn du im richtigen Moment (in Resonanz) anstößt, brauchst du nur wenig Kraft – und trotzdem wird die Schaukel immer höher.
 
