@@ -66,6 +66,14 @@ Für komplexere Wettersimulationen werden Kopplungen zwischen mehreren Schwingun
 
 ---
 
+## 📎 Siehe auch
+
+- [Schu-Gleichung](../../Gleichungen/README.md)  
+- [Wetter-Warnsystem](../Wetter_Warnsystem/wetter_warnsystem.md)  
+- [Resonanzreaktor](../Resonanzreaktor/README.md)
+
+---
+
 © Dominic-René Schu – Resonanzfeldtheorie 2025
 
 1. **Repository klonen**:  

@@ -546,13 +546,6 @@ Mit einem klaren **Forschungsplan**, **Technologieentwicklungen** und einer gut 
 
 ---
 
-## 8. Verweise und Quellen
-
-- [Resonanzfeldtheorie Repository](https://github.com/DominicRene/Resonanzfeldtheorie)
-- [Resonanzreaktor Dokumentation](https://github.com/DominicRene/Resonanzfeldtheorie/blob/main/Resonanzreaktor/Resonanzreaktor.md)
-- Publikationen und Experimente folgen...
-
----
 
 > „Resonanz ist keine Schwankung – sie ist der Schlüssel zur Ordnung der Energie.“  
 > — Dominic-René Schu (Resonanzfeld-Theorie)
