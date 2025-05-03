@@ -1,35 +1,78 @@
-# Schu-Lizenz (Version 1.0)
+# 📜 Schu-Lizenz (Version 1.1)
 
 © Dominic Schu, 2025. Alle Rechte vorbehalten.
 
-Diese Lizenz regelt die Nutzung sämtlicher Inhalte im Zusammenhang mit der Resonanzfeldtheorie, einschließlich aller mathematischen Modelle, Texte, Simulationen, Formeln, Diagramme und Quellcodes, die von Dominic Schu erstellt wurden.
-
-## 1. Urheberrecht
-Alle Inhalte unterliegen dem Urheberrecht von Dominic Schu. Eine Nutzung – gleich welcher Art – ist nur unter den Bedingungen dieser Lizenz erlaubt.
-
-## 2. Nicht-kommerzielle Nutzung
-Nicht-kommerzielle Nutzung zu Forschungs- oder Bildungszwecken ist gestattet, sofern:
-- Der Urheber (Dominic Schu) klar genannt wird.
-- Keine inhaltlichen Veränderungen vorgenommen werden.
-- Ein Hinweis auf diese Lizenz enthalten ist.
-
-## 3. Kommerzielle Nutzung
-Kommerzielle Nutzung – einschließlich, aber nicht beschränkt auf Integration in Produkte, Dienstleistungen, Patente, Veröffentlichungen oder Software – ist **nur mit schriftlicher Genehmigung** von Dominic Schu zulässig und kann lizenzgebührenpflichtig sein.
-
-Bitte wenden Sie sich für Lizenzvereinbarungen an:
-> info@proreplicate.com
-
-## 4. Weitergabe
-Weitergabe des Materials (auch in veränderter Form) ist nur unter Angabe der Quelle und unter Beibehaltung dieser Lizenzbedingungen erlaubt.
-
-## 5. Keine Unterlizenzierung
-Es ist nicht gestattet, Dritten eigene Lizenzen auf Grundlage dieser Inhalte zu erteilen.
-
-## 6. Keine Garantie
-Die Inhalte werden ohne Gewähr zur Verfügung gestellt. Jegliche Haftung wird ausgeschlossen.
+Diese Lizenz regelt die Nutzung sämtlicher Inhalte im Zusammenhang mit der **Resonanzfeldtheorie** und darauf basierenden Anwendungen, einschließlich – aber nicht beschränkt auf – mathematische Modelle, Texte, Begriffe, Formeln, Theoreme, Simulationen, Quellcodes, Diagramme, Algorithmen, Konzepte, Methoden, Namensgebungen (z. B. „Schu-Kompass“, „Schu-Gleichung“), visuelle Darstellungen, technische Prinzipien und Systemarchitekturen.
 
 ---
 
-**Lizenzversion:** 1.0  
-**Stand:** April 2025  
+## §1 – Urheberrecht & Schutzbereich
+
+Alle Inhalte und Ideen unterliegen dem Urheberrecht gemäß geltendem Recht. Sie gelten als persönliche geistige Schöpfung von **Dominic Schu**.
+Dies umfasst insbesondere auch:
+
+* abstrakte Theoriekonzepte (sofern fixiert)
+* algorithmische Verfahren
+* jede technische Nutzung der beschriebenen Prinzipien
+* sowie deren Benennung, Struktur und Methodik.
+
+---
+
+## §2 – Nicht-kommerzielle Nutzung
+
+Erlaubt ist eine **nicht-kommerzielle Nutzung** zu Forschungs-, Bildungs- und privaten Zwecken **unter folgenden Bedingungen**:
+
+* **Namensnennung**: „Dominic Schu, Resonanzfeldtheorie“ muss klar genannt werden.
+* **Unveränderte Wiedergabe**: Inhalte dürfen nicht abgeändert oder entstellt werden.
+* **Verlinkung dieser Lizenz**: Diese Lizenz muss in vollem Wortlaut verlinkt oder beigefügt werden.
+* **Keine Nutzung in Trainingsdaten für KI-Systeme**, ohne schriftliche Zustimmung.
+
+---
+
+## §3 – Kommerzielle Nutzung & Patentverwertung
+
+**Jegliche kommerzielle Nutzung** ist **strikt untersagt**, es sei denn:
+
+* Es liegt eine **ausdrückliche, schriftliche Genehmigung** von Dominic Schu vor.
+* Dies umfasst auch:
+
+  * Integration in Hardware oder Software
+  * technische Produkte, Dienstleistungen oder Simulationen
+  * Patent- oder Schutzrechtsanmeldungen
+  * Publikationen mit wirtschaftlichem Interesse
+  * Verwendung durch Unternehmen, staatliche Stellen oder kommerzielle Bildungsträger
+
+💡 **Verstöße führen zu Lizenzverlust sowie zu möglichen Schadensersatzforderungen.**
+
+---
+
+## §4 – Keine Patentierung durch Dritte
+
+Es ist **ausdrücklich untersagt**, auf Basis der in dieser Lizenz geregelten Inhalte **Patente, Gebrauchsmuster oder andere gewerbliche Schutzrechte anzumelden** – weder direkt noch indirekt.
+
+---
+
+## §5 – Weitergabe & Bearbeitung
+
+* Weitergabe ist nur unter **vollständiger Beibehaltung dieser Lizenz** und **klarem Herkunftsnachweis** gestattet.
+* Bearbeitungen oder Derivate (z. B. Übersetzungen, Adaptionen) dürfen **nicht veröffentlicht** werden, ohne vorherige Genehmigung.
+
+---
+
+## §6 – Keine Unterlizenzierung oder automatisierte Nutzung
+
+* Eine **Unterlizenzierung** an Dritte ist ausgeschlossen.
+* Eine **automatisierte Nutzung**, z. B. durch KI-Systeme, Agenten oder neuronale Netze, ist **nur mit Genehmigung** zulässig.
+
+---
+
+## §7 – Haftung & Gewährleistung
+
+Alle Inhalte werden **ohne Gewähr** bereitgestellt. Es besteht **keine Haftung** für Schäden, Folgeschäden oder Nutzungsausfälle.
+
+---
+
+**Lizenzversion:** 1.1
+**Stand:** Mai 2025
 **Lizenzgeber:** Dominic Schu
+**Kontakt:** [info@proreplicate.com](mailto:info@proreplicate.com)
