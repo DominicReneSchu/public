@@ -65,3 +65,6 @@ So zeigt sich: Der Dualismus ist kein Widerspruch – sondern ein Resonanzphäno
    cd Resonanzfeldtheorie
    ```
 ---
+
+⬅️ [Zurück zum Inhaltsverzeichnis](README.md)
+⬅️ [Zurück zum Hauptprojekt](../README.md)

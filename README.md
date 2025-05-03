@@ -23,17 +23,15 @@ Ziel ist es, die Struktur der Realität über fundamentale Größen wie **π**, 
 - [Simulationen (Python)](Simulationen/README.md)
 
   - **Simulation eines Doppelpendels:** Eine interaktive Simulation, die das klassische Doppelpendel als Resonanzsystem darstellt.
-  - **Simulation zur Energiegewinnung aus Atommüll:** Berechnet und visualisiert den theoretischen Energiegewinnungsprozess aus Atommüll durch Resonanzphänomene.
-  - **Rechentools zur Resonanzfeldtheorie:** Diverse Skripte und Tools zur Berechnung von Resonanzparametern und zur Lösung von Gleichungen der Resonanzfeldtheorie.
   - **Simulationen zum Resonanzfeld:** Modelle zur Simulation und Visualisierung von Resonanzfeldern und ihrer Wechselwirkungen in verschiedenen Systemen.
   - **Simulationen zum Atommodell:** Simulation eines quantenmechanischen Atommodells basierend auf Resonanzphänomenen.
 ---
 
 ### ⚙️ Konzepte
 - [ResoCalc (Konventionelle Drehmomentberechnung vs. ResoCalc (Resonanzfeldtheorie))](Konzepte/ResoCalc/resocalc.md)
+- [Resonanzreaktor (Python)](Konzepte/Resonanzreaktor/README.md)
 - [Energiezelle (Python)](Konzepte/Energiezelle/energiezelle.md)
 - [Kraftfeldgenerator (Python)](Konzepte/Kraftfeldgenerator/kraftfeldgenerator.md)
-- [Resonanzreaktor (Python)](Konzepte/Resonanzreaktor/README.md)
 - [Warpantrieb (Python)](Konzepte/Warpantrieb/warpantrieb.md)
 - [Wetter_Warnsystem (Python)](Konzepte/Wetter_Warnsystem/wetter_warnsystem.md)
 - [Wettermodelle (Python)](Konzepte/Wettermodelle/wettermodelle.md)

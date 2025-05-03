@@ -5,13 +5,6 @@ Ziel ist es, ein konsistentes, interaktives System zu schaffen, das die Theorie 
 
 ---
 
-## ⚙️ Simulationen
-
-- [Simulationen (Python)](Simulationen/)  
-  Interaktive Python-Modelle zur Veranschaulichung der Kernideen der Theorie.
-
----
-
 ## 🧾 Beschreibung der Gleichungen
 
 - [Einsteins Irrtum – die 15,5 %](einsteins_irrtum_15.5_prozent.md)  
@@ -52,5 +45,4 @@ Ziel ist es, ein konsistentes, interaktives System zu schaffen, das die Theorie 
 ---
 
 
-⬅️ [Zurück zum Inhaltsverzeichnis](README.md)
 ⬅️ [Zurück zum Hauptprojekt](../README.md)
