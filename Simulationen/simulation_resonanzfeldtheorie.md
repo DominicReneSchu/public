@@ -37,15 +37,17 @@ $$
 
 - Auswahl der Kopplungsart:
   - **Linear**:  
-    $$\
-	E_\mathrm{trans} = \varepsilon \cdot \psi_1 \cdot \psi_2 
-	\$$
+  
+    $$ 	E_\mathrm{trans} = \varepsilon \cdot \psi_1 \cdot \psi_2  $$
+	
   - **Quadratisch**:  
-    $$
+    
+	$$
     E_\mathrm{trans} = \varepsilon \cdot \psi_1^2 \cdot \psi_2
     $$
   - **Trigonometrisch**:  
-    $$
+    
+	$$
     E_\mathrm{trans} = \varepsilon \cdot \sin(\psi_1) \cdot \sin(\psi_2)
     $$
 
