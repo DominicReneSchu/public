@@ -80,3 +80,5 @@ Die ResoCalc-Methode hingegen nutzt das Verhältnis $$f / f_r$$ und die Resonanz
 ### Fazit:
 **ResoCalc ersetzt den klassischen Rechenweg durch eine physikalisch intuitive, automatische Berechnung auf Knopfdruck.**  
 Grenzwerte bleiben realistisch, das Ergebnis ist reproduzierbar – und für Ingenieure sofort nutzbar.
+
+⬅️ [Zurück zur Startseite](../../../README.md)
