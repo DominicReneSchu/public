@@ -84,4 +84,4 @@ Für komplexere Wettersimulationen werden Kopplungen zwischen mehreren Schwingun
 
 ---
 
-⬅️ [Zurück zum Hauptprojekt](../../README.md)
+⬅️ [Zurück zur Startseite](../../README.md)

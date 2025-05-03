@@ -96,4 +96,4 @@ Die **Energiezelle** bietet das Potenzial, die Art und Weise, wie Energie erzeug
 
 ---
 
-⬅️ [Zurück zum Hauptprojekt](../../README.md)
+⬅️ [Zurück zur Startseite](../../README.md)

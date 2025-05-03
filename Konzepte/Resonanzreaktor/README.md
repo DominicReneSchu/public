@@ -567,4 +567,4 @@ Mit einem klaren **Forschungsplan**, **Technologieentwicklungen** und einer gut 
    ```
 ---
 
-⬅️ [Zurück zum Hauptprojekt](../../README.md)
+⬅️ [Zurück zur Startseite](../../README.md)
