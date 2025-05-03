@@ -54,6 +54,7 @@ $$
     $$
 
 - Anzeige der **Resonanzbedingung** bei rationalem Frequenzverhältnis  
+  
   $$
   \frac{f_1}{f_2} = \frac{n}{m}
   $$
