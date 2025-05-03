@@ -25,7 +25,10 @@ $$
 5. **h ist die Informationsquantelung des Feldes.**  
    Das Plancksche Wirkungsquantum $$h$$ (oder alternativ $$\eta$$) beschreibt die minimale Wirkungseinheit im Resonanzfeld.
 
-6. **Beobachtung erzeugt Resonanz.**  
+6. **e wird zur Resonanzkopplungskonstanten.**  
+   Die klassische Eulersche Zahl $$e$$ wird als eigene Naturkonstante für Resonanzkopplung interpretiert – im System durch $$\varepsilon$$ ersetzt.
+
+7. **Beobachtung erzeugt Resonanz.**  
    Der bewusste Beobachter wirkt als Filter, der selektiv mit Feldern in Resonanz tritt und dadurch Wirklichkeit formt.
 
 ---
