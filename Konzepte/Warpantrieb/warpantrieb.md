@@ -50,8 +50,8 @@ wobei:
 
 ## 📎 Siehe auch
 
-- [Resonanzreaktor](../../Resonanzreaktor/README.md)  
-- [Kraftfeldgenerator](../../Kraftfeldgenerator/kraftfeldgenerator.md)  
+- [Resonanzreaktor](../Resonanzreaktor/README.md)  
+- [Kraftfeldgenerator](../Kraftfeldgenerator/kraftfeldgenerator.md)  
 - [Schu-Gleichung](../../Gleichungen/README.md)
 
 ---
