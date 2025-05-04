@@ -66,6 +66,12 @@ $$
 
 ---
 
+<p align="center">
+  <img src="Bilder/RFT.png" alt="RFT" width="800"/>
+</p>
+
+---
+
 ## Voraussetzungen
 
 - Python ≥ 3.8  
