@@ -12,11 +12,11 @@ Wir laden ein zum Perspektivwechsel – getragen von Resonanz, Verantwortung und
 
 1. [Einleitung](#einleitung)
 1. [Ziel und Anlass des Briefes](#ziel-und-anlass-des-briefes)  
-2. [Der geopolitische Kontext – Inszenierungen und Realität](#2-der-geopolitische-kontext--inszenierungen-und-realität)  
-3. [Enthüllung der Narrative – Manipulation durch Sprache, Bild und Symbolik](#3-enthüllung-der-narrative--manipulation-durch-sprache-bild-und-symbolik)  
-4. [Die Rolle der Medien](#4-die-rolle-der-medien)  
-5. [Frieden als Machtinstrument](#5-frieden-als-machtinstrument)  
-6. [Systemischer Wandel durch Resonanzprinzipien](#5-systematischer-wandel-durch-resonanzprinzipien) 
+2. [Der geopolitische Kontext – Inszenierungen und Realität](#der-geopolitische-kontext--inszenierungen-und-realität)  
+3. [Enthüllung der Narrative – Manipulation durch Sprache, Bild und Symbolik](#1-enthüllung-der-narrative--manipulation-durch-sprache-bild-und-symbolik)  
+4. [Die Rolle der Medien](#2-die-rolle-der-medien)  
+5. [Frieden als Machtinstrument](#3-frieden-als-machtinstrument)  
+6. [Systemischer Wandel durch Resonanzprinzipien](#4-systematischer-wandel-durch-resonanzprinzipien) 
 6. [Aufruf zur kollektiven Verantwortung](#5-aufruf-zur-kollektiven-verantwortung) 
 
 
