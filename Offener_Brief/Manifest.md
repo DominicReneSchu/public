@@ -122,7 +122,7 @@ Friedensverhandlungen gelten öffentlich als Zeichen der Deeskalation und des gu
 
 ### 3.1 Vorbedingungen als taktisches Mittel
 
-Indem eine Seite „Voraussetzungen“ für Gespräche stellt – etwa eine einseitige Waffenruhe –, entsteht ein asymmetrisches Machtverhältnis. Die Erfüllung der Bedingung wird zur indirekten Schuldannahme. Die andere Seite wahrt dabei scheinbar Neutralität, während sie faktisch die Richtung des Gesprächs bestimmt. Der öffentliche Diskurs übernimmt diese Logik nahezu kritiklos.
+Indem eine Seite „Voraussetzungen“ für Gespräche stellt – etwa einer geforderten Waffenruhe als Vorbedingung für Verhandlungen –, entsteht ein asymmetrisches Machtverhältnis. Die Erfüllung der Bedingung wird zur indirekten Schuldannahme. Die andere Seite wahrt dabei scheinbar Neutralität, während sie faktisch die Richtung des Gesprächs bestimmt. Der öffentliche Diskurs übernimmt diese Logik nahezu kritiklos.
 
 ### 3.2 Der moralische Hebel
 
