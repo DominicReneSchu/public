@@ -15,7 +15,7 @@ Wir laden ein zum Perspektivwechsel – getragen von Resonanz, Verantwortung und
 2. [Der geopolitische Kontext – Inszenierungen und Realität](#der-geopolitische-kontext--inszenierungen-und-realität)  
 3. [Enthüllung der Narrative – Manipulation durch Sprache, Bild und Symbolik](#1-enthüllung-der-narrative)  
 4. [Die Rolle der Medien](#2-die-rolle-der-medien)  
-5. [Frieden als Machtinstrument](#3-frieden-als-machtinstrument)  
+5. [Friedesverhandlungen als Machtinstrument](#3-friedensverhandlungen-als-machtinstrument)  
 6. [Systemischer Wandel durch Resonanzprinzipien](#4-systematischer-wandel-durch-resonanzprinzipien) 
 6. [Aufruf zur kollektiven Verantwortung](#5-aufruf-zur-kollektiven-verantwortung) 
 
