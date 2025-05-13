@@ -4,6 +4,10 @@ Dieses Modul verbindet gesellschaftstheoretische Überlegungen mit der Resonanzf
 
 ## Enthaltene Dateien
 
+- [`manifest.md`](manifest.md)  
+  _Offener Brief an die Gesellschaft_  
+  ➤ Systemischer Wandel durch Resonanzprinzipien
+
 - [`gesellschaft_und_resonanz.md`](gesellschaft_und_resonanz.md)  
   _Gesellschaft & Spieltheorie im Licht der Resonanzfeldtheorie_  
   ➤ Grundlegende Gegenüberstellung von klassischer Spieltheorie und Resonanzfelddenken mit Vision für eine neue Gesellschaft
