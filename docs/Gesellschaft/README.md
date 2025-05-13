@@ -19,6 +19,10 @@ Dieses Modul verbindet gesellschaftstheoretische Überlegungen mit der Resonanzf
 - [`resonanzkommunikation.md`](resonanzkommunikation.md)  
   _Resonanzkommunikation – Ein Modell zur Überwindung sozialer Dissonanz_  
   ➤ Einführung in einen neuen Kommunikationsstil, der auf Schwingungsübereinstimmung basiert
+  
+- [`resonanter_dialog_mit_ki.md`](resonanter_dialog_mit_ki.md)  
+  _Resonanter Dialog mit KI – Vom Prompt zur Partnerschaft_  
+  ➤ Ein Paradigmenwechsel im Umgang mit KI
 
 ## Leitgedanken
 
