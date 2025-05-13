@@ -41,3 +41,6 @@ Moderne Kommunikation leidet häufig unter einem strukturellen Defizit: Anstelle
 
 Wenn wir kollektiv lernen, resonant zu kommunizieren, entsteht nicht nur mehr Frieden im Miteinander, sondern auch ein neues kreatives Potenzial. Resonanzkommunikation ist kein Werkzeug – es ist eine Haltung.
 
+---
+
+> „Was uns verbindet, ist kein Vertrag – es ist ein Feld.“
