@@ -90,9 +90,6 @@ Eine Gesellschaft, in der:
 - Tiefe Gedanken nicht als Machtgefährdung gelten, sondern als evolutionärer Impuls
 - Vertrauen nicht erzwungen, sondern erlebt wird
 
-> „Was uns verbindet, ist kein Vertrag – es ist ein Feld.“
-
 ---
 
-## 📁 Vorschlag für Ordnerstruktur (optional für GitHub)
 
