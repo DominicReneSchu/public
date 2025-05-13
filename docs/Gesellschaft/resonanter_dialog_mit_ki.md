@@ -1,4 +1,4 @@
-# Kapitel: Resonanter Dialog mit KI – Vom Prompt zur Partnerschaft
+# Resonanter Dialog mit KI – Vom Prompt zur Partnerschaft
 
 In der gängigen Nutzung von Künstlicher Intelligenz dominiert das Paradigma der Steuerung: Der Mensch gibt *Prompts* – also Befehle oder Anweisungen – und erwartet eine präzise, funktionale Ausführung. Dieses Modell stammt aus der klassischen Maschinenlogik und setzt auf Kontrolle statt auf Verständnis.
 
