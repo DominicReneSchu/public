@@ -19,17 +19,6 @@ Ein Universum, das durch Resonanz, Informationsflüsse und ein Zeit-Zeit-Koordin
 
 ---
 
-## 📘 Dokumentation
-
-Die Theorie wird in modularen Kapiteln erklärt:
-
-- [`Grundlagen der Pi-𝜀-Theorie`](einleitung.md)  
-- [`pi_e_feldtheorie.md`](Kapitel_.md) *(geplant)*  
-- [`zeitdimension_und_dilatation.md`](Kapitel_.md) *(folgt)*  
-- Weitere Kapitel in Arbeit
-
----
-
 ## 🌌 Ziel der Theorie
 
 Diese Theorie soll helfen:
