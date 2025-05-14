@@ -62,4 +62,4 @@ Die Simulation in `Simulationen/Resonanzreaktor.py` berechnet die Nettoleistung 
 	```
 ---
 
-⬅️ [Zurück zur Startseite](../../../README.md)
+⬅️ [Zurück zur Hauptseite](../../../README.md)
