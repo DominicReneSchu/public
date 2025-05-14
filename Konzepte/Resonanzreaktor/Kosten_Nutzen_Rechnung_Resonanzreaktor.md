@@ -82,4 +82,4 @@ Die **Investition in den Resonanzreaktor** ist nicht nur wirtschaftlich sinnvoll
 
 ---
 
-⬅️ [Zurück zur Startseite](README.md)
+⬅️ [Zurück zu Resonanzreaktor](README.md)
