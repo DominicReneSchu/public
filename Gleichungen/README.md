@@ -10,7 +10,7 @@ Ziel ist es, ein konsistentes, interaktives System zu schaffen, das die Theorie 
 - [Einsteins Irrtum – die 15,5 %](einsteins_irrtum_15.5_prozent.md)  
   Analyse des systematischen Fehlers in der klassischen Relativitätstheorie durch fehlende Resonanzberücksichtigung.
 
-- [Manifest zur Neustrukturierung der Mathematik](mainfest_zur_neustrukturierung_der_mathematik.md)  
+- [Manifest zur Neustrukturierung der Mathematik](manifest_zur_neustrukturierung_der_mathematik.md)  
   Grundlagendokument zur Umgestaltung der mathematischen Basis auf Basis von π und ε (Schu-Koppler).
 
 - [Die Schu-Gleichung](schu_gleichung.md)  
