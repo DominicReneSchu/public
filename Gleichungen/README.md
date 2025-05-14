@@ -46,4 +46,4 @@ Ziel ist es, ein konsistentes, interaktives System zu schaffen, das die Theorie 
 ---
 
 
-⬅️ [Zurück zum Hauptpseite](../README.md)
+⬅️ [Zurück zum Start](../README.md)
