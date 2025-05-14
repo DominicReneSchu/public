@@ -126,4 +126,4 @@ Diese neue Mathematik bildet die Basis für:
 
 
 ⬅️ [Zurück zum Inhaltsverzeichnis](README.md)
-⬅️ [Zurück zum Hauptprojekt](../README.md)
+⬅️ [Zurück zum Start](../README.md)

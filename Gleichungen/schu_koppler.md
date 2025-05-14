@@ -45,4 +45,4 @@ Die Einführung des Begriffs **Schu-Koppler** stellt eine präzise Dimension in 
 
 
 ⬅️ [Zurück zum Inhaltsverzeichnis](README.md)
-⬅️ [Zurück zum Hauptprojekt](../README.md)
+⬅️ [Zurück zum Start](../README.md)

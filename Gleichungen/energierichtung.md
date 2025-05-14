@@ -114,4 +114,4 @@ Diese Sichtweise bildet die Grundlage für eine tiefere Interpretation von Kraft
 
 
 ⬅️ [Zurück zum Inhaltsverzeichnis](README.md)
-⬅️ [Zurück zum Hauptprojekt](../README.md)
+⬅️ [Zurück zum Start](../README.md)

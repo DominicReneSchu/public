@@ -96,4 +96,4 @@ Die Antwort: Energie besitzt einen **höherdimensionalen Drehsinn**, der im klas
 
 
 ⬅️ [Zurück zum Inhaltsverzeichnis](README.md)
-⬅️ [Zurück zum Hauptprojekt](../README.md)
+⬅️ [Zurück zum Start](../README.md)

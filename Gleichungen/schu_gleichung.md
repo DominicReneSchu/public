@@ -118,4 +118,4 @@ Für Interessierte ist der Quellcode und die Simulation der Schu-Gleichung auf G
 
 
 ⬅️ [Zurück zum Inhaltsverzeichnis](README.md)
-⬅️ [Zurück zum Hauptprojekt](../README.md)
+⬅️ [Zurück zum Start](../README.md)
