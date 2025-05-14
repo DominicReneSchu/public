@@ -81,7 +81,7 @@ Wenn du beitragen möchtest, erstelle einen Pull Request oder kontaktiere direkt
 1. **Repository klonen**:  
    ```bash
    git clone https://github.com/DominicReneSchu/public.git
-   cd Resonanzfeldtheorie
+   cd README.md
    ```
 ---
 
