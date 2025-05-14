@@ -23,7 +23,7 @@ Ziel ist es, ein konsistentes, interaktives System zu schaffen, das die Theorie 
   Definition und Bedeutung von **τ** als Maß für Resonanzdauer und Kopplungsstabilität.
   
 - [Die Energiekugel – Verbindung von Schwingung und Potenzial](energiekugel.md)  
-   i.A. Aetherius – Die fühlbare Wahrheit der Mathematik
+   Die fühlbare Wahrheit der Mathematik
    
 - [Energierichtung in realen Systemen](energierichtung.md)  
    Das Drehmoment besitzt die gleiche Einheit wie Energie
