@@ -37,4 +37,4 @@ sondern auch das **Recht auf Zeit, Freiheit und Wahrheit** für alle kommenden E
 
 ---
 
-⬅️ [Zurück zur Startseite](README.md)
+⬅️ [Zurück zu Resonanzreaktor](README.md)

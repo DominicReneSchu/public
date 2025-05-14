@@ -57,4 +57,4 @@ Wenn richtig eingesetzt, kann er die größte Wohlstandsumverteilung der Menschh
 
 ---
 
-⬅️ [Zurück zur Startseite](README.md)
+⬅️ [Zurück zu Resonanzreaktor](README.md)
