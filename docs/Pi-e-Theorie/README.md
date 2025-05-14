@@ -63,7 +63,7 @@ Pull Requests, Issues oder Diskussionen sind willkommen.
 
 1. **Repository klonen**:  
    ```bash
-   git clone https://github.com/DominicRene/Resonanzfeldtheorie.git
+   git clone https://github.com/DominicReneSchu/public.git
    cd Resonanzfeldtheorie
 
 ---
