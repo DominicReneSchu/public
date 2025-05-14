@@ -50,12 +50,6 @@ Die Pi-𝜖-Theorie eröffnet nicht nur neue Perspektiven auf fundamentale physi
 
 ---
 
-1. **Repository klonen**:  
-   ```bash
-   git clone https://github.com/DominicRene/Resonanzfeldtheorie.git
-   cd Resonanzfeldtheorie
-
----
 
 ➡️ [Weiter zu: Kapitel 6](Kapitel_6.md)  
 ⬅️ [Zurück zu: Kapitel 4](Kapitel_4.md)

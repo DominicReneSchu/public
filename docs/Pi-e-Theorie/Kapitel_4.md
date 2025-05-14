@@ -51,11 +51,6 @@ Das quantenmechanische Hebelgesetz, erweitert durch die **Pi-𝜀-Theorie**, er�
 
 Das quantenmechanische Hebelgesetz in Verbindung mit der **Pi-𝜀-Theorie** verdeutlicht, dass minimale Impulse in der Quantenwelt über Resonanzphänomene zu maximalen Effekten führen können. Diese Theorie zeigt nicht nur neue physikalische Einsichten, sondern bietet auch konkrete Anwendungsmöglichkeiten in der Technologie und Materialwissenschaft, indem sie die Mechanismen der Kopplung und Resonanz als Hebel in der Quantenwelt nutzbar macht.
 
-1. **Repository klonen**:  
-   ```bash
-   git clone https://github.com/DominicRene/Resonanzfeldtheorie.git
-   cd Resonanzfeldtheorie
-   ```
 ---
 
 ➡️ [Weiter zu: Kapitel 5](Kapitel_5.md)  

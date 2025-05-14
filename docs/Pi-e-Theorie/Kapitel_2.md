@@ -55,13 +55,6 @@ Die **Pi-𝜀-Theorie** nutzt die Kombination von **π (Pi)** und **𝜀 (Epsilo
 
 ---
 
-1. **Repository klonen**:  
-   ```bash
-   git clone https://github.com/DominicRene/Resonanzfeldtheorie.git
-   cd Resonanzfeldtheorie
-
----
-
 ➡️ [Weiter zu: Kapitel 3](Kapitel_3.md)  
 ⬅️ [Zurück zu: Kapitel 1](Kapitel_1.md)
 ⬅️ [Zurück zum Inhaltsverzeichnis](README.md)

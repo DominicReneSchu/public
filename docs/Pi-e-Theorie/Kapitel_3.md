@@ -32,11 +32,6 @@ Darüber hinaus erlauben diese Simulationen die Untersuchung der Auswirkungen vo
 
 Zusammenfassend lässt sich sagen, dass quantenmechanische Simulationen eine unverzichtbare Methode darstellen, um die komplexen Wechselwirkungen innerhalb von Resonanzsystemen präzise zu erfassen. Sie ermöglichen es, theoretische Modelle zu testen, neue Phänomene zu entdecken und die praktische Anwendung der Pi-𝜀-Theorie weiter voranzutreiben.
 
-1. **Repository klonen**:  
-   ```bash
-   git clone https://github.com/DominicRene/Resonanzfeldtheorie.git
-   cd Resonanzfeldtheorie
-
 ---
 
 ➡️ [Weiter zu: Kapitel 4](Kapitel_4.md)  

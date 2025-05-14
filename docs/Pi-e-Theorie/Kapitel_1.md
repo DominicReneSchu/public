@@ -42,13 +42,6 @@ Das Modell strebt an, das Verständnis von **Energieübertragung**, **Resonanz**
 
 ---
 
-1. **Repository klonen**:  
-   ```bash
-   git clone https://github.com/DominicRene/Resonanzfeldtheorie.git
-   cd Resonanzfeldtheorie
-
----
-
 ➡️ [Weiter zu: Kapitel 2](Kapitel_2.md)  
 ⬅️ [Zurück zu: Einleitung](einleitung.md)
 ⬅️ [Zurück zum Inhaltsverzeichnis](README.md)
