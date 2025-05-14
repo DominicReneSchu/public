@@ -61,11 +61,13 @@ Diese Richtungsabhängigkeit erklärt:
 ## Klassische Physik
 
 - **Impuls:**  
+
   $$
   \vec{p} = m \cdot \vec{v}
   $$
 
 - **Energie:**  
+
   $$
   E = \frac{1}{2} m v^2
   $$
