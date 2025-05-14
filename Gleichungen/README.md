@@ -36,10 +36,12 @@ Ziel ist es, ein konsistentes, interaktives System zu schaffen, das die Theorie 
 ---
 
 
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
 1. **Repository klonen**:  
    ```bash
-   git clone https://github.com/DominicReneSchu/public.git
-   cd Resonanzfeldtheorie
+	git clone https://github.com/DominicReneSchu/public.git
+	cd public
    ```
 ---
 

@@ -42,3 +42,11 @@ Ziel ist es, neue physikalische Modelle, Anwendungen und gesellschaftliche Visio
 
 > „Wer die Resonanz versteht, versteht die Welt.“  
 
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+1. **Repository klonen**:  
+   ```bash
+	git clone https://github.com/DominicReneSchu/public.git
+	cd public
+   ```
+---

@@ -45,3 +45,14 @@ Dieses Modul verbindet gesellschaftstheoretische Überlegungen mit der Resonanzf
 - Ergänzung um weitere Module (z. B. Bildungssystem, Medienlogik, Arbeitskultur)  
 - Entwicklung von Testverfahren zur Erkennung gesellschaftlicher Resonanzqualität  
 - Integration in simulationsgestützte Modelle zur kollektiven Systemtransformation
+
+---
+
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+1. **Repository klonen**:  
+   ```bash
+	git clone https://github.com/DominicReneSchu/public.git
+	cd public
+   ```
+---
