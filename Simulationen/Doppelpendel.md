@@ -8,7 +8,7 @@ Das Doppelpendel ist ein System, das, obwohl es nur aus zwei Massen und zwei St�
 
 #### Die Struktur des Doppelpendels
 
-Ein Doppelpendel besteht aus zwei Pendeln, die durch ein starres, masseloses Gelenk miteinander verbunden sind. Das erste Pendel hängt an einem festen Punkt und hat eine Masse \( m_1 \), während das zweite Pendel an einem Ende des ersten Pendels befestigt ist und eine Masse \( m_2 \) hat. Beide Pendel können sich um ihre eigenen Achsen bewegen, was zu einer äußerst komplexen und nichtlinearen Bewegungsdynamik führt.
+Ein Doppelpendel besteht aus zwei Pendeln, die durch ein starres, masseloses Gelenk miteinander verbunden sind. Das erste Pendel hängt an einem festen Punkt und hat eine Masse $$m_1$$, während das zweite Pendel an einem Ende des ersten Pendels befestigt ist und eine Masse $$m_2$$ hat. Beide Pendel können sich um ihre eigenen Achsen bewegen, was zu einer äußerst komplexen und nichtlinearen Bewegungsdynamik führt.
 
 Die Bewegung des Doppelpendels wird von zwei Hauptkräften beeinflusst: der Schwerkraft, die das Pendel nach unten zieht, und den Zentrifugalkräften, die durch die Rotation des Pendels entstehen. Die Kombination dieser Kräfte führt zu einer Vielzahl möglicher Bewegungen, die vom stabilen Schwingen bis hin zu chaotischen, unvorhersehbaren Bewegungen reichen.
 
