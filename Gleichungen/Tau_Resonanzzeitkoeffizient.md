@@ -1,8 +1,5 @@
 # Der Resonanzzeitkoeffizient τ* = π / ε
 
-Dominic-René Schu  
-April 20, 2025
-
 ---
 
 ## Höherdimensionale Zeit und das Ende des linearen Energiebegriffs

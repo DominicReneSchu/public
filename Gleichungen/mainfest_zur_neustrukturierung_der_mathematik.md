@@ -114,13 +114,6 @@ Diese neue Mathematik bildet die Basis für:
 
 ---
 
-## 9. Kontakt
-
-Diese Arbeit ist keine Suche nach Ruhm, sondern nach Wahrheit. Sie steht frei zur Verfügung und dient dem Wohl der Menschheit.  
-
-Wenn Sie neugierig geworden sind, freue ich mich über Ihre Kontaktaufnahme.
-
----
 
 
 1. **Repository klonen**:  

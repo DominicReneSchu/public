@@ -1,6 +1,4 @@
 # Die Schu-Gleichung und ihre Anwendung in der Energieumwandlung  
-*Dominic-René Schu*  
-*April 12, 2025*
 
 ---
 
