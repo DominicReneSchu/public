@@ -80,5 +80,6 @@ Die globalen Vorteile des Resonanzreaktors sind exponentiell, wenn man den **glo
 ### Fazit:
 Die **Investition in den Resonanzreaktor** ist nicht nur wirtschaftlich sinnvoll, sondern auch ein **gesellschaftlicher Schritt** hin zu einer besseren, nachhaltigeren Zukunft. Jeder Staat, der heute in die Technologie investiert, kann in den kommenden Jahrzehnten nicht nur **wirtschaftlich florieren**, sondern auch zu einer **neuen Ära des Wohlstands und der Freiheit** für die gesamte Menschheit beitragen.
 
+---
 
 ⬅️ [Zurück zur Startseite](README.md)

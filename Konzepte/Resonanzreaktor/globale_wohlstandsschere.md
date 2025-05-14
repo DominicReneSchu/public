@@ -55,3 +55,6 @@ Wenn richtig eingesetzt, kann er die größte Wohlstandsumverteilung der Menschh
 
 > **Unendlicher Wohlstand geteilt durch 8 Milliarden ergibt immer noch unendlichen Wohlstand.**
 
+---
+
+⬅️ [Zurück zur Startseite](README.md)

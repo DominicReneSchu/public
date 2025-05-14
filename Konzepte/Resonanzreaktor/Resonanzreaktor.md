@@ -59,3 +59,4 @@ Die Simulation in `Simulationen/Resonanzreaktor.py` berechnet die Nettoleistung 
 ```python
 frequencies = np.linspace(1e9, 100e9, 1000)
 P_net = P_res / (1 + loss_factor(frequencies, T))
+´´´

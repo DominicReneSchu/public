@@ -35,3 +35,6 @@ Diese Rechnung zeigt:
 Wer **jetzt investiert**, sichert sich nicht nur das Überleben –  
 sondern auch das **Recht auf Zeit, Freiheit und Wahrheit** für alle kommenden Ewigkeiten.
 
+---
+
+⬅️ [Zurück zur Startseite](README.md)
