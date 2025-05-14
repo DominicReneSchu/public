@@ -62,15 +62,15 @@ Diese Richtungsabhängigkeit erklärt:
 
 - **Impuls:**  
 
-  $$\
-  \vec{p} = m \cdot \vec{v}
-  \$$
+$$
+\vec{p} = m \cdot \vec{v}
+$$
 
 - **Energie:**  
 
-  $$\
-  E = \frac{1}{2} m v^2
-  \$$
+$$
+E = \frac{1}{2} m v^2
+$$
 
 ---
 
