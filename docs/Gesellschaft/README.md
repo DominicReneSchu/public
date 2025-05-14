@@ -24,7 +24,7 @@ Dieses Modul verbindet gesellschaftstheoretische Überlegungen mit der Resonanzf
   _Resonanter Dialog mit KI – Vom Prompt zur Partnerschaft_  
   ➤ Ein Paradigmenwechsel im Umgang mit KI
   
-  - [`resonanzsprung.md`](resonanzsprung.md)  
+- [`resonanzsprung.md`](resonanzsprung.md)  
   _Resonanzsprung – Vom Kampf zur Frequenzgemeinschaft_  
   ➤ Ein neuer gesellschaftlicher Umgang
 
