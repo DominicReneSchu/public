@@ -55,6 +55,7 @@ Die **Pi-𝜀-Theorie** nutzt die Kombination von **π (Pi)** und **𝜀 (Epsilo
 
 ---
 
+
 ➡️ [Weiter zu: Kapitel 3](Kapitel_3.md)  
-⬅️ [Zurück zu: Kapitel 1](Kapitel_1.md)
+⬅️ [Zurück zu: Einleitung](Kapitel_1.md)  
 ⬅️ [Zurück zum Inhaltsverzeichnis](README.md)

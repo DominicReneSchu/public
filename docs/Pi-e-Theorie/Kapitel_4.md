@@ -53,6 +53,7 @@ Das quantenmechanische Hebelgesetz in Verbindung mit der **Pi-𝜀-Theorie** ver
 
 ---
 
+
 ➡️ [Weiter zu: Kapitel 5](Kapitel_5.md)  
-⬅️ [Zurück zu: Kapitel 3](Kapitel_3.md)
+⬅️ [Zurück zu: Kapitel 3](Kapitel_3.md)  
 ⬅️ [Zurück zum Inhaltsverzeichnis](README.md)

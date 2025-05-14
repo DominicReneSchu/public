@@ -52,5 +52,5 @@ Die Pi-𝜖-Theorie eröffnet nicht nur neue Perspektiven auf fundamentale physi
 
 
 ➡️ [Weiter zu: Kapitel 6](Kapitel_6.md)  
-⬅️ [Zurück zu: Kapitel 4](Kapitel_4.md)
+⬅️ [Zurück zu: Kapitel 4](Kapitel_4.md)  
 ⬅️ [Zurück zum Inhaltsverzeichnis](README.md)
