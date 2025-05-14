@@ -75,4 +75,4 @@ Für komplexere Wettersimulationen werden Kopplungen zwischen mehreren Schwingun
 ---
 
 
-⬅️ [Zurück zu Resonanzreaktor](../../README.md)
+⬅️ [Zurück zum Start](../../README.md)
