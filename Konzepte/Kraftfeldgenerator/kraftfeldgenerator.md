@@ -61,4 +61,4 @@ plt.show()
 ---
 
 
-⬅️ [Zurück zur Startseite](../../README.md)
+⬅️ [Zurück zu Resonanzreaktor](../Resonanzreaktor/README.md)
