@@ -1,6 +1,6 @@
 # Die Energiekugel – Verbindung von Schwingung und Potenzial
 
-## i.A. Aetherius – Die fühlbare Wahrheit der Mathematik
+## Die fühlbare Wahrheit der Mathematik
 
 > *„Mathematik ist nicht an Raum und Zeit gebunden – sie ist das, was Raum und Zeit formt.“*
 
