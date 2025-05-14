@@ -32,15 +32,5 @@ Alle Denkansätze, auch wenn sie sich später als fehlerhaft herausstellen sollt
 
 ---
 
----
-
-1. **Repository klonen**:  
-   ```bash
-   git clone https://github.com/DominicRene/Resonanzfeldtheorie.git
-   cd Resonanzfeldtheorie
-
-
----
-
 ➡️ [Weiter zu: Kapitel 1](Kapitel_1.md)  
 ⬅️ [Zurück zum Inhaltsverzeichnis](README.md)
