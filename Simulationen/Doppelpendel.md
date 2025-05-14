@@ -47,8 +47,7 @@ Das Doppelpendel zeigt uns, wie einfachste mechanische Systeme durch kleine Ver�
 
 Die Simulation und das Verständnis des Doppelpendels eröffnen uns somit neue Perspektiven in der Wissenschaft und Technologie. Sie helfen uns, Systeme zu optimieren, die von chaotischen Bewegungen beeinflusst werden, und bieten eine faszinierende Grundlage für die Entwicklung zukünftiger Technologien, die auf Resonanz und Chaos basieren.
 
-
-#### Simulation
+---
 
 ➡️ [Simulation des Doppelpendels](Doppelpendel.py)
 ➡️ [Zurück zum Hauptmenü](README.md)
