@@ -7,7 +7,7 @@ Diese Vision erweitert das Kapitel [Die Schu-Gleichung](https://github.com/Domin
 ---
 
 <p align="center">
-  <img src="vision3000.png" alt="vision3000" width="400"/>
+  <img src="../../Bilder/vision3000.png" alt="vision3000" width="400"/>
 </p>
 
 ---
