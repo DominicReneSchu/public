@@ -105,7 +105,7 @@ Stellen Sie sich ein traditionelles Wasserrad mit kleinem Gefälle vor – das i
 
 ## 🔗 Quellcode & Simulation
 
-Für Interessierte ist der Quellcode und die Simulation der Schu-Gleichung auf GitHub verfügbar:
+Für Interessierte ist der Quellcode und die Simulation der Schu-Gleichung auf GitHub verfügbar.
 
 ---
 
