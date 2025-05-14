@@ -67,7 +67,7 @@ Der Verlustterm verschwindet bei hohen Frequenzen, wodurch die Energieübertragu
 
 ## 1.5 Leistung durch Integration
 
-Die Leistung **$\mathbf{P(f_1, f_2)}$** ergibt sich über das Intervall \([f_1, f_2]\):
+Die Leistung **$\mathbf{P(f_1, f_2)}$** ergibt sich über das Intervall **$\mathbf{(f_1, f_2)}$**:
 
 ```math
 \mathbf{P(f_1, f_2)} = \int_{f_1}^{f_2} \left( \boldsymbol{\pi} \cdot \boldsymbol{\varepsilon} \cdot \mathbf{h} \cdot \mathbf{f} - e^{- \boldsymbol{\pi} \cdot \mathbf{f}} \right) \, d\mathbf{f}
