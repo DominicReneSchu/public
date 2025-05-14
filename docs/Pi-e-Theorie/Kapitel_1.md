@@ -42,6 +42,7 @@ Das Modell strebt an, das Verständnis von **Energieübertragung**, **Resonanz**
 
 ---
 
+
 ➡️ [Weiter zu: Kapitel 2](Kapitel_2.md)  
-⬅️ [Zurück zu: Einleitung](einleitung.md)
+⬅️ [Zurück zu: Einleitung](einleitung.md)  
 ⬅️ [Zurück zum Inhaltsverzeichnis](README.md)
