@@ -57,8 +57,6 @@ So zeigt sich: Der Dualismus ist kein Widerspruch – sondern ein Resonanzphäno
 
 ---
 
-© Dominic-René Schu – Resonanzfeldtheorie 2025
-
 1. **Repository klonen**:  
    ```bash
    git clone https://github.com/DominicReneSchu/public.git

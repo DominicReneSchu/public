@@ -111,8 +111,6 @@ Für Interessierte ist der Quellcode und die Simulation der Schu-Gleichung auf G
 
 ---
 
-© Dominic-René Schu – Resonanzfeldtheorie 2025
-
 1. **Repository klonen**:  
    ```bash
    git clone https://github.com/DominicReneSchu/public.git

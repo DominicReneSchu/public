@@ -35,7 +35,6 @@ Ziel ist es, ein konsistentes, interaktives System zu schaffen, das die Theorie 
 
 ---
 
-© Dominic-René Schu – Resonanzfeldtheorie 2025
 
 1. **Repository klonen**:  
    ```bash

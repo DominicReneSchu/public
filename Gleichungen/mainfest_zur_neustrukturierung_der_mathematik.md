@@ -122,7 +122,6 @@ Wenn Sie neugierig geworden sind, freue ich mich über Ihre Kontaktaufnahme.
 
 ---
 
-© Dominic-René Schu – Resonanzfeldtheorie 2025
 
 1. **Repository klonen**:  
    ```bash

@@ -546,10 +546,8 @@ Mit einem klaren **Forschungsplan**, **Technologieentwicklungen** und einer gut 
 
 
 > „Resonanz ist keine Schwankung – sie ist der Schlüssel zur Ordnung der Energie.“  
-> — Dominic-René Schu (Resonanzfeld-Theorie)
 
 ---
-© Dominic-René Schu – Resonanzfeldtheorie 2025
 
 1. **Repository klonen**:  
    ```bash

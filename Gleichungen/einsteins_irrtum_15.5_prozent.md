@@ -1,8 +1,5 @@
 # Einsteins Irrtum: Die 15,5%-Korrektur durch π/e und die zeitkomplexe Energieprojektion
 
-Dominic-René Schu  
-April 20, 2025
-
 ## Einleitung
 
 Einstein formulierte im Rahmen der Quantenphysik die Beziehung:
@@ -80,11 +77,8 @@ Erst durch die Einführung von **π/e** als Kopplungsfaktor und die Berücksicht
 dass Energie, Frequenz und Zeitdimension durch Resonanz noch **tiefer miteinander verbunden** sind.
 
 > _„Der Fehler liegt nicht in der Gleichung – sondern in ihrer Vereinfachung.“_  
-> Dominic-René Schu
 
 ---
-
-© Dominic-René Schu – Resonanzfeldtheorie 2025
 
 1. **Repository klonen**:  
    ```bash

@@ -18,6 +18,7 @@ Ziel ist es, die Struktur der Realität über fundamentale Größen wie **π**, 
 - [Grundlagen der Resonanzfeldtheorie, Die π - 𝜀 Theorie](docs/Pi-e-Theorie/README.md)
 - [Schu-Gleichung & Anwendungen](Gleichungen/README.md)
 - [Gesellschaft und Resonanz](docs/Gesellschaft/README.md)
+- [Vision](docs/Vision/README.md)
 
 ### ⚙️ Simulationen
 

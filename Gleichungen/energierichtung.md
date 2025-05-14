@@ -87,13 +87,6 @@ Diese Sichtweise bildet die Grundlage für eine tiefere Interpretation von Kraft
 
 ---
 
-**Kapitelstatus**: In Entwicklung  
-**Letzte Bearbeitung**: 2025-04-20  
-**Zugehörige Theorie**: Resonanzfeldtheorie nach Dominic Schu
-
----
-
-© Dominic-René Schu – Resonanzfeldtheorie 2025
 
 1. **Repository klonen**:  
    ```bash

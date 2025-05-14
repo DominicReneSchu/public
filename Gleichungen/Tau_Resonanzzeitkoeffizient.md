@@ -109,11 +109,7 @@ Dies entspricht einer Relaxationsgleichung, die beschreibt, wie sich der Zeit-Ko
 Die Einführung von $$\ \tau^* = \pi / \varepsilon \$$ als **zeitkomplexer Resonanzkoeffizient** verbindet geometrisch die klassische Energieformel mit einer höherdimensionalen Zeitstruktur. Damit wird Energie **nicht nur übertragen**, sondern **transformiert** – abhängig vom **Winkel α**, der die realen und imaginären Zeitachsen koppelt.
 
 > _"Die wahre Energieform liegt nicht im Skalar, sondern im Winkel."_  
-> Dominic-René Schu
 
----
-
-© Dominic-René Schu – Resonanzfeldtheorie 2025
 
 1. **Repository klonen**:  
    ```bash
