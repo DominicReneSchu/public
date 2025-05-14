@@ -54,7 +54,8 @@ Pull Requests, Issues oder Diskussionen sind willkommen.
 3. [Kapitel 2: Das Fundament der Resonanztheorie](Kapitel_2.md)  
 4. [Kapitel 3: Quantenmechanische Modelle in der Resonanzfeldtheorie](Kapitel_3.md)  
 5. [Kapitel 4: Das quantenmechanische Hebelgesetz](Kapitel_4.md)  
-6. [Kapitel 5: Anwendungen der Resonanzfeldtheorie](Kapitel_5.md)  
+6. [Kapitel 5: Anwendungen der Pi-𝜖-Theorie](Kapitel_5.md)  
+7. [Kapitel 6: Resonanz und ihre Anwendungen](Kapitel_5.md) 
 
 ---
 
