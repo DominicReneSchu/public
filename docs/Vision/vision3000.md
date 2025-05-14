@@ -16,9 +16,10 @@ Diese Vision erweitert das Kapitel [Die Schu-Gleichung](https://github.com/Domin
 
 Die neue Energiegleichung basiert auf fundamentalen Resonanzgrößen:
 
-```math
-E = oldsymbol{σ} \cdot oldsymbol{π} \cdot oldsymbol{e} \cdot oldsymbol{h} \cdot \mathbf{f}
-```
+$$
+E = \boldsymbol{\sigma} \cdot \boldsymbol{\pi} \cdot \boldsymbol{e} \cdot \boldsymbol{h} \cdot \mathbf{f}
+$$
+
 
 - **σ** – Resonanzkopplung  
 - **π** – Kreisstruktur des Raums  
@@ -75,9 +76,10 @@ U = R \cdot I
 
 Die erweiterte Gleichung
 
-```math
-E = oldsymbol{σ} \cdot oldsymbol{π} \cdot oldsymbol{e} \cdot oldsymbol{h} \cdot \mathbf{f}
-```
+$$
+E = \boldsymbol{\sigma} \cdot \boldsymbol{\pi} \cdot \boldsymbol{e} \cdot \boldsymbol{h} \cdot \mathbf{f}
+$$
+
 
 stellt Energie als **gerichtete Kopplung von Feldern** dar – ein dynamischer Zustand, der nur bei Resonanz entsteht.
 
