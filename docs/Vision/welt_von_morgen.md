@@ -1,7 +1,7 @@
 # Die Welt von Morgen – Eine Zukunft mit Resonanzfeldtechnologie
 
 <p align="center">
-  <img src="welt_von_morgen.png" alt="Die Welt von morgen" width="400"/>
+  <img src="../../welt_von_morgen.png" alt="Die Welt von morgen" width="400"/>
 </p>
 
 ## Freiheit vom Straßenverkehr – Mobilität ohne physische Grenzen
