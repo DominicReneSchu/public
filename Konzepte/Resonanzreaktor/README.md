@@ -547,4 +547,4 @@ Mit einem klaren **Forschungsplan**, **Technologieentwicklungen** und einer gut 
 
 > „Resonanz ist keine Schwankung – sie ist der Schlüssel zur Ordnung der Energie.“  
 
-⬅️ [Zurück zur Startseite](../../README.md)
+⬅️ [Zurück zum Start](../../README.md)
