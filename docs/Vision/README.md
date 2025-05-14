@@ -29,7 +29,7 @@ Diese Vision geht über Technik hinaus – sie beschreibt ein **neues Gesellscha
 - Materie wird neu gedacht – durch **Feldintelligenz**
 - Eine Welt, in der Technik sich **anpasst statt dominiert**
 
-👉 [Zur Vision „Die neue Resonanz-Welt“](neue_resonanz_welt.md)
+👉 [Zur Vision „Vision 3000 – Die Resonanzphysik der Zukunft“](vision3000.md)
 
 ---
 
