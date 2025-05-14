@@ -60,4 +60,4 @@ Pull Requests, Issues oder Diskussionen sind willkommen.
 ---
 
 ➡️ [Weiter zu: Einleitung](einleitung.md)  
-⬅️ [Zurück zur Hauptseite](../../README.md)
+⬅️ [Zurück zur Start](../../README.md)
