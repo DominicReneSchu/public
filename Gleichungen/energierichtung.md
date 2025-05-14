@@ -58,21 +58,36 @@ Diese Richtungsabhängigkeit erklärt:
 
 ## 4. Impuls und Energie als vektorielles Paar
 
-In der klassischen Physik:
+## Klassische Physik
 
-- Impuls: $$\ \vec{p} = m \cdot \vec{v} \$$
-- Energie: $$\ E = \frac{1}{2} m v^2 \$$
+- **Impuls:**  
+  $$
+  \vec{p} = m \cdot \vec{v}
+  $$
 
-Die Resonanzfeldtheorie erweitert:
+- **Energie:**  
+  $$
+  E = \frac{1}{2} m v^2
+  $$
 
-\$$
+---
+
+## Erweiterung durch die Resonanzfeldtheorie
+
+Die Resonanzfeldtheorie beschreibt Energie nicht nur als skalare Größe, sondern als gerichteten Energiepfeil mit innerer Struktur:
+
+$$
 \vec{E} = \lVert \vec{E} \rVert \cdot \hat{e}_\text{Resonanz} \quad \text{mit} \quad \vec{E} \parallel \vec{p}
-\$$
+$$
 
-- Energie folgt nicht nur dem Bewegungsimpuls, sondern trägt zusätzlich eine innere Drehstruktur
-- Besonders bei Photonen wird diese Verbindung sichtbar:
-  - Impulsrichtung
-  - Polarisationsrichtung (→ Drehsinn)
+### Kernaussagen:
+
+- Energie ist **nicht rein skalar**, sondern besitzt eine **gerichtete Struktur**.
+- Diese Struktur ist **resonanzabhängig** – die Richtung $\hat{e}_\text{Resonanz}$ ergibt sich aus der Kopplung an das umgebende Resonanzfeld.
+- Besonders bei **Photonen** zeigt sich:
+  - **Impulsrichtung** (klassisch)
+  - **Polarisationsrichtung** → beschreibt **Drehsinn / innere Struktur**
+
 
 ---
 
