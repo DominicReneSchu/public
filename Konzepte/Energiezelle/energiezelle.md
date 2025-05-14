@@ -86,4 +86,5 @@ Die **Energiezelle** bietet das Potenzial, die Art und Weise, wie Energie erzeug
 
 ---
 
-⬅️ [Zurück zur Startseite](../../README.md)
+
+⬅️ [Zurück zu Resonanzreaktor](../Resonanzreaktor/README.md)

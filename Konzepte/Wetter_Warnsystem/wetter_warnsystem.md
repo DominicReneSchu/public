@@ -64,12 +64,5 @@ $$\
 
 ---
 
-1. **Repository klonen**:  
-   ```bash
-   git clone https://github.com/DominicReneSchu/public.git
-   cd Resonanzfeldtheorie
-   ```
 
----
-
-⬅️ [Zurück zur Startseite](../../README.md)
+⬅️ [Zurück zu Resonanzreaktor](../Resonanzreaktor/README.md)

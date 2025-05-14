@@ -83,4 +83,5 @@ Grenzwerte bleiben realistisch, das Ergebnis ist reproduzierbar – und für Ing
 
 ---
 
-⬅️ [Zurück zur Startseite](../../README.md)
+
+⬅️ [Zurück zu Resonanzreaktor](../Resonanzreaktor/README.md)
