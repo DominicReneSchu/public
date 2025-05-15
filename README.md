@@ -7,7 +7,7 @@ Ziel ist es, die Struktur der Realität über fundamentale Größen wie **π**, 
 ---
 
 <p align="center">
-  <img src="Bilder/Visualisierung_RFT.png" alt="Visualisierung_RFT" width="600"/>
+  <img src="Bilder/Visualisierung_RFT.png" alt="Visualisierung_RFT" width="800"/>
 </p>
 
 ---
