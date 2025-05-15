@@ -67,10 +67,6 @@ Die Resonanzfeldtheorie will bestehende physikalische, biologische und gesellsch
 
 ---
 
-## 🌐 GitHub-Veröffentlichung
-- [Online verfügbar auf GitHub](https://github.com/DominicReneSchu/public)
----
-
 ## 🧩 Philosophie der Theorie
 
 Die Resonanzfeldtheorie basiert auf der Annahme, dass jedes System durch seine Fähigkeit zur Kopplung mit Schwingungsfeldern definiert ist. Dabei steht **Resonanz** im Zentrum aller Wechselwirkungen – von Teilchen bis zur Gesellschaft.
