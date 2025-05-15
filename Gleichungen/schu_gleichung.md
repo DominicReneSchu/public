@@ -14,28 +14,8 @@ Die Schu-Gleichung beschreibt die fundamentale Beziehung zwischen Resonanzfreque
 
 ---
 
-## 1.1 Die Bedeutung von **$\boldsymbol{\sigma}$** in der Schu-Gleichung
 
-In der Schu-Gleichung ist **$\boldsymbol{\sigma}$** ein entscheidendes Maß für die Entropieänderung, die mit der Resonanzenergieübertragung verbunden ist. Anders als in klassischen thermodynamischen Systemen beschreibt **$\boldsymbol{\sigma}$** hier die Fähigkeit eines Systems, Resonanzenergie zu extrahieren und als nutzbare Energie freizusetzen. **$\boldsymbol{\sigma}$** fungiert außerdem als Zeitdilatationsfaktor, der den Einfluss der relativen Zeitwahrnehmung des Systems und des Beobachters auf die Energieumwandlung beschreibt. Es stellt die Kopplung zwischen Entropieverlust, Frequenzübertragung und der Zeitdilatation dar.
-
-Die klassische Form lautet:
-
-```math
-\mathbf{E} = \boldsymbol{\pi} \cdot \boldsymbol{\sigma} \cdot \mathbf{h} \cdot \mathbf{f}
-
-
-```
-
-- **$\boldsymbol{\sigma}$**: Maß für die Entropieänderung bei Resonanzkopplung  
-- **$\boldsymbol{\pi}$**: Kreisresonanz-Faktor (Schu-Kompass)  
-- **$\mathbf{h}$**: Plancksches Wirkungsquantum  
-- **$\mathbf{f}$**: Frequenz der Eigenresonanz des Systems  
-
-Je höher **$\boldsymbol{\sigma}$**, desto effizienter erfolgt die Umwandlung von Resonanzenergie in nutzbare Leistung.
-
----
-
-## 1.2 Erweiterte Form: Phasenmodulierte Schu-Gleichung
+## 1.1 Erweiterte Form: Phasenmodulierte Schu-Gleichung
 
 Die vollständigste Form der Schu-Gleichung integriert den Phasenwinkel **$\boldsymbol{\alpha}$** zwischen Beobachterzeit und Feldzeit als komplexe Rotation:
 
@@ -53,13 +33,13 @@ Diese Darstellung erlaubt eine energetische Bewertung der Zeitverschränkung. Je
 
 ---
 
-## 1.3 Frequenzabhängigkeit der Resonanzenergie
+## 1.2 Frequenzabhängigkeit der Resonanzenergie
 
 Für kleine Frequenzen **$\mathbf{f} \to 0$** ist der Energiebeitrag vernachlässigbar. Mit wachsender Frequenz steigt die Resonanzenergie linear – vorausgesetzt, das System befindet sich in Resonanz. Der Übergangspunkt liegt dort, wo **$\mathbf{f}$** in einem harmonischen Verhältnis zur Eigenfrequenz des Systems steht.
 
 ---
 
-## 1.4 Differenz als nutzbare Spannung
+## 1.3 Differenz als nutzbare Spannung
 
 Die nutzbare Energie ergibt sich als Differenz zwischen Resonanzspannung und Verlustterm:
 
@@ -71,7 +51,7 @@ Der Verlustterm verschwindet bei hohen Frequenzen, wodurch die Energieübertragu
 
 ---
 
-## 1.5 Leistung durch Integration
+## 1.4 Leistung durch Integration
 
 Die Leistung **$\mathbf{P(f_1, f_2)}$** ergibt sich über das Intervall **$\mathbf{(f_1, f_2)}$**:
 
@@ -87,7 +67,7 @@ Das ergibt:
 
 ---
 
-## 1.6 Vergleich zu heutigen Energiesystemen
+## 1.5 Vergleich zu heutigen Energiesystemen
 
 Konventionelle Maschinen basieren auf mechanischer oder thermischer Differenz (Höhe, Druck, Temperatur). Die Schu-Gleichung nutzt hingegen ein energetisches Gefälle, das:
 
@@ -97,7 +77,7 @@ Konventionelle Maschinen basieren auf mechanischer oder thermischer Differenz (H
 
 ---
 
-## 1.7 Veranschaulichung für Laien
+## 1.6 Veranschaulichung für Laien
 
 Stellen Sie sich ein traditionelles Wasserrad mit kleinem Gefälle vor – das ist unsere heutige Energietechnik. Die Schu-Gleichung hingegen nutzt ein "Wasserfall-Gefälle" in einem höheren Raum, gespeist durch die Struktur der Zeit und der Resonanz selbst.
 
