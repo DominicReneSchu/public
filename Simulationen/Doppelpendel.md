@@ -50,5 +50,5 @@ Die Simulation und das Verständnis des Doppelpendels eröffnen uns somit neue P
 ---
 
 ➡️ [Zur Simulation](Doppelpendel.py)
-➡️ [Zurück zum Inhaltsverzeichnis](../README.md)
+➡️ [Zurück zum Inhaltsverzeichnis](README.md)
 ➡️ [Zurück zum Start](../README.md)
