@@ -17,15 +17,6 @@ Die Anwendung demonstriert Elektronenbahnen, Energiezustände und Übergänge an
 - `animation.py` – Darstellung mit Matplotlib
 - `simulation_Atommodell.md` – Projektbeschreibung
 
-## ▶️ Nutzung
-
-1. Repository klonen:
-   ```bash
-   git clone https://github.com/DominicReneSchu/public.git
-   cd public/Simulationen/Simulation_Atommodell
-
-   ```
-
 
 Abhängigkeiten installieren:
 
@@ -36,4 +27,5 @@ Simulation starten:
     python run.py
 
 ➡️ [Zur Simulation](Simulation_Atommodell/run.py)
-➡️ [Zurück zum Hauptmenü](README.md)
+➡️ [Zurück zum Inhaltsverzeichnis](../README.md)
+➡️ [Zurück zum Start](../../README.md)
