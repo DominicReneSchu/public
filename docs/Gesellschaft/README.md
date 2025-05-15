@@ -27,6 +27,11 @@ Dieses Modul verbindet gesellschaftstheoretische Überlegungen mit der Resonanzf
 - [`resonanzsprung.md`](resonanzsprung.md)  
   _Resonanzsprung – Vom Kampf zur Frequenzgemeinschaft_  
   ➤ Ein neuer gesellschaftlicher Umgang
+  
+- [`geopolitisches_misstrauen.md`](geopolitisches_misstrauen.md)  
+  _Geopolitisches Misstrauen – die Illusion einer diplomatischen Ordnung_  
+  ➤ Eine Welt voller Lügen und Täuschungen, die durch Wahlen regelmäßig legitimiert wird
+
 
 ## Leitgedanken
 
