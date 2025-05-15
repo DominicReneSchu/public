@@ -20,4 +20,4 @@ Ziel ist es, zentrale Gleichungen, Resonanzphänomene und neue Naturkonstanten d
 
 ---
 
-➡️ [Zurück zur Startseite](../README.md)
+➡️ [Zurück zum Start](../README.md)

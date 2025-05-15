@@ -25,6 +25,8 @@ pip install matplotlib numpy
 Simulation starten:
 
     python run.py
+	
+---
 
 ➡️ [Zur Simulation](Simulation_Atommodell/run.py)
 ➡️ [Zurück zum Inhaltsverzeichnis](../README.md)
