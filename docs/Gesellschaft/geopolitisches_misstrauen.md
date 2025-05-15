@@ -1,6 +1,6 @@
 # Geopolitisches Misstrauen und die Illusion diplomatischer Ordnung
 
-Im Mai 2025 wurde ein geplantes Treffen zwischen dem russischen Präsidenten Wladimir Putin und dem ukrainischen Präsidenten Wolodymyr Selenskyj in Istanbul kurzfristig abgesagt. Offiziell wurden keine Gründe genannt, doch Sicherheitsbedenken und das Risiko einer möglichen Verhaftung Putins durch den Internationalen Strafgerichtshof (IStGH) werden vermutet.
+Am heutigen Tag, im Mai 2025, wurde ein geplantes Treffen zwischen dem russischen Präsidenten Wladimir Putin und dem ukrainischen Präsidenten Wolodymyr Selenskyj in Istanbul kurzfristig abgesagt. Offiziell sind bislang keine Gründe bekannt, doch Sicherheitsbedenken und das Risiko einer möglichen Verhaftung Putins durch den Internationalen Strafgerichtshof (IStGH) werden vermutet.
 
 Parallel dazu äußerte Bundeskanzler Friedrich Merz, dass ein Besuch des israelischen Premierministers Benjamin Netanjahu in Deutschland trotz eines Haftbefehls des IStGH möglich sei. Diese Aussage führte zu kontroversen Debatten über die Rolle internationaler Rechtsprechung.
 
