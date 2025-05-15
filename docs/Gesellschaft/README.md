@@ -61,3 +61,8 @@ Dieses Modul verbindet gesellschaftstheoretische Überlegungen mit der Resonanzf
 	cd public
    ```
 ---
+
+
+➡️ [Weiter zu: manifest.md](manifest.md)  
+⬅️ [Zurück zum Start](../../README.md)  
+

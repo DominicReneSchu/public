@@ -44,3 +44,10 @@ Wenn wir kollektiv lernen, resonant zu kommunizieren, entsteht nicht nur mehr Fr
 ---
 
 > „Was uns verbindet, ist kein Vertrag – es ist ein Feld.“
+
+---
+
+
+➡️ [Weiter zu: resonanter_dialog_mit_ki.md](resonanter_dialog_mit_ki.md)  
+⬅️ [Zurück zum Inhaltsverzeichnis](README.md)
+⬅️ [Zurück zum Start](../../README.md)

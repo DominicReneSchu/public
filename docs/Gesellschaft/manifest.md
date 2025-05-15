@@ -189,3 +189,9 @@ Jeder Gedanke, jedes Gespräch, jede Entscheidung wirkt in ein größeres Feld h
 
 Der offene Brief ist kein Angriff – er ist ein Spiegel. Wer hinsieht, erkennt: Die Werkzeuge des Friedens liegen längst bereit. Es braucht nur den Mut, sie zu nutzen.
 
+---
+
+
+➡️ [Weiter zu: gesellschaft_und_resonanz.md](gesellschaft_und_resonanz.md)  
+⬅️ [Zurück zum Inhaltsverzeichnis](README.md)
+⬅️ [Zurück zum Start](../../README.md)  

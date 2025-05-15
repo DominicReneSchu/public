@@ -93,3 +93,7 @@ Eine Gesellschaft, in der:
 ---
 
 
+➡️ [Weiter zu: machtspiel.md](machtspiel.md)  
+⬅️ [Zurück zum Inhaltsverzeichnis](README.md)
+⬅️ [Zurück zum Start](../../README.md)  
+

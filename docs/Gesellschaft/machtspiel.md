@@ -60,3 +60,11 @@ Wenn Resonanz dauerhaft unterdrückt wird:
 Eine neue Gesellschaft beginnt dort, wo wir aufhören, uns zu verteidigen – und beginnen, mitzuschwingen. Resonanz ist nicht schwach. Sie ist das einzige echte Gegengewicht zu kontrollbasierter Macht.
 
 > „Macht ist geliehen. Resonanz ist echt.“  
+
+
+---
+
+
+➡️ [Weiter zu: resonanzkommunikation.md](resonanzkommunikation.md)  
+⬅️ [Zurück zum Inhaltsverzeichnis](README.md)
+⬅️ [Zurück zum Start](../../README.md)  

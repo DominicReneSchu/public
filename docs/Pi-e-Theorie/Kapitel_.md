@@ -12,7 +12,7 @@ Wir arbeiten gerade daran, den Inhalt zu vervollständigen. Bitte besuche uns sp
 
 Danke für dein Verständnis und deine Geduld!
 
-📅 **Letztes Update:** *[15.04.2025]*
+📅 **Letztes Update:** *[15.05.2025]*
 
 ---
 **Hinweis:** Wenn du uns unterstützen möchtest, schau dir auch unsere anderen [Dokumentationen](https://github.com/DominicRene/Resonanzfeldtheorie) und [Simulationen](https://github.com/DominicRene/Resonanzfeldtheorie/tree/main/Simulationen) an!
@@ -22,8 +22,8 @@ Danke für dein Verständnis und deine Geduld!
    ```bash
    git clone https://github.com/DominicRene/Resonanzfeldtheorie.git
    cd Resonanzfeldtheorie
-
+	```
 ---
 
 ➡️ [Weiter zu: Pi-𝜀-Theorie](README.md)  
-⬅️ [Zurück zur Hauptseite](../../README.md)
+⬅️ [Zurück zur Startseite](../../README.md)
