@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="Bilder/symbolgrafik.png" alt="Schu-Gleichung" width="800"/>
+  <img src="Bilder/symbolgrafik.png" alt="Schu-Gleichung" width="400"/>
 </p>
 
 ---
