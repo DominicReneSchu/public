@@ -2,6 +2,12 @@
 
 ---
 
+<p align="center">
+  <img src="Bilder/symbolgrafik.png" alt="Schu-Gleichung" width="800"/>
+</p>
+
+---
+
 ## 1. Einleitung
 
 Die Schu-Gleichung beschreibt die fundamentale Beziehung zwischen Resonanzfrequenz, Entropieänderung und Energiefluss. Im Gegensatz zu klassischen Energiemodellen integriert sie Felddynamik, Frequenzkopplung und Phasenverschiebung in einer einzigen energetischen Formel.
