@@ -88,9 +88,25 @@ Wenn du beitragen möchtest, erstelle einen Pull Request oder kontaktiere direkt
 
 ## 📈 Zukunft
 
-- Entwicklung eines Resonanz-Kraftfeldgenerators  
-- Integration in eine interaktive App mit KI-Dialogsystem  
-- Erweiterung um medizinische, gesellschaftliche und technologische Anwendungen  
+- Entwicklung von Simulationen zum Tomak-Reaktor
+
+- Integration in eine interaktive App mit KI-Dialogsystem
+
+- Erweiterung um medizinische, gesellschaftliche und technologische Anwendungen
+
+- Aufbau eines modularen Wissensnetzwerks mit dynamischer Gleichungs-Logik
+
+- Verknüpfung mit quantenmechanischen Hebelgesetzen zur Energieübertragung
+
+- Simulation von Feldbewusstsein & Resonatorverhalten (vom Beobachter zur Wirkung)
+
+- Erforschung resonanzbasierter Steuerung in Materialphysik & Nanotechnologie
+
+- Veröffentlichung als Open Source Framework zur internationalen Weiterentwicklung
+
+- Aufbau eines Investorenmodells zur persönlichen Projektfinanzierung
+
+- Entwicklung eines Kraftfeldgenerators ("Lufthologramm") auf Basis von Resonanzfeldern
 
 ---
 
