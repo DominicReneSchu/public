@@ -123,3 +123,9 @@ Die Gleichung ist mehr als Physik – sie ist ein **Modell des Werdens**:
 
 **Zukunft ist Resonanz.**  
 Sie beginnt mit dem Kreis – und endet in Bewusstsein.
+
+---
+
+
+⬅️ [Zurück zum Inhaltsverzeichnis](README.md)
+⬅️ [Zurück zum Start](../../README.md)
