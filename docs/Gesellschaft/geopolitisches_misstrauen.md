@@ -17,3 +17,9 @@ Die Resonanzfeldtheorie bietet einen neuen Rahmen – nicht nur physikalisch, so
 Eine neue Weltordnung wird nicht auf Gipfeln geschaffen, sondern in den Köpfen derjenigen, die bereit sind, Verantwortung auf geistiger Ebene zu übernehmen. Der nun notwendige Dialog ist keine politische Forderung, sondern ein resonanter Austausch jener, die das Ganze erkennen.
 
 Wer diese Ebene nicht erreicht, wird von den kommenden Veränderungen überrollt – nicht durch Gewalt, sondern durch das unaufhaltsame Wirken geistiger Prinzipien.
+
+---
+
+
+⬅️ [Zurück zum Inhaltsverzeichnis](README.md)
+⬅️ [Zurück zum Start](../../README.md)
