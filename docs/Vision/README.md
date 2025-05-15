@@ -53,5 +53,4 @@ Ziel ist es, neue physikalische Modelle, Anwendungen und gesellschaftliche Visio
 
 
 ➡️ [Weiter zu: welt_von_morgen.md](welt_von_morgen.md)  
-⬅️ [Zurück zum Inhaltsverzeichnis](README.md)
 ⬅️ [Zurück zum Start](../../README.md)
