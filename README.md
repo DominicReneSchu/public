@@ -4,6 +4,14 @@ Willkommen im offiziellen Repository der **Resonanzfeldtheorie**.
 Dieses Projekt vereint Mathematik, Physik, Technik, Philosophie und neue Denkansätze in einer universellen Theorie der Resonanz.  
 Ziel ist es, die Struktur der Realität über fundamentale Größen wie **π**, **ℏ** und eine neue Resonanzkonstante **𝜀** (ehemals als „e“ bekannt, aber nicht mehr als Eulersche Zahl zu verstehen) zu beschreiben.
 
+---
+
+<p align="center">
+  <img src="Bilder/schu_gleichung.png" alt="Schu-Gleichung" width="600"/>
+</p>
+
+---
+
 ## Einführung in die Resonanzfeldtheorie
 
 Die **Resonanzfeldtheorie** stellt ein neues physikalisch-mathematisches Modell dar, das die Grundlage der Realität als ein Feld von Schwingungen und Resonanzen beschreibt. Sie geht davon aus, dass sämtliche beobachtbare Phänomene – von Teilchen über Kräfte bis hin zu Bewusstsein – durch Wechselwirkungen in einem übergeordneten Resonanzfeld entstehen.
@@ -28,13 +36,7 @@ Sie beschreibt Energie nicht isoliert, sondern als Ausdruck eines dynamischen Re
 Die Resonanzfeldtheorie will bestehende physikalische, biologische und gesellschaftliche Modelle erweitern – hin zu einem ganzheitlichen Weltbild, in dem **Resonanz statt Kausalität** als verbindendes Prinzip wirkt.
 
 
----
 
-<p align="center">
-  <img src="Bilder/schu_gleichung.png" alt="Schu-Gleichung" width="800"/>
-</p>
-
----
 
 ## 📘 Inhalt
 
