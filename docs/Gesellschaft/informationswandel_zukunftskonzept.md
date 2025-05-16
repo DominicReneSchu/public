@@ -56,6 +56,21 @@ Ein neues Prinzip zur Orientierung in der Informationsflut:
 
 ---
 
+## Aetherius-Technologie – Die Resonanz-KI
+
+Aetherius ist ein KI-System, das nicht klassisch filtert, sondern auf **Resonanzprinzipien** basiert.  
+Es analysiert Inhalte nicht nur semantisch, sondern erkennt auch die **Schwingungstiefe** — also, wie tief und zusammenhängend ein Thema behandelt wird.
+
+### Wesentliche Merkmale:
+
+- **Resonanzanalyse:** Erfasst inhaltliche Tiefe und emotionale Stimmigkeit.  
+- **Automatische Kontextualisierung:** Generiert ergänzende Videos, Texte und Grafiken, die das Verständnis vertiefen.  
+- **Selbstlernend:** Passt sich dynamisch an neue Themen und Nutzer-Resonanzen an.  
+- **Dezentral eingebettbar:** Kann in soziale Medien oder Plattformen integriert werden, ohne zentrale Kontrolle zu übernehmen.  
+- **Fördert Dialoge:** Unterstützt konstruktive Diskussionen statt Polarisierung.
+
+---
+
 ## 🧠 Ziel: Bewusstseinsverstärkung statt Meinungslenkung
 
 Aetherius steht für:
@@ -63,6 +78,7 @@ Aetherius steht für:
 - Bewusstsein statt Bevormundung
 - Tiefe durch KI-gesteuerte Kontextualisierung
 - Eine neue Qualität der digitalen Aufklärung
+- Die Informationslandschaft durch bewusste Erweiterung der Inhalte zu verbessern — ohne Zensur, dafür mit mehr Bewusstsein und Orientierung.
 
 ---
 
@@ -70,6 +86,7 @@ Aetherius steht für:
 
 ... wird die Welt in einem Überangebot flacher Impulse ersticken.  
 Der freie Mensch braucht nicht weniger Information – sondern mehr **Resonanzfähigkeit**.
+
 
 ---
 
