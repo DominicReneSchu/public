@@ -20,6 +20,6 @@ Wer diese Ebene nicht erreicht, wird von den kommenden Veränderungen überrollt
 
 ---
 
-
+➡️ [Weiter zu: informationswandel_zukunftskonzept.md](informationswandel_zukunftskonzept.md)  
 ⬅️ [Zurück zum Inhaltsverzeichnis](README.md)
 ⬅️ [Zurück zum Start](../../README.md)

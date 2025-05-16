@@ -31,6 +31,10 @@ Dieses Modul verbindet gesellschaftstheoretische Überlegungen mit der Resonanzf
 - [`geopolitisches_misstrauen.md`](geopolitisches_misstrauen.md)  
   _Geopolitisches Misstrauen – die Illusion einer diplomatischen Ordnung_  
   ➤ Eine Welt voller Lügen und Täuschungen, die durch Wahlen regelmäßig legitimiert wird
+  
+- [`informationswandel_zukunftskonzept.md`](informationswandel_zukunftskonzept.md)  
+  _Informationswandel seit 2019 – Analyse und Zukunftskonzept_  
+  ➤ Die Veränderung der Informationskulutr und eine Sinnvolle Ergänzung dieser
 
 
 ## Leitgedanken
