@@ -48,7 +48,3 @@ Mit 3D-Druck lassen sich präzise mechanische Bauteile schnell und kostengünsti
 Ein Tischlaser kann zur exakten Ausrichtung und Steuerung der Resonanzfelder verwendet werden.
 
 Der Prototyp dient der experimentellen Verifikation der Simulation und ermöglicht die Optimierung des Resonanzkopplungsprinzips für spätere technische Anwendungen.
-
----
-
-Dieses Kapitel fasst die bisherigen Überlegungen und Ergebnisse zum Resonanzgenerator zusammen und legt die Grundlage für die praktische Umsetzung und Weiterentwicklung des Projekts.
