@@ -17,8 +17,8 @@ Die Simulation zeigt folgende zentrale Erkenntnisse:
   Die Form des Peaks gibt Aufschluss über den Dämpfungsgrad und die Güte des Systems.
 
 - **Energieanalyse:**  
-  Der positive Energieüberschuss $$ \Delta E $$ belegt die zusätzliche Energieaufnahme durch das Resonanzfeld.  
-  Das Verhältnis von $$ \Delta E $$ zur Feldarbeit zeigt eine hohe Effizienz der Energieübertragung.
+  Der positive Energieüberschuss `ΔE` belegt die zusätzliche Energieaufnahme durch das Resonanzfeld.  
+  Das Verhältnis von `ΔE` zur Feldarbeit zeigt eine hohe Effizienz der Energieübertragung.
 
 - **Zeitsignale am Resonanzpunkt:**  
   Die Amplitude wächst bis zum stationären Zustand, in dem Energiezufuhr und Dissipation im Gleichgewicht stehen.
