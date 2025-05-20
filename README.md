@@ -57,6 +57,7 @@ Die Resonanzfeldtheorie will bestehende physikalische, biologische und gesellsch
 
 ### ⚙️ Konzepte
 - [ResoCalc (Konventionelle Drehmomentberechnung vs. ResoCalc (Resonanzfeldtheorie))](Konzepte/ResoCalc/resocalc.md)
+- [Resonanzgenerator (Python)](Konzepte/resonanzgenerator.md)
 - [Resonanzreaktor (Python)](Konzepte/Resonanzreaktor/README.md)
 - [Kraftfeldgenerator (Python)](Konzepte/Kraftfeldgenerator/kraftfeldgenerator.md)
 - [Warpantrieb (Python)](Konzepte/Warpantrieb/warpantrieb.md)
