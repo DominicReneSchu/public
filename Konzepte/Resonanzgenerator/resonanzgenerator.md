@@ -1,4 +1,4 @@
-# Kapitel: Resonanzgenerator – Konzept, Simulation und nächster Schritt
+# Resonanzgenerator – Konzept, Simulation und nächster Schritt
 
 ## Einführung
 
