@@ -45,6 +45,7 @@ Die Resonanzfeldtheorie will bestehende physikalische, biologische und gesellsch
 - [Schu-Gleichung & Anwendungen](Gleichungen/README.md)
 - [Gesellschaft und Resonanz](docs/Gesellschaft/README.md)
 - [Vision](docs/Vision/README.md)
+- [Resonanzlexikon](docs/resonanzlexikon.md)
 
 ### ⚙️ Simulationen
 
