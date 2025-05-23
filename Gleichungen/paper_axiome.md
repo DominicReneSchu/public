@@ -18,22 +18,19 @@ Die Resonanzfeldtheorie (RFT) postuliert, dass alle fundamentalen Prozesse im Un
 
 Jede Entität im Universum ist durch eine periodische Schwingung beschreibbar:
 
-$$\
-\psi(x, t) = A \cdot \cos(kx - \omega t + \phi)
-\$$
-
-mit Amplitude $$\A\$$, Wellenzahl $$\k\$$, Kreisfrequenz $$\\omega\$$, Phase $$\\phi\$$.
+```
+ψ(x, t) = A · cos(kx − ωt + φ)
+```
+mit Amplitude `A`, Wellenzahl `k`, Kreisfrequenz `ω`, Phase `φ`.
 
 ---
 
 ### Axiom 2 (Superposition und Interferenz)
 
 Schwingungen überlagern sich linear im Raum-Zeit-Kontinuum:
-
-$$\
-\psi_{\text{gesamt}}(x, t) = \sum_i \psi_i(x, t)
-\$$
-
+```
+ψ_gesamt(x, t) = Σᵢ ψᵢ(x, t)
+```
 Dies führt zu konstruktiver oder destruktiver Interferenz.
 
 ---
@@ -41,41 +38,32 @@ Dies führt zu konstruktiver oder destruktiver Interferenz.
 ### Axiom 3 (Resonanzbedingung)
 
 Zwei Systeme treten in Resonanz, wenn ihre Frequenzen im rationalen Verhältnis stehen:
-
-\[
-\frac{f_1}{f_2} = \frac{n}{m}, \quad n, m \in \mathbb{Z}^+
-\]
-
+```
+f₁ / f₂ = n / m    mit n, m ∈ ℕ⁺
+```
 Dies ermöglicht kohärente Energieübertragung und Systemkopplung.
 
 ---
 
 ### Axiom 4 (Kopplungsenergie durch Resonanz)
 
-Die durch Resonanz übertragene Energie ist proportional zur Frequenz, Planck-Konstante und einer Resonanzkopplungskonstanten \(\varepsilon\):
+Die durch Resonanz übertragene Energie ist proportional zur Frequenz, Planck-Konstante und einer Resonanzkopplungskonstanten `ε`:
+```
+E = π · ε · h · f
+```
+`π` steht für zyklische Ordnung (Kreisprozesse), `ε` ist eine neue Naturkonstante.
 
-\[
-E = \pi \cdot \varepsilon \cdot h \cdot f
-\]
-
-\(\pi\) steht für zyklische Ordnung (Kreisprozesse), \(\varepsilon\) ist eine neue Naturkonstante.
-
-**Physikalische Deutung der Kopplungskonstante \(\varepsilon\):**  
-Die Naturkonstante \(\varepsilon\) quantifiziert die Kopplungsstärke zwischen Resonanzsystemen. Sie kann als Maß für die Effizienz der Energieübertragung oder die Qualität der Synchronisation zwischen Feldern interpretiert werden. Ein hoher Wert steht für starke, nahezu verlustfreie Kopplung; ein niedriger Wert signalisiert schwache, ineffiziente Resonanzübertragung. Die experimentelle Bestimmung von \(\varepsilon\) ist ein zentrales Ziel zukünftiger Forschung.
-
-**Notationshinweis:**  
-Im Folgenden wird \(\varepsilon\) stets kursiv gesetzt, um die Rolle als Naturkonstante und Kopplungsparameter zu unterstreichen.
+**Physikalische Deutung der Kopplungskonstante ε:**  
+Die Naturkonstante `ε` quantifiziert die Kopplungsstärke zwischen Resonanzsystemen. Sie kann als Maß für die Effizienz der Energieübertragung oder die Qualität der Synchronisation zwischen Feldern interpretiert werden. Ein hoher Wert steht für starke, nahezu verlustfreie Kopplung; ein niedriger Wert signalisiert schwache, ineffiziente Resonanzübertragung. Die experimentelle Bestimmung von `ε` ist ein zentrales Ziel zukünftiger Forschung.
 
 ---
 
 ### Axiom 5 (Stabiles Resonanzfeld)
 
 Ein stabiles Resonanzfeld entsteht, wenn sich Wellen zu einem stehenden Muster organisieren:
-
-\[
-\Phi(x, t) = \sum_{i} A_i \cdot \cos(k_i x - \omega_i t + \phi_i)
-\]
-
+```
+Φ(x, t) = Σᵢ Aᵢ · cos(kᵢx − ωᵢt + φᵢ)
+```
 Nur solche Felder erzeugen messbare Realität.
 
 ---
@@ -100,51 +88,43 @@ Das siebte Axiom hebt hervor, dass der Beobachter nicht passiv, sondern als akti
 ### 3.1 Schwingungsenergie und Frequenzrelation
 
 Nach Axiom 1 und 4 ist die fundamentale Energie einer Schwingung gegeben durch:
-
-\[
-E = \pi \cdot \varepsilon \cdot h \cdot f
-\]
-
+```
+E = π · ε · h · f
+```
 **Beweis:**  
 Axiom 4 definiert die Resonanzkopplungsenergie als Produkt aus den fundamentalen Konstanten und der Schwingungsfrequenz.  
-Dies generalisiert die bekannte Quantelung \(E = h f\) aus der Quantenphysik durch Einbezug von \(\pi\) (zyklische Ordnung) und \(\varepsilon\) (Resonanzkopplung).
+Dies generalisiert die bekannte Quantelung `E = h · f` aus der Quantenphysik durch Einbezug von `π` (zyklische Ordnung) und `ε` (Resonanzkopplung).
 
 ---
 
 ### 3.2 Resonanzbedingung und Energieübertragung
 
-Sind zwei Systeme in Resonanz \(\left(\frac{f_1}{f_2} = \frac{n}{m}, n, m \in \mathbb{Z}^+\right)\), dann gilt (nach Axiom 3 und 4):
-
-\[
-E_{\text{übertr.}} = \pi \cdot \varepsilon \cdot h \cdot f_{\text{res}}
-\]
-
-mit \(f_{\text{res}}\) als gemeinsamer Resonanzfrequenz.
+Sind zwei Systeme in Resonanz (`f₁ / f₂ = n / m`, `n, m ∈ ℕ⁺`), dann gilt (nach Axiom 3 und 4):
+```
+E_übertr. = π · ε · h · f_res
+```
+mit `f_res` als gemeinsamer Resonanzfrequenz.
 
 ---
 
 ### 3.3 Kopplungs- und Interferenzmuster
 
 Nach Axiom 2 und 5 entsteht ein stabiles Resonanzfeld durch Überlagerung (Superposition) kohärenter Schwingungen, sodass:
-
-\[
-\Phi(x, t) = \sum_{i=1}^N A_i \cos(k_i x - \omega_i t + \phi_i)
-\]
-
+```
+Φ(x, t) = Σ_{i=1}^N Aᵢ · cos(kᵢx − ωᵢt + φᵢ)
+```
 Ein solches Feld ist stationär, wenn die Frequenzen und Phasen so gewählt sind, dass periodisch ein stehendes Muster entsteht.
 
 ---
 
 ### 3.4 Entropie einer Resonanzkonfiguration
 
-Analog zur informations- und statistischen Physik kann die Entropie \(S\) einer Konfiguration als Funktion der Energie geschrieben werden:
-
-\[
-S(E) = -E \ln E
-\]
-
-**Normierung der Energie $E$ in der Entropieformel:**  
-Für die Entropie $S(E) = -E \ln E$ empfiehlt es sich, $E$ dimensionslos oder geeignet normiert zu wählen, beispielsweise durch Division durch eine charakteristische Energie $E_0$ des Systems. Alternativ kann $E$ als Wahrscheinlichkeitsmaß interpretiert werden, analog zur statistischen Physik, wo $S(p) = -p \ln p$ mit $p$ als Wahrscheinlichkeit eines Zustands verwendet wird.
+Analog zur informations- und statistischen Physik kann die Entropie S einer Konfiguration als Funktion der Energie geschrieben werden:
+```
+S(E) = –E · ln(E)
+```
+**Normierung der Energie E in der Entropieformel:**  
+Für die Entropie `S(E) = –E · ln(E)` empfiehlt es sich, `E` dimensionslos oder geeignet normiert zu wählen, beispielsweise durch Division durch eine charakteristische Energie `E₀` des Systems. Alternativ kann `E` als Wahrscheinlichkeitsmaß interpretiert werden, analog zur statistischen Physik, wo `S(p) = –p · ln(p)` mit `p` als Wahrscheinlichkeit eines Zustands verwendet wird.
 
 ---
 
@@ -158,47 +138,44 @@ Nach Axiom 6 und 7 ist jeder Informationsaustausch als Resonanzkopplung interpre
 
 ### 4.1 Positivität und Eindeutigkeit der Resonanzenergie
 
-**Satz:** Für \(f > 0\), \(\varepsilon, h, \pi > 0\) gilt \(E > 0\) eindeutig.
+**Satz:** Für `f > 0`, `ε, h, π > 0` gilt `E > 0` eindeutig.
 
 **Beweis:**  
-Alle Faktoren sind per Definition positiv, daher ist das Produkt \(E\) stets positiv und für jedes \(f\) eindeutig bestimmt.
+Alle Faktoren sind per Definition positiv, daher ist das Produkt `E` stets positiv und für jedes `f` eindeutig bestimmt.
 
 ---
 
 ### 4.2 Monotonie
 
-**Satz:** \(E\) ist streng monoton steigend in \(f\).
+**Satz:** `E` ist streng monoton steigend in `f`.
 
 **Beweis:**  
-\[
-\frac{dE}{df} = \pi \varepsilon h > 0,
-\]
-
-also wächst \(E\) streng monoton mit \(f\).
+```
+dE/df = π · ε · h > 0
+```
+also wächst `E` streng monoton mit `f`.
 
 ---
 
 ### 4.3 Maximum der Entropie
 
-**Satz:** \(S(E)\) besitzt im Intervall \(E \in (0, \infty)\) ein Maximum bei \(E = \frac{1}{e}\).
+**Satz:** `S(E)` besitzt im Intervall `E ∈ (0, ∞)` ein Maximum bei `E = 1/e`.
 
 **Beweis:**  
 Setze
-
-\[
-\frac{dS}{dE} = -\ln E - 1 = 0 \implies E = \frac{1}{e}.
-\]
-
-Die zweite Ableitung ist \(-\frac{1}{E} < 0\) für \(E > 0\) ⇒ Maximum.
+```
+dS/dE = –ln(E) – 1 = 0   ⇒   E = 1/e
+```
+Die zweite Ableitung ist `–1/E < 0` für `E > 0` ⇒ Maximum.
 
 ---
 
 ## 5. Diskussion und Ausblick
 
-Das axiomatische System der Resonanzfeldtheorie verbindet klassische Schwingungslehre, Quantenphysik und Informationstheorie in konsistenter Weise. Die mathematischen Konsequenzen (z. B. die Schu-Gleichung für Resonanzenergie) ergeben sich direkt aus den Axiomen. Die Theorie ist damit grundsätzlich mathematisch beweisbar und simulationsfähig. Die Einführung der Kopplungskonstanten \(\varepsilon\) eröffnet neue Freiheitsgrade für die experimentelle Überprüfung.
+Das axiomatische System der Resonanzfeldtheorie verbindet klassische Schwingungslehre, Quantenphysik und Informationstheorie in konsistenter Weise. Die mathematischen Konsequenzen (z. B. die Schu-Gleichung für Resonanzenergie) ergeben sich direkt aus den Axiomen. Die Theorie ist damit grundsätzlich mathematisch beweisbar und simulationsfähig. Die Einführung der Kopplungskonstanten `ε` eröffnet neue Freiheitsgrade für die experimentelle Überprüfung.
 
 **Konkretisierung des Ausblicks:**  
-Zukünftige Arbeit könnte die Dynamik von Resonanzfeldern durch Differentialgleichungen für gekoppelte Oszillatoren oder Felder explizit modellieren. Experimentelle Designs könnten auf die Messung von \(\varepsilon\) in Systemen mit bekannter Kopplung abzielen, etwa durch präzise Frequenzabstimmung in optischen, akustischen oder elektrischen Resonatoren. Numerische Simulationen und Visualisierungen von Resonanzmustern könnten helfen, die theoretischen Vorhersagen praktisch zu überprüfen.
+Zukünftige Arbeit könnte die Dynamik von Resonanzfeldern durch Differentialgleichungen für gekoppelte Oszillatoren oder Felder explizit modellieren. Experimentelle Designs könnten auf die Messung von `ε` in Systemen mit bekannter Kopplung abzielen, etwa durch präzise Frequenzabstimmung in optischen, akustischen oder elektrischen Resonatoren. Numerische Simulationen und Visualisierungen von Resonanzmustern könnten helfen, die theoretischen Vorhersagen praktisch zu überprüfen.
 
 Empirische Tests und weiterführende mathematische Untersuchungen (z. B. Differentialgleichungen für Resonanzfelder, Kopplungsdynamik, Emergenz von Information) sind als nächste Forschungsziele zu sehen.
 
