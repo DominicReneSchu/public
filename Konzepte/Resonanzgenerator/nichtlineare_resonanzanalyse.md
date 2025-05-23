@@ -1,9 +1,5 @@
 # Nichtlineare Resonanzanalyse – Interaktive Simulation
 
-Dieses Tool visualisiert die Dynamik eines nichtlinearen, energie- und feldgekoppelten Oszillators auf Grundlage der **Resonanzfeldtheorie**. Die Simulation ist als interaktive Webanwendung umgesetzt (z. B. mit [Streamlit](https://streamlit.io)), und erlaubt die Live-Steuerung zentraler Systemparameter.
-
----
-
 ## Was zeigt die Simulation?
 
 ### 1. Zeitverlauf der Auslenkung `x(t)`
