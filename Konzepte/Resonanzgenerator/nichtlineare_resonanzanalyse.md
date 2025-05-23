@@ -156,3 +156,5 @@ Wie **aktive Dämpfungssysteme** bei Hochhäusern gegen Erdbeben:
 - Die Simulation eignet sich zur Exploration klassischer und chaotischer Resonanzphänomene.
 - Alle Visualisierungen sind direkt mit den Konzepten der Resonanzfeldtheorie verknüpft.
 - Die App kann beliebig erweitert werden, z. B. um Lyapunov-Exponenten, Dimensionsschätzungen oder Batch-Parameter-Scans.
+
+- [Python-Simulation](run_001.py)
