@@ -31,6 +31,9 @@ Ziel ist es, ein konsistentes, interaktives System zu schaffen, das die Theorie 
 - [Resonanzenergie als Vektor und Drehimpulsübertragung](resonanzenergievektor.md)  
    Das Drehmoment besitzt die gleiche Einheit wie Energie
    
+- [Axiomatische Grundlegung und mathematische Konsequenzen der Resonanzfeldtheorie nach Schu](paper_axiome.md)  
+   Axiomatische Grundlegung und mathematische Konsequenzen der Resonanzfeldtheorie
+   
 
 
 ---
