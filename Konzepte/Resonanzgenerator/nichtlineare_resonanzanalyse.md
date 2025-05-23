@@ -62,9 +62,9 @@ Die beste Energieübertragung erreichst du, wenn die Anregungsfrequenz möglichs
 
 Die Simulation berechnet den **Wirkungsgrad** η, der angibt, wie viel von der eingespeisten Feldenergie als mittlere mechanische Energie im System umgesetzt wird:
 
-\[
+$$
 \eta = \frac{\text{mittlere mechanische Energie}}{\text{eingebrachte Arbeit aus dem Feld}}
-\]
+$$
 
 - Ein Wirkungsgrad von z. B. **9 %** bedeutet: 9 % der aus dem Feld zugeführten Energie werden in gerichtete, mechanische Energie umgesetzt. Der Rest wird durch Dämpfung und Verluste dissipiert.
 - **Wichtig:** Die Feldenergie ist zwar möglicherweise in der Umgebung "vorhanden", aber ihre Nutzbarkeit ist durch Kopplung, Resonanzbedingungen und Verluste begrenzt – nicht durch Magie, sondern durch Physik.
