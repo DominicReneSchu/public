@@ -25,8 +25,6 @@ dt = 0.01
 # Weitere Konstanten
 m = 1.0
 beta = 0.05
-embed_dim = 3
-tau = 10
 
 # Dämpfungsfunktion
 def schu_damping(E):
@@ -50,6 +48,23 @@ if st.button("Start Simulation"):
     sol = solve_ivp(system, [0, T], [0.1, 0], args=(0,),
                     method='LSODA', t_eval=np.arange(0, T, dt))
     t_sim, x, v = sol.t, sol.y[0], sol.y[1]
+
+    # Mechanische Energie (kinetisch + potenziell)
+    E_kin = 0.5 * m * v**2
+    E_pot = 0.5 * k * x**2
+    E_mech = E_kin + E_pot
+
+    # Eingebrachte Arbeit durch äußere Kraft (Resonanzfeld)
+    theta_arr = np.arctan2(v, x + 1e-8)
+    delta_t_arr = beta * (v/v0)**2 * np.sin(theta_arr)
+    Ff_arr = Af * np.cos(omega_f * t_sim * (1 + delta_t_arr))
+    W_in = np.trapz(Ff_arr * v, t_sim)
+
+    # Mittlere mechanische Energie
+    E_mech_mean = np.mean(E_mech)
+
+    # Wirkungsgrad
+    eta = E_mech_mean / W_in if W_in != 0 else np.nan
 
     # Zeitverlauf
     fig, axes = plt.subplots(2, 3, figsize=(18, 8))
@@ -112,3 +127,13 @@ if st.button("Start Simulation"):
 
     fig.tight_layout()
     st.pyplot(fig)
+
+    # Wirkungsgrad ausgeben (deutlich, mit Text)
+    st.markdown(f"""
+    ### Wirkungsgrad der Energieübertragung
+
+    - **Mittlere mechanische Energie:** {E_mech_mean:.4f}
+    - **Eingebrachte Arbeit durch das Resonanzfeld:** {W_in:.4f}
+    - **Wirkungsgrad** (mechanische Energie / eingebrachte Arbeit):  
+      **η = {eta:.4%}**
+    """)

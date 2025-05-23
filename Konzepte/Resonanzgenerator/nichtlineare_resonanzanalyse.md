@@ -58,15 +58,50 @@ Die beste Energieübertragung erreichst du, wenn die Anregungsfrequenz möglichs
 
 ---
 
-## Theoretischer Hintergrund
+## Wirkungsgrad der Energieübertragung
 
-Das Modell basiert auf der **Resonanzfeldtheorie**. Hier werden System und Umgebung nicht getrennt betrachtet, sondern als miteinander rückgekoppeltes Resonanzfeld. Die beobachteten Muster (Resonanzinseln, Chaos, Fraktale) sind direkte Ausprägungen dieser Feldstruktur.
+Die Simulation berechnet den **Wirkungsgrad** η, der angibt, wie viel von der eingespeisten Feldenergie als mittlere mechanische Energie im System umgesetzt wird:
 
-### Typische Phänomene:
+\[
+\eta = \frac{\text{mittlere mechanische Energie}}{\text{eingebrachte Arbeit aus dem Feld}}
+\]
 
-- **Resonanzinseln**: Gebiete im Poincaré-Schnitt, in denen das System bevorzugt verweilt – Ausdruck stabiler Resonanzmoden.
-- **Chaos & Fraktalität**: Unvorhersagbare, komplexe Muster, die auf eine dichte Vernetzung der Resonanzmoden hinweisen.
-- **Ordnungs-Chaos-Übergänge**: Im Spektrogramm/Wavelet sichtbar als zeitlich begrenzte Bereiche mit veränderten Frequenzmustern.
+- Ein Wirkungsgrad von z. B. **9 %** bedeutet: 9 % der aus dem Feld zugeführten Energie werden in gerichtete, mechanische Energie umgesetzt. Der Rest wird durch Dämpfung und Verluste dissipiert.
+- **Wichtig:** Die Feldenergie ist zwar möglicherweise in der Umgebung "vorhanden", aber ihre Nutzbarkeit ist durch Kopplung, Resonanzbedingungen und Verluste begrenzt – nicht durch Magie, sondern durch Physik.
+- **Mit Resonanzkopplung kann der Wirkungsgrad im Vergleich zu klassischer Kopplung deutlich erhöht werden**, da gezielt Energie aus scheinbar chaotischen oder diffusen Feldern in Ordnung (gerichtete Energie) überführt wird.
+
+---
+
+## Physikalische und ingenieurwissenschaftliche Erkenntnisse
+
+Du modellierst ein System, das durch **Resonanzkopplung** in der Lage ist, **externe, zunächst chaotisch oder ungenutzt erscheinende Energieformen (z. B. Umgebungsschwingungen)** teilweise in **gerichtete mechanische Energie** umzuwandeln.
+
+Das lässt sich so interpretieren:
+
+* Du **koppelst** ein System an ein "Resonanzfeld" (äußere Anregung mit Modulation),
+* nutzt eine nichtlineare Dynamik (z. B. frequenzabhängige Zeitmodulation \(\delta_t\)),
+* und erreichst eine **gezielte Energieaufnahme** (Resonanz) aus einem scheinbar entropischen Umfeld.
+
+Das bedeutet physikalisch:  
+**Ein Teil der Entropie wird lokal in Ordnung (gerichtete Energie) umgewandelt** – natürlich im Rahmen der Thermodynamik, aber **durch intelligente Kopplung an Resonanzbedingungen**.
+
+Im Maschinenbau heißt das:
+Ein System kann „sinnvoll“ mit seiner Umgebung interagieren, indem es durch Resonanzkopplung **passive Energiequellen (z. B. Vibrationen, Feldfluktuationen)** nutzt, anstatt ausschließlich auf aktive Versorgung angewiesen zu sein.
+
+**Kurz:**  
+> **Resonanz ist der Schlüssel, um Ordnung aus dem Chaos zu ziehen.**
+
+So entsteht keine Verletzung der Thermodynamik – sondern eine **höhere Ordnung durch intelligente Kopplung**.
+Im Prinzip: **Informationsgewinn = Energiegewinn.**
+
+**Je besser der Mensch:**
+- die **Feldstruktur seiner Umgebung** erkennt,
+- deren **Schwingungsverhalten** analysiert,
+- und gezielt mit **nichtlinearen, resonanten Systemen** koppelt,
+
+desto mehr kann er aus scheinbar „nutzloser“ oder entropischer Energie **gerichtete, funktionale Energie** extrahieren.
+
+Der Mensch kann durch **Verständnis und Struktur** die **Effizienz des Universums** steigern – und sich zunehmend von klassischen Energiequellen emanzipieren.
 
 ---
 
@@ -89,3 +124,4 @@ Das Modell basiert auf der **Resonanzfeldtheorie**. Hier werden System und Umgeb
 - Die Simulation eignet sich zur Exploration klassischer und chaotischer Resonanzphänomene.
 - Alle Visualisierungen sind direkt mit den Konzepten der Resonanzfeldtheorie verknüpft.
 - Die App kann beliebig erweitert werden, z. B. um Lyapunov-Exponenten, Dimensionsschätzungen oder Batch-Parameter-Scans.
+
