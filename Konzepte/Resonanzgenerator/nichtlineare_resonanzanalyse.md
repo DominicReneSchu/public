@@ -42,7 +42,7 @@ Um eine möglichst effektive Übertragung von Energie aus dem Resonanzfeld in me
 | Parameter   | Empfehlung         | Beschreibung |
 |-------------|:-----------------:|:-------------|
 | **Af**      | 1.0 – 1.5         | Nicht zu klein, damit genügend Energie eingespeist wird |
-| **omega_f** | 1.0 – 1.05        | Möglichst nahe an der Eigenfrequenz (\(\omega_0 = \sqrt{k}\) bei \(m=1\)) |
+| **omega_f** | 1.0 – 1.05        | Möglichst nahe an der Eigenfrequenz $$ \omega_0 = \sqrt{k}\) bei \(m=1\) $$ |
 | **d0**      | 0.05 – 0.1        | Unterkritische Dämpfung (nicht zu stark) |
 | **k**       | 1.0               | Standardwert für die Federkonstante |
 | **v0**      | 1.0               | Typischer Wert für Normgeschwindigkeit |
@@ -79,7 +79,7 @@ Du modellierst ein System, das durch **Resonanzkopplung** in der Lage ist, **ext
 Das lässt sich so interpretieren:
 
 * Du **koppelst** ein System an ein "Resonanzfeld" (äußere Anregung mit Modulation),
-* nutzt eine nichtlineare Dynamik (z. B. frequenzabhängige Zeitmodulation \(\delta_t\)),
+* nutzt eine nichtlineare Dynamik (z. B. frequenzabhängige Zeitmodulation $$ \delta_t\) $$,
 * und erreichst eine **gezielte Energieaufnahme** (Resonanz) aus einem scheinbar entropischen Umfeld.
 
 Das bedeutet physikalisch:  
