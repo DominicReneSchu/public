@@ -145,7 +145,7 @@ Wie **aktive Dämpfungssysteme** bei Hochhäusern gegen Erdbeben:
    ```
 2. Starte die App:
    ```
-   streamlit run app.py
+   streamlit run run_001.py
    ```
 3. Steuere die Parameter, starte die Simulation und beobachte die Resultate live.
 
