@@ -1,9 +1,3 @@
----
-title: "Axiomatische Grundlegung und mathematische Konsequenzen der Resonanzfeldtheorie nach Schu"
-author: "Dominic Schu"
-date: "2025-05-23"
----
-
 # Axiomatische Grundlegung und mathematische Konsequenzen der Resonanzfeldtheorie
 
 ## Zusammenfassung
@@ -24,11 +18,11 @@ Die Resonanzfeldtheorie (RFT) postuliert, dass alle fundamentalen Prozesse im Un
 
 Jede Entität im Universum ist durch eine periodische Schwingung beschreibbar:
 
-\[
+$$\
 \psi(x, t) = A \cdot \cos(kx - \omega t + \phi)
-\]
+\$$
 
-mit Amplitude \(A\), Wellenzahl \(k\), Kreisfrequenz \(\omega\), Phase \(\phi\).
+mit Amplitude $$\A\$$, Wellenzahl $$\k\$$, Kreisfrequenz $$\\omega\$$, Phase $$\\phi\$$.
 
 ---
 
@@ -36,9 +30,9 @@ mit Amplitude \(A\), Wellenzahl \(k\), Kreisfrequenz \(\omega\), Phase \(\phi\).
 
 Schwingungen überlagern sich linear im Raum-Zeit-Kontinuum:
 
-\[
+$$\
 \psi_{\text{gesamt}}(x, t) = \sum_i \psi_i(x, t)
-\]
+\$$
 
 Dies führt zu konstruktiver oder destruktiver Interferenz.
 
