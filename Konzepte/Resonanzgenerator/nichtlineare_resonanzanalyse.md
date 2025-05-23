@@ -24,13 +24,14 @@ Das Wavelet-Skalogramm zeigt die Zeit-Frequenz-Struktur mit besonders guter Aufl
 
 ## Interaktive Parametersteuerung
 
-Über die Regler können zentrale Systemparameter wie Anregungsamplitude, Frequenz, Dämpfung und Simulationsdauer angepasst werden. So lässt sich das Systemverhalten in Echtzeit erforschen:
+Über die Regler können zentrale Systemparameter angepasst werden. So lässt sich das Systemverhalten in Echtzeit erforschen:
 
-- **Amplitude (`Af`)** – Stärke der äußeren Anregung
-- **Frequenz (`omega_f`)** – Frequenz der Anregung
-- **Dämpfung (`d0`)** – Grunddämpfung des Systems
-- **Federkonstante (`k`)** – Steifigkeit des Oszillators
-- **Dauer (`T`)** – Simulationszeitraum
+- **Af** – Anregungsamplitude (Stärke der äußeren Anregung)
+- **omega_f** – Anregungsfrequenz (Frequenz der äußeren Anregung)
+- **T** – Simulationsdauer
+- **d0** – Dämpfungsfaktor (Grunddämpfung des Systems)
+- **k** – Federkonstante (Steifigkeit des Oszillators)
+- **v0** – Normgeschwindigkeit für Skalen der Rückkopplung
 
 ---
 
@@ -38,20 +39,17 @@ Das Wavelet-Skalogramm zeigt die Zeit-Frequenz-Struktur mit besonders guter Aufl
 
 Um eine möglichst effektive Übertragung von Energie aus dem Resonanzfeld in mechanische Leistung zu erreichen, wähle folgende Parameterbereiche:
 
-| Parameter     | Empfehlung                | Beschreibung |
-|---------------|:------------------------:|:------------|
-| **k**         | 1.0                      | Federkonstante |
-| **m**         | 1.0                      | Masse |
-| **omega_f**   | 1.0 – 1.05               | Anregungsfrequenz ≈ Eigenfrequenz (\(\omega_0 = \sqrt{k/m}\)) |
-| **Af**        | 1.0 – 1.5                | Anregungsamplitude (nicht zu klein, nicht zu groß) |
-| **d0**        | 0.05 – 0.1               | Unterkritische Dämpfung |
-| **v0**        | 1.0                      | Normgeschwindigkeit für Rückkopplung |
-| **beta**      | 0.05                     | Stärke der nichtlinearen Kopplung |
-| **T**         | 100 – 200                | Simulationsdauer |
-| **x0/v0 (init)** | 0.1 / 0.0             | Anfangsauslenkung/Geschwindigkeit |
+| Parameter   | Empfehlung         | Beschreibung |
+|-------------|:-----------------:|:-------------|
+| **Af**      | 1.0 – 1.5         | Nicht zu klein, damit genügend Energie eingespeist wird |
+| **omega_f** | 1.0 – 1.05        | Möglichst nahe an der Eigenfrequenz (\(\omega_0 = \sqrt{k}\) bei \(m=1\)) |
+| **d0**      | 0.05 – 0.1        | Unterkritische Dämpfung (nicht zu stark) |
+| **k**       | 1.0               | Standardwert für die Federkonstante |
+| **v0**      | 1.0               | Typischer Wert für Normgeschwindigkeit |
+| **T**       | 100 – 200         | Simulationszeitraum, ausreichend lang für Resonanzeffekte |
 
 **Hinweis:**  
-Die beste Energieübertragung erreichst du, wenn die Anregungsfrequenz möglichst genau auf die Eigenfrequenz des Systems abgestimmt ist und die Dämpfung nicht zu stark ist. Zu hohe Amplituden oder zu starke Kopplung (\(\beta\)) führen häufig zu chaotischem Verhalten und weniger gezielter Energieübertragung.
+Die beste Energieübertragung erreichst du, wenn die Anregungsfrequenz möglichst genau auf die Eigenfrequenz des Systems abgestimmt ist und die Dämpfung nicht zu stark ist. Zu hohe Amplituden führen ggf. zu chaotischem Verhalten und weniger gezielter Energieübertragung.
 
 **Typische Anzeichen für effektive Energieaufnahme:**  
 - Große, regelmäßige Auslenkungen im Zeitplot.
@@ -82,7 +80,7 @@ Das Modell basiert auf der **Resonanzfeldtheorie**. Hier werden System und Umgeb
    ```
    streamlit run app.py
    ```
-3. Steuere die Parameter, starte die Simulation, und beobachte die Resultate live.
+3. Steuere die Parameter, starte die Simulation und beobachte die Resultate live.
 
 ---
 
