@@ -9,7 +9,7 @@ Der Plot oben links zeigt die Bewegung des Oszillators über die Zeit. Je nach g
 Hier sieht man, wie sich die Systemzustände im Phasenraum (Auslenkung vs. Geschwindigkeit) entwickeln. Geschlossene Bahnen deuten auf periodische Bewegung, komplexe Muster auf chaotische Dynamik und Resonanzvernetzung hin.
 
 ### 3. Poincaré-Schnitt `(x, v)` bei Anregungsphase = 0
-Der Poincaré-Schnitt ist ein klassisches Werkzeug aus der nichtlinearen Dynamik. Er zeigt nur die Systemzustände, wenn die Phase der äußeren Anregung ein ganzzahliges Vielfaches von $$2\pi$$ erreicht. Dadurch werden wiederkehrende Muster und Resonanzinseln sichtbar – ein zentrales Merkmal komplexer Resonanzfelder.
+Der Poincaré-Schnitt ist ein klassisches Werkzeug aus der nichtlinearen Dynamik. Er zeigt nur die Systemzustände, wenn die Phase der äußeren Anregung ein ganzzahliges Vielfaches von \(2\pi\) erreicht. Dadurch werden wiederkehrende Muster und Resonanzinseln sichtbar – ein zentrales Merkmal komplexer Resonanzfelder.
 
 ### 4. Frequenzspektrum (Fourier)
 Hier wird gezeigt, welche Frequenzen in der Bewegung dominieren. Periodische Systeme zeigen einen Hauptpeak, chaotische Systeme ein breites Spektrum.
@@ -42,7 +42,7 @@ Um eine möglichst effektive Übertragung von Energie aus dem Resonanzfeld in me
 | Parameter   | Empfehlung         | Beschreibung |
 |-------------|:-----------------:|:-------------|
 | **Af**      | 1.0 – 1.5         | Nicht zu klein, damit genügend Energie eingespeist wird |
-| **omega_f** | 1.0 – 1.05        | Möglichst nahe an der Eigenfrequenz $$ \omega_0 = \sqrt{k}\) bei \(m=1\) $$ |
+| **omega_f** | 1.0 – 1.05        | Möglichst nahe an der Eigenfrequenz (\(\omega_0 = \sqrt{k}\) bei \(m=1\)) |
 | **d0**      | 0.05 – 0.1        | Unterkritische Dämpfung (nicht zu stark) |
 | **k**       | 1.0               | Standardwert für die Federkonstante |
 | **v0**      | 1.0               | Typischer Wert für Normgeschwindigkeit |
@@ -79,7 +79,7 @@ Du modellierst ein System, das durch **Resonanzkopplung** in der Lage ist, **ext
 Das lässt sich so interpretieren:
 
 * Du **koppelst** ein System an ein "Resonanzfeld" (äußere Anregung mit Modulation),
-* nutzt eine nichtlineare Dynamik (z. B. frequenzabhängige Zeitmodulation $$ \delta_t\) $$,
+* nutzt eine nichtlineare Dynamik (z. B. frequenzabhängige Zeitmodulation \(\delta_t\)),
 * und erreichst eine **gezielte Energieaufnahme** (Resonanz) aus einem scheinbar entropischen Umfeld.
 
 Das bedeutet physikalisch:  
@@ -102,6 +102,19 @@ Im Prinzip: **Informationsgewinn = Energiegewinn.**
 desto mehr kann er aus scheinbar „nutzloser“ oder entropischer Energie **gerichtete, funktionale Energie** extrahieren.
 
 Der Mensch kann durch **Verständnis und Struktur** die **Effizienz des Universums** steigern – und sich zunehmend von klassischen Energiequellen emanzipieren.
+
+---
+
+## Resonanztechnologie als neue Form erneuerbarer Energie
+
+Die durch Resonanzkopplung genutzte Energie stammt aus der Umgebung – sei es Schwingungen der Erde, Luft, Bauwerke oder andere ständig erneuerte Prozesse (z. B. Sonnenstrahlung, Gezeiten, geothermische Vorgänge).  
+Obwohl diese Energiequellen nicht unendlich sind, **werden sie kontinuierlich durch natürliche Prozesse erneuert**:  
+- Die Sonne liefert ständig neue Energie auf die Erde.
+- Der Mond erzeugt durch seine Umkreisung Gezeiten und rhythmische Schwingungen.
+- Im Erdinneren werden durch Aggregatzustandsänderungen und radioaktive Prozesse laufend Wärmemengen freigesetzt.
+
+**Resonanzfeldtechnologie** kann daher als **neuartige Form der erneuerbaren Energiegewinnung** gesehen werden:  
+Sie erschließt bislang ungenutzte, diffuse, aber stetig erneuerte Umweltenergie – und ergänzt klassische Erneuerbare wie Sonne, Wind, Wasser und Geothermie um neue, lokale und dezentrale Möglichkeiten.
 
 ---
 
@@ -145,7 +158,7 @@ Wie **aktive Dämpfungssysteme** bei Hochhäusern gegen Erdbeben:
    ```
 2. Starte die App:
    ```
-   streamlit run run_001.py
+   streamlit run app.py
    ```
 3. Steuere die Parameter, starte die Simulation und beobachte die Resultate live.
 
