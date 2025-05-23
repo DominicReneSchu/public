@@ -41,10 +41,8 @@ Das Konzept eröffnet Perspektiven für innovative Energietechnologien und neue 
 
 ---
 
-## Nächster Schritt: Prototypenbau
+## Nichtlineare Resonanzanalyse (Resonanzfeldtheorie)
 
-Auf Basis der Simulationsergebnisse ist der Bau eines physischen Prototyps der logische nächste Schritt.  
-Mit 3D-Druck lassen sich präzise mechanische Bauteile schnell und kostengünstig fertigen.  
-Ein Tischlaser kann zur exakten Ausrichtung und Steuerung der Resonanzfelder verwendet werden.
-
-Der Prototyp dient der experimentellen Verifikation der Simulation und ermöglicht die Optimierung des Resonanzkopplungsprinzips für spätere technische Anwendungen.
+- [Nichtlineare Resonanzanalyse (Resonanzfeldtheorie)](nichtlineare_resonanzanalyse.md)  
+   
+Dieses Tool visualisiert die Dynamik eines nichtlinearen, energie- und feldgekoppelten Oszillators auf Grundlage der **Resonanzfeldtheorie**. Die Simulation ist als interaktive Webanwendung umgesetzt (z. B. mit [Streamlit](https://streamlit.io)), und erlaubt die Live-Steuerung zentraler Systemparameter.
