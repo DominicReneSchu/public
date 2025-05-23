@@ -9,7 +9,7 @@ Der Plot oben links zeigt die Bewegung des Oszillators über die Zeit. Je nach g
 Hier sieht man, wie sich die Systemzustände im Phasenraum (Auslenkung vs. Geschwindigkeit) entwickeln. Geschlossene Bahnen deuten auf periodische Bewegung, komplexe Muster auf chaotische Dynamik und Resonanzvernetzung hin.
 
 ### 3. Poincaré-Schnitt `(x, v)` bei Anregungsphase = 0
-Der Poincaré-Schnitt ist ein klassisches Werkzeug aus der nichtlinearen Dynamik. Er zeigt nur die Systemzustände, wenn die Phase der äußeren Anregung ein ganzzahliges Vielfaches von $$ \2\pi\$$ erreicht. Dadurch werden wiederkehrende Muster und Resonanzinseln sichtbar – ein zentrales Merkmal komplexer Resonanzfelder.
+Der Poincaré-Schnitt ist ein klassisches Werkzeug aus der nichtlinearen Dynamik. Er zeigt nur die Systemzustände, wenn die Phase der äußeren Anregung ein ganzzahliges Vielfaches von `2π` erreicht. Dadurch werden wiederkehrende Muster und Resonanzinseln sichtbar – ein zentrales Merkmal komplexer Resonanzfelder.
 
 ### 4. Frequenzspektrum (Fourier)
 Hier wird gezeigt, welche Frequenzen in der Bewegung dominieren. Periodische Systeme zeigen einen Hauptpeak, chaotische Systeme ein breites Spektrum.
@@ -42,7 +42,7 @@ Um eine möglichst effektive Übertragung von Energie aus dem Resonanzfeld in me
 | Parameter   | Empfehlung         | Beschreibung |
 |-------------|:-----------------:|:-------------|
 | **Af**      | 1.0 – 1.5         | Nicht zu klein, damit genügend Energie eingespeist wird |
-| **omega_f** | 1.0 – 1.05        | Möglichst nahe an der Eigenfrequenz $$ \omega_0 = \sqrt{k}\) bei \(m=1\) $$ |
+| **omega_f** | 1.0 – 1.05        | Möglichst nahe an der Eigenfrequenz (`omega_0 = sqrt(k)` bei `m=1`) |
 | **d0**      | 0.05 – 0.1        | Unterkritische Dämpfung (nicht zu stark) |
 | **k**       | 1.0               | Standardwert für die Federkonstante |
 | **v0**      | 1.0               | Typischer Wert für Normgeschwindigkeit |
@@ -60,11 +60,11 @@ Die beste Energieübertragung erreichst du, wenn die Anregungsfrequenz möglichs
 
 ## Wirkungsgrad der Energieübertragung
 
-Die Simulation berechnet den **Wirkungsgrad** η, der angibt, wie viel von der eingespeisten Feldenergie als mittlere mechanische Energie im System umgesetzt wird:
+Die Simulation berechnet den **Wirkungsgrad** `η`, der angibt, wie viel von der eingespeisten Feldenergie als mittlere mechanische Energie im System umgesetzt wird:
 
-$$
-\eta = \frac{\text{mittlere mechanische Energie}}{\text{eingebrachte Arbeit aus dem Feld}}
-$$
+```
+η = (mittlere mechanische Energie) / (eingebrachte Arbeit aus dem Feld)
+```
 
 - Ein Wirkungsgrad von z. B. **9 %** bedeutet: 9 % der aus dem Feld zugeführten Energie werden in gerichtete, mechanische Energie umgesetzt. Der Rest wird durch Dämpfung und Verluste dissipiert.
 - **Wichtig:** Die Feldenergie ist zwar möglicherweise in der Umgebung "vorhanden", aber ihre Nutzbarkeit ist durch Kopplung, Resonanzbedingungen und Verluste begrenzt – nicht durch Magie, sondern durch Physik.
@@ -79,8 +79,9 @@ Du modellierst ein System, das durch **Resonanzkopplung** in der Lage ist, **ext
 Das lässt sich so interpretieren:
 
 * Du **koppelst** ein System an ein "Resonanzfeld" (äußere Anregung mit Modulation),
-* nutzt eine nichtlineare Dynamik (z. B. frequenzabhängige Zeitmodulation $$ \delta_t\) $$,
+* nutzt eine nichtlineare Dynamik (z. B. frequenzabhängige Zeitmodulation `delta_t`),
 * und erreichst eine **gezielte Energieaufnahme** (Resonanz) aus einem scheinbar entropischen Umfeld.
+
 
 Das bedeutet physikalisch:  
 **Ein Teil der Entropie wird lokal in Ordnung (gerichtete Energie) umgewandelt** – natürlich im Rahmen der Thermodynamik, aber **durch intelligente Kopplung an Resonanzbedingungen**.
