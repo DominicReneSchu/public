@@ -1,43 +1,98 @@
-# 🧮 Simulationen zur mathematischen Herleitung der Pi-ε-Theorie
+# Schu-Resonanzfeldtheorie – Python Toolkit
 
-Dieses Verzeichnis enthält alle interaktiven und numerischen Modelle zur schrittweisen Herleitung der Theorie.  
-Ziel ist es, zentrale Gleichungen, Resonanzphänomene und neue Naturkonstanten durch Simulationen greifbar zu machen.
-
----
-
-## 🔹 Strukturübersicht
-
-### 1. Simulationen zur mathematischen Herleitung der Theorie
-- `pi-e-theorie001.py` – Simulation 001  
-- `pi-e-theorie002.py` – Simulation 002  
-- `pi-e-theorie003.py` – Simulation 003  
-- `pi-e-theorie004.py` – Simulation 004  
-- `pi-e-theorie005.py` – Simulation 005  
-- `pi-e-theorie006.py` – Simulation 006  
-- `pi-e-theorie007.py` – Simulation 007  
-- `pi-e-theorie008.py` – Simulation 008  
-- `pi-e-theorie009.py` – Simulation 009  
-- `pi-e-theorie010.py` – Simulation 010  
-- `pi-e-theorie011.py` – Simulation 011  
-- `pi-e-theorie012.py` – Simulation 012  
-- `pi-e-theorie013.py` – Simulation 013  
-- `pi-e-theorie013.py` – Simulation 014  
-- `pi-e-theorie014.py` – Simulation 015  
-- `pi-e-theorie015.py` – Simulation 016  
-- `pi-e-theorie016.py` – Simulation 017  
-- `pi-e-theorie017.py` – Simulation 018  
-- `pi-e-theorie018.py` – Simulation 019 
-
-
+**Offene Forschungsplattform zur Resonanzfeldtheorie und zugehörigen Simulationen**  
+_Fokus: Energie, Physik, Gesellschaft und Technologie der Zukunft_  
+© Dominic Schu, 2025 – Alle Rechte vorbehalten.
 
 ---
 
-## 📂 Weitere Hinweise
+## Überblick
 
-- Alle Skripte sind in **Python** geschrieben.  
-- Die Modelle basieren auf konkreten Formeln aus dem Buch.  
-- Jedes Skript ist modular aufgebaut und dokumentiert.
+Dieses Toolkit bietet eine vollständige, wissenschaftlich fundierte Implementierung der Schu-Resonanzfeldtheorie in Python – von der numerischen Simulation bis zur Visualisierung, Batch-Analyse und Anbindung an LaTeX-Theorie-Pakete.
+
+- **Numerische Simulation** der Schu-Resonanzenergie und Resonanzentropie
+- **Batch-Studien** und automatisierter Parameter-Sweep
+- **Visualisierung als 3D-Plot oder Heatmap**
+- **Modular, robust, forschungstauglich**
+- **Unit-Tests und Jupyter-Beispiele**
+---
+
+## Installation
+
+```bash
+pip install numpy matplotlib pandas
+# Optional für Heatmaps:
+pip install seaborn
+```
 
 ---
 
-➡️ [Zurück zum Hauptprojekt](../../../README.md)
+## Schnelleinstieg
+
+### Resonanzfeld berechnen und plotten
+
+```python
+import numpy as np
+from schu_resonanzfeld import (
+    berechne_resonanzenergie,
+    berechne_resonanzentropie,
+    plot_resonanzfeld,
+)
+
+A = np.linspace(0.1, 5.0, 500)
+T = np.linspace(0.1, 5.0, 500)
+
+E_res, T_grid, A_grid = berechne_resonanzenergie(A, T)
+S = berechne_resonanzentropie(E_res)
+
+plot_resonanzfeld(T_grid, A_grid, E_res, S)
+```
+
+### Batch-Studien durchführen & Ergebnisse speichern
+
+Siehe [examples/demo_batch_study.ipynb](examples/demo_batch_study.ipynb).
+
+---
+
+## API-Referenz
+
+Alle Funktionen sind mit Docstrings dokumentiert.  
+Siehe [docs/index.md](docs/index.md) für Details.
+
+---
+
+## Tests
+
+```bash
+pytest tests/
+```
+
+---
+
+## Dateistruktur
+
+```plaintext
+schu_resonanzfeld.py             # Hauptmodul
+tests/test_schu_resonanzfeld.py  # Unit-Tests
+examples/demo_batch_study.ipynb  # Jupyter-Notebook für Batch-Analysen
+docs/index.md                    # Dokumentation
+requirements.txt                 # Abhängigkeiten
+README.md                        # Dieses Dokument
+```
+
+---
+
+## Weiterentwicklung & Mitmachen
+
+- **Eigene Modelle und Batch-Analysen** einfach durch Anpassung/Erweiterung der Python-Module.
+- **Einbindung in größere Workflows** (z.B. HPC, Cloud, Jupyter, Streamlit) ist vorbereitet.
+- **Mitarbeit willkommen!** Siehe CONTRIBUTING.md (bei Bedarf anlegen).
+
+---
+
+## Lizenz
+
+© Dominic Schu, 2025 – Alle Rechte vorbehalten.  
+Verwendung für Forschungs- und Bildungszwecke gestattet.
+
+---
