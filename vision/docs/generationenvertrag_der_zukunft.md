@@ -27,7 +27,7 @@ $$
 Ein **Faktor von 1.200**: Aus **3 Milliarden werden 3.600 Milliarden**.
 
 > 🔗 **Zur Simulation:**  
-> [generationenvertrag.py](../../simulationen/generationenvertrag/generationenvertrag.py)
+> [generationenvertrag.py](../simulationen/generationenvertrag/generationenvertrag.py)
 
 > *„Was heute als Idealismus erscheint, wird morgen als klügste Investition der Menschheitsgeschichte gelten.“*
 
