@@ -54,13 +54,6 @@ Das Überschreiten eines kritischen Schwellwerts der Amplitudensteigerung signal
 
 ---
 
-## 📎 Siehe auch
-
-- [Schu-Gleichung](../../docs/markdown/schu_gleichung.md)  
-- [Resonanzreaktor](../resonanzreaktor/resonanzreaktor.md) 
-
----
-
 ## Literaturhinweise
 
 - Born, M. & Wolf, E. (1999). Principles of Optics. Cambridge: Cambridge University Press.
