@@ -55,7 +55,9 @@ Der Dualismus ist folglich kein Widerspruch, sondern ein Phänomen der Resonanz 
 ⬅️ [zurück](../../../README.md)
 
 ---
+
 ### Fußnoten
+
 [^1]: Siehe Axiom 1 im Abschnitt Grundlagen. Resonanz ist nicht orts- oder mediumabhängig.
 
 [^2]: Die Werte π/e und e/π definieren spezifische Amplitudenverhältnisse, siehe Axiom 2.
@@ -80,5 +82,4 @@ Der Dualismus ist folglich kein Widerspruch, sondern ein Phänomen der Resonanz 
 
 [^12]: Projektionsprinzip bei Messungen wird in vielen physikalischen Experimenten bestätigt.
 
----
 
