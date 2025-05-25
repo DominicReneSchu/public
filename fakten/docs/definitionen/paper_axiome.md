@@ -189,6 +189,7 @@ Alle Faktoren sind per Definition positiv, daher ist das Produkt E stets positiv
 **Satz:** \(E\) ist streng monoton steigend in \(f\).
 
 **Beweis:**  
+
 $$\
 \frac{dE}{df} = \pi \varepsilon h > 0,
 \$$
