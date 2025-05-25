@@ -71,7 +71,7 @@ brew install ffmpeg
 ## Beispiel (Screenshot)
 
 <p align="center">
-  <img src="bilder/wand_animation_example.png" alt="Simulation einer Kraftfeldwand" width="400"/>
+  <img src="bilder/wand_animation_example.png" alt="Simulation einer Kraftfeldwand" width="600"/>
 </p>
 
 
@@ -81,12 +81,6 @@ brew install ffmpeg
 
 Füge den vollständigen Python-Code aus `wand_animation_ultimate.py` in eine Notebook-Zelle ein.  
 Passen Sie die Parameter oder das User Interface nach Bedarf an.
-
----
-
-## Literaturhinweise
-
-- Schu, D. (2025). Resonanzfeldtheorie. [Online-Publikation].
 
 ---
 
