@@ -4,7 +4,7 @@ Willkommen im offiziellen Repository zur **Pi-𝜀-Theorie**:
 Eine interdisziplinäre Theorie über das Universum, die Naturgesetze, Energie, Zeit und Bewusstsein in einem kohärenten Modell vereint.  
 
 <p align="center">
-  <img src="Bilder/cover.png" alt="Buchcover" width="400"/>
+  <img src="bilder/cover.png" alt="Buchcover" width="400"/>
 </p>
 
 ## 🧠 Zentrale Idee
