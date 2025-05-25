@@ -70,6 +70,7 @@ Die Simulation visualisiert den Energiegewinn bei Variation von Frequenz und Tem
 ## Literaturhinweise
 
 - Padamsee, H. (2009). RF Superconductivity: Science, Technology, and Applications. Weinheim: Wiley-VCH.
+
 ---
 
-⬅️ [zurück](../../../README.md)
+⬅️ [zurück](README.md)

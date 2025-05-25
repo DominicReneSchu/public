@@ -87,6 +87,7 @@ Die **Investition in den Resonanzreaktor** ist wirtschaftlich, ökologisch und g
 
 - Padamsee, H. (2009). RF Superconductivity: Science, Technology, and Applications. Weinheim: Wiley-VCH.
 - Rifkin, J. (2011). The Third Industrial Revolution. New York: Palgrave Macmillan.
+
 ---
 
-⬅️ [zurück](../../README.md)
+⬅️ [zurück](README.md)
