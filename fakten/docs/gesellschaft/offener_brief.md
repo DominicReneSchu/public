@@ -25,7 +25,7 @@ Alle folgenden Analysen und Empfehlungen stützen sich explizit auf die Axiome d
 * **Axiom 6: Messung als Projektion**  
   Narrative, Medien und politische Kommunikation wirken als Projektionsmechanismen, welche die gesellschaftliche Wirkebene selektiv formen.
 
-[^1]: Vollständige Liste der Axiome: [paper_axiome.md](paper_axiome.md)
+[^1]: Vollständige Liste der Axiome: [paper_axiome.md](../definitionen/paper_axiome.md)
 
 ---
 
