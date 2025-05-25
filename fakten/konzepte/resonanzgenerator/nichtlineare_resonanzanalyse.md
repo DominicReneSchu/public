@@ -171,4 +171,4 @@ Wie **aktive Dämpfungssysteme** bei Hochhäusern gegen Erdbeben:
 - Alle Visualisierungen sind direkt mit den Konzepten der Resonanzfeldtheorie verknüpft.
 - Die App kann beliebig erweitert werden, z. B. um Lyapunov-Exponenten, Dimensionsschätzungen oder Batch-Parameter-Scans.
 
-- [Python-Simulation](nichtlineare_resonanzanalyse.py)
+- [Python-Simulation](nichtlinieare_resonanzanalyse.py)
