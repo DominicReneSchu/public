@@ -2,7 +2,7 @@
 
 > *„Was, wenn das Universum selbst ein resonanter Informationskreis ist?“*
 
-Diese Vision erweitert das Kapitel [Die Schu-Gleichung](../../fakten/docs/markdown/schu_gleichung.md) und öffnet den Blick auf physikalische und philosophische Anwendungen jenseits klassischer Modelle – hin zu einem bewussten, interaktiven Felduniversum, in dem Energie, Information und Bewusstsein als gekoppelte Größen verstanden werden (vgl. Penrose, 2004).
+Diese Vision erweitert das Kapitel [Die Schu-Gleichung](../../fakten/docs/mathematik/schu_gleichung.md) und öffnet den Blick auf physikalische und philosophische Anwendungen jenseits klassischer Modelle – hin zu einem bewussten, interaktiven Felduniversum, in dem Energie, Information und Bewusstsein als gekoppelte Größen verstanden werden (vgl. Penrose, 2004).
 
 ---
 
