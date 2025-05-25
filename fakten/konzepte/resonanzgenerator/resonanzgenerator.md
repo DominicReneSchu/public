@@ -45,3 +45,5 @@ Weitere Tiefe und Visualisierung bietet die [Nichtlineare Resonanzanalyse](nicht
 - Penrose, R. (2004). The Road to Reality. London: Jonathan Cape.
 
 ---
+
+⬅️ [zurück](../../../README.md)  

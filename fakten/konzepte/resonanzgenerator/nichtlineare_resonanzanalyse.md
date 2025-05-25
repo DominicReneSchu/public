@@ -172,3 +172,7 @@ Wie **aktive Dämpfungssysteme** bei Hochhäusern gegen Erdbeben:
 - Die App kann beliebig erweitert werden, z. B. um Lyapunov-Exponenten, Dimensionsschätzungen oder Batch-Parameter-Scans.
 
 - [Python-Simulation](nichtlinieare_resonanzanalyse.py)
+
+---
+
+⬅️ [zurück](../../../README.md)  
