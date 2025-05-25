@@ -285,3 +285,5 @@ Der Anfang bestimmt die Richtung, Tiefe und Qualität aller weiteren Schwingunge
 → Kategorie: Quelle & Impuls ✴️
 
 ---
+
+⬅️ [Zurück zur Start](../../../README.md)
