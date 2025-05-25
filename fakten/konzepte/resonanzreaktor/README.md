@@ -5,7 +5,7 @@ Der **Resonanzreaktor** ist ein neuartiges Energiekonzept, das modernste Technol
 ---
 
 <p align="center">
-  <img src="Bilder/resonanzreaktor.png" alt="bilder/resonanzreaktor.png" width="400"/>
+  <img src="bilder/resonanzreaktor.png" alt="bilder/resonanzreaktor.png" width="400"/>
 </p>
 
 ---
