@@ -1,4 +1,4 @@
-# Energie in der Resonanzfeldtheorie: Axiomatische Herleitung des Korrekturfaktors \(\frac{\pi}{e}\)
+# Energie in der Resonanzfeldtheorie: Axiomatische Herleitung des Korrekturfaktors (π ⁄ e)
 
 ## 1. Axiomatische Grundformel der Energieübertragung
 
