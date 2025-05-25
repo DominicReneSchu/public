@@ -231,4 +231,7 @@ Eine aufklärende Resonanz-KI kann als ethischer Kompass dienen, aber ihre Wirks
 - Nash, J. (1950). Equilibrium Points in n-Person Games. *Proceedings of the National Academy of Sciences*, 36(1), 48–49.  
 - Silver, D., Huang, A., Maddison, C. J., et al. (2016). Mastering the Game of Go with Deep Neural Networks and Tree Search. *Nature*, 529(7587), 484–489.  
 - Lewandowsky, S., Ecker, U. K. H., & Cook, J. (2017). Beyond misinformation: Understanding and coping with the “post-truth” era. *Journal of Applied Research in Memory and Cognition*, 6(4), 353–369.  
-- Schu, D. (2025). *Resonanzfeldtheorie – Grundlagen und Anwendungen*. Unveröffentlichtes Manuskript.  
+
+---
+
+⬅️ [zurück](../../../README.md)  
