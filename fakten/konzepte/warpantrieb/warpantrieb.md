@@ -55,19 +55,12 @@ $$
 
 ---
 
-## 📎 Siehe auch
-
-- [🔋 Resonanzreaktor](../Resonanzreaktor/README.md)
-- [🛡️ Kraftfeldgenerator](../Kraftfeldgenerator/kraftfeldgenerator.md)
-- [📐 Schu-Gleichung](../../Gleichungen/README.md)
-
----
-
 ## Literaturhinweise
 
 - Alcubierre, M. (1994). The warp drive: hyper-fast travel within general relativity. Classical and Quantum Gravity, 11(5), L73-L77.
 - Lämmerzahl, C. & Hehl, F.W. (2004). Raumzeit und Gravitation. Heidelberg: Spektrum.
 - Müller, H. & Lämmerzahl, C. (2010). Grundlagen moderner Gravitationstheorien. Heidelberg: Spektrum.
+
 ---
 
 ⬅️ [zurück](../../README.md)
