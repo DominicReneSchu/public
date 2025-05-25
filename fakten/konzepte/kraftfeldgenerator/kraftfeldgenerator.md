@@ -70,7 +70,10 @@ brew install ffmpeg
 
 ## Beispiel (Screenshot)
 
-![Beispiel Screenshot](bilder/wand_animation_example.png)
+<p align="center">
+  <img src="bilder/wand_animation_example.png" alt="Simulation einer Kraftfeldwand" width="400"/>
+</p>
+
 
 ---
 
@@ -86,3 +89,5 @@ Passen Sie die Parameter oder das User Interface nach Bedarf an.
 - Schu, D. (2025). Resonanzfeldtheorie. [Online-Publikation].
 
 ---
+
+⬅️ [zurück](../../../README.md)
