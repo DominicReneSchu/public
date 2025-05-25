@@ -286,4 +286,4 @@ Der Anfang bestimmt die Richtung, Tiefe und Qualität aller weiteren Schwingunge
 
 ---
 
-⬅️ [Zurück zur Start](../../../README.md)
+⬅️ [zurück](../../../README.md)
