@@ -52,10 +52,6 @@ Der Dualismus ist folglich kein Widerspruch, sondern ein Phänomen der Resonanz 
 
 ---
 
-⬅️ [Zurück zum Inhaltsverzeichnis](README.md)
-⬅️ [Zurück zum Start](../README.md)
-
----
 
 ### Fußnoten
 [^1]: Siehe Axiom 1 im Abschnitt Grundlagen. Resonanz ist nicht orts- oder mediumabhängig.
