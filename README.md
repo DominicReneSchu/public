@@ -106,6 +106,12 @@ Die Resonanzfeldtheorie erweitert bestehende Modelle in Physik, Biologie und Ges
 
 ---
 
+### 📚 Empirisch
+
+* [**Empirische Beweisführung mithilfe von Cern-Daten**](fakten/empirisch/dokumentation.md)
+
+---
+
 ## 🧩 Philosophie der Theorie
 
 Die Theorie geht davon aus, dass Systeme nicht isoliert existieren, sondern über ihre Fähigkeit zur **Resonanzkopplung** mit Schwingungsfeldern beschrieben werden müssen.
