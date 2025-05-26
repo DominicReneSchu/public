@@ -99,9 +99,9 @@ $$\
 
 folgt:
 
-$$\
+$$
 \frac{d\tau^*}{dt} = -\lambda \cdot \tau^*
-\$$
+$$
 
 Dies entspricht einer Relaxationsgleichung, die beschreibt, wie sich der Zeit-Kopplungsfaktor dynamisch anpasst – abhängig von der Phasenbeziehung im Resonanzsystem.
 
