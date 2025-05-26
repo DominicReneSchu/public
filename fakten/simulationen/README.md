@@ -14,7 +14,7 @@ Ziel ist es, zentrale Gleichungen, Resonanzphänomene und neue Naturkonstanten d
 - [Simulationen zum Atommodell](simulation_atommodell/simulation_atommodell.md)  
   - Simulation eines quantenmechanischen Atommodells basierend auf Resonanzphänomenen.
   
-- [Mathematischer Beweis](simulationen/mathematischer_beweis/README.md)  
+- [Mathematischer Beweis](mathematischer_beweis/README.md)  
   - Simulation eines quantenmechanischen Atommodells basierend auf Resonanzphänomenen.
   
 - [Resonanz-KI-Modell – Zwei gekoppelte Akteure und Feldanalyse](simulationen/resonanz_ki/begleitkapitel_resonanz_ki.md)  
