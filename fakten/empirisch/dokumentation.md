@@ -58,7 +58,11 @@ Für zukünftige Arbeiten sind Blind-Analysen, erweiterte Hintergrundmodelle und
 
 ---
 
-## Beispielcode
+## Plot
+
+<p align="center">
+  <img src="bilder/plot_01.png" alt="Auswertung der Daten" width="600"/>
+</p>
 
 ## Beispielcode und Visualisierung
 
