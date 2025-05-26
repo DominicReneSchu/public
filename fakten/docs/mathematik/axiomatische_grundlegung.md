@@ -36,16 +36,22 @@ Ein System, das durch seine Wechselwirkung mit einem Resonanzfeld aktiv in die R
 
 ## Kurzfassung der Axiome (Tabellarisch)
 
-| Nr. | Axiom | Kurzbeschreibung |
-|-----|-------|-----------------|
-| 1 | Universelle Schwingung | Jede Entität ist durch periodische Schwingung beschreibbar (klassisch & quantenmechanisch). |
-| 2 | Superposition & Interferenz | Lineare Überlagerung innerhalb definierter Felder (z. B. elektromagnetisch, akustisch); Einschränkungen bei stark nichtlinearen Systemen. |
-| 3 | Resonanzbedingung | Resonanz tritt auf, wenn die Frequenzen in einem rationalen Verhältnis stehen (f₁ / f₂ ∈ ℚ); auch nahe Resonanz (Resonanzfenster, |f₁ / f₂ − m / n| < δ für kleines δ > 0) ist relevant. |
-| 4 | Kopplungsenergie | Die Energieübertragung durch Resonanz ist gegeben durch die Formel E = π · ε · h · f, wobei π die zyklische Ordnung repräsentiert und ε die Resonanz-Kopplungskonstante ist. |
-| 5 | Stabiles Resonanzfeld | Ein stabiles Resonanzfeld entsteht durch die Bildung stehender Wellenmuster, die sich in messbaren Größen (z. B. Energieübertrag oder Oszillation) widerspiegeln. |
-| 6 | Informationsfluss | Informationen werden ausschließlich über kohärente Resonanzpfade (d. h. durch synchronisierte Phase und Frequenz) ausgetauscht; dies gilt sowohl klassisch (Shannon) als auch im quantenmechanischen Sinne. |
-| 7 | Beobachter als Resonator | Der Beobachter interagiert aktiv mit dem Resonanzfeld, was dessen Struktur und damit die „Realitätsbildung“ beeinflusst (siehe Wheeler – Participatory Universe, Observer Effect). |
+| Nr. | Axiom                        | Kurzbeschreibung                                                                                                                      |
+|-----|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Universelle Schwingung       | Jede Entität ist durch periodische Schwingung beschreibbar (klassisch & quantenmechanisch).                                           |
+| 2   | Superposition & Interferenz  | Lineare Überlagerung innerhalb definierter Felder (z. B. elektromagnetisch, akustisch); Einschränkungen bei stark nichtlinearen Systemen. |
+| 3   | Resonanzbedingung            | Resonanz tritt auf, wenn die Frequenzen in einem rationalen Verhältnis stehen (`f₁/f₂ ∈ ℚ`). Auch nahe Resonanz ist relevant (siehe unten). |
+| 4   | Kopplungsenergie             | Die Energieübertragung durch Resonanz ist gegeben durch `E = π · ε · h · f`, wobei π die zyklische Ordnung repräsentiert und ε die Resonanz-Kopplungskonstante ist. |
+| 5   | Stabiles Resonanzfeld        | Ein stabiles Resonanzfeld entsteht durch die Bildung stehender Wellenmuster, die sich in messbaren Größen (z. B. Energieübertrag oder Oszillation) widerspiegeln. |
+| 6   | Informationsfluss            | Informationen werden ausschließlich über kohärente Resonanzpfade (d. h. durch synchronisierte Phase und Frequenz) ausgetauscht; dies gilt sowohl klassisch (Shannon) als auch im quantenmechanischen Sinne. |
+| 7   | Beobachter als Resonator     | Der Beobachter interagiert aktiv mit dem Resonanzfeld, was dessen Struktur und damit die „Realitätsbildung“ beeinflusst (siehe Wheeler – Participatory Universe, Observer Effect). |
 
+---
+
+**Ergänzung zu Axiom 3 (Resonanzfenster):**
+
+Auch nahe Resonanz ist relevant („Resonanzfenster“):  
+`|f₁/f₂ − m/n| < δ` für kleines δ > 0
 ---
 
 ## 1. Einleitung
