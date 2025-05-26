@@ -10,7 +10,7 @@ Die Energiekugel ist ein zentrales Konzept der Resonanzfeldtheorie, das Schwingu
 - **Axiom 5 (Geometrisierung der Energie):** Energie entspricht geometrisch dem Radius im Zeit-Zeit-Polarkoordinatensystem.
 - **Axiom 6 (Messung als Projektion):** Messereignisse entsprechen Projektionen von Feldzuständen in den Kugelraum.
 
-Details zu den Axiomen: [Axiome der Resonanzfeldtheorie](./axiome.md)
+Details zu den Axiomen: [Axiome der Resonanzfeldtheorie](../definitionen/paper_axiome.md)
 
 ---
 
