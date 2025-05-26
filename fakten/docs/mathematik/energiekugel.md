@@ -33,10 +33,11 @@ Die Energiekugel integriert beide Anteile im geometrischen Sinne: Der Radius der
 Die Energie eines Feldes im Resonanzmodell ergibt sich aus:
 
 $$
-E = |A|^2 \cdot f \cdot h \qquad \text{mit} \quad A \in \left[\frac{e}{\pi}, \frac{\pi}{e}\right]
+E = |A|^2 · f · h,    wobei   A ∈ [e/π, π/e]
 $$
 
-Dabei ist \(A\) die Amplitude der Schwingung im erlaubten Resonanzbereich, \(f\) die Frequenz und \(h\) das Plancksche Wirkungsquantum. In den Zeit-Zeit-Koordinaten (\(t_1, t_2\)) entspricht dies einer Polarkoordinate, wobei der Radius die Energie darstellt.
+Dabei ist A die Amplitude der Schwingung im erlaubten Resonanzbereich, f die Frequenz und h das Plancksche Wirkungsquantum. In den Zeit-Zeit-Koordinaten (t₁, t₂) entspricht dies einer Polarkoordinate, wobei der Radius die Energie darstellt.
+
 
 ---
 
