@@ -1,23 +1,26 @@
 # 🧮 Simulationen zur praktischen Anwendung der Resonanzfeldtheorie
 
-Dieses Verzeichnis enthält alle interaktiven und numerischen Modelle zur schrittweisen Herleitung der Theorie.  
-Ziel ist es, zentrale Gleichungen, Resonanzphänomene und neue Naturkonstanten durch Simulationen greifbar zu machen.
+Dieses Verzeichnis enthält interaktive und numerische Modelle zur schrittweisen Herleitung der Resonanzfeldtheorie.  
+Ziel ist es, zentrale Gleichungen, Resonanzphänomene und neue Naturkonstanten durch Simulationen greifbar und nachvollziehbar zu machen.
 
----
+## 📊 Interaktive und numerische Simulationen
 
-## 🔹 Strukturübersicht
-
-### 1. Simulationen
-
-- [Simulation Resonanzfeldtheorie](simulation_resonanzfeldtheorie.md)  
+- [Simulation Resonanzfeldtheorie](resonanzfeld/simulation_resonanzfeldtheorie.md)  
   - Eine interaktive Simulation, die das klassische Doppelpendel als Resonanzsystem darstellt.
 
-- [Simulation eines Doppelpendels](Doppelpendel.md)  
+- [Simulation eines Doppelpendels](doppelpendel/begleitkapitel_doppelpendel.md)  
   - Eine interaktive Simulation, die das klassische Doppelpendel als Resonanzsystem darstellt.
   
-- [Simulationen zum Atommodell](simulation_Atommodell.md)  
+- [Simulationen zum Atommodell](simulation_atommmodell/simulation_atommodell.md)  
   - Simulation eines quantenmechanischen Atommodells basierend auf Resonanzphänomenen.
+  
+- [Mathematischer Beweis](simulationen/mathematischer_beweis/README.md)  
+  - Simulation eines quantenmechanischen Atommodells basierend auf Resonanzphänomenen.
+  
+- [Resonanz-KI-Modell – Zwei gekoppelte Akteure und Feldanalyse](simulationen/resonanz_ki/begleitkapitel_resonanz_ki.md)  
+  - Dieses Kapitel erläutert die Konzeption, numerische Umsetzung und Interpretation des Resonanz-KI-Modells.
+
 
 ---
 
-➡️ [Zurück zum Start](../README.md)
+➡️ [zurück](../../README.md)

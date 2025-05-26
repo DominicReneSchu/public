@@ -27,6 +27,17 @@ pip install seaborn
 
 ---
 
+### 1. Dokumentation
+
+- [Schu-Resonanzfeldtheorie – Python Toolkit](docs/index.md)  
+  - Dokumentation des Python-Toolkits
+
+- [Begleitkapitel zur Simulation](begleitkapitel_resonanzfeld.md)  
+  - Ein kompakter numerischer Beweis der Schu-Resonanzfeldtheorie
+
+- [Beitrag zur Schu-Resonanzfeldtheorie – Python Toolkit](CONTRIBUTING.md)  
+  - Hier findest du Hinweise, wie du beitragen kannst – egal ob als Wissenschaftler, Entwickler oder Interessierter.
+
 ## Schnelleinstieg
 
 ### Resonanzfeld berechnen und plotten

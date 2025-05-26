@@ -7,7 +7,7 @@ Dieses Paket ermöglicht die numerische Simulation, Analyse und Visualisierung v
 
 ## Übersicht
 
-- **Berechnung der Schu-Resonanzenergie** auf Basis normierter Amplitude ($A$), Temperatur ($T$), Eigenfrequenz ($\omega_0$) und Dämpfung ($\gamma$).
+- **Berechnung der Schu-Resonanzenergie** auf Basis normierter Amplitude (A), Temperatur (T), Eigenfrequenz (omega₀) und Dämpfung (gamma).
 - **Entropie-Berechnung** als Maß für die Ordnung im Resonanzfeld.
 - **Batch- und Parameterstudien**: Systematische Scans und Export der Ergebnisse.
 - **Modulare Struktur**: Leicht erweiterbar für neue Modelle, Kopplungen und Visualisierungen.
@@ -78,7 +78,7 @@ Berechnet das Resonanzfeld für die Gitter aus $A$ und $T$.
 
 ### `berechne_resonanzentropie(E_res)`
 
-Berechnet die Resonanzentropie $S = -E_{res} \cdot \ln(E_{res})$.
+Berechnet die Resonanzentropie S = –E_res · ln(E_res).
 
 **Parameter:**  
 - `E_res` (`ndarray`): Resonanzenergie (muss > 0 sein)
@@ -97,20 +97,6 @@ Berechnet die Resonanzentropie $S = -E_{res} \cdot \ln(E_{res})$.
 - `E_res`, `S`: Felder
 - `save_path` (optional): Dateiname für PNG-Speicherung
 - `show` (optional): Anzeigeplot (Standard: `True`)
-
----
-
-## Weiterführendes
-
-- **Theorie und Herleitung:**  
-  [Resoshift (LaTeX, Papers)](https://github.com/DominicReneSchu/Resoshift)  
-  [Pi-e-Theorie (LaTeX)](https://github.com/DominicReneSchu/Pi-e-Theorie)
-
-- **Beispiele und Batch-Analysen:**  
-  [examples/demo_batch_study.ipynb](../examples/demo_batch_study.ipynb)
-
-- **Unit-Tests:**  
-  [tests/test_schu_resonanzfeld.py](../tests/test_schu_resonanzfeld.py)
 
 ---
 

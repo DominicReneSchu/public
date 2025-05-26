@@ -100,6 +100,12 @@ Die Resonanzfeldtheorie erweitert bestehende Modelle in Physik, Biologie und Ges
 
 ---
 
+### 📚 Simulationen
+
+* [**Weiterführende Simulationen**](fakten/simulationen/README.md)
+
+---
+
 ## 🧩 Philosophie der Theorie
 
 Die Theorie geht davon aus, dass Systeme nicht isoliert existieren, sondern über ihre Fähigkeit zur **Resonanzkopplung** mit Schwingungsfeldern beschrieben werden müssen.
