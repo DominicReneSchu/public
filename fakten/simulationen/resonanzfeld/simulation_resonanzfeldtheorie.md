@@ -67,7 +67,7 @@ $$
 ---
 
 <p align="center">
-  <img src="Bilder/RFT.png" alt="RFT" width="800"/>
+  <img src="bilder/simulation_rft.png" alt="RFT" width="600"/>
 </p>
 
 ---
