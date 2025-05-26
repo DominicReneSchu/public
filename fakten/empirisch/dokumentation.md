@@ -4,7 +4,7 @@
 
 Diese Analyse untersucht mögliche Resonanzstellen in einer großen Masse von Datenpunkten. Ziel ist es, signifikante Überschüsse von Ereignissen um bestimmte `ε`-Werte nachzuweisen und statistisch abzusichern. Dabei kommen dynamische Fensterbreiten, p-Wert-Berechnung und Multipletest-Korrektur zum Einsatz.
 
-Die Daten umfassen insgesamt `n` Events und wurden aus [https://opendata.cern.ch/search?q=Particle%20masses&l=list&order=asc&p=1&s=10&sort=bestmatch] gewonnen.
+Die Daten umfassen insgesamt `n=10000` Events und wurden aus [https://opendata.cern.ch/search?q=Particle%20masses&l=list&order=asc&p=1&s=10&sort=bestmatch] gewonnen.
 
 ## Methodik
 
