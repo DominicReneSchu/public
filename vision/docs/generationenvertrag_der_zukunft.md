@@ -21,7 +21,7 @@ Eine Investition in *Zeit*, *Erkenntnis*, *Unsterblichkeit*.
 Unter der Annahme einer jährlichen Wachstumsrate von **10 %** – realistisch durch KI, Automatisierung, kollektives Wissen und exponentielle Effekte (vgl. Brynjolfsson & McAfee, 2014) – ergibt sich:
 
 $$
-\text{Zukunftswert} = 3\,\text{Mrd.} \times (1{,}10)^{100} \approx 3.600\,\text{Mrd. Euro}
+\text{Zukunftswert} = 3\,0\text{Mrd.} \times (1{,}10)^{100} \approx 3.600\,\text{Mrd. Euro}
 $$
 
 Ein **Faktor von 1.200**: Aus **3 Milliarden werden 3.600 Milliarden**.
@@ -29,7 +29,6 @@ Ein **Faktor von 1.200**: Aus **3 Milliarden werden 3.600 Milliarden**.
 > 🔗 **Zur Simulation:**  
 > [generationenvertrag.py](../simulationen/generationenvertrag/generationenvertrag.py)
 
-> *„Was heute als Idealismus erscheint, wird morgen als klügste Investition der Menschheitsgeschichte gelten.“*
 
 
 ## Die Bedeutung
