@@ -37,3 +37,7 @@ Das Doppelpendel modelliert grundlegende Prinzipien von Nichtlinearität, Chaos 
 ## Fazit
 
 Das Doppelpendel demonstriert eindrücklich, wie einfache mechanische Systeme durch Kopplung und Nichtlinearität chaotisches Verhalten zeigen. Die Erforschung dieses Systems vertieft das Verständnis von Resonanz und Chaos und eröffnet vielfältige technische Anwendungsmöglichkeiten.
+
+---
+
+⬅️ [zurück](../../../README.md)
