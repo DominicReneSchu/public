@@ -38,8 +38,7 @@ $$\
 E = h \cdot f
 \$$
 
-ist ein Spezialfall der Resonanzfeldtheorie, der eine Projektion der vollen Resonanzenergie auf die reale Zeitachse darstellt. Sie entspricht dem Grenzfall maximaler Entkopplung der Resonanzstruktur, bei der der Kopplungsfaktor \(\varepsilon\) nicht berücksichtigt wird.
-
+ist ein Spezialfall der Resonanzfeldtheorie, der eine Projektion der vollen Resonanzenergie auf die reale Zeitachse darstellt. Sie entspricht dem Grenzfall maximaler Entkopplung der Resonanzstruktur, bei der der Kopplungsfaktor ε nicht berücksichtigt wird.
 ---
 
 ## 4. Fazit
@@ -50,7 +49,7 @@ $$\
 E = \left(\frac{\pi}{e}\right) \cdot h \cdot f
 \$$
 
-Erst durch Berücksichtigung der komplexen Zeitstruktur und der Kopplungskonstanten \(\varepsilon = \frac{1}{e}\) wird die volle Resonanzenergie sichtbar – eine Erkenntnis, die klassische Formeln erweitert, nicht ersetzt.
+Erst durch Berücksichtigung der komplexen Zeitstruktur und der Kopplungskonstanten ε = 1/e wird die volle Resonanzenergie sichtbar – eine Erkenntnis, die klassische Formeln erweitert, nicht ersetzt.
 
 > _„Der Fehler liegt nicht in der Gleichung – sondern in ihrer Vereinfachung.“_
 
