@@ -72,3 +72,7 @@ Die vorliegende Implementation bietet nicht nur eine konkrete Überprüfung der 
 ---
 
 *© Dominic Schu, 2025 – Alle Rechte vorbehalten.*
+
+---
+
+⬅️ [zurück](README.md)

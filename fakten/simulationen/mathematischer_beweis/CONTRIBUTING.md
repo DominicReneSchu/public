@@ -55,3 +55,7 @@ Dein Beitrag steht unter derselben Lizenz wie das Hauptprojekt (siehe [README.md
 ---
 
 Danke für dein Engagement für offene, nachvollziehbare Wissenschaft!
+
+---
+
+⬅️ [zurück](README.md)

@@ -75,4 +75,4 @@ Das Resonanz-KI-Modell zeigt, wie durch einfache Kopplung von Einzelsystemen kom
 
 ---
 
-⬅️ [zurück](../../../README.md)
+⬅️ [zurück](../README.md)
