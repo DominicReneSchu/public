@@ -28,6 +28,4 @@ Simulation starten:
 	
 ---
 
-➡️ [Zur Simulation](Simulation_Atommodell/run.py)
-➡️ [Zurück zum Inhaltsverzeichnis](README.md)
-➡️ [Zurück zum Start](../README.md)
+⬅️ [zurück](../README.md)
