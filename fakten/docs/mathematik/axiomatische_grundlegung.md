@@ -52,6 +52,7 @@ Ein System, das durch seine Wechselwirkung mit einem Resonanzfeld aktiv in die R
 
 Auch nahe Resonanz ist relevant („Resonanzfenster“):  
 `|f₁/f₂ − m/n| < δ` für kleines δ > 0
+
 ---
 
 ## 1. Einleitung
