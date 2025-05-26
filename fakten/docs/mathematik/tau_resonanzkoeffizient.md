@@ -100,7 +100,7 @@ $$\
 folgt:
 
 $$
-\frac{d\tau^*}{dt} = -\lambda \cdot τ*
+dτ*/dt = -λ · τ*
 $$
 
 Dies entspricht einer Relaxationsgleichung, die beschreibt, wie sich der Zeit-Kopplungsfaktor dynamisch anpasst – abhängig von der Phasenbeziehung im Resonanzsystem.
