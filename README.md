@@ -144,7 +144,7 @@ Wenn du mitwirken möchtest, erstelle einen Pull Request oder kontaktiere mich d
 
 ## 📄 Lizenz
 
-* [Lizenz](lizenz/schu-lizenz_v1.3.md)
+* [Lizenz](lizenz/schu-lizenz_v1.4.md)
 
 ---
 
