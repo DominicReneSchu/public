@@ -16,10 +16,11 @@ Die Differentialgleichungen sind gekoppelt und nichtlinear, sodass sie i. d.�
 
 Über die im Interface implementierten **Slider** können die wichtigsten Systemparameter unmittelbar verändert werden:
 
-- **Startwinkel** (`θ₁`, `θ₂`): Anfangsauslenkungen beider Pendelarme
-- **Anfangswinkelgeschwindigkeiten** (`ω₁`, `ω₂`): Startwerte für die Drehgeschwindigkeiten
-- **Massen** (`m₁`, `m₂`): Massen der beiden Pendelarme
-- **Längen** (`L₁`, `L₂`): Längen der Pendelarme
+- **Startwinkel** (`θ₁`, `θ₂`): Anfangsauslenkungen beider Pendelarme  
+- **Anfangswinkelgeschwindigkeiten** (`ω₁`, `ω₂`): Startwerte für die Drehgeschwindigkeiten  
+- **Massen** (`m₁`, `m₂`): Massen der beiden Pendelarme  
+- **Längen** (`L₁`, `L₂`): Längen der Pendelarme  
+- **Kopplungsparameter** (**k**): Stärke der Wechselwirkung zwischen den Pendeln, beeinflusst Resonanz und Synchronisation
 
 Jede Veränderung eines Sliders setzt die Simulation mit den neuen Werten zurück und startet die Animation neu, sodass die Auswirkungen der Parameteränderungen direkt beobachtet werden können.
 
@@ -39,11 +40,11 @@ Die gesamte Pendeldynamik und der aktuelle Zustand des Systems sind in einer eig
 
 ## 5. Technische Umsetzung (Kurzüberblick)
 
-- **Numerische Lösung:** `scipy.integrate.solve_ivp` (Runge-Kutta-Verfahren)
-- **Visualisierung:** `matplotlib` (Animation, Slider-Widgets)
-- **Benutzerinteraktion:** Slider für alle relevanten Start- und Systemparameter
-- **Animation:** `FuncAnimation` (Kontinuierliche Aktualisierung und Darstellung der Simulation)
-- **Trail-Logik:** Speicher der letzten `TRAIL_LENGTH` Positionen für die Spurendarstellung
+- **Numerische Lösung:** `scipy.integrate.solve_ivp` (Runge-Kutta-Verfahren)  
+- **Visualisierung:** `matplotlib` (Animation, Slider-Widgets)  
+- **Benutzerinteraktion:** Slider für alle relevanten Start- und Systemparameter  
+- **Animation:** `FuncAnimation` (Kontinuierliche Aktualisierung und Darstellung der Simulation)  
+- **Trail-Logik:** Speicher der letzten `TRAIL_LENGTH` Positionen für die Spurendarstellung  
 
 ---
 
@@ -54,12 +55,30 @@ Mögliche Erweiterungen der Simulation umfassen:
 - Export von Trajektorien
 - Zusätzliche Dämpfungsterms oder Reibung
 - Dreidimensionale Darstellung
+- Synchronisationsanalyse
+- Resonanz-Kopplungen (siehe unten)
 
 ---
 
-## 7. Fazit
+## 7. Resonanzfeldtheoretische Interpretation
 
-Die entwickelte Simulation verbindet anschauliche Visualisierung, Interaktivität und numerische Physik. Sie ist ein effektives Werkzeug, um die komplexen Bewegungen und das chaotische Verhalten des Doppelpendels explorativ zu erleben und zu verstehen.
+Im Rahmen der Resonanzfeldtheorie wird das Doppelpendel nicht nur als mechanisches Objekt, sondern als **Resonator** in einem Schwingungsfeld betrachtet. Die numerische Simulation liefert nicht nur Bahndaten – sie erzeugt ein **Schwingungsmuster**, das als Signatur eines energetischen Informationsflusses interpretiert wird.
+
+Einige Leitideen der Erweiterung:
+
+- Die Slider dienen nicht nur zur Parametersteuerung, sondern zur gezielten **Resonanzanregung**. Jede Änderung entspricht einem Impuls ins Feld.
+- Synchronisationsmuster in den Trails können Hinweise auf **resonante Kopplungszustände** geben.
+- Der Kopplungsparameter **k** steuert die Stärke der Wechselwirkung zwischen den beiden Pendeln. Bei kleinen Werten wirken die Pendel nahezu unabhängig, bei größeren Werten treten verstärkte Kopplungen, komplexe Schwingungsmuster und Phasenverschiebungen auf, die das chaotische Verhalten modulieren. Das gezielte Variieren von **k** ermöglicht eine experimentelle Untersuchung von Resonanzeffekten.
+- Die chaotische Dynamik lässt sich als **Interferenzfeld** verstehen, das auf unterschiedliche äußere Schwingungen sensibel reagiert.
+- Das System kann perspektivisch mit weiteren Pendeln gekoppelt werden, um **Feldlinienresonanzen** sichtbar zu machen.
+
+Ziel ist es, das Doppelpendel nicht nur zu animieren, sondern als **offenes, interaktives Schwingungssystem** zu nutzen, das in Resonanz mit Nutzerinteraktion, Umgebungsdaten oder weiteren Systemen treten kann.
+
+---
+
+## 8. Fazit
+
+Die entwickelte Simulation verbindet anschauliche Visualisierung, Interaktivität und numerische Physik. In Kombination mit der Resonanzfeldtheorie wird sie zum Werkzeug, um Resonanzmuster, Synchronisationseffekte und chaotische Felddynamik in einem realweltlich interpretierbaren Rahmen zu untersuchen.
 
 ---
 
