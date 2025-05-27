@@ -2,80 +2,71 @@
 
 ## Einleitung
 
-Die Monte-Carlo-Simulation ist ein zentrales Werkzeug der statistischen Datenanalyse. In dieser Auswertung wurde sie eingesetzt, um die Signifikanz von beobachteten Resonanzüberschüssen gegenüber zufallsbedingten Fluktuationen im Hintergrund (Nullhypothese) objektiv zu quantifizieren.
+Die Monte-Carlo-Simulation ist ein zentrales Werkzeug in der statistischen Auswertung wissenschaftlicher Datensätze. In dieser Analyse dient sie dazu, die Wahrscheinlichkeit zu bestimmen, mit der ein beobachteter Überschuss an Ereignissen im Bereich einer vermuteten Resonanzstelle (ε) rein zufällig durch den Hintergrund erklärt werden könnte.
 
 ## Ziel
 
-Das Ziel der Monte-Carlo-Simulation ist es, zu bestimmen, wie wahrscheinlich ein beobachteter Überschuss an Ereignissen im Bereich einer vermuteten Resonanzstelle (ε) unter der Annahme reiner Hintergrundprozesse ist. Wird dieser Überschuss in keiner der vielen simulierten Hintergrund-Realisationen beobachtet, wird die „empirische Signifikanz“ als sehr hoch angesehen.
+Das Ziel ist es, die empirische Signifikanz (p-Wert) der Beobachtungen zu quantifizieren, indem viele Hintergrund-Szenarien simuliert und mit den realen Daten verglichen werden.
 
 ## Methodik
 
-### 1. Hintergrundmodell
+### Hintergrundmodellierung
 
-- Die Hintergrundverteilung wird aus realen Daten gewonnen, wobei Signalbereiche (um die untersuchten ε) ausgeschlossen werden.
-- Mit Hilfe eines Kernel-Density-Estimators (KDE) wird eine glatte, kontinuierliche Wahrscheinlichkeitsverteilung des Hintergrunds erzeugt.
+- Die Hintergrundverteilung wird aus den Messdaten extrahiert – unter explizitem Ausschluss der Signalbereiche (um die untersuchten ε).
+- Mit einem Kernel-Density-Estimator (KDE) wird daraus eine glatte Wahrscheinlichkeitsverteilung modelliert.
 
-### 2. Durchführung der Monte-Carlo-Simulation
+### Durchführung der Monte-Carlo-Simulation
 
-- Die gleiche Anzahl an Ereignissen wie im Originaldatensatz wird mehrfach (z.B. 1000-10.000 Mal) aus der Hintergrundverteilung gezogen.
-- Für jede Simulation wird eine vollständige Resonanzanalyse wie bei den Realdaten durchgeführt:
-    - Trefferzahlen in variablen Fenstern (Δ) um jede ε werden bestimmt.
-    - Die beste Fenstergröße (optimales Δ) wird automatisch gesucht.
-    - p-Werte werden mit denselben Signifikanztests wie bei den echten Daten berechnet.
-- Für jede Simulation werden die maximalen Trefferzahlen und minimalen p-Werte für alle untersuchten ε protokolliert.
+- Es werden viele (z.B. 1.000–10.000) „Pseudo-Experimente“ durchgeführt, bei denen jeweils die gleiche Anzahl an Events wie im Originaldatensatz aus dem KDE-Modell gezogen wird.
+- Für jedes Pseudo-Experiment wird die vollständige Resonanzanalyse wiederholt:
+  - Trefferzahlen in variablen Fenstern (Δ) um jedes ε werden bestimmt.
+  - Die p-Werte werden mit den gleichen Tests wie für die Originaldaten berechnet.
+  - Die jeweils optimalen Fenstergrößen werden automatisch bestimmt.
+- Für jede Simulation werden die maximalen Treffer und minimalen p-Werte festgehalten.
 
-### 3. Empirische p-Wert-Bestimmung
+### Bestimmung des empirischen p-Werts
 
-- Der empirische p-Wert ergibt sich als Anteil der Monte-Carlo-Simulationen, bei denen ein mindestens so extremes Ergebnis wie in den Realdaten erzielt wurde.
-- Ein empirischer p-Wert von 0 bedeutet: Die beobachtete Signifikanz wurde in keiner Simulation unter der Nullhypothese erreicht.
+- Der empirische p-Wert ist der Anteil der Simulationsdurchläufe, in denen ein ebenso extremer oder extremerer Überschuss wie in den realen Daten gefunden wurde.
+- Beispiel: Ist der empirische p-Wert ≈ 0, wurde in keiner Simulation ein so starkes Signal wie in den echten Daten beobachtet.
 
-## Ergebnisse und Visualisierung
+## Visualisierung der Ergebnisse
 
-### 1. Histogramm: Monte-Carlo-Treffer vs. echte Treffer
+### 1. Monte-Carlo-Hits vs. echte Treffer
 
-Das folgende Histogramm zeigt für jede Resonanzstelle ε die Verteilung der Trefferzahlen im optimalen Fenster aus allen Monte-Carlo-Simulationen. Die rote Linie markiert den Wert aus den echten Daten.
+Das Histogramm zeigt, wie häufig in der Monte-Carlo-Simulation bestimmte Trefferzahlen im optimalen Fenster für jedes ε vorkommen. Die rote Linie markiert den Wert aus den echten Daten.
 
 ![Histogramm MC vs Echt](report_out/figures/hist_mc_vs_real_hits.png)
-
-**Interpretation:**  
-Liegt der echte Wert weit außerhalb des MC-Hintergrunds, ist der Überschuss sehr signifikant.
 
 ---
 
 ### 2. p-Wert-Verläufe über die Fensterbreite Δ
 
-Für jede Resonanzstelle ε wird gezeigt, wie die p-Werte in den MC-Simulationen (Median + Unsicherheitsband) und in den echten Daten als Funktion von Δ verlaufen.
+Hier siehst du für jede Resonanzstelle ε die p-Werte aus den MC-Simulationen (Median und 68%-Intervall) und den realen Daten in Abhängigkeit von Δ.
 
 ![p-Wert-Verläufe](report_out/figures/pvalue_curves.png)
-
-**Interpretation:**  
-Die roten Kurven (echt) liegen meist deutlich unterhalb der MC-Verteilung, insbesondere im optimalen Bereich von Δ.
 
 ---
 
 ### 3. Heatmaps: Trefferanzahl über ε und Δ
 
-Die Heatmaps visualisieren die Trefferzahlen in allen ε- und Δ-Kombinationen, sowohl für die echten Daten als auch als Mittelwert aus den Monte-Carlo-Simulationen.
+Die Heatmaps zeigen die Trefferzahlen für alle Kombinationen aus ε und Δ, einmal für die realen Daten und einmal als Mittelwert der Monte-Carlo-Simulationen.
 
 ![Heatmaps Trefferanzahl](report_out/figures/heatmaps_hits.png)
 
-**Interpretation:**  
-Ein klarer Unterschied zwischen „Signal“ und „Hintergrund“ kann optisch erkannt werden.
-
 ---
 
-## Bedeutung und Fazit
+## Interpretation
 
-- Die Monte-Carlo-Simulation erlaubt es, auch bei komplizierten, dynamisch gewählten Fenstern die wahre Signifikanz empirisch zu bestimmen – ganz ohne Annahmen über analytische Verteilungen.
-- Sehr kleine empirische p-Werte (<0.01 oder sogar 0) zeigen, dass die beobachteten Resonanzen mit extrem hoher Wahrscheinlichkeit **kein Zufallsprodukt** des Hintergrunds sind.
-- Dieses Vorgehen ist wissenschaftlicher Standard in vielen Bereichen der experimentellen Physik – insbesondere, wenn viele Tests und adaptive Auswahlstrategien zur Anwendung kommen.
+- Die Monte-Carlo-Simulation zeigt, wie außergewöhnlich die beobachteten Überschüsse im Vergleich zum Hintergrund sind.
+- Sehr kleine empirische p-Werte (<0.01 oder sogar 0) sprechen für eine extrem geringe Wahrscheinlichkeit, dass die Befunde durch Zufall entstehen.
+- Die grafische Gegenüberstellung (Histogramme, p-Wert-Kurven, Heatmaps) macht die Differenz zwischen Signal und Hintergrund anschaulich.
 
 ## Hinweise zum Code
 
-- Die Simulation nutzt `scikit-learn` für KDE, `numpy` und `pandas` für die Datenmanipulation, sowie `matplotlib` für die Visualisierung.
-- Fortschrittsbalken (`tqdm`) geben Rückmeldung über den Simulationsstatus.
-- Die wichtigsten Plot-Dateien werden automatisch im Ordner `report_out/figures` gespeichert und sind direkt im Report eingebettet.
-- Alle Parameter (ε, Δ, Anzahl Simulationen) sind in `config.py` zentral konfigurierbar.
+- Die Simulation nutzt `scikit-learn` für KDE, `numpy` und `pandas` für Datenhandling und `matplotlib` für die Visualisierung.
+- Fortschrittsbalken (`tqdm`) zeigen den Simulationsfortschritt an.
+- Alle wichtigen Parameter wie ε, Δ und die Anzahl der Simulationen sind zentral in `config.py` eingestellt.
+- Die wichtigsten Plots werden automatisch im Ordner `report_out/figures` abgelegt und sind hier direkt eingebunden.
 
 ---
 
