@@ -3,7 +3,7 @@
 Diese interaktive Simulation visualisiert die Energieübertragung zwischen zwei schwingenden Oszillatoren basierend auf der **Schu-Gleichung**:
 
 $$
-E = \pi \cdot \varepsilon \cdot h \cdot (f_1 + f_2)
+E = \pi \cdot 𝓔 \cdot h \cdot (f_1 + f_2)
 $$
 
 <p align="center">
