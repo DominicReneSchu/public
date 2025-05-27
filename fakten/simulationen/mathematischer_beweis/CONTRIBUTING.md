@@ -1,4 +1,4 @@
-# Beitrag zur Schu-Resonanzfeldtheorie – Python Toolkit
+# Beitrag zur Resonanzfeldtheorie – Python Toolkit
 
 Vielen Dank für dein Interesse, dieses wissenschaftliche Open-Toolkit zu verbessern!  
 Hier findest du Hinweise, wie du beitragen kannst – egal ob als Wissenschaftler, Entwickler oder Interessierter.
