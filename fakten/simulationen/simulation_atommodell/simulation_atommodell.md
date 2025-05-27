@@ -13,8 +13,8 @@ Die Anwendung demonstriert Elektronenbahnen, Energiezustände und Übergänge an
 #### 🧩 Struktur
 
 - `run.py` – Einstiegspunkt der Simulation [Link zur run.py](run.py)
-- `parameters_and_functions.py` – Logik für Bahnen und Zustände [Link zur run.py](parameters_and_functions.py)
-- `animation.py` – Darstellung mit Matplotlib [Link zur run.py](animation.py)
+- `parameters_and_functions.py` – Logik für Bahnen und Zustände [Link zur parameters_and_functions.py](parameters_and_functions.py)
+- `animation.py` – Darstellung mit Matplotlib [Link zur animation.py](animation.py)
 - `update.py` – Updates [Link zur update.py](update.py)
 
 
