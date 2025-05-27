@@ -2,7 +2,7 @@
 
 ## Einführung
 
-Diese Analyse untersucht mögliche Resonanzstellen in einer großen Masse von Datenpunkten. Ziel ist es, signifikante Überschüsse von Ereignissen um bestimmte `ε`-Werte nachzuweisen und statistisch abzusichern. Dabei kommen dynamische Fensterbreiten, p-Wert-Berechnung, Multipletest-Korrektur und Bootstrapping zum Einsatz.
+Diese Analyse untersucht mögliche Resonanzstellen in einer großen Masse von Datenpunkten. Ziel ist es, signifikante Überschüsse von Ereignissen um bestimmte `𝓔`-Werte nachzuweisen und statistisch abzusichern. Dabei kommen dynamische Fensterbreiten, p-Wert-Berechnung, Multipletest-Korrektur und Bootstrapping zum Einsatz.
 
 Die Daten umfassen insgesamt `n=10000` Events und wurden aus [https://opendata.cern.ch/search?q=Particle%20masses&l=list&order=asc&p=1&s=10&sort=bestmatch)] gewonnen.
 
@@ -12,14 +12,14 @@ Die Daten umfassen insgesamt `n=10000` Events und wurden aus [https://opendata.c
 
 - **Bereinigung und Validierung der Daten:**  
   NaN-Werte werden entfernt, um eine stabile Hintergrundmodellierung zu gewährleisten.
-- **Definition der Resonanzstellen `ε`:**  
+- **Definition der Resonanzstellen `𝓔`:**  
   Die zu untersuchenden Massenbereiche werden als Liste festgelegt.
 - **Festlegung der Fensterbreiten `Δ`:**  
   Dynamische Auswahl und Variation von Fensterbreiten zur Optimierung der Signifikanzsuche.
 
 ### 2. Dynamische Fensterbreiten-Analyse
 
-Für jeden `ε` wird für verschiedene Fensterbreiten `Δ` die Anzahl der Events im Intervall gezählt. Anschließend wird dasjenige Fenster bestimmt, das (nach Testkorrektur) den signifikantesten Überschuss zeigt.
+Für jeden `𝓔` wird für verschiedene Fensterbreiten `Δ` die Anzahl der Events im Intervall gezählt. Anschließend wird dasjenige Fenster bestimmt, das (nach Testkorrektur) den signifikantesten Überschuss zeigt.
 
 ### 3. Hintergrundschätzung
 
@@ -72,7 +72,7 @@ Die geschätzte Hintergrundrate außerhalb der Signalbereiche beträgt ca. 0.933
 
 ## Fazit und Ausblick
 
-Die Analyse zeigt robuste und signifikante Resonanzüberschüsse bei mehreren `ε`-Werten. Die methodische Absicherung durch Hintergrundschätzung, Multipletest-Korrektur, Bootstrapping und Monte-Carlo-Simulation gewährleistet eine hohe Aussagekraft.
+Die Analyse zeigt robuste und signifikante Resonanzüberschüsse bei mehreren `𝓔`-Werten. Die methodische Absicherung durch Hintergrundschätzung, Multipletest-Korrektur, Bootstrapping und Monte-Carlo-Simulation gewährleistet eine hohe Aussagekraft.
 
 Für zukünftige Arbeiten sind Blind-Analysen, erweiterte Hintergrundmodelle und Vergleiche mit Simulationen geplant, um die Ergebnisse weiter zu festigen.
 
@@ -86,7 +86,7 @@ Für zukünftige Arbeiten sind Blind-Analysen, erweiterte Hintergrundmodelle und
 
 ## Beispielcode und Visualisierung
 
-Die folgende Auswertung zeigt die p-Wert-Verläufe für verschiedene vermutete Resonanzstellen (`ε`). Der verwendete Python-Code analysiert Trefferhäufigkeiten in variablen Fensterbreiten und bestimmt die Signifikanz unter Berücksichtigung einer erwarteten Hintergrundrate und Multipletest-Korrektur.
+Die folgende Auswertung zeigt die p-Wert-Verläufe für verschiedene vermutete Resonanzstellen (`𝓔`). Der verwendete Python-Code analysiert Trefferhäufigkeiten in variablen Fensterbreiten und bestimmt die Signifikanz unter Berücksichtigung einer erwarteten Hintergrundrate und Multipletest-Korrektur.
 
 ```python
 import pandas as pd
