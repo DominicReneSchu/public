@@ -12,10 +12,10 @@ Die Anwendung demonstriert Elektronenbahnen, Energiezustände und Übergänge an
 
 #### 🧩 Struktur
 
-- `run.py` – Einstiegspunkt der Simulation
-- `parameters_and_functions.py` – Logik für Bahnen und Zustände
-- `animation.py` – Darstellung mit Matplotlib
-- `simulation_Atommodell.md` – Projektbeschreibung
+- `run.py` – Einstiegspunkt der Simulation [Link zur run.py](run.py)
+- `parameters_and_functions.py` – Logik für Bahnen und Zustände [Link zur run.py](parameters_and_functions.py)
+- `animation.py` – Darstellung mit Matplotlib [Link zur run.py](animation.py)
+- `update.py` – Updates [Link zur update.py](update.py)
 
 
 Abhängigkeiten installieren:
