@@ -149,8 +149,7 @@ Wenn du mitwirken möchtest, erstelle einen Pull Request oder kontaktiere mich d
 ## 📄 Lizenz
 
 * [Die Nutzung dieses Repos unterliegt der Lizenz: 1.4](lizenz/schu-lizenz_v1.4.md)
-
-**Kontakt:** [info@proreplicate.com]  
+* **Kontakt:** [info@proreplicate.com]  
 
 ---
 
