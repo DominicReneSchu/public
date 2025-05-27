@@ -1,6 +1,6 @@
 # Begleitkapitel: Kompakter numerischer Beweis der Resonanzfeldtheorie
 
-Dieses Kapitel erläutert die numerische Umsetzung und die physikalische Bedeutung der Schu-Resonanzfeldtheorie, wie sie im begleitenden Python-Code realisiert ist. Der Ansatz bietet eine kompakte, nachvollziehbare und visuell überprüfbare Bestätigung zentraler Aussagen der Resonanzfeldtheorie.
+Dieses Kapitel erläutert die numerische Umsetzung und die physikalische Bedeutung der Resonanzfeldtheorie, wie sie im begleitenden Python-Code realisiert ist. Der Ansatz bietet eine kompakte, nachvollziehbare und visuell überprüfbare Bestätigung zentraler Aussagen der Resonanzfeldtheorie.
 
 <p align="center">
   <img src="plot.png" alt="Visualisierung der Resonanzfeldtheorie" width="800"/>
