@@ -9,41 +9,48 @@ def main():
     t = np.linspace(0, 50, 4000)
     m = 1.0
 
+    # Schu-Konstanten
+    schu_alpha_0 = 3.0
+    schu_h_0 = 1.0
+
     # Initialparameter
     omega1_0 = 2 * np.pi * 1.0
     omega2_0 = 2 * np.pi * 1.02
-    k_0 = 0.15
 
     # Plots und Slider
     axcolor = 'lightgoldenrodyellow'
-    fig = plt.figure(figsize=(16, 9))
-    ax_traj = plt.subplot2grid((2, 2), (0, 0))
-    ax_sin = plt.subplot2grid((2, 2), (0, 1))
-    energy_ax = plt.subplot2grid((2, 2), (1, 0), colspan=2)
-    plt.subplots_adjust(left=0.07, right=0.98, top=0.93, bottom=0.37, wspace=0.22, hspace=0.32)
+    fig = plt.figure(figsize=(18, 13))
+    ax_traj = plt.subplot2grid((3, 2), (0, 0))
+    ax_sin = plt.subplot2grid((3, 2), (0, 1))
+    energy_ax = plt.subplot2grid((3, 2), (1, 0), colspan=2)
+    schu_ax = plt.subplot2grid((3, 2), (2, 0))
+    resdiv_ax = plt.subplot2grid((3, 2), (2, 1))
+    plt.subplots_adjust(left=0.07, right=0.98, top=0.94, bottom=0.25, wspace=0.22, hspace=0.36)
 
-    ax_f1 = plt.axes([0.17, 0.28, 0.7, 0.035], facecolor=axcolor)
-    ax_f2 = plt.axes([0.17, 0.23, 0.7, 0.035], facecolor=axcolor)
-    ax_k = plt.axes([0.17, 0.18, 0.7, 0.035], facecolor=axcolor)
-    ax_tol = plt.axes([0.17, 0.13, 0.7, 0.035], facecolor=axcolor)
-    ax_speed = plt.axes([0.17, 0.08, 0.7, 0.035], facecolor=axcolor)
+    ax_f1 = plt.axes([0.17, 0.18, 0.7, 0.025], facecolor=axcolor)
+    ax_f2 = plt.axes([0.17, 0.15, 0.7, 0.025], facecolor=axcolor)
+    ax_alpha = plt.axes([0.17, 0.12, 0.7, 0.025], facecolor=axcolor)
+    ax_tol = plt.axes([0.17, 0.09, 0.7, 0.025], facecolor=axcolor)
+    ax_speed = plt.axes([0.17, 0.06, 0.7, 0.025], facecolor=axcolor)
 
-    # Frequenz-Slider (Hz), Kopplung
+    # Slider
     f1_slider = Slider(ax_f1, 'Frequenz 1 (Hz)', 0.7, 1.3, valinit=1.0, valstep=0.005)
     f2_slider = Slider(ax_f2, 'Frequenz 2 (Hz)', 0.7, 1.3, valinit=1.02, valstep=0.005)
-    k_slider = Slider(ax_k, 'Kopplung k', 0.00, 0.50, valinit=k_0, valstep=0.005)
+    alpha_slider = Slider(ax_alpha, 'Schu-alpha', 0.1, 8.0, valinit=schu_alpha_0, valstep=0.01)
     tol_slider = Slider(ax_tol, 'Toleranz', 0.01, 0.5, valinit=0.1, valstep=0.01)
     speed_slider = Slider(ax_speed, 'Geschwindigkeit', 10, 200, valinit=50, valstep=1)
 
     # Export-Button
-    ax_export = plt.axes([0.82, 0.025, 0.13, 0.045])
+    ax_export = plt.axes([0.82, 0.01, 0.13, 0.035])
     btn_export = Button(ax_export, 'Export Resonanzzeiten', color='lightblue', hovercolor='deepskyblue')
 
     # Initiale Lösung
     def current_omegas():
         return 2 * np.pi * f1_slider.val, 2 * np.pi * f2_slider.val
 
-    t_num, x1_num, v1_num, x2_num, v2_num = solve_coupled_oscillators(t, *current_omegas(), k_slider.val, m=m)
+    t_num, x1_num, v1_num, x2_num, v2_num = solve_coupled_oscillators(
+        t, *current_omegas(), alpha_slider.val, schu_h_0, m=m
+    )
     x1_interp, v1_interp, x2_interp, v2_interp = make_interpolators(t_num, x1_num, v1_num, x2_num, v2_num)
 
     # Trajektorien-Plot inkl. Spur
@@ -69,7 +76,7 @@ def main():
     ax_sin.legend(fontsize='small')
     ax_sin.set_title("Sinusverläufe")
 
-    # Energieplot: Farben und Legende nach Empfehlung
+    # Energieplot
     kin_line, = energy_ax.plot([], [], color='blue', label='kinetisch')
     pot_line, = energy_ax.plot([], [], color='orange', label='potenziell')
     coup_line, = energy_ax.plot([], [], color='purple', label='Kopplung')
@@ -81,13 +88,34 @@ def main():
     energy_ax.legend(loc="upper right")
     energy_ax.set_title("Energieverlauf der gekoppelten Oszillatoren")
 
+    # Schu-Kopplung Plot
+    schu_e_line, = schu_ax.plot([], [], color='red', label='𝓔(t) – Schu-Koppler')
+    schu_e1_line, = schu_ax.plot([], [], color='magenta', linestyle='--', label='Eₛchu₁')
+    schu_e2_line, = schu_ax.plot([], [], color='cyan', linestyle='--', label='Eₛchu₂')
+    schu_ax.set_xlim(t[0], t[-1])
+    schu_ax.set_ylim(0, 1.1)
+    schu_ax.set_xlabel("Zeit")
+    schu_ax.set_ylabel("Schu-Kopplung/Energie")
+    schu_ax.legend(fontsize='small')
+    schu_ax.set_title("Schu-Koppler 𝓔(t) und Schu-Energien")
+
+    # Resonanzdivergenz-Plot
+    resdiv_line, = resdiv_ax.plot([], [], color='green', label='Resonanz-Divergenz')
+    resdiv_ax.set_xlim(t[0], t[-1])
+    resdiv_ax.set_ylim(0, 1.1)
+    resdiv_ax.set_xlabel("Zeit")
+    resdiv_ax.set_ylabel("ΔE Resonanz")
+    resdiv_ax.legend(fontsize='small')
+    resdiv_ax.set_title("Resonanz-Divergenz |E - Eₛchu|")
+
     # Parameter-Container
     params = {
         'tol_slider': tol_slider,
         'min_resonance_distance': 1.0,
         'omega1': 2 * np.pi * f1_slider.val,
         'omega2': 2 * np.pi * f2_slider.val,
-        'k': k_slider.val,
+        'schu_alpha': alpha_slider.val,
+        'schu_h': schu_h_0,
         'm': m
     }
 
@@ -95,25 +123,22 @@ def main():
 
     def wrapped_init():
         resonance_history.clear()
-        return init(line1, line2, sinus_line1, sinus_line2, resonance_line, line1_path, line2_path,
-                    kin_line, pot_line, coup_line, tot_line, energy_ax)
+        return init(
+            line1, line2, line1_path, line2_path, sinus_line1, sinus_line2, resonance_line,
+            kin_line, pot_line, coup_line, tot_line,
+            schu_e_line, schu_e1_line, schu_e2_line, resdiv_line
+            # Keine Achsenobjekte hier!
+        )
 
-    # Die Interpolatoren müssen bei jedem Slider-Update neu erzeugt werden!
     def recalc_interpolators():
         nonlocal x1_interp, v1_interp, x2_interp, v2_interp, t_num, x1_num, v1_num, x2_num, v2_num
         params['omega1'] = 2 * np.pi * f1_slider.val
         params['omega2'] = 2 * np.pi * f2_slider.val
-        params['k'] = k_slider.val
+        params['schu_alpha'] = alpha_slider.val
         t_num, x1_num, v1_num, x2_num, v2_num = solve_coupled_oscillators(
-            t, params['omega1'], params['omega2'], params['k'], m=m
-        )
+            t, params['omega1'], params['omega2'], params['schu_alpha'], params['schu_h'], m=m)
         x1_interp, v1_interp, x2_interp, v2_interp = make_interpolators(t_num, x1_num, v1_num, x2_num, v2_num)
         resonance_history.clear()
-        # Optional: Energiebilanz prüfen/debug
-        from parameters_and_functions import compute_energies
-        T, V1, V2, Vc, E = compute_energies(x1_num, v1_num, x2_num, v2_num, params['omega1'], params['omega2'], params['k'], m)
-        deltaE = np.max(E) - np.min(E)
-        print(f"Delta E: {deltaE:.5e}")
 
     def update_wrapper(frame, *args):
         return update(
@@ -130,8 +155,10 @@ def main():
         interval=1000 / speed_slider.val,
         blit=True,
         fargs=(
-            line1, line2, sinus_line1, sinus_line2, resonance_line, line1_path, line2_path,
-            kin_line, pot_line, coup_line, tot_line, energy_ax
+            line1, line2, line1_path, line2_path, sinus_line1, sinus_line2, resonance_line,
+            kin_line, pot_line, coup_line, tot_line,
+            schu_e_line, schu_e1_line, schu_e2_line, resdiv_line,
+            energy_ax, schu_ax, resdiv_ax
         )
     )
 
@@ -143,7 +170,7 @@ def main():
 
     f1_slider.on_changed(update_params)
     f2_slider.on_changed(update_params)
-    k_slider.on_changed(update_params)
+    alpha_slider.on_changed(update_params)
     tol_slider.on_changed(lambda val: None)
     speed_slider.on_changed(update_speed)
 
