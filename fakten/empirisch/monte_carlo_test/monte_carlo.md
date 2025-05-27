@@ -78,9 +78,3 @@ Zukünftige Erweiterungen könnten adaptive Fenstergrößen, multiple Hypothesen
 ---
 
 ⬅️ [zurück](../../../README.md)
-
-
-
----
-
-⬅️ [zurück](../../../README.md)
