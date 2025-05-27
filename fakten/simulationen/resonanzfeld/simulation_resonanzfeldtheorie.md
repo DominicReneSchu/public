@@ -23,7 +23,7 @@ $$
    Systeme treten dann in Wechselwirkung, wenn ihre Schwingungen in ein ganzzahliges Verhältnis treten – das ist Resonanz.
 
 3. **Energieübertragung folgt der Kopplung.**  
-   Je stärker die Resonanz (Kopplungsgrad $$\varepsilon$$), desto größer die Energieübertragung zwischen den Feldern.
+   Je stärker die Resonanz (Kopplungsgrad $$𝓔$$), desto größer die Energieübertragung zwischen den Feldern.
 
 4. **π ist der Maßstab für kreisförmige Resonanzen.**  
    Die Konstante $$\pi$$ ist nicht nur geometrisch, sondern auch resonanzdynamisch grundlegend – sie beschreibt das Maß der perfekten Rückkopplung.
@@ -32,7 +32,7 @@ $$
    Das Plancksche Wirkungsquantum $$h$$ (oder alternativ $$\eta$$) beschreibt die minimale Wirkungseinheit im Resonanzfeld.
 
 6. **e wird zur Resonanzkopplungskonstanten.**  
-   Die klassische Eulersche Zahl $$e$$ wird als eigene Naturkonstante für Resonanzkopplung interpretiert – im System durch $$\varepsilon$$ ersetzt.
+   Die klassische Eulersche Zahl $$e$$ wird als eigene Naturkonstante für Resonanzkopplung interpretiert – im System durch $$𝓔$$ ersetzt.
 
 7. **Beobachtung erzeugt Resonanz.**  
    Der bewusste Beobachter wirkt als Filter, der selektiv mit Feldern in Resonanz tritt und dadurch Wirklichkeit formt.
@@ -46,18 +46,18 @@ Auswahl der Kopplungsart:
 - **Linear**:  
   
 $$
-E_\mathrm{trans} = \varepsilon \cdot \psi_1 \cdot \psi_2
+E_\mathrm{trans} = 𝓔 \cdot \psi_1 \cdot \psi_2
 $$
 	
 - **Quadratisch**:  
     
 $$
-E_\mathrm{trans} = \varepsilon \cdot \psi_1^2 \cdot \psi_2
+E_\mathrm{trans} = 𝓔 \cdot \psi_1^2 \cdot \psi_2
 $$
 - **Trigonometrisch**:  
     
 $$
-E_\mathrm{trans} = \varepsilon \cdot \sin(\psi_1) \cdot \sin(\psi_2)
+E_\mathrm{trans} = 𝓔 \cdot \sin(\psi_1) \cdot \sin(\psi_2)
 $$
 
 - Anzeige der **Resonanzbedingung** bei rationalem Frequenzverhältnis  
