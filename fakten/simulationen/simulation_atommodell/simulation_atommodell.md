@@ -77,4 +77,8 @@ python run.py
 
 ---
 
+*© Dominic Schu, 2025 – Alle Rechte vorbehalten.*
+
+---
+
 ⬅️ [zurück](../README.md)

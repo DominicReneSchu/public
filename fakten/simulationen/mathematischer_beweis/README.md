@@ -99,9 +99,10 @@ README.md                        # Dieses Dokument
 
 Dein Beitrag steht unter derselben Lizenz wie das Hauptprojekt (siehe [README.md](../../../../README.md)).
 
-© Dominic Schu, 2025 – Alle Rechte vorbehalten.  
-Nutzung für Forschungs- und Bildungszwecke gestattet.
+---
+
+*© Dominic Schu, 2025 – Alle Rechte vorbehalten.*
 
 ---
 
-➡️ [zurück](../../../README.md)
+⬅️ [zurück](../README.md)

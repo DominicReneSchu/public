@@ -87,4 +87,8 @@ pip install numpy matplotlib ipywidgets
 
 ---
 
-➡️ [zurück](../README.md)
+*© Dominic Schu, 2025 – Alle Rechte vorbehalten.*
+
+---
+
+⬅️ [zurück](../README.md)
