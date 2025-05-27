@@ -4,6 +4,10 @@
 
 Die Monte-Carlo-Simulation ist ein zentrales Werkzeug in der statistischen Auswertung wissenschaftlicher Datensätze. In dieser Analyse dient sie dazu, die Wahrscheinlichkeit zu bestimmen, mit der ein beobachteter Überschuss an Ereignissen im Bereich einer vermuteten Resonanzstelle (**ε**) rein zufällig durch den Hintergrund erklärt werden könnte.
 
+### Wissenschaftlicher Kontext
+
+Monte-Carlo-Tests sind Standard in der modernen Physik, Data Science und vielen anderen Forschungsfeldern, wenn analytische Lösungen zu komplex oder nicht verfügbar sind. Sie erlauben eine robuste, empirische Bestimmung von Signifikanzen, insbesondere bei adaptiven oder nicht-trivialen Suchverfahren wie in dieser Resonanzanalyse.
+
 ## Ziel
 
 Das Ziel ist es, die empirische Signifikanz (p-Wert) der Beobachtungen zu quantifizieren, indem viele Hintergrund-Szenarien simuliert und mit den realen Daten verglichen werden.
@@ -19,7 +23,6 @@ Das Ziel ist es, die empirische Signifikanz (p-Wert) der Beobachtungen zu quanti
 
 * Es werden viele (z.B. 1.000–10.000) *Pseudo-Experimente* durchgeführt, bei denen jeweils die gleiche Anzahl an Events wie im Originaldatensatz aus dem KDE-Modell gezogen wird.
 * Für jedes *Pseudo-Experiment* wird die vollständige Resonanzanalyse wiederholt:
-
   * Trefferzahlen in variablen Fenstern (**Δ**) um jedes **ε** werden bestimmt.
   * Die p-Werte werden mit den gleichen Tests wie für die Originaldaten berechnet.
   * Die jeweils optimalen Fenstergrößen werden automatisch bestimmt.
@@ -69,11 +72,27 @@ Die Heatmaps zeigen die Trefferzahlen für alle Kombinationen aus **ε** und **�
 * Alle wichtigen Parameter wie **ε**, **Δ** und die Anzahl der Simulationen sind zentral in `config.py` eingestellt.
 * Die wichtigsten Plots werden automatisch im Ordner `report_out/figures` abgelegt und sind hier direkt eingebunden.
 
+### Ausführung der Simulation
+
+Um die Monte-Carlo-Simulation selbst auszuführen, folge diesen Schritten:
+
+1. Navigiere in das Verzeichnis des Projekts.
+2. Stelle sicher, dass alle erforderlichen Python-Pakete installiert sind (siehe ggf. `requirements.txt`).
+3. Starte das Hauptskript, z.B. mit:
+
+   ```bash
+   python fakten/empirisch/monte_carlo_test/run.py
+   ```
+
+   oder führe das begleitende Jupyter Notebook aus, falls vorhanden.
+
+4. Die erzeugten Ergebnisse und Plots findest du im Ordner `report_out/figures`.
+
 ## Fazit
 
-Die Monte-Carlo-Methode bietet eine robuste Möglichkeit zur statistischen Validierung von Resonanzeffekten. Durch die gezielte Modellierung des Hintergrunds und die wiederholte Zufallssimulation liefert sie eine belastbare Grundlage für die Signifikanzabschätzung.
+Die Monte-Carlo-Methode bietet eine robuste Möglichkeit zur statistischen Validierung von Resonanzeffekten. Durch die gezielte Modellierung des Hintergrunds und die wiederholte Zufallssimulation kann die Signifikanz von Beobachtungen empirisch und nachvollziehbar bestimmt werden.
 
-Zukünftige Erweiterungen könnten adaptive Fenstergrößen, multiple Hypothesentests oder Bayesianische Ansätze integrieren.
+Zukünftige Erweiterungen könnten adaptive Fenstergrößen, multiple Hypothesentests oder bayesianische Ansätze integrieren.
 
 ---
 
