@@ -11,11 +11,13 @@ In der klassischen Mechanik wird das Doppelpendel mithilfe von Lagrange-Gleichun
 Die kinetische und potenzielle Energie eines Doppelpendels mit Massen **m₁**, **m₂** und Längen **l₁**, **l₂** lauten:
 
 **T (kinetisch):**
+
 $$
 T = \frac{1}{2} m_1 l_1^2 \dot{\theta}_1^2 + \frac{1}{2} m_2 \left( l_1^2 \dot{\theta}_1^2 + l_2^2 \dot{\theta}_2^2 + 2 l_1 l_2 \dot{\theta}_1 \dot{\theta}_2 \cos(\theta_1 - \theta_2) \right)
 $$
 
 **V (potenziell):**
+
 $$
 V = - (m_1 + m_2) g l_1 \cos(\theta_1) - m_2 g l_2 \cos(\theta_2)
 $$
