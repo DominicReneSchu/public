@@ -6,7 +6,7 @@ Ziel ist es, zentrale Gleichungen, Resonanzphänomene und neue Naturkonstanten d
 ## 📊 Interaktive und numerische Simulationen
 
 - [Simulation Resonanzfeldtheorie](resonanzfeld/simulation_resonanzfeldtheorie.md)  
-  - Eine interaktive Simulation, die das klassische Doppelpendel als Resonanzsystem darstellt.
+  - Eine interaktive Simulation, die Energieübertragung zwischen zwei schwingenden Oszillatoren basierend auf der **Schu-Gleichung** darstellt:
 
 - [Simulation eines Doppelpendels](doppelpendel/begleitkapitel_doppelpendel.md)  
   - Eine interaktive Simulation, die das klassische Doppelpendel als Resonanzsystem darstellt.
