@@ -1,5 +1,8 @@
 # Resonanzfeldtheorie (Version 2.0)
 
+> **Elevator-Pitch:**  
+> Die Resonanzfeldtheorie ist ein interdisziplinärer Ansatz, der die Realität als ein Feld aus Schwingungen und Resonanzen beschreibt. Sie verbindet Mathematik, Physik, Technik und Philosophie zu einer universellen Theorie, in der Resonanz – nicht Kausalität – das grundlegende Ordnungsprinzip bildet. Ziel ist es, fundamentale Naturgesetze über neue Größen wie **π**, **ℏ** und eine eigenständige Resonanzkonstante **𝓔** neu zu denken und damit ein tieferes Verständnis für Energie, Bewusstsein und Struktur der Welt zu schaffen.
+
 Willkommen im offiziellen Repository der **Resonanzfeldtheorie**.  
 Dieses Projekt vereint Mathematik, Physik, Technik, Philosophie und neue Denkansätze zu einer universellen Theorie der Resonanz.  
 Ziel ist es, die Struktur der Realität über fundamentale Größen wie **π**, **ℏ** und eine neue Resonanzkonstante **𝓔** (vormals als „e“ bekannt, jedoch nicht mehr als Eulersche Zahl zu verstehen) zu beschreiben.
@@ -11,6 +14,7 @@ Ziel ist es, die Struktur der Realität über fundamentale Größen wie **π**, 
 </p>
 
 ---
+
 
 ## Einführung in die Resonanzfeldtheorie
 
@@ -144,7 +148,9 @@ Wenn du mitwirken möchtest, erstelle einen Pull Request oder kontaktiere mich d
 
 ## 📄 Lizenz
 
-* [Lizenz](lizenz/schu-lizenz_v1.4.md)
+* [Die Nutzung dieses Repos unterliegt der Lizenz: 1.4](lizenz/schu-lizenz_v1.4.md)
+
+**Kontakt:** [info@proreplicate.com]  
 
 ---
 
