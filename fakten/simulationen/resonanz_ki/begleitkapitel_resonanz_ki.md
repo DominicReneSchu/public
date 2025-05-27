@@ -27,6 +27,7 @@ $$
 ## 2. Berechnung der Resonanzenergie
 
 Die **Resonanzenergie** E_res des gekoppelten Systems wird analytisch nach folgender Formel berechnet:
+
 $$
 E_\mathrm{res} = \pi \epsilon h \cdot \frac{f_1 + f_2}{2}
 $$
