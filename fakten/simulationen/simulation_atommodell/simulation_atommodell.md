@@ -4,7 +4,7 @@ Interaktive Python-Simulation zur Visualisierung zweier gekoppelter harmonischer
 Das Modell demonstriert Kopplungseffekte, Energieaustausch, Resonanz und Energiebilanz anschaulich und dynamisch.
 
 <p align="center">
-  <img src="screenshot.png" alt="Atommodell" width="800"/>
+  <img src="screenshot.png" alt="Visualisierung gekoppelter Schwingungen im Atommodell" width="800"/>
 </p>
 
 ---
