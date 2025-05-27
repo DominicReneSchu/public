@@ -1,6 +1,6 @@
 # Begleitkapitel: Interaktive Simulation des Doppelpendels
 
-Dieses Kapitel erläutert die Hintergründe, Funktionsweise und Umsetzung der interaktiven Doppelpendel-Simulation, wie sie im vorliegenden Python-Code realisiert ist. Ziel der Anwendung ist es, die dynamischen Eigenschaften eines Doppelpendels anschaulich und intuitiv erfahrbar zu machen. [Link zur Python:](../../simulationen/doppelpendel/doppelpendel.py)
+Dieses Kapitel erläutert die Hintergründe, Funktionsweise und Umsetzung der interaktiven Doppelpendel-Simulation, wie sie im vorliegenden Python-Code realisiert ist. Ziel der Anwendung ist es, die dynamischen Eigenschaften eines Doppelpendels anschaulich und intuitiv erfahrbar zu machen. [Link zur Python](../../simulationen/doppelpendel/doppelpendel.py)
 
 ---
 
