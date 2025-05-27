@@ -103,7 +103,10 @@ Berechnet die Resonanzentropie S = –E_res · ln(E_res).
 ## Lizenz
 
 Dein Beitrag steht unter derselben Lizenz wie das Hauptprojekt (siehe [README.md](../../../../README.md)).
+
 © Dominic Schu, 2025 – Alle Rechte vorbehalten.  
 Nutzung für Forschungs- und Bildungszwecke gestattet.
 
 ---
+
+➡️ [zurück](../README.md)
