@@ -7,7 +7,7 @@ E = \pi \cdot \varepsilon \cdot h \cdot (f_1 + f_2)
 $$
 
 <p align="center">
-  <img src="bilder/simulation_resonanzfeldtheorie.png" alt="simulation_resonanzfeldtheorie" width="800"/>
+  <img src="bilder/simulation_rft.png" alt="simulation_resonanzfeldtheorie" width="800"/>
 </p>
 
 [Link zur Python](../../simulationen/resonanzfeld/simulation_resonanzfeldtheorie.py)
