@@ -15,7 +15,6 @@ Ziel ist es, die Struktur der Realität über fundamentale Größen wie **π**, 
 
 ---
 
-
 ## Einführung in die Resonanzfeldtheorie
 
 Die **Resonanzfeldtheorie** beschreibt die Realität als ein Feld aus Schwingungen und Resonanzen.  
