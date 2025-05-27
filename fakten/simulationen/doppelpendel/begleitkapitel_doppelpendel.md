@@ -4,6 +4,12 @@ Dieses Kapitel erläutert die Hintergründe, Funktionsweise und Umsetzung der in
 
 ---
 
+<p align="center">
+  <img src="screenshot.png" alt="Screenshot-Doppelpendel" width="800"/>
+</p>
+
+---
+
 ## 1. Physikalische Grundlagen
 
 Das Doppelpendel ist ein klassisches Beispiel für ein nichtlineares, chaotisches System. Es besteht aus zwei starren Pendelarmen, die über ein Scharnier miteinander verbunden sind. Die Bewegungsgleichungen ergeben sich aus der Lagrange-Mechanik und sind in einschlägiger Standardliteratur (z. B. Goldstein, "Classical Mechanics") ausführlich hergeleitet. Sie erfassen die Zeitentwicklung der Winkelpositionen und Winkelgeschwindigkeiten beider Pendel.
