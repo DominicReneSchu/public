@@ -2,30 +2,43 @@
 
 ## Einführung
 
-Diese Analyse untersucht mögliche Resonanzstellen in einer großen Masse von Datenpunkten. Ziel ist es, signifikante Überschüsse von Ereignissen um bestimmte `ε`-Werte nachzuweisen und statistisch abzusichern. Dabei kommen dynamische Fensterbreiten, p-Wert-Berechnung und Multipletest-Korrektur zum Einsatz.
+Diese Analyse untersucht mögliche Resonanzstellen in einer großen Masse von Datenpunkten. Ziel ist es, signifikante Überschüsse von Ereignissen um bestimmte `ε`-Werte nachzuweisen und statistisch abzusichern. Dabei kommen dynamische Fensterbreiten, p-Wert-Berechnung, Multipletest-Korrektur und Bootstrapping zum Einsatz.
 
-Die Daten umfassen insgesamt `n=10000` Events und wurden aus [https://opendata.cern.ch/search?q=Particle%20masses&l=list&order=asc&p=1&s=10&sort=bestmatch] gewonnen.
+Die Daten umfassen insgesamt `n=10000` Events und wurden aus [https://opendata.cern.ch/search?q=Particle%20masses&l=list&order=asc&p=1&s=10&sort=bestmatch)] gewonnen.
 
 ## Methodik
 
-### Datenvorverarbeitung
+### 1. Datenvorverarbeitung
 
-- Bereinigung und Validierung der Daten
-- Definition der Resonanzstellen `ε`
-- Festlegung der Fensterbreiten `Δ` (Delta) für die Analyse
+- **Bereinigung und Validierung der Daten:**  
+  NaN-Werte werden entfernt, um eine stabile Hintergrundmodellierung zu gewährleisten.
+- **Definition der Resonanzstellen `ε`:**  
+  Die zu untersuchenden Massenbereiche werden als Liste festgelegt.
+- **Festlegung der Fensterbreiten `Δ`:**  
+  Dynamische Auswahl und Variation von Fensterbreiten zur Optimierung der Signifikanzsuche.
 
-### Dynamische Fensterbreiten-Analyse
+### 2. Dynamische Fensterbreiten-Analyse
 
-Für jeden `ε` wird über eine Reihe von Fensterbreiten `Δ` geprüft, wie viele Events in diesem Fenster liegen. Der optimale `Δ` wird gewählt, um den höchsten statistischen Überschuss zu finden.
+Für jeden `ε` wird für verschiedene Fensterbreiten `Δ` die Anzahl der Events im Intervall gezählt. Anschließend wird dasjenige Fenster bestimmt, das (nach Testkorrektur) den signifikantesten Überschuss zeigt.
 
-### Hintergrundschätzung
+### 3. Hintergrundschätzung
 
-Die Hintergrundrate wird dynamisch aus den Daten geschätzt, indem Signalbereiche um `ε` mit Fensterbreite `Δ` ausgeschlossen und der Mittelwert außerhalb als Hintergrund angenommen wird.
+Die Hintergrundrate wird aus den Daten außerhalb der Signalbereiche mit KDE (Kernel-Density-Estimate) modelliert. Signalbereiche werden dabei ausgespart. Für die Monte-Carlo-Simulation wird aus dem KDE-Sampler gezogen.
 
-### Signifikanztest und Multipletest-Korrektur
+### 4. Signifikanztest und Multipletest-Korrektur
 
-- Berechnung der rohen p-Werte basierend auf der Binomialverteilung
-- Anwendung der Bonferroni-Korrektur zur Kontrolle der Gesamtfehlerwahrscheinlichkeit
+- **Berechnung der rohen p-Werte:**  
+  Für jedes Fenster wird die Trefferzahl mit der Erwartung auf Basis der Binomialverteilung verglichen.
+- **Bootstrapping:**  
+  Zur Quantifizierung der Unsicherheit werden Konfidenzintervalle für Treffer und p-Werte per Bootstrap ermittelt.
+- **Permutationstest (optional):**  
+  Die empirische Verteilung der Treffer wird durch zufälliges Permutieren der Daten simuliert.
+- **Multipletest-Korrektur:**  
+  Bonferroni- und FDR-Korrektur (Benjamini-Hochberg) werden angewendet, um die Fehlerwahrscheinlichkeit über alle Fenster zu kontrollieren.
+
+### 5. Monte-Carlo-Simulation
+
+Mit vielen Hintergrund-Samples wird die Verteilung der maximalen Signifikanz unter der Nullhypothese empirisch bestimmt. Daraus ergibt sich ein empirischer p-Wert für das reale Ergebnis.
 
 ## Ergebnisse
 
@@ -43,16 +56,23 @@ Die geschätzte Hintergrundrate außerhalb der Signalbereiche beträgt ca. 0.933
 
 - Variation der Delta-Schrittweite und Analyse der Ergebnisstabilität
 - Überprüfung verschiedener Epsilon-Listen und Kalibrierungsunsicherheiten
+- Bootstrapping und Permutationstests zur statistischen Absicherung
+- Empirische p-Werte aus Monte-Carlo-Simulation
 
 ## Visualisierung
 
-- Histogramme der Masseverteilung mit markierten Signal- und Hintergrundbereichen
-- p-Wert-Verläufe als Funktion der Fensterbreite für ausgewählte Resonanzen
-- Ergebnisse von Bootstrapping-Tests zur Bestätigung der Signifikanz
+- **Histogramme der Masseverteilung:**  
+  Mit markierten Signal- und Hintergrundbereichen.
+- **p-Wert-Verläufe:**  
+  Für verschiedene Resonanzen als Funktion der Fensterbreite.
+- **Bootstrap-Intervalle:**  
+  Für Trefferzahlen und p-Werte.
+- **Monte-Carlo-Resultate:**  
+  Vergleich der realen mit der Hintergrundverteilung.
 
 ## Fazit und Ausblick
 
-Die Analyse zeigt robuste und signifikante Resonanzüberschüsse bei mehreren `ε`-Werten. Die methodische Absicherung durch Hintergrundschätzung, Multipletest-Korrektur und Zufalls-Simulationen gewährleistet eine hohe Aussagekraft.
+Die Analyse zeigt robuste und signifikante Resonanzüberschüsse bei mehreren `ε`-Werten. Die methodische Absicherung durch Hintergrundschätzung, Multipletest-Korrektur, Bootstrapping und Monte-Carlo-Simulation gewährleistet eine hohe Aussagekraft.
 
 Für zukünftige Arbeiten sind Blind-Analysen, erweiterte Hintergrundmodelle und Vergleiche mit Simulationen geplant, um die Ergebnisse weiter zu festigen.
 
@@ -128,3 +148,21 @@ plt.legend()
 plt.title("p-Werte für verschiedene Epsilon-Resonanzen")
 plt.tight_layout()
 plt.show()
+```
+
+---
+
+## Technische Hinweise
+
+- Das komplette Auswertungs-Framework ist modular aufgebaut (`run.py`, `resonance_tools.py`, `visualization_interactive.py`, `report.py`, `config.py`).
+- Die Kernfunktionen sind mit Docstrings und Typannotationen versehen.
+- Alle wichtigen Schritte sind durch Unit-Tests abgesichert.
+- Für die KDE-Hintergrundmodellierung wird [scikit-learn](https://scikit-learn.org/) genutzt, für Multiple-Testing [statsmodels](https://www.statsmodels.org/).
+- Das Skript prüft und bereinigt NaN-Werte automatisch.
+- Fortschrittsbalken (`tqdm`) visualisiert den Simulationsfortschritt.
+- Die Ergebnisse werden als Markdown-Report inklusive eingebetteter Plots ausgegeben.
+
+---
+
+**Kontakt:**  
+Für Fragen und Erweiterungen: [DominicReneSchu](https://github.com/DominicReneSchu)
