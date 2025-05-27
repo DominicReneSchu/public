@@ -1,4 +1,4 @@
-# Begleitkapitel: Kompakter numerischer Beweis der Schu-Resonanzfeldtheorie
+# Begleitkapitel: Kompakter numerischer Beweis der Resonanzfeldtheorie
 
 Dieses Kapitel erläutert die numerische Umsetzung und die physikalische Bedeutung der Schu-Resonanzfeldtheorie, wie sie im begleitenden Python-Code realisiert ist. Der Ansatz bietet eine kompakte, nachvollziehbare und visuell überprüfbare Bestätigung zentraler Aussagen der Resonanzfeldtheorie.
 
@@ -6,7 +6,7 @@ Dieses Kapitel erläutert die numerische Umsetzung und die physikalische Bedeutu
 
 ## 1. Theoretischer Hintergrund
 
-Die **Schu-Resonanzfeldtheorie** beschäftigt sich mit der Beschreibung und Analyse von Resonanzphänomenen in komplexen Systemen. Im Fokus steht hierbei die explizite Abhängigkeit der Resonanzenergie von Systemparametern wie Amplitude (A) und Temperatur (T).
+Die **Resonanzfeldtheorie** beschäftigt sich mit der Beschreibung und Analyse von Resonanzphänomenen in komplexen Systemen. Im Fokus steht hierbei die explizite Abhängigkeit der Resonanzenergie von Systemparametern wie Amplitude (A) und Temperatur (T).
 Die hier verwendete Formel für die **Resonanzenergie** lautet:
 
 $$

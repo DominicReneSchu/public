@@ -1,13 +1,13 @@
-# Schu-Resonanzfeldtheorie – Python Toolkit
+# Resonanzfeldtheorie – Python Toolkit
 
-Willkommen zur offiziellen Dokumentation des Python-Toolkits zur **Schu-Resonanzfeldtheorie**.  
-Dieses Paket ermöglicht die numerische Simulation, Analyse und Visualisierung von Resonanzphänomenen gemäß der Theorie von Dominic Schu.
+Willkommen zur offiziellen Dokumentation des Python-Toolkits zur **Resonanzfeldtheorie**.  
+Dieses Paket ermöglicht die numerische Simulation, Analyse und Visualisierung von Resonanzphänomenen gemäß der Theorie von Dominic-René Schu.
 
 ---
 
 ## Übersicht
 
-- **Berechnung der Schu-Resonanzenergie** auf Basis normierter Amplitude (A), Temperatur (T), Eigenfrequenz (omega₀) und Dämpfung (gamma).
+- **Berechnung der Resonanzenergie** auf Basis normierter Amplitude (A), Temperatur (T), Eigenfrequenz (omega₀) und Dämpfung (gamma).
 - **Entropie-Berechnung** als Maß für die Ordnung im Resonanzfeld.
 - **Batch- und Parameterstudien**: Systematische Scans und Export der Ergebnisse.
 - **Modulare Struktur**: Leicht erweiterbar für neue Modelle, Kopplungen und Visualisierungen.

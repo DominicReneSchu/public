@@ -1,6 +1,6 @@
 # Begleitkapitel: Resonanz-KI-Modell – Zwei gekoppelte Akteure und Feldanalyse
 
-Dieses Kapitel erläutert die Konzeption, numerische Umsetzung und Interpretation des Resonanz-KI-Modells, das die Kopplung zweier schwingender „Akteure“ im Rahmen der Schu-Resonanzfeldtheorie simuliert. Die numerische Analyse verknüpft klassische Schwingungsphysik mit moderner Signalverarbeitung und KI-naher Modellbildung.
+Dieses Kapitel erläutert die Konzeption, numerische Umsetzung und Interpretation des Resonanz-KI-Modells, das die Kopplung zweier schwingender „Akteure“ im Rahmen der Resonanzfeldtheorie simuliert. Die numerische Analyse verknüpft klassische Schwingungsphysik mit moderner Signalverarbeitung und KI-naher Modellbildung.
 
 ---
 
@@ -26,7 +26,7 @@ $$
 
 ## 2. Berechnung der Resonanzenergie
 
-Die **Schu-Resonanzenergie** E_res des gekoppelten Systems wird analytisch nach folgender Formel berechnet:
+Die **Resonanzenergie** E_res des gekoppelten Systems wird analytisch nach folgender Formel berechnet:
 $$
 E_\mathrm{res} = \pi \epsilon h \cdot \frac{f_1 + f_2}{2}
 $$

@@ -1,16 +1,10 @@
-# Schu-Resonanzfeldtheorie – Python Toolkit
-
-**Offene Forschungsplattform zur Resonanzfeldtheorie und zugehörigen Simulationen**  
-_Fokus: Energie, Physik, Gesellschaft und Technologie der Zukunft_  
-© Dominic Schu, 2025 – Alle Rechte vorbehalten.
-
----
+# Resonanzfeldtheorie – Python Toolkit
 
 ## Überblick
 
-Dieses Toolkit bietet eine vollständige, wissenschaftlich fundierte Implementierung der Schu-Resonanzfeldtheorie in Python – von der numerischen Simulation bis zur Visualisierung, Batch-Analyse und Anbindung an LaTeX-Theorie-Pakete.
+Dieses Toolkit bietet eine vollständige, wissenschaftlich fundierte Implementierung der Resonanzfeldtheorie in Python – von der numerischen Simulation bis zur Visualisierung, Batch-Analyse und Anbindung an LaTeX-Theorie-Pakete.
 
-- **Numerische Simulation** der Schu-Resonanzenergie und Resonanzentropie
+- **Numerische Simulation** der Resonanzenergie und Resonanzentropie
 - **Batch-Studien** und automatisierter Parameter-Sweep
 - **Visualisierung als 3D-Plot oder Heatmap**
 - **Modular, robust, forschungstauglich**
@@ -29,13 +23,13 @@ pip install seaborn
 
 ### 1. Dokumentation
 
-- [Schu-Resonanzfeldtheorie – Python Toolkit](docs/index.md)  
+- [Resonanzfeldtheorie – Python Toolkit](docs/index.md)  
   - Dokumentation des Python-Toolkits
 
 - [Begleitkapitel zur Simulation](begleitkapitel_resonanzfeld.md)  
-  - Ein kompakter numerischer Beweis der Schu-Resonanzfeldtheorie
+  - Ein kompakter numerischer Beweis der Resonanzfeldtheorie
 
-- [Beitrag zur Schu-Resonanzfeldtheorie – Python Toolkit](CONTRIBUTING.md)  
+- [Beitrag zur Resonanzfeldtheorie – Python Toolkit](CONTRIBUTING.md)  
   - Hier findest du Hinweise, wie du beitragen kannst – egal ob als Wissenschaftler, Entwickler oder Interessierter.
 
 ## Schnelleinstieg
