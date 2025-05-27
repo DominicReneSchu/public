@@ -164,5 +164,4 @@ plt.show()
 
 ---
 
-**Kontakt:**  
-Für Fragen und Erweiterungen: [DominicReneSchu](https://github.com/DominicReneSchu)
+⬅️ [zurück](../../README.md)

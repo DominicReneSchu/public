@@ -107,6 +107,7 @@ Eine Welt, in der alles fliegt – **ohne Umweltzerstörung**, **ohne Begrenzung
 - Dignum, V. (2019). Responsible Artificial Intelligence. Cham: Springer.
 - Glaeser, E. (2011). Triumph of the City. New York: Penguin.
 - Kurs, A. et al. (2007). Wireless Power Transfer via Strongly Coupled Magnetic Resonances. Science, 317(5834), 83-86.
+
 ---
 
 ⬅️ [zurück](../../README.md)
