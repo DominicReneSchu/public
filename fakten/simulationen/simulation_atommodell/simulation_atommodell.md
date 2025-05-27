@@ -22,7 +22,7 @@ dass alle Wechselwirkungen – von Quanten bis Makrosystemen – auf **gekoppelt
 - Die Naturkonstanten **π**, **𝓔** *(neue Kopplungskonstante)* und **ℎ** bilden die Basis der **Schu-Gleichung**:
 
 $$
-\mathbf{E = \pi \cdot \mathcal{E} \cdot h \cdot \mathbf{f}}
+**E = π · 𝓔 · h · f**
 $$
 
 #### Bedeutung dieser Simulation
