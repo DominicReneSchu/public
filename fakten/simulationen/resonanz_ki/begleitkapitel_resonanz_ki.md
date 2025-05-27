@@ -2,6 +2,10 @@
 
 Dieses Kapitel erläutert die Konzeption, numerische Umsetzung und Interpretation des Resonanz-KI-Modells, das die Kopplung zweier schwingender „Akteure“ im Rahmen der Resonanzfeldtheorie simuliert. Die numerische Analyse verknüpft klassische Schwingungsphysik mit moderner Signalverarbeitung und KI-naher Modellbildung.
 
+<p align="center">
+  <img src="plot.png" alt="Visualisierung der Resonanzfeldtheorie" width="600"/>
+</p>
+
 ---
 
 ## 1. Modellidee und physikalische Basis
