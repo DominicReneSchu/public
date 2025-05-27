@@ -6,7 +6,7 @@ $$
 E = \pi \cdot \varepsilon \cdot h \cdot (f_1 + f_2)
 $$
 
-
+[Link zur Python](../../simulationen/resonanzfeld/simulation_resonanzfeldtheorie.py)
 ---
 
 ## 🧭 Axiome der Resonanzfeldtheorie
