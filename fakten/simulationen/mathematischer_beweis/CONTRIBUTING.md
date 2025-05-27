@@ -50,7 +50,7 @@ Hier findest du Hinweise, wie du beitragen kannst – egal ob als Wissenschaftle
 
 ## Lizenz
 
-Dein Beitrag steht unter derselben Lizenz wie das Hauptprojekt (siehe [README.md](README.md)).
+Dein Beitrag steht unter derselben Lizenz wie das Hauptprojekt (siehe [README.md](../../../README.md)).
 
 ---
 
