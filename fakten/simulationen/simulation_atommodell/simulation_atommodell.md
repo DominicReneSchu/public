@@ -1,31 +1,80 @@
-# 🧪 Simulation Atommodell
+# 🧪 Simulation gekoppelter Oszillatoren
 
-Interaktive Python-Simulation zur Visualisierung des Bohrschen Atommodells.  
-Die Anwendung demonstriert Elektronenbahnen, Energiezustände und Übergänge anschaulich.
+Interaktive Python-Simulation zur Visualisierung zweier gekoppelter harmonischer Oszillatoren.  
+Das Modell demonstriert Kopplungseffekte, Energieaustausch, Resonanz und Energiebilanz anschaulich und dynamisch.
+
+<p align="center">
+  <img src="screenshot.png" alt="Atommodell" width="800"/>
+</p>
+
+---
+
+## 🧠 Hintergrund: Resonanzfeldtheorie
+
+Diese Simulation ist eingebettet in die **Resonanzfeldtheorie**, die davon ausgeht,  
+dass alle Wechselwirkungen – von Quanten bis Makrosystemen – auf **gekoppelten Schwingungen** basieren.
+
+### Grundannahmen
+
+- **Felder** sind schwingende Informationsräume – Energie manifestiert sich durch **Resonanzkopplung**.
+- **Gekoppelte Oszillatoren** sind ein elementares Modell für Informationsübertragung im Raum.
+- **Energieaustausch ist frequenzbasiert** – maximale Effizienz bei Resonanz.
+- Die Naturkonstanten **π**, **𝓔** *(neue Kopplungskonstante)* und **ℎ** bilden die Basis der **Schu-Gleichung**:
+
+$$
+\mathbf{E = \pi \cdot \mathcal{E} \cdot h \cdot \mathbf{f}}
+$$
+
+#### Bedeutung dieser Simulation
+
+- Zeigt, wie **Energie gezielt in Resonanzfeldern wandert** – sichtbar gemacht durch den **klaren Energie-Pingpong** zwischen den Oszillatoren.
+- Verdeutlicht das Prinzip des **Resonators als Empfänger/Sender** im Feld.
+- Dient als **Experimentierfeld**, um neue Konzepte der Informationskopplung und Feldbewusstseins zu testen.
+
+---
 
 ## 🔧 Funktionen
 
-- Visualisierung von Elektronenbahnen und Energiezuständen  
-- Simulation von Quantensprüngen  
-- Anpassbare Parameter (z. B. Anzahl der Elektronen, Bahnradius)  
-- Einfache Benutzeroberfläche mit Matplotlib
+* **Numerische Lösung** gekoppelter Differentialgleichungen (`solve_ivp`)
+* **Interaktive Live-Animation** der Schwingungen inkl. Spurverfolgung
+* **Resonanz-Erkennung** mit Toleranzfenster und Dopplungsschutz
+* **Live-Justierung per Slider**: Frequenzen, Kopplungsstärke, Toleranz, Animationsgeschwindigkeit
+* **Dynamischer Energieplot**: kinetisch, potenziell, Kopplung, Gesamtenergie
+* **Visuelles Feedback bei Resonanz** (Aufleuchten der Oszillatoren)
+* **Export** von Resonanzzeitpunkten als CSV-Datei
 
-#### 🧩 Struktur
+---
 
-- `run.py` – Einstiegspunkt der Simulation [Link zur run.py](run.py)
-- `parameters_and_functions.py` – Logik für Bahnen und Zustände [Link zur parameters_and_functions.py](parameters_and_functions.py)
-- `animation.py` – Darstellung mit Matplotlib [Link zur animation.py](animation.py)
-- `update.py` – Updates [Link zur update.py](update.py)
+## 🧩 Struktur
 
+* [`run.py`](run.py) – Einstiegspunkt mit UI und Steuerung
+* [`parameters_and_functions.py`](parameters_and_functions.py) – Physik, Gleichungslöser, Energieberechnung
+* [`animation.py`](animation.py) – Animation, Visualisierung, Energie-Plot
 
-Abhängigkeiten installieren:
+---
 
-pip install matplotlib numpy
+## 🚀 Loslegen
 
-Simulation starten:
+### Abhängigkeiten installieren
 
-    python run.py
-	
+```bash
+pip install matplotlib numpy scipy
+```
+
+### Simulation starten
+
+```bash
+python run.py
+```
+
+---
+
+## ℹ️ Hinweise
+
+* Energieerhaltung wird ohne Dämpfung demonstriert.
+* CSV-Export dokumentiert erkannte Resonanzzeitpunkte.
+* Startbedingungen, Dämpfung oder neue Visualisierungen können leicht erweitert werden.
+
 ---
 
 ⬅️ [zurück](../README.md)
