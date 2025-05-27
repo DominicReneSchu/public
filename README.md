@@ -143,10 +143,6 @@ Wenn du mitwirken möchtest, erstelle einen Pull Request oder kontaktiere mich d
 
 ---
 
-© Dominic-René Schu – Resonanzfeldtheorie 2025
-
----
-
 ## 📄 Kontakt
 
 **Kontakt:** [info@proreplicate.com]  
@@ -159,3 +155,8 @@ Wenn du mitwirken möchtest, erstelle einen Pull Request oder kontaktiere mich d
 git clone https://github.com/DominicReneSchu/public.git
 cd public
 ```
+---
+
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+---
