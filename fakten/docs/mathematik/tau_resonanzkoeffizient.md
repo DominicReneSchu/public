@@ -1,4 +1,4 @@
-# Der Resonanzzeitkoeffizient τ* = π / ε
+# Der Resonanzzeitkoeffizient τ* = π / 𝓔
 ---
 
 ## Höherdimensionale Zeit und das Ende des linearen Energiebegriffs
