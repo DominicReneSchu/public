@@ -74,7 +74,7 @@ Dies ermöglicht kohärente Energieübertragung und Systemkopplung.
 Die durch Resonanz übertragene Energie ist proportional zur Frequenz, Planck-Konstante und einer Resonanzkopplungskonstanten ε:
 
 $$\
-E = \pi \cdot \varepsilon \cdot h \cdot f
+E = \pi \cdot 𝓔 \cdot h \cdot f
 \$$
 
 π steht für zyklische Ordnung (Kreisprozesse), ε ist eine neue Naturkonstante.
@@ -121,7 +121,7 @@ Das siebte Axiom hebt hervor, dass der Beobachter nicht passiv, sondern als akti
 Nach Axiom 1 und 4 ist die fundamentale Energie einer Schwingung gegeben durch:
 
 $$\
-E = \pi \cdot \varepsilon \cdot h \cdot f
+E = \pi \cdot 𝓔 \cdot h \cdot f
 \$$
 
 **Beweis:**  
@@ -135,7 +135,7 @@ Dies generalisiert die bekannte Quantelung E = h·f aus der Quantenphysik durch 
 Sind zwei Systeme in Resonanz (f₁ / f₂ = n / m, wobei n und m positive ganze Zahlen sind), dann gilt (nach Axiom 3 und 4):
 
 $$\
-E_{\text{übertr.}} = \pi \cdot \varepsilon \cdot h \cdot f_{\text{res}}
+E_{\text{übertr.}} = \pi \cdot 𝓔 \cdot h \cdot f_{\text{res}}
 \$$
 
 mit f₍ᵣₑₛ₎ als gemeinsamer Resonanzfrequenz.
@@ -177,7 +177,7 @@ Nach Axiom 6 und 7 ist jeder Informationsaustausch als Resonanzkopplung interpre
 
 ### 4.1 Positivität und Eindeutigkeit der Resonanzenergie
 
-**Satz:** Für f > 0, ε, h, π > 0 gilt E > 0 eindeutig.
+**Satz:** Für f > 0, 𝓔, h, π > 0 gilt E > 0 eindeutig.
 
 **Beweis:**  
 Alle Faktoren sind per Definition positiv, daher ist das Produkt E stets positiv und für jedes f eindeutig bestimmt.
@@ -191,7 +191,7 @@ Alle Faktoren sind per Definition positiv, daher ist das Produkt E stets positiv
 **Beweis:**  
 
 $$\
-\frac{dE}{df} = \pi \varepsilon h > 0,
+\frac{dE}{df} = \pi 𝓔 h > 0,
 \$$
 
 also wächst \(E\) streng monoton mit \(f\).
