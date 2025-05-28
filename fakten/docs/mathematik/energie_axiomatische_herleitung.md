@@ -1,4 +1,4 @@
-# Energie in der Resonanzfeldtheorie: Axiomatische Herleitung des Korrekturfaktors (π ⁄ e)
+# Energie in der Resonanzfeldtheorie: Axiomatische Herleitung des Korrekturfaktors (π ⁄ 𝓔)
 
 ## 1. Axiomatische Grundformel der Energieübertragung
 
@@ -8,7 +8,7 @@ $$\
 E = \pi \cdot \varepsilon \cdot h \cdot f
 \$$
 
-Setzt man die Kopplungskonstante auf ε = 1/e, ergibt sich unmittelbar der universelle Kopplungsfaktor.
+Setzt man die Kopplungskonstante auf 𝓔 = 1/e, ergibt sich unmittelbar der universelle Kopplungsfaktor.
 
 $$\
 E = \left(\frac{\pi}{e}\right) \cdot h \cdot f
@@ -39,6 +39,7 @@ E = h \cdot f
 \$$
 
 ist ein Spezialfall der Resonanzfeldtheorie, der eine Projektion der vollen Resonanzenergie auf die reale Zeitachse darstellt. Sie entspricht dem Grenzfall maximaler Entkopplung der Resonanzstruktur, bei der der Kopplungsfaktor ε nicht berücksichtigt wird.
+
 ---
 
 ## 4. Fazit
@@ -49,7 +50,7 @@ $$\
 E = \left(\frac{\pi}{e}\right) \cdot h \cdot f
 \$$
 
-Erst durch Berücksichtigung der komplexen Zeitstruktur und der Kopplungskonstanten ε = 1/e wird die volle Resonanzenergie sichtbar – eine Erkenntnis, die klassische Formeln erweitert, nicht ersetzt.
+Erst durch Berücksichtigung der komplexen Zeitstruktur und der Kopplungskonstanten 𝓔 = 1/e wird die volle Resonanzenergie sichtbar – eine Erkenntnis, die klassische Formeln erweitert, nicht ersetzt.
 
 > _„Der Fehler liegt nicht in der Gleichung – sondern in ihrer Vereinfachung.“_
 
