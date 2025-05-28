@@ -19,11 +19,11 @@ Die Schu-Gleichung verbindet Resonanzfrequenz, Entropieänderung und Energieflus
 
 $$
 \boxed{
-\mathbf{E} = \boldsymbol{\pi} \cdot \boldsymbol{\varepsilon} \cdot \mathbf{h} \cdot \mathbf{f} \cdot e^{i \boldsymbol{\alpha}}
+\mathbf{E} = \boldsymbol{\pi} \cdot 𝓔 \cdot \mathbf{h} \cdot \mathbf{f} \cdot e^{i \boldsymbol{\alpha}}
 }
 $$
 
-- **ε**: Resonanzkopplungskonstante (ersetzt das klassische e; Axiom 2)  
+- **𝓔**: Resonanzkopplungskonstante (ersetzt das klassische e; Axiom 2)  
 - **α**: Phasenwinkel zwischen Beobachterzeit und Feldzeit (Axiom 3)  
 - Ermöglicht Bewertung der Zeitverschränkung (Axiom 6)
 
@@ -40,7 +40,7 @@ $$
 ## 1.3 Nutzbare Energie
 
 $$
-\Delta \mathbf{E(f)} = \boldsymbol{\pi} \cdot \boldsymbol{\varepsilon} \cdot \mathbf{h} \cdot \mathbf{f} - e^{-\boldsymbol{\pi} \cdot \mathbf{f}}
+\Delta \mathbf{E(f)} = \boldsymbol{\pi} \cdot 𝓔  \cdot \mathbf{h} \cdot \mathbf{f} - e^{-\boldsymbol{\pi} \cdot \mathbf{f}}
 $$
 
 - Verlustterm fällt bei hohen Frequenzen gegen Null (Axiom 2)
@@ -50,13 +50,13 @@ $$
 ## 1.4 Leistung
 
 $$
-\mathbf{P(f_1, f_2)} = \int_{f_1}^{f_2} \left( \boldsymbol{\pi} \boldsymbol{\varepsilon} \mathbf{h} \mathbf{f} - e^{-\boldsymbol{\pi} \mathbf{f}} \right) d\mathbf{f}
+\mathbf{P(f_1, f_2)} = \int_{f_1}^{f_2} \left( \boldsymbol{\pi} 𝓔 \mathbf{h} \mathbf{f} - e^{-\boldsymbol{\pi} \mathbf{f}} \right) d\mathbf{f}
 $$
 
 ergibt
 
 $$
-\mathbf{P} = \frac{1}{2} \boldsymbol{\pi} \boldsymbol{\varepsilon} \mathbf{h} (f_2^2 - f_1^2) + \frac{1}{\boldsymbol{\pi}} \left(e^{-\boldsymbol{\pi} f_1} - e^{-\boldsymbol{\pi} f_2}\right)
+\mathbf{P} = \frac{1}{2} \boldsymbol{\pi} 𝓔 \mathbf{h} (f_2^2 - f_1^2) + \frac{1}{\boldsymbol{\pi}} \left(e^{-\boldsymbol{\pi} f_1} - e^{-\boldsymbol{\pi} f_2}\right)
 $$
 
 - Anwendung von Axiom 5 (Geometrisierung)
@@ -80,7 +80,7 @@ $$
 
 - Höhere Effizienz  
 - Steuerbare Entropie  
-- Energiequellen wirken „frei“, sind aber an π, ε, h, f, α gebunden
+- Energiequellen wirken „frei“, sind aber an π, 𝓔, h, f, α gebunden
 
 ---
 
