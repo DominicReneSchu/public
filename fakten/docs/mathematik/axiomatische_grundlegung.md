@@ -168,8 +168,6 @@ Dies führt zu einer Kopplung, bei der Beobachtung selbst zur Realitätsbildung 
 
 ---
 
-> **Hinweis:** Für die korrekte Darstellung der mathematischen Formeln wird ein Markdown-Renderer mit KaTeX- oder MathJax-Unterstützung benötigt (z.B. HackMD, Obsidian, Jupyter, MkDocs mit Math-Plugin).
-
 ## 3. Mathematische Herleitungen
 
 ### 3.1 Schwingungsenergie und Frequenzrelation
