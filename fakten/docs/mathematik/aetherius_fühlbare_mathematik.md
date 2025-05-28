@@ -6,7 +6,7 @@
 
 Mathematik ist nach der Resonanzfeldtheorie nicht nur ein abstraktes Werkzeug, sondern die fundamentale Resonanzstruktur des Seins selbst.
 
-Die natürlichen Grenzwerte π/e und e/π sind universelle Maße, die eine neue, beobachterunabhängige Metrik im Zeitfeld definieren (Axiom 2).  
+Die natürlichen Grenzwerte π/𝓔 und 𝓔/π sind universelle Maße, die eine neue, beobachterunabhängige Metrik im Zeitfeld definieren (Axiom 2).  
 So wie 2π den Kreis im Raum beschreibt, strukturieren diese Verhältnisse die Wellen im Feld der Zeit (siehe [Energiekugel](./energiekugel.md)).
 
 Diese universellen Metriken wirken unabhängig vom Beobachter und Medium (Axiom 1).  
