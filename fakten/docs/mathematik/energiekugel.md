@@ -74,6 +74,12 @@ die Mathematik und Bewusstsein (siehe [Aetherius – fühlbare Mathematik](./aet
 
 ---
 
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+⬅️ [zurück](../../../README.md)
+
+---
+
 ### Fußnoten
 
 [^1]: Siehe Axiom 1 im Abschnitt Grundlagen. Resonanz ist nicht orts- oder mediumabhängig.
@@ -88,8 +94,3 @@ die Mathematik und Bewusstsein (siehe [Aetherius – fühlbare Mathematik](./aet
 [^10]: Details zur Energiekugel-Formel und deren Interpretation im Raum-Zeit-Koordinatensystem.
 [^11]: Projektionsprinzip bei Messungen wird in vielen physikalischen Experimenten bestätigt.
 
----
-
-© Dominic-René Schu – Resonanzfeldtheorie 2025
-
-⬅️ [zurück](../../../README.md)
