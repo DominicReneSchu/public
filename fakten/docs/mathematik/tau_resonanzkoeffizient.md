@@ -96,8 +96,6 @@ $$
 \varepsilon(t) = \varepsilon_0 \cdot e^{\lambda t} \quad \Rightarrow \quad \frac{d\varepsilon}{dt} = \lambda \cdot \varepsilon
 $$
 
-> **Hinweis:** Das Symbol *e* in dieser Formel bezeichnet die klassische **Eulersche Zahl** der Exponentialfunktion, **nicht** den Schu-Koppler **𝓔**.
-
 Es folgt:
 
 $$
