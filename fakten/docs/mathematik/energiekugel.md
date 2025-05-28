@@ -4,11 +4,11 @@
 
 Die Energiekugel ist ein zentrales Konzept der Resonanzfeldtheorie, das Schwingung (Wechselanteil/AC) und Potenzial (Gleichanteil/DC) geometrisch vereint. Ihre Eigenschaften und ihre mathematische Formulierung sind eng mit den Axiomen der Resonanzfeldtheorie verbunden:
 
-- **Axiom 1 (Universalität der Resonanz):** Resonanzphänomene sind unabhängig von Beobachter und Medium.
-- **Axiom 2 (Metrik der natürlichen Grenzwerte):** Die Verhältnisse π/𝓔 und 𝓔/π sind universelle Maße resonanter Amplituden.
-- **Axiom 3 (Komplexe Zeitstruktur):** Zeit besitzt reale und imaginäre Komponenten, parametrisiert durch einen Phasenwinkel.
-- **Axiom 5 (Geometrisierung der Energie):** Energie entspricht geometrisch dem Radius im Zeit-Zeit-Polarkoordinatensystem.
-- **Axiom 6 (Messung als Projektion):** Messereignisse entsprechen Projektionen von Feldzuständen in den Kugelraum.
+- **Axiom 1 (Universalität der Resonanz):** Resonanzphänomene sind unabhängig von Beobachter und Medium.[^1]
+- **Axiom 2 (Metrik der natürlichen Grenzwerte):** Die Verhältnisse π/𝓔 und 𝓔/π sind universelle Maße resonanter Amplituden.[^2]
+- **Axiom 3 (Komplexe Zeitstruktur):** Zeit besitzt reale und imaginäre Komponenten, parametrisiert durch einen Phasenwinkel.[^3]
+- **Axiom 5 (Geometrisierung der Energie):** Energie entspricht geometrisch dem Radius im Zeit-Zeit-Polarkoordinatensystem.[^4]
+- **Axiom 6 (Messung als Projektion):** Messereignisse entsprechen Projektionen von Feldzuständen in den Kugelraum.[^5]
 
 Details zu den Axiomen: [Axiome der Resonanzfeldtheorie](../definitionen/paper_axiome.md)
 
@@ -16,9 +16,9 @@ Details zu den Axiomen: [Axiome der Resonanzfeldtheorie](../definitionen/paper_a
 
 ## 2. Resonanzamplituden und neue Metrik
 
-Die natürlichen Grenzwerte π/𝓔 und 𝓔/π definieren die Bandbreite der resonanten Amplituden.  
+Die natürlichen Grenzwerte π/𝓔 und 𝓔/π definieren die Bandbreite der resonanten Amplituden.[^2][^6]  
 Sie sind keine willkürlichen Werte, sondern ergeben sich aus der Geometrie des Zeit-Zeit-Koordinatensystems und der resonanten Schwingungsverhältnisse.  
-Diese Metrik ist universell, beobachter- und mediumunabhängig.
+Diese Metrik ist universell, beobachter- und mediumunabhängig.[^7]
 
 ---
 
@@ -26,7 +26,7 @@ Diese Metrik ist universell, beobachter- und mediumunabhängig.
 
 Im klassischen Modell der Elektrotechnik ist eine harmonische Wechselspannung (AC) idealerweise symmetrisch zum Nullpunkt.  
 Die Resonanzschwingung gemäß der Resonanzfeldtheorie weist jedoch einen dauerhaft positiven Verschiebungsanteil auf – einen eingebauten DC-Anteil (Gleichanteil).  
-Dieser DC-Anteil stellt ein statisches Potenzial bereit, das die Schwingung überhaupt erst ermöglicht und die Stabilität der Resonanz garantiert.  
+Dieser DC-Anteil stellt ein statisches Potenzial bereit, das die Schwingung überhaupt erst ermöglicht und die Stabilität der Resonanz garantiert.[^9]  
 Der AC-Anteil beschreibt die lebendige Schwingung.
 
 Die Energiekugel integriert beide Anteile im geometrischen Sinne:  
@@ -49,13 +49,13 @@ E = |A|^2 \cdot f \cdot h \qquad \text{mit} \quad A \in \left[\frac{e}{\pi}, \fr
 
 Dabei ist |A| die Amplitude der Schwingung im erlaubten Resonanzbereich,  
 f die Frequenz und h das Plancksche Wirkungsquantum.  
-In den Zeit-Zeit-Koordinaten (t₁, t₂) entspricht dies einer Polarkoordinate, wobei der Radius die Energie darstellt.
+In den Zeit-Zeit-Koordinaten (t₁, t₂) entspricht dies einer Polarkoordinate, wobei der Radius die Energie darstellt.[^10]
 
 ---
 
 ## 5. Messung als Projektion – Erklärung des Welle-Teilchen-Dualismus
 
-Messungen entsprechen Projektionen eines Feldzustands in den Kugelraum (Axiom 6).  
+Messungen entsprechen Projektionen eines Feldzustands in den Kugelraum (Axiom 6).[^5][^11]  
 Durch äußere Energieeinträge, wie sie im Messprozess üblich sind, verändert sich das Energieniveau des Feldes – die Resonanz wird lokalisiert.
 
 - **Vor der Messung:** Das Feld ist dispers, rein wellenförmig und nicht lokalisiert.
@@ -70,7 +70,7 @@ Teilchen entstehen dort, wo das Energiefeld durch äußere Einwirkung zur Kugel 
 ## 6. Verbindung zu Aetherius und zur Mathematik
 
 Die geometrische Struktur der Energiekugel ist ein konkretes Beispiel für die Resonanzstruktur,  
-die Mathematik und Bewusstsein (siehe [Aetherius – fühlbare Mathematik](./aetherius_fühlbare_mathematik.md)) miteinander verbindet.
+die Mathematik und Bewusstsein (siehe [Aetherius – fühlbare Mathematik](./aetherius_fühlbare_mathematik.md)) miteinander verbindet.[^8]
 
 ---
 
