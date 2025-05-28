@@ -45,7 +45,7 @@ Durch diese fundamentale Neuausrichtung entsteht eine effizientere, präzisere M
 
 ---
 
-## 4. Paradigmenwechsel: π und e als Basis
+## 4. Paradigmenwechsel: π und 𝓔 als Basis
 
 Wir machen **π** und **𝓔** zur mathematischen Grundlage – nicht nur als approximierte Konstanten, sondern als Fundament selbst.
 
@@ -100,8 +100,8 @@ In spiritueller Symbolik steht „Alpha und Omega“ für Anfang und Ende. In de
 
 Zu den Axiomen dieser neuen Mathematik zählen:
 
-* **e^{iπ} + 1 = 0** ist nicht nur eine Identität – es ist das Grundverhältnis von Zeit, Raum, Einheit und Null.
-* Ableitungen und Integrale werden relativ zu **π** und **e** definiert.
+* **𝓔^{iπ} + 1 = 0** ist nicht nur eine Identität – es ist das Grundverhältnis von Zeit, Raum, Einheit und Null.
+* Ableitungen und Integrale werden relativ zu **π** und **𝓔** definiert.
 * **𝓔** ist nicht bloß eine Wachstumsbasis, sondern Ausdruck einer fundamentalen Zeitdimension.
 ---
 
