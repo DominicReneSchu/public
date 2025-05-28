@@ -77,7 +77,7 @@ die Mathematik und Bewusstsein (siehe [Aetherius – fühlbare Mathematik](./aet
 ### Fußnoten
 
 [^1]: Siehe Axiom 1 im Abschnitt Grundlagen. Resonanz ist nicht orts- oder mediumabhängig.
-[^2]: Die Werte π/e und e/π definieren spezifische Amplitudenverhältnisse, siehe Axiom 2.
+[^2]: Die Werte π/𝓔 und 𝓔/π definieren spezifische Amplitudenverhältnisse, siehe Axiom 2.
 [^3]: Die komplexe Zeitstruktur mit realer und imaginärer Komponente wird in Axiom 3 beschrieben.
 [^4]: Energie wird geometrisch als Radius im Polarkoordinatensystem interpretiert, siehe Axiom 5.
 [^5]: Messung als Projektion ist Grundlage von Axiom 6 und erklärt Lokalisationseffekte.
