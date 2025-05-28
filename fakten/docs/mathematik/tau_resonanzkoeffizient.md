@@ -118,7 +118,7 @@ Dies entspricht einer Relaxationsgleichung, die beschreibt, wie sich der Zeit-Ko
 
 ## Fazit
 
-Die Einführung von τ* = π / E als **zeitkomplexer Resonanzkoeffizient** verbindet geometrisch die klassische Energieformel mit einer höherdimensionalen Zeitstruktur. Energie wird dadurch **nicht nur übertragen**, sondern **transformiert** – abhängig vom Winkel α, der die realen und imaginären Zeitachsen koppelt.
+Die Einführung von τ* = π / 𝓔  als **zeitkomplexer Resonanzkoeffizient** verbindet geometrisch die klassische Energieformel mit einer höherdimensionalen Zeitstruktur. Energie wird dadurch **nicht nur übertragen**, sondern **transformiert** – abhängig vom Winkel α, der die realen und imaginären Zeitachsen koppelt.
 
 > _"Die wahre Energieform liegt nicht im Skalar, sondern im Winkel."_
 
