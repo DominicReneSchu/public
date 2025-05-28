@@ -30,7 +30,7 @@ Viele Phänomene sind heute nur näherungsweise lösbar, mit enormem Aufwand –
 
 ---
 
-## 3. Neue Grundlage: π und e als Urkonstanten
+## 3. Neue Grundlage: π und 𝓔 als Urkonstanten
 
 Das Dezimalsystem basiert auf menschlicher Anatomie – zehn Finger, zehn Ziffern. Für die Natur jedoch ist das bedeutungslos.
 
