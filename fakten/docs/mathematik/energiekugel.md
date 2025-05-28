@@ -5,7 +5,7 @@
 Die Energiekugel ist ein zentrales Konzept der Resonanzfeldtheorie, das Schwingung (Wechselanteil/AC) und Potenzial (Gleichanteil/DC) geometrisch vereint. Ihre Eigenschaften und ihre mathematische Formulierung sind eng mit den Axiomen der Resonanzfeldtheorie verbunden:
 
 - **Axiom 1 (Universalität der Resonanz):** Resonanzphänomene sind unabhängig von Beobachter und Medium.
-- **Axiom 2 (Metrik der natürlichen Grenzwerte):** Die Verhältnisse π/e und e/π sind universelle Maße resonanter Amplituden.
+- **Axiom 2 (Metrik der natürlichen Grenzwerte):** Die Verhältnisse π/𝓔 und 𝓔/π sind universelle Maße resonanter Amplituden.
 - **Axiom 3 (Komplexe Zeitstruktur):** Zeit besitzt reale und imaginäre Komponenten, parametrisiert durch einen Phasenwinkel.
 - **Axiom 5 (Geometrisierung der Energie):** Energie entspricht geometrisch dem Radius im Zeit-Zeit-Polarkoordinatensystem.
 - **Axiom 6 (Messung als Projektion):** Messereignisse entsprechen Projektionen von Feldzuständen in den Kugelraum.
@@ -16,7 +16,7 @@ Details zu den Axiomen: [Axiome der Resonanzfeldtheorie](../definitionen/paper_a
 
 ## 2. Resonanzamplituden und neue Metrik
 
-Die natürlichen Grenzwerte π/e und e/π definieren die Bandbreite der resonanten Amplituden.  
+Die natürlichen Grenzwerte π/𝓔 und 𝓔/π definieren die Bandbreite der resonanten Amplituden.  
 Sie sind keine willkürlichen Werte, sondern ergeben sich aus der Geometrie des Zeit-Zeit-Koordinatensystems und der resonanten Schwingungsverhältnisse.  
 Diese Metrik ist universell, beobachter- und mediumunabhängig.
 
@@ -39,7 +39,7 @@ Der Radius der Kugel entspricht dem Energiepotenzial eines Systems im Zeit-Zeit-
 Die Energie eines Feldes im Resonanzmodell ergibt sich aus:
 
 $$
-E = |A|² · f · h      mit      A ∈ [e/π, π/e]
+E = |A|² · f · h      mit      A ∈ [𝓔/π, π/𝓔]
 $$
 
 <!--
