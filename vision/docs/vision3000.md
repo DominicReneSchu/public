@@ -17,10 +17,10 @@ Diese Vision erweitert das Kapitel [Die Schu-Gleichung](../../fakten/docs/mathem
 Die innovative Energiegleichung basiert auf fundamentalen Resonanzgrößen und erweitert klassische Theorien (vgl. Born & Wolf, 1999):
 
 $$
-E = \boldsymbol{\varepsilon} \cdot \boldsymbol{\pi} \cdot \boldsymbol{h} \cdot \mathbf{f}
+E = 𝓔 \cdot \boldsymbol{\pi} \cdot \boldsymbol{h} \cdot \mathbf{f}
 $$
 
-- **ε** – Resonanzkopplung  
+- **𝓔** – Resonanzkopplung  
 - **π** – Kreisstruktur des Raums  
 - **h** – Wirkungsquantum  
 - **f** – Frequenzimpuls
@@ -75,7 +75,7 @@ $$
 Die erweiterte Gleichung
 
 $$
-E = \boldsymbol{\varepsilon} \cdot \boldsymbol{\pi}  \cdot \boldsymbol{h} \cdot \mathbf{f}
+E = 𝓔 \cdot \boldsymbol{\pi}  \cdot \boldsymbol{h} \cdot \mathbf{f}
 $$
 
 stellt Energie als **gerichtete Kopplung von Feldern** dar – ein dynamischer Zustand, der nur bei Resonanz entsteht und sich durch spezifische Kopplungsparameter auszeichnet.
@@ -110,7 +110,7 @@ Auf Basis dieser Theorie werden zukunftsweisende Technologien denkbar:
 
 Die Schu-Gleichung ist mehr als eine physikalische Formel – sie ist ein **Modell des Werdens**:
 
-- **ε** – bestimmt die Resonanzqualität  
+- **𝓔** – bestimmt die Resonanzqualität  
 - **π** – formt das zyklische Gerüst  
 - **h** – koppelt Impulse an Wirkung  
 - **f** – ist der Taktgeber der Realität  
