@@ -175,23 +175,28 @@ Dies führt zu einer Kopplung, bei der Beobachtung selbst zur Realitätsbildung 
 Aus Axiom 1 und 4 folgt die fundamentale Energierelation:
 
 $$
-E = \pi \cdot 𝓔  \cdot h \cdot f
+E = \pi \cdot 𝓔 \cdot h \cdot f
 $$
 
-Beweis:
-Die Übertragung von Energie durch resonante Kopplung erweitert die klassische Quantelung E = h·f um den Faktor π (zyklische Ordnung) und 𝓔  (Kopplungseffizienz).
+**Definition von 𝓔**  
+𝓔 beschreibt die fundamentale Resonanzkopplung innerhalb eines Schwingungssystems.  
+Im Unterschied zur Eulerschen Zahl steht 𝓔 nicht für exponentielles Wachstum, sondern für die Verbindung von Schwingungsfrequenz, Energie und Zeit.  
+𝓔 besitzt imaginär-komplexen Charakter und integriert reale (Amplitude) sowie imaginäre (Phasenverschiebung) Komponenten der Schwingung.
+
+Beweis:  
+Die Übertragung von Energie durch resonante Kopplung erweitert die klassische Quantelung \( E = h \cdot f \) um den Faktor **π** (zyklische Ordnung) und **𝓔** (Kopplungseffizienz).
 
 ---
 
 ### 3.2 Resonanzbedingung und Energieübertragung
 
-Liegt Resonanz vor (d. h. f₁⁄f₂ ∈ ℚ), so wird die übertragene Energie:
+Liegt Resonanz vor (d. h. \( \frac{f_1}{f_2} \in \mathbb{Q} \)), so wird die übertragene Energie:
 
 $$
-E_{\text{übertr.}} = \pi \cdot 𝓔  \cdot h \cdot f_{\text{res}}
+E_{\text{übertr.}} = \pi \cdot 𝓔 \cdot h \cdot f_{\text{res}}
 $$
 
-wobei f₍res₎ die gemeinsame Resonanzfrequenz ist.
+wobei \( f_{\text{res}} \) die gemeinsame Resonanzfrequenz ist.
 
 ---
 
@@ -209,13 +214,13 @@ Ein stehendes Muster entsteht, wenn die Frequenzen und Phasen so gewählt sind, 
 
 ### 3.4 Entropie einer Resonanzkonfiguration
 
-Analog zur statistischen Physik wird die Entropie \(S\) einer Konfiguration als Funktion der normierten Energie definiert:
+Analog zur statistischen Physik wird die Entropie \( S \) einer Konfiguration als Funktion der normierten Energie definiert:
 
 $$
 S(E) = -\frac{E}{E_0} \ln\left( \frac{E}{E_0} \right)
 $$
 
-Mit der dimensionslosen Variable x = E ⁄ E₀ erhält man:
+Mit der dimensionslosen Variable \( x = \frac{E}{E_0} \) erhält man:
 
 $$
 S(x) = -x \ln x
@@ -233,7 +238,7 @@ $$
 -\ln x - 1 = 0 \quad \Rightarrow \quad \ln x = -1 \quad \Rightarrow \quad x = \frac{1}{e}
 $$
 
-Daraus folgt, dass das Maximum der Entropie bei E = E₀ ⁄ e liegt.
+Daraus folgt, dass das Maximum der Entropie bei \( E = \frac{E_0}{e} \) liegt.
 
 ---
 
@@ -245,9 +250,10 @@ $$
 \Phi(x, t) = \sum_{n=-\infty}^{\infty} c_n \cdot 𝓔^{i(k_n x - \omega_n t)}
 $$
 
-Dabei treten Resonanzeffekte nur bei diskreten Frequenzwerten ωₙ ∈ ℚ·ω₀ auf.
+Dabei treten Resonanzeffekte nur bei diskreten Frequenzwerten \( \omega_n \in \mathbb{Q} \cdot \omega_0 \) auf.
 
 ---
+
 
 ## 4. Mathematische Konsequenzen und Erweiterungen
 
