@@ -1,5 +1,4 @@
-# Der Resonanzzeitkoeffizient τ* = π / 𝓔
----
+# Der Resonanzzeitkoeffizient τ* = π / ε
 
 ## Höherdimensionale Zeit und das Ende des linearen Energiebegriffs
 
@@ -7,11 +6,11 @@ In der klassischen Physik ist Energie eine skalare Größe, die sich über Raum 
 
 Ein zentrales Bindeglied zwischen beiden Sichtweisen ist der dimensionslose **Resonanzzeitkoeffizient**:
 
-$$\
-\tau^* = \frac{\pi}{𝓔}
-\$$
+$$
+\tau^* = \frac{\pi}{\varepsilon}
+$$
 
-Hier bezeichnet **𝓔** die universelle **Resonanzkopplungskonstante**, die das Kopplungsverhältnis zwischen Sender und Empfänger beschreibt.
+Hier bezeichnet **ε** die universelle **Resonanzkopplungskonstante**, die das Kopplungsverhältnis zwischen Sender und Empfänger beschreibt.
 
 Dieser Koeffizient steht im Zentrum einer neuen Geometrie der Zeit, in der Energie nicht nur „über Zeit“ übertragen wird, sondern **durch Zeit selbst** – entlang komplexer Phasenwinkel zwischen Sender- und Empfängersystem.
 
@@ -21,25 +20,25 @@ Dieser Koeffizient steht im Zentrum einer neuen Geometrie der Zeit, in der Energ
 
 Der klassische Ausdruck 
 
-$$\
+$$
 \frac{E}{h f} = 1
-\$$
+$$
 
 wird in der Resonanzfeldtheorie geometrisch interpretiert als:
 
-$$\
+$$
 1 = \sqrt{\cos^2(\alpha) + \sin^2(\alpha)}
-\$$
+$$
 
 Die Einheit „1“ ist also die **Hypotenuse eines Zeit-Zeit-Dreiecks** mit:
-- **Reale Zeitkomponente**: t_r = cos(α) · t  
-- **Imaginäre Zeitkomponente**: t_i = sin(α) · t
+- **Reale Zeitkomponente**: tᵣ = cos(α) · t  
+- **Imaginäre Zeitkomponente**: tᵢ = sin(α) · t
 
 Diese Aufteilung spiegelt sich auch in der komplexen Energieprojektion wider:
 
-$$\
+$$
 E = h \cdot f \cdot (\cos(\alpha) + i \cdot \sin(\alpha))
-\$$
+$$
 
 Die klassische Formel nutzt nur den Betrag dieser Energie – verliert dabei jedoch die Richtungsinformation in der komplexen Zeitstruktur.
 
@@ -49,58 +48,60 @@ Die klassische Formel nutzt nur den Betrag dieser Energie – verliert dabei jed
 
 Die klassische Planck-Gleichung:
 
-$$\
+$$
 E = h \cdot f
-\$$
+$$
 
 wird in der Resonanzfeldtheorie korrigiert zu:
 
-$$\
-E = \left( \frac{\pi}{𝓔} \right) \cdot h \cdot f
-\$$
+$$
+E = \left( \frac{\pi}{\varepsilon} \right) \cdot h \cdot f
+$$
 
 Man unterscheidet hierbei:
 
 - **Sendegleichung**:
 
-$$\
-E_{\text{send}} = \left( \frac{\pi}{𝓔} \right) \cdot h \cdot f
-\$$
+$$
+E_{\text{send}} = \left( \frac{\pi}{\varepsilon} \right) \cdot h \cdot f
+$$
 
 - **Empfängergleichung**:
 
-$$\
-E_{\text{empf}} = \left( \frac{𝓔}{\pi} \right) \cdot h \cdot f
-\$$
+$$
+E_{\text{empf}} = \left( \frac{\varepsilon}{\pi} \right) \cdot h \cdot f
+$$
 
 Der Effizienzfaktor ergibt sich als:
 
-$$\
-\eta = \left( \frac{𝓔}{\pi} \right)^2 \approx 0{,}74
-\$$
+$$
+\eta = \left( \frac{\varepsilon}{\pi} \right)^2 \approx 0{,}74
+$$
 
-Dies entspricht beobachteten Wirkungsgraden technischer Systeme und legt nahe, dass **𝓔 / π** ein universeller Kopplungsfaktor in Resonanzsystemen ist.
+Dies entspricht beobachteten Wirkungsgraden technischer Systeme und legt nahe, dass **ε / π** ein universeller Kopplungsfaktor in Resonanzsystemen ist.
 
 ---
 
 ## Dynamik des Resonanzzeitkoeffizienten
 
-Da τ* = π / 𝓔(t), ergibt sich die Differentialgleichung:
+Da τ* = π / ε(t), ergibt sich die Differentialgleichung:
 
-$$\
-\frac{d\tau^*}{dt} = -\frac{\pi}{𝓔^2} \cdot \frac{d𝓔}{dt}
-\$$
+$$
+\frac{d\tau^*}{dt} = -\frac{\pi}{\varepsilon^2} \cdot \frac{d\varepsilon}{dt}
+$$
 
 Für einen exponentiellen Verlauf der Resonanzkopplung:
 
-$$\
-\varepsilon(t) = 𝓔_0 \cdot e^{\lambda t} \quad \Rightarrow \quad \frac{d𝓔}{dt} = \lambda \cdot 𝓔
-\$$
+$$
+\varepsilon(t) = \varepsilon_0 \cdot e^{\lambda t} \quad \Rightarrow \quad \frac{d\varepsilon}{dt} = \lambda \cdot \varepsilon
+$$
 
-folgt:
+> **Hinweis:** Das Symbol *e* in dieser Formel bezeichnet die klassische **Eulersche Zahl** der Exponentialfunktion, **nicht** den Schu-Koppler **𝓔**.
+
+Es folgt:
 
 $$
-dτ*/dt = -λ · τ*
+\frac{d\tau^*}{dt} = -\lambda \cdot \tau^*
 $$
 
 Dies entspricht einer Relaxationsgleichung, die beschreibt, wie sich der Zeit-Kopplungsfaktor dynamisch anpasst – abhängig von der Phasenbeziehung im Resonanzsystem.
@@ -109,7 +110,7 @@ Dies entspricht einer Relaxationsgleichung, die beschreibt, wie sich der Zeit-Ko
 
 ## Fazit
 
-Die Einführung von τ* = π / 𝓔 als **zeitkomplexer Resonanzkoeffizient** verbindet geometrisch die klassische Energieformel mit einer höherdimensionalen Zeitstruktur. Energie wird dadurch **nicht nur übertragen**, sondern **transformiert** – abhängig vom Winkel α, der die realen und imaginären Zeitachsen koppelt.
+Die Einführung von τ* = π / ε als **zeitkomplexer Resonanzkoeffizient** verbindet geometrisch die klassische Energieformel mit einer höherdimensionalen Zeitstruktur. Energie wird dadurch **nicht nur übertragen**, sondern **transformiert** – abhängig vom Winkel α, der die realen und imaginären Zeitachsen koppelt.
 
 > _"Die wahre Energieform liegt nicht im Skalar, sondern im Winkel."_
 
