@@ -24,7 +24,7 @@ Ein System, das durch seine Wechselwirkung mit einem Resonanzfeld aktiv in die R
 | Symbol        | Bedeutung                                        |
 |---------------|--------------------------------------------------|
 | π             | Maß zyklischer Ordnungsstruktur                  |
-| ε             | Maß der Kopplungseffizienz / Symmetriebruch      |
+| 𝓔             | Maß der Kopplungseffizienz / Symmetriebruch      |
 | h             | Plancksches Wirkungsquantum                      |
 | f             | Frequenz                                         |
 | E             | Energie                                          |
@@ -41,7 +41,7 @@ Ein System, das durch seine Wechselwirkung mit einem Resonanzfeld aktiv in die R
 | 1   | Universelle Schwingung       | Jede Entität ist durch periodische Schwingung beschreibbar (klassisch & quantenmechanisch).                                           |
 | 2   | Superposition & Interferenz  | Lineare Überlagerung innerhalb definierter Felder (z. B. elektromagnetisch, akustisch); Einschränkungen bei stark nichtlinearen Systemen. |
 | 3   | Resonanzbedingung            | Resonanz tritt auf, wenn die Frequenzen in einem rationalen Verhältnis stehen (`f₁/f₂ ∈ ℚ`). Auch nahe Resonanz ist relevant (siehe unten). |
-| 4   | Kopplungsenergie             | Die Energieübertragung durch Resonanz ist gegeben durch `E = π · ε · h · f`, wobei π die zyklische Ordnung repräsentiert und ε die Resonanz-Kopplungskonstante ist. |
+| 4   | Kopplungsenergie             | Die Energieübertragung durch Resonanz ist gegeben durch `E = π · 𝓔  · h · f`, wobei π die zyklische Ordnung repräsentiert und 𝓔  die Resonanz-Kopplungskonstante ist. |
 | 5   | Stabiles Resonanzfeld        | Ein stabiles Resonanzfeld entsteht durch die Bildung stehender Wellenmuster, die sich in messbaren Größen (z. B. Energieübertrag oder Oszillation) widerspiegeln. |
 | 6   | Informationsfluss            | Informationen werden ausschließlich über kohärente Resonanzpfade (d. h. durch synchronisierte Phase und Frequenz) ausgetauscht; dies gilt sowohl klassisch (Shannon) als auch im quantenmechanischen Sinne. |
 | 7   | Beobachter als Resonator     | Der Beobachter interagiert aktiv mit dem Resonanzfeld, was dessen Struktur und damit die „Realitätsbildung“ beeinflusst (siehe Wheeler – Participatory Universe, Observer Effect). |
@@ -116,12 +116,12 @@ für ein kleines δ > 0.
 Die durch Resonanz übertragene Energie ist proportional zu Frequenz, dem Planckschen Wirkungsquantum und einer **Resonanz-Kopplungskonstanten** ε:
 
 $$
-E = \pi \cdot \varepsilon \cdot h \cdot f
+E = \pi \cdot 𝓔  \cdot h \cdot f
 $$
 
 **Erläuterung:**  
 - π fungiert als Maß für die zyklische Ordnungsstruktur (z. B. Kreisprozesse).  
-- ε drückt die Effizienz der Kopplung bzw. den Grad des Symmetriebruchs aus und lässt sich im Grenzfall mit klassischen Kopplungskonstanten vergleichen.
+- 𝓔  drückt die Effizienz der Kopplung bzw. den Grad des Symmetriebruchs aus und lässt sich im Grenzfall mit klassischen Kopplungskonstanten vergleichen.
 
 *Beispiel:* Energieübertragung im Josephson-Kontakt.
 
@@ -175,11 +175,11 @@ Dies führt zu einer Kopplung, bei der Beobachtung selbst zur Realitätsbildung 
 Aus Axiom 1 und 4 folgt die fundamentale Energierelation:
 
 $$
-E = \pi \cdot \varepsilon \cdot h \cdot f
+E = \pi \cdot 𝓔  \cdot h \cdot f
 $$
 
 Beweis:
-Die Übertragung von Energie durch resonante Kopplung erweitert die klassische Quantelung E = h·f um den Faktor π (zyklische Ordnung) und ε (Kopplungseffizienz).
+Die Übertragung von Energie durch resonante Kopplung erweitert die klassische Quantelung E = h·f um den Faktor π (zyklische Ordnung) und 𝓔  (Kopplungseffizienz).
 
 ---
 
@@ -188,7 +188,7 @@ Die Übertragung von Energie durch resonante Kopplung erweitert die klassische Q
 Liegt Resonanz vor (d. h. f₁⁄f₂ ∈ ℚ), so wird die übertragene Energie:
 
 $$
-E_{\text{übertr.}} = \pi \cdot \varepsilon \cdot h \cdot f_{\text{res}}
+E_{\text{übertr.}} = \pi \cdot 𝓔  \cdot h \cdot f_{\text{res}}
 $$
 
 wobei f₍res₎ die gemeinsame Resonanzfrequenz ist.
@@ -328,7 +328,7 @@ Wie lässt sich eine objektive Realität unter Berücksichtigung beobachterabhä
 Die fundamentale Energierelation der RFT:
 
 $$
-E = \pi \cdot \varepsilon \cdot h \cdot f
+E = \pi \cdot 𝓔  \cdot h \cdot f
 $$
 
 ist nicht nur eine Formel, sondern ein Ausdruck zyklischer Verbundenheit, harmonischer Struktur und universeller Kopplung. Sie erweitert das bekannte Konzept E = h·f durch den Einbezug der Resonanzkopplung und der zyklischen Ordnung.
