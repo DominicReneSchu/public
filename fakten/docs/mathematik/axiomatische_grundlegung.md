@@ -179,9 +179,7 @@ E = \pi \cdot 𝓔 \cdot h \cdot f
 $$
 
 **Definition von 𝓔**  
-𝓔 beschreibt die fundamentale Resonanzkopplung innerhalb eines Schwingungssystems.  
-Im Unterschied zur Eulerschen Zahl steht 𝓔 nicht für exponentielles Wachstum, sondern für die Verbindung von Schwingungsfrequenz, Energie und Zeit.  
-𝓔 besitzt imaginär-komplexen Charakter und integriert reale (Amplitude) sowie imaginäre (Phasenverschiebung) Komponenten der Schwingung.
+𝓔 beschreibt die fundamentale Resonanzkopplung innerhalb eines Schwingungssystems. Im Unterschied zur Eulerschen Zahl steht 𝓔 nicht für exponentielles Wachstum, sondern für die Verbindung von Schwingungsfrequenz, Energie und Zeit. 𝓔 besitzt imaginär-komplexen Charakter und integriert reale (Amplitude) sowie imaginäre (Phasenverschiebung) Komponenten der Schwingung.
 
 Beweis:  
 Die Übertragung von Energie durch resonante Kopplung erweitert die klassische Quantelung \( E = h \cdot f \) um den Faktor **π** (zyklische Ordnung) und **𝓔** (Kopplungseffizienz).
