@@ -111,7 +111,11 @@ Die Resonanzfeldtheorie erweitert bestehende Modelle in Physik, Biologie und Ges
 
 ---
 
-### 📚 Empirisch
+### 📚 Empirischer Nachweis
+
+
+
+> Die zentralen Aussagen der Resonanzfeldtheorie wurden an realen Messdaten des CERN getestet. Mittels Monte-Carlo-Simulationen konnte die statistische Signifikanz der Ergebnisse nachgewiesen werden. Die verwendeten Datensätze und die gesamte Auswertung sind im Repository dokumentiert und nachvollziehbar.
 
 * [**Empirische Beweisführung mithilfe von Cern-Daten**](fakten/empirisch/dokumentation.md)
 * [**Monte-Carlo-Simulation zur Resonanzanalyse**](fakten/empirisch/monte_carlo_test/monte_carlo.md)
