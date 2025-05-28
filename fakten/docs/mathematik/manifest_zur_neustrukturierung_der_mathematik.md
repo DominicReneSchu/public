@@ -69,7 +69,7 @@ $$
 gilt klassisch als nicht-elementar lösbar. Doch mit den Identitäten
 
 $$
-\pi = 4 \cdot \arctan(1), \quad e^{ix} = \cos(x) + i \sin(x)
+\pi = 4 \cdot \arctan(1), \quad 𝓔^{ix} = \cos(x) + i \sin(x)
 $$
 
 und der Definition der **sinc-Funktion**
@@ -83,7 +83,7 @@ entsteht eine neue symbolische Darstellung.
 Durch die komplexe Exponentialform kann man schreiben:
 
 $$
-\int \frac{\sin(x)}{x} \, dx = \Im \left( \int \frac{e^{ix}}{x} \, dx \right)
+\int \frac{\sin(x)}{x} \, dx = \Im \left( \int \frac{𝓔^{ix}}{x} \, dx \right)
 $$
 
 Diese Darstellung erlaubt den Einsatz von Konturen- und Residuensätzen – mit deutlich reduziertem Rechenaufwand.
