@@ -91,9 +91,11 @@ Dies entspricht beobachteten Wirkungsgraden technischer Systeme und legt nahe, d
 ## Dynamik des Resonanzzeitkoeffizienten
 
 Da 
+
 $$
 \tau^* = \frac{\pi}{\mathcal{E}(t)}
 $$
+
 ergibt sich die Differentialgleichung:
 
 $$
