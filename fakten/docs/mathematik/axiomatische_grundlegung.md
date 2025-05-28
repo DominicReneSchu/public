@@ -176,27 +176,23 @@ Dies führt zu einer Kopplung, bei der Beobachtung selbst zur Realitätsbildung 
 
 Aus Axiom 1 und 4 folgt die fundamentale Energierelation:
 
-$$
-E = \pi \cdot 𝓔 \cdot h \cdot f
-$$
+**E = π · ℰ · h · f**
 
-**Definition von 𝓔**  
-𝓔 beschreibt die fundamentale Resonanzkopplung innerhalb eines Schwingungssystems. Im Unterschied zur Eulerschen Zahl steht 𝓔 nicht für exponentielles Wachstum, sondern für die Verbindung von Schwingungsfrequenz, Energie und Zeit. 𝓔 besitzt imaginär-komplexen Charakter und integriert reale (Amplitude) sowie imaginäre (Phasenverschiebung) Komponenten der Schwingung.
+**Definition von ℰ**  
+ℰ beschreibt die fundamentale Resonanzkopplung innerhalb eines Schwingungssystems. Im Unterschied zur Eulerschen Zahl steht ℰ nicht für exponentielles Wachstum, sondern für die Verbindung von Schwingungsfrequenz, Energie und Zeit. ℰ besitzt imaginär-komplexen Charakter und integriert reale (Amplitude) sowie imaginäre (Phasenverschiebung) Komponenten der Schwingung.
 
 Beweis:  
-Die Übertragung von Energie durch resonante Kopplung erweitert die klassische Quantelung \( E = h \cdot f \) um den Faktor **π** (zyklische Ordnung) und **𝓔** (Kopplungseffizienz).
+Die Übertragung von Energie durch resonante Kopplung erweitert die klassische Quantelung **E = h · f** um den Faktor **π** (zyklische Ordnung) und **ℰ** (Kopplungseffizienz).
 
 ---
 
 ### 3.2 Resonanzbedingung und Energieübertragung
 
-Liegt Resonanz vor (d. h. \( \frac{f_1}{f_2} \in \mathbb{Q} \)), so wird die übertragene Energie:
+Liegt Resonanz vor (d. h. f₁/f₂ ∈ ℚ), so wird die übertragene Energie:
 
-$$
-E_{\text{übertr.}} = \pi \cdot 𝓔 \cdot h \cdot f_{\text{res}}
-$$
+**E₍übertr.₎ = π · ℰ · h · f₍res₎**
 
-wobei \( f_{\text{res}} \) die gemeinsame Resonanzfrequenz ist.
+wobei f₍res₎ die gemeinsame Resonanzfrequenz ist.
 
 ---
 
@@ -204,9 +200,7 @@ wobei \( f_{\text{res}} \) die gemeinsame Resonanzfrequenz ist.
 
 Ein stabiles Resonanzfeld resultiert aus der kohärenten Überlagerung (Superposition) mehrerer Schwingungen:
 
-$$
-\Phi(x, t) = \sum_{i=1}^N A_i \cdot \cos(k_i x - \omega_i t + \varphi_i)
-$$
+**Φ(x, t) = ∑₍i=1₎ⁿ Aᵢ · cos(kᵢ x − ωᵢ t + φᵢ)**
 
 Ein stehendes Muster entsteht, wenn die Frequenzen und Phasen so gewählt sind, dass die zeitliche Abhängigkeit wegfällt.
 
@@ -214,31 +208,23 @@ Ein stehendes Muster entsteht, wenn die Frequenzen und Phasen so gewählt sind, 
 
 ### 3.4 Entropie einer Resonanzkonfiguration
 
-Analog zur statistischen Physik wird die Entropie \( S \) einer Konfiguration als Funktion der normierten Energie definiert:
+Analog zur statistischen Physik wird die Entropie S einer Konfiguration als Funktion der normierten Energie definiert:
 
-$$
-S(E) = -\frac{E}{E_0} \ln\left( \frac{E}{E_0} \right)
-$$
+**S(E) = −(E/E₀) · ln(E/E₀)**
 
-Mit der dimensionslosen Variable \( x = \frac{E}{E_0} \) erhält man:
+Mit der dimensionslosen Variable x = E/E₀ erhält man:
 
-$$
-S(x) = -x \ln x
-$$
+**S(x) = −x · ln(x)**
 
 Die Ableitung
 
-$$
-\frac{dS}{dx} = -\ln x - 1
-$$
+**dS/dx = −ln(x) − 1**
 
 setzt man gleich Null:
 
-$$
--\ln x - 1 = 0 \quad \Rightarrow \quad \ln x = -1 \quad \Rightarrow \quad x = \frac{1}{e}
-$$
+**−ln(x) − 1 = 0 ⇒ ln(x) = −1 ⇒ x = 1/e**
 
-Daraus folgt, dass das Maximum der Entropie bei \( E = \frac{E_0}{e} \) liegt.
+Daraus folgt, dass das Maximum der Entropie bei **E = E₀/e** liegt.
 
 ---
 
@@ -246,11 +232,9 @@ Daraus folgt, dass das Maximum der Entropie bei \( E = \frac{E_0}{e} \) liegt.
 
 Jedes stabile Resonanzfeld besitzt eine diskrete Spektralstruktur:
 
-$$
-\Phi(x, t) = \sum_{n=-\infty}^{\infty} c_n \cdot 𝓔^{i(k_n x - \omega_n t)}
-$$
+**Φ(x, t) = ∑ₙ₌₋∞⁺∞ cₙ · ℰ^𝑖(kₙx − ωₙt)**
 
-Dabei treten Resonanzeffekte nur bei diskreten Frequenzwerten \( \omega_n \in \mathbb{Q} \cdot \omega_0 \) auf.
+Dabei treten Resonanzeffekte nur bei diskreten Frequenzwerten ωₙ ∈ ℚ · ω₀ auf.
 
 ---
 
