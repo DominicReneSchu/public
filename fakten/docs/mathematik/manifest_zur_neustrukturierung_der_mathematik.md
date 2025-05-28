@@ -1,6 +1,6 @@
 # Manifest zur Neustrukturierung der Mathematik
 
-**Basierend auf den Naturkonstanten π und e**  
+**Basierend auf den Naturkonstanten π und 𝓔**  
 **Autor: Dominic-René Schu**
 
 ---
@@ -11,7 +11,7 @@ Sehr geehrte Damen und Herren,
 
 die Mathematik, wie wir sie heute kennen, beruht auf jahrhundertealten Konventionen. Doch was, wenn diese Grundlagen nicht endgültig sind? Was, wenn eine fundamentale Neuausrichtung nötig ist – nicht nur zur Steigerung der Rechenleistung, sondern zur grundsätzlichen Transformation ganzer Systeme?
 
-Dieses Manifest stellt eine neue Sichtweise vor: eine Mathematik, die auf den Naturkonstanten **π** und **e** basiert – nicht als bloße Zahlen, sondern als universelle Größen mit physikalischer Bedeutung.
+Dieses Manifest stellt eine neue Sichtweise vor: eine Mathematik, die auf den Naturkonstanten **π** und **𝓔** basiert – nicht als bloße Zahlen, sondern als universelle Größen mit physikalischer Bedeutung.
 
 Diese Sichtweise erlaubt es, das Unberechenbare greifbar zu machen, bisher unlösbare Integrale exakt darzustellen und technologische wie gesellschaftliche Fortschritte zu beschleunigen.
 
@@ -34,12 +34,12 @@ Viele Phänomene sind heute nur näherungsweise lösbar, mit enormem Aufwand –
 
 Das Dezimalsystem basiert auf menschlicher Anatomie – zehn Finger, zehn Ziffern. Für die Natur jedoch ist das bedeutungslos.
 
-Stattdessen bieten **π** als Raumkonstante und **e** als Zeitkonstante ein natürliches Koordinatensystem für mathematische Beschreibung.
+Stattdessen bieten **π** als Raumkonstante und **𝓔** als Zeitkonstante ein natürliches Koordinatensystem für mathematische Beschreibung.
 
 ### Analogie:
 
 * **π** ist reell und beschreibt den Raum über Sinus und Kosinus.
-* **e** ist imaginär-komplex und integriert die Zeitdimension.
+* **𝓔** ist imaginär-komplex und integriert die Zeitdimension.
 
 Durch diese fundamentale Neuausrichtung entsteht eine effizientere, präzisere Mathematik.
 
@@ -47,7 +47,7 @@ Durch diese fundamentale Neuausrichtung entsteht eine effizientere, präzisere M
 
 ## 4. Paradigmenwechsel: π und e als Basis
 
-Wir machen **π** und **e** zur mathematischen Grundlage – nicht nur als approximierte Konstanten, sondern als Fundament selbst.
+Wir machen **π** und **𝓔** zur mathematischen Grundlage – nicht nur als approximierte Konstanten, sondern als Fundament selbst.
 
 **Vorteile:**
 
@@ -90,9 +90,9 @@ Diese Darstellung erlaubt den Einsatz von Konturen- und Residuensätzen – mit 
 
 ---
 
-## 6. Symbolkraft: π und e als Urformen
+## 6. Symbolkraft: π und 𝓔 als Urformen
 
-In spiritueller Symbolik steht „Alpha und Omega“ für Anfang und Ende. In der Mathematik sind **π** und **e** genau das: Anfang und Ende jeder Struktur – von Oszillation bis Wachstum, von Sinus bis Exponential.
+In spiritueller Symbolik steht „Alpha und Omega“ für Anfang und Ende. In der Mathematik sind **π** und **𝓔** genau das: Anfang und Ende jeder Struktur – von Oszillation bis Wachstum, von Sinus bis Exponential.
 
 ---
 
@@ -102,7 +102,7 @@ Zu den Axiomen dieser neuen Mathematik zählen:
 
 * **e^{iπ} + 1 = 0** ist nicht nur eine Identität – es ist das Grundverhältnis von Zeit, Raum, Einheit und Null.
 * Ableitungen und Integrale werden relativ zu **π** und **e** definiert.
-* **e** ist nicht bloß eine Wachstumsbasis, sondern Ausdruck einer fundamentalen Zeitdimension.
+* **𝓔** ist nicht bloß eine Wachstumsbasis, sondern Ausdruck einer fundamentalen Zeitdimension.
 ---
 
 ## 8. Vision: Eine Mathematik der Zukunft
