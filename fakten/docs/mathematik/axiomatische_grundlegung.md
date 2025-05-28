@@ -242,7 +242,7 @@ Daraus folgt, dass das Maximum der Entropie bei E = E₀ ⁄ e liegt.
 Jedes stabile Resonanzfeld besitzt eine diskrete Spektralstruktur:
 
 $$
-\Phi(x, t) = \sum_{n=-\infty}^{\infty} c_n \cdot e^{i(k_n x - \omega_n t)}
+\Phi(x, t) = \sum_{n=-\infty}^{\infty} c_n \cdot 𝓔^{i(k_n x - \omega_n t)}
 $$
 
 Dabei treten Resonanzeffekte nur bei diskreten Frequenzwerten ωₙ ∈ ℚ·ω₀ auf.
@@ -267,7 +267,7 @@ Diese Räume bilden die Grundlage für stehende Felder, Synchronisation und Kopp
 
 Die Struktur eines Resonanzfeldes kann durch einen gerichteten Graphen modelliert werden, wobei:
 - Knoten Schwingungsmoden repräsentieren,
-- Kanten, die Kopplungspfade darstellen, gewichtet durch Werte von ε.
+- Kanten, die Kopplungspfade darstellen, gewichtet durch Werte von 𝓔.
 
 Eine Pfadoptimierung entspricht der Maximierung des Energieflusses über den Resonanzkanal.
 
