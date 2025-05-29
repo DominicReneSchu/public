@@ -1,4 +1,6 @@
-# 1. Einleitung
+# Axiomatische Grundlegung
+
+# 1. Einleitung 
 
 Die Resonanzfeldtheorie (RFT) **beschreibt**, dass fundamentale Prozesse in Natur, Technik und Informationssystemen auf Prinzipien von Schwingung, Kopplung und Resonanz beruhen.
 
