@@ -286,4 +286,8 @@ Der Anfang bestimmt die Richtung, Tiefe und Qualität aller weiteren Schwingunge
 
 ---
 
-⬅️ [zurück](../../../README.md)
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+---
+
+[Zurück zur Übersicht](../../../README.md)

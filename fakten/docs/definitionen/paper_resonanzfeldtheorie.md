@@ -174,4 +174,8 @@ Mit dieser Zusammenführung von Axiomen und Schu-Koppler ist die Resonanzfeldthe
 
 ---
 
-⬅️ [zurück](../../../README.md)
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+---
+
+[Zurück zur Übersicht](../../../README.md)
