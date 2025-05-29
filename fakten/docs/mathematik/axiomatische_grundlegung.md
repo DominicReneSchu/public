@@ -50,7 +50,7 @@ Die Resonanzfeldtheorie (RFT) **beschreibt**, dass fundamentale Prozesse in Natu
 |:--------:|:------------------------------------------------------------|
 | _S_      | Entropie/Ordnungsmaß einer Resonanzkonfiguration            |
 | MI       | Mutual Information, MI(X, Y) = H(X) + H(Y) – H(X, Y)        |
-| PCI      | Phase Coherence Index, PCI = |⟨e^(i(φ₁ – φ₂))⟩| ∈ [0, 1]     |
+| PCI      |<exp(i·(phi1–phi2))>| (between 0 and 1)    |
 
 **Operatoren & Gruppen**
 
