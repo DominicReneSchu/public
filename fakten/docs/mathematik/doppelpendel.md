@@ -26,7 +26,7 @@ Interaktive Simulationen finden sich in [simulationen/doppelpendel/doppelpendel.
 
 ---
 
-![GIF-Animation des Doppelpendels](../../simulationen/doppelpendel/doppelpendel_animation.gif)
+![GIF-Animation des Doppelpendels](../../simulationen/doppelpendel/doppelpendel.gif)
 
 **Veränderbare Parameter:**
 - Anfangswinkel θ₁, θ₂: Startpositionen der Pendel
