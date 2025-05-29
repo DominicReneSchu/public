@@ -108,7 +108,7 @@ Gemeinsam definieren sie: Struktur, Wandel und Verbindung im mathematischen Raum
 > 𝓔 = Kopplungsvektor (Verbindung benachbarter Felder)
 
 <p align="center">
-  <img src="bilder/pi_e_symbolik.png" alt="pi_e_symbolik" width="400"/>
+  <img src="../bilder/pi_e_symbolik.png" alt="pi_e_symbolik" width="400"/>
 </p>
 
 ---
