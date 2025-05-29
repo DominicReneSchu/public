@@ -27,7 +27,7 @@ Die Resonanzfeldtheorie (RFT) **beschreibt**, dass fundamentale Prozesse in Natu
 | _E_      | Energie                                                          |
 | _E₀_     | Charakteristische Energie (Normierungswert)                      |
 | _x_      | Dimensionslose Energievariable, _x = E / E₀_                     |
-| _π_      | Maß zyklischer Ordnungsstruktur (Schu-Kompass)                   |
+| _π_      | Maß zyklischer Ordnungsstruktur                  |
 | _ψ_      | Schwingungsfunktion im Raum-Zeit-Bereich                         |
 | _Φ_      | Gesamtfeldfunktion / Resonanzfeld                                |
 
