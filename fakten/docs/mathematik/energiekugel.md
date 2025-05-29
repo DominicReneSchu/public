@@ -75,9 +75,8 @@ Die Energiekugel steht beispielhaft für die Verbindung von Physik, Mathematik u
 ## Weiterführende Literatur & Ressourcen
 
 - [Resonanzfeldtheorie – Axiome und Definitionen](../definitionen/paper_resonanzfeldtheorie.md)
-- [Axiome im Überblick](../definitionen/paper_axiome.md)
+- [Axiomatische Grundlegung](axiomatische_grundlegung.md)
 - [Aetherius – fühlbare Mathematik](./aetherius_fühlbare_mathematik.md)
-- Weitere Hintergründe: https://resonanzfeldtheorie.org (externer Link)
 
 ---
 
