@@ -293,4 +293,8 @@ ist Ausdruck zyklischer Verbundenheit, harmonischer Struktur und universeller Ko
 
 ---
 
-⬅️ [zurück](../../../README.md)
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+---
+
+[Zurück zur Übersicht](../../../README.md)
