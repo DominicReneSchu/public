@@ -20,7 +20,12 @@ Die Bewegungsgleichungen werden meist numerisch gelöst, da eine analytische Lö
 
 ## Simulation und Parameter
 
+---
+
 Interaktive Simulationen finden sich in [simulationen/doppelpendel/doppelpendel.py](../../simulationen/doppelpendel/doppelpendel.py).  
+
+---
+
 ![GIF-Animation des Doppelpendels](../../simulationen/doppelpendel/doppelpendel_animation.gif)
 
 **Veränderbare Parameter:**
