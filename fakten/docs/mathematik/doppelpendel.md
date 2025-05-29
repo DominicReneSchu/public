@@ -45,11 +45,11 @@ Interaktive Simulationen finden sich in [simulationen/doppelpendel/doppelpendel.
 - **Resonanzmuster:** Bei bestimmten Kopplungen und Energien stimmen Schwingungsmoden überein oder es entstehen charakteristische Muster.
 - **Kollektive Moden:** Übergänge vom individuellen zum kollektiven Schwingen der Pendel.
 
-Mehr dazu im Kapitel [Simulationen](../../simulationen/) und in den Abschnitten zu [Resonanzfeldtheorie: Axiomatische Grundlegung, Schu-Koppler und mathematische Konsequenzen](../definitionen/paper_resonanzfeldtheorie.md).
+Mehr dazu im Kapitel [Simulationen](../../simulationen/).
 
 ## Resonanzfeldtheoretische Perspektive
 
-Die [Resonanzfeldtheorie](../definitionen/paper_resonanzfeldtheorie.md) erweitert den klassischen Zugang um die Betrachtung des Doppelpendels als Teil eines umfassenderen Schwingungs- und Resonanzfeldes. Hierbei werden Parameter wie Kopplungsstärke, Eigenfrequenzen und Feldstrukturen mathematisch analysiert:
+Die Resonanzfeldtheorie erweitert den klassischen Zugang um die Betrachtung des Doppelpendels als Teil eines umfassenderen Schwingungs- und Resonanzfeldes. Hierbei werden Parameter wie Kopplungsstärke, Eigenfrequenzen und Feldstrukturen mathematisch analysiert:
 
 - **Resonanzraum:** Das Doppelpendel entfaltet verschiedene Resonanzräume, abhängig von l₁/l₂, m₁/m₂ und der Kopplungsstärke.
 - **Feldkopplung:** Die Kopplung der Pendel illustriert, wie lokale Schwingungen kollektive Feldmoden bilden können.
