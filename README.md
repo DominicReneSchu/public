@@ -24,7 +24,7 @@ Alle beobachtbaren Phänomene – von Teilchen über Kräfte bis hin zu Bewussts
 
 ### Zentrale Konstanten:
 
-- **π :** Maß für kreisförmige Resonanzen und zyklische Symmetrie  
+- **π (Kreiszahl) :** Maß für kreisförmige Resonanzen und zyklische Symmetrie  
 - **ℏ (Planck-Konstante):** Maß für Quantisierung und Energiepaketierung  
 - **𝓔 (Schu-Koppler):** Neue Naturkonstante für **Resonanzkopplung**, unabhängig von der Eulerschen Zahl
 
