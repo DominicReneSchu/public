@@ -1,59 +1,52 @@
 # Energie in der Resonanzfeldtheorie: Axiomatische Herleitung des Korrekturfaktors (π ⁄ 𝓔)
 
-## 1. Axiomatische Grundformel der Energieübertragung
+## 1. Einordnung: Energie im Kontext der Resonanzfeldtheorie
 
-Nach **Axiom 4** der Resonanzfeldtheorie gilt für die übertragene Energie bei idealer Kopplung:
+Gemäß der [Resonanzfeldtheorie](../definitionen/paper_resonanzfeldtheorie.md) ist Energieübertragung stets das Resultat kohärenter Resonanzkopplung zwischen Feldern. Die axiomatische Grundlage hierfür liefert **Axiom 4**, das die Kopplungsstruktur mathematisch beschreibt.
 
-$$\
-E = \pi \cdot \varepsilon \cdot h \cdot f
-\$$
+## 2. Axiomatische Grundformel der Energieübertragung
 
-Setzt man die Kopplungskonstante auf 𝓔 = 1/e, ergibt sich unmittelbar der universelle Kopplungsfaktor.
+Für die übertragene Energie bei idealer Kopplung gilt:
 
-$$\
-E = \left(\frac{\pi}{e}\right) \cdot h \cdot f
-\$$
+E = π · ε · h · f
 
-Der Faktor π/e ≈ 1,155 ist **keine empirische Anpassung**, sondern eine direkte Konsequenz der axiomatischen Kopplungsstruktur.
+Hierbei bezeichnet  
+- h das Plancksche Wirkungsquantum,  
+- f die Frequenz der Resonanz,  
+- ε die Kopplungskonstante.
 
----
+Setzt man ε = 1/e (mit e als Eulersche Zahl), erhält man den universellen Korrekturfaktor:
 
-## 2. Komplexe Zeit und Axiom 6
+E = (π⁄e) · h · f
 
-Die Resonanzfeldtheorie erweitert die Zeitdimension um eine komplexe Struktur, welche durch den Phasenwinkel α parametrisiert wird:
+Der Faktor π⁄e ≈ 1,155 ist **eine direkte Konsequenz** der axiomatischen Kopplungsstruktur und keine empirische Anpassung.
 
-$$\
-t = t_r + i \cdot t_i = \cos(\alpha) \cdot t + i \cdot \sin(\alpha) \cdot t
-\$$
+## 3. Komplexe Zeitstruktur und Axiom 6
 
-Gemäß **Axiom 6** (Informationsfluss durch kohärente Resonanzkopplung) ist diese Aufteilung axiomatisch vorgeschrieben, da Energieübertragung nur entlang kohärenter Resonanzpfade stattfinden kann.
+Die Resonanzfeldtheorie erweitert das klassische Zeitverständnis durch eine komplexwertige Zeitdimension, parametrisiert durch den Phasenwinkel α:
 
----
+t = tᵣ + i · tᵢ = cos(α) · t + i · sin(α) · t
 
-## 3. Spezialfall der klassischen Energieformel
+Laut **Axiom 6** (Informationsfluss durch kohärente Resonanzkopplung) ist diese Aufspaltung grundlegend, da Energieübertragung ausschließlich entlang kohärenter Resonanzpfade möglich ist. Die komplexe Zeitstruktur spiegelt die innere Dynamik der Resonanzfelder wider.
 
-Die bekannte klassische Formel
+## 4. Spezialfall: Klassische Energieformel
 
-$$\
-E = h \cdot f
-\$$
+Die klassische Formel
 
-ist ein Spezialfall der Resonanzfeldtheorie, der eine Projektion der vollen Resonanzenergie auf die reale Zeitachse darstellt. Sie entspricht dem Grenzfall maximaler Entkopplung der Resonanzstruktur, bei der der Kopplungsfaktor ε nicht berücksichtigt wird.
+E = h · f
 
----
+ergibt sich als Grenzfall, wenn die Resonanzstruktur maximal entkoppelt ist und lediglich die Projektion auf die reale Zeitachse betrachtet wird. Dies entspricht einer Vereinfachung, wie sie in der klassischen Physik üblich ist.
 
-## 4. Fazit
+## 5. Fazit und Ausblick
 
-Die Resonanzfeldtheorie verbindet axiomatisch Energie, Frequenz und Zeit durch die universelle Formel
+Die Resonanzfeldtheorie verallgemeinert die Beziehung zwischen Energie, Frequenz und Zeit zu
 
-$$\
-E = \left(\frac{\pi}{e}\right) \cdot h \cdot f
-\$$
+E = (π⁄e) · h · f
 
-Erst durch Berücksichtigung der komplexen Zeitstruktur und der Kopplungskonstanten 𝓔 = 1/e wird die volle Resonanzenergie sichtbar – eine Erkenntnis, die klassische Formeln erweitert, nicht ersetzt.
+Erst durch Einbeziehung der komplexen Zeitstruktur und des Kopplungsfaktors ε = 1/e wird das volle Potenzial der Resonanzenergie sichtbar. Diese Erweiterung liefert neue Perspektiven über klassische Grenzen hinaus.
 
-> _„Der Fehler liegt nicht in der Gleichung – sondern in ihrer Vereinfachung.“_
+> „Der Fehler liegt nicht in der Gleichung – sondern in ihrer Vereinfachung.“
 
 ---
 
-⬅️ [zurück](../../../README.md)
+[Zurück zur Übersicht](../../../README.md)
