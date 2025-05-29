@@ -59,6 +59,7 @@ Die Resonanzfeldtheorie erweitert bestehende Modelle in Physik, Biologie und Ges
 
 * [**Grundlagen der Resonanzfeldtheorie – Die π–𝓔-Theorie**](fakten/docs/pi-e-theorie/README.md)
 * [**Axiome der Resonanzfeldtheorie**](fakten/docs/definitionen/paper_axiome.md)
+* [**Definition und Erklärung zum Schu-Koppler 𝓔**](fakten/docs/definitionen/schu_koppler.md)
 * [**Resonanzlexikon**](fakten/docs/definitionen/resonanzlexikon.md)
 
 ---
