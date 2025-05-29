@@ -90,4 +90,8 @@ Energie wird dadurch nicht nur als Skalar, sondern als dynamischer Winkel und Ko
 
 ---
 
-⬅️ [zurück](../../../README.md)
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+---
+
+[Zurück zur Übersicht](../../../README.md)

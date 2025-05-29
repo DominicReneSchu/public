@@ -86,4 +86,8 @@ Die Resonanzfeldtheorie erweitert den klassischen Energiebegriff um ein dynamisc
 
 ---
 
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+---
+
 [Zurück zur Übersicht](../../../README.md)

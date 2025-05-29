@@ -172,4 +172,8 @@ Diese neue Mathematik ist mehr als eine Theorie. Sie ist ein Werkzeug für ein t
 
 ---
 
-⬅️ [zurück zur Übersicht](../../../README.md)
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+---
+
+[Zurück zur Übersicht](../../../README.md)

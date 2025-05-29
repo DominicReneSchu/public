@@ -49,4 +49,6 @@ Der Welle-Teilchen-Dualismus erscheint so als Projektion eines Resonanzfelds dur
 
 © Dominic-René Schu – Resonanzfeldtheorie 2025
 
-⬅️ [zurück](../../../README.md)
+---
+
+[Zurück zur Übersicht](../../../README.md)

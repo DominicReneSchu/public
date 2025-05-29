@@ -111,4 +111,8 @@ Alle Formeln und Aussagen beruhen auf den Axiomen 1, 2, 3, 5 und 6 der Resonanzf
 
 ---
 
-⬅️ [zurück](../../../README.md)
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+---
+
+[Zurück zur Übersicht](../../../README.md)
