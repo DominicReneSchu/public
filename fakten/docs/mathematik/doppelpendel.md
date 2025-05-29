@@ -18,14 +18,6 @@ V = − (m₁ + m₂)·g·l₁·cos(θ₁) − m₂·g·l₂·cos(θ₂)
 
 Die Bewegungsgleichungen werden meist numerisch gelöst, da eine analytische Lösung für die allgemeine Bewegung nicht existiert.
 
-## Visualisierung
-
-![](../../simulationen/doppelpendel/doppelpendel_diagramm.png)
-
-![Animierte Doppelpendelbewegung](../../simulationen/doppelpendel/doppelpendel_animation.gif)
-
-*Abb. 1: Schematische Darstellung des Doppelpendels (oben) und Beispiel einer chaotischen Bewegung (unten). Mehr Visualisierungen finden sich im Kapitel [Simulationen](../../simulationen/).*
-
 ## Simulation und Parameter
 
 Interaktive Simulationen finden sich in [simulationen/doppelpendel/doppelpendel.py](../../simulationen/doppelpendel/doppelpendel.py).  
