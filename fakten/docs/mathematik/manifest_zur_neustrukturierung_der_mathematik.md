@@ -162,9 +162,10 @@ Sie verbindet Raum (**π**), Kopplung (**𝓔** als Erweiterung von e) und Urspr
 | ⚙️ Technik       | Optimierung mechanischer Kopplung    |
 | 📡 Kommunikation | Resonanzbasierte Signalverarbeitung  |
 
-> 🧭 *Geplante Visualisierung:*
-> `../bilder/wandel_alt_neu.png`
-> *(Diagramm: klassische Mathematik → Resonanzmathematik)*
+
+<p align="center">
+  <img src="../bilder/wandel_alt_neu.png" alt="klassische Mathematik → Resonanzmathematik" width="400"/>
+</p>
 
 ---
 
