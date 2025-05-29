@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation, PillowWriter
 from scipy.integrate import solve_ivp
 from matplotlib.widgets import Slider, Button
-import os
 
 g = 9.81
 dt = 0.02
@@ -112,7 +111,7 @@ ax.axis('off')
 fig.text(0.5, 0.98, "Doppelpendel-Simulation", ha='center', va='top', fontsize=15, color="#224488", weight='bold')
 info_text = (
     r"$\theta_1$, $\theta_2$: Winkel | $m_1$, $m_2$: Massen | $L_1$, $L_2$: Längen | "
-    r"$\mathcal{E}$: Schu-Koppler | "
+    r"$\mathcal{E}$: Kopplungsstärke (Schu-Koppler) | "
     r"Mehr zur Theorie: Fakten > Mathematik > Doppelpendel"
 )
 fig.text(0.5, 0.954, info_text, ha='center', va='top', fontsize=10, color="#224488")
@@ -162,28 +161,23 @@ s_L2 = slider_objects['L2']
 s_E = slider_objects['E']
 s_trail = slider_objects['trail_length']
 
-reset_ax = plt.axes([0.06, slider_y - 0.07, 0.1, 0.04])
-reset_button = Button(reset_ax, 'Reset', color='lightcoral', hovercolor='red')
-gif_ax = plt.axes([0.18, slider_y - 0.07, 0.1, 0.04])
-gif_button = Button(gif_ax, 'Export als GIF', color='lightgreen', hovercolor='yellow')
-
-energy_text = ax.text(-2.1, 2.0, "", fontsize=9, color="#224488", va='top')
-kappa_text = ax.text(0, 2.05, "", fontsize=9, color="#44AA44", ha='center', va='bottom')
-
 def update_info_text():
-    T, V, E_coup = sim.get_energies()
-    κ = sim.get_kappa()
-    energy_text.set_text(
-        f"T: {T:.2f} J\nV: {V:.2f} J\nEₖₒₚₚ: {E_coup:.2f} J"
+    T, V, E_c = sim.get_energies()
+    kappa = sim.get_kappa()
+    txt = (
+        f"Kinetische Energie: {T:.2f} J | Potentielle Energie: {V:.2f} J | "
+        f"Kopplungsenergie: {E_c:.2f} J | Verhältnis κ = {kappa:.3f}"
     )
-    kappa_text.set_text(f"κ = Eₖₒₚₚ/Eₜₒₜ = {κ:.2%}")
+    return txt
+
+energy_text = ax.text(0, 2.05, update_info_text(), fontsize=9, color='navy', ha='center')
 
 def init():
     line.set_data([], [])
     trail1.set_data([], [])
     trail2.set_data([], [])
-    update_info_text()
-    return line, trail1, trail2, energy_text, kappa_text
+    energy_text.set_text("")
+    return line, trail1, trail2, energy_text
 
 def update(frame):
     sim.step(dt, s_E.val)
@@ -191,10 +185,10 @@ def update(frame):
     line.set_data([0, x1, x2], [0, y1, y2])
     trail1.set_data(sim.trail1_x, sim.trail1_y)
     trail2.set_data(sim.trail2_x, sim.trail2_y)
-    update_info_text()
-    return line, trail1, trail2, energy_text, kappa_text
+    energy_text.set_text(update_info_text())
+    return line, trail1, trail2, energy_text
 
-def restart_animation(*_):
+def reset(event=None):
     sim.theta1_0 = s_theta1.val
     sim.omega1_0 = s_omega1.val
     sim.theta2_0 = s_theta2.val
@@ -206,56 +200,39 @@ def restart_animation(*_):
     sim.trail_length = int(s_trail.val)
     sim.reset()
 
-s_theta1.on_changed(restart_animation)
-s_theta2.on_changed(restart_animation)
-s_omega1.on_changed(restart_animation)
-s_omega2.on_changed(restart_animation)
-s_m1.on_changed(restart_animation)
-s_m2.on_changed(restart_animation)
-s_L1.on_changed(restart_animation)
-s_L2.on_changed(restart_animation)
-s_E.on_changed(restart_animation)
-s_trail.on_changed(lambda val: setattr(sim, "trail_length", int(val)))
-reset_button.on_clicked(lambda event: restart_animation())
+def sliders_on_changed(val):
+    reset()
+
+for slider in slider_objects.values():
+    slider.on_changed(sliders_on_changed)
+
+reset_button_ax = plt.axes([0.06, 0.05, 0.1, 0.04])
+reset_button = Button(reset_button_ax, 'Reset')
+reset_button.on_clicked(reset)
+
+gif_button_ax = plt.axes([0.18, 0.05, 0.1, 0.04])
+gif_button = Button(gif_button_ax, 'GIF exportieren')
 
 def export_gif(event):
-    restart_animation()
-    gif_filename = "doppelpendel_animation.gif"
-    print("Exportiere GIF ...")
-    frames = 250
-
-    # Lokale Kopie des Simulationsobjekts, damit die UI nicht beeinflusst wird
-    sim_gif = DoublePendulumSim()
-    sim_gif.theta1_0 = s_theta1.val
-    sim_gif.omega1_0 = s_omega1.val
-    sim_gif.theta2_0 = s_theta2.val
-    sim_gif.omega2_0 = s_omega2.val
-    sim_gif.m1 = s_m1.val
-    sim_gif.m2 = s_m2.val
-    sim_gif.L1 = s_L1.val
-    sim_gif.L2 = s_L2.val
-    sim_gif.trail_length = int(s_trail.val)
-    sim_gif.reset()
-
-    # Dummy-Objekte, damit update_gif funktionieren kann
-    def update_gif(frame):
-        sim_gif.step(dt, s_E.val)
-        x1, y1, x2, y2 = sim_gif.get_positions()
+    reset()
+    frames = 500
+    interval = dt * 1000  # in ms
+    
+    def update_frame(frame):
+        sim.step(dt, s_E.val)
+        x1, y1, x2, y2 = sim.get_positions()
         line.set_data([0, x1, x2], [0, y1, y2])
-        trail1.set_data(sim_gif.trail1_x, sim_gif.trail1_y)
-        trail2.set_data(sim_gif.trail2_x, sim_gif.trail2_y)
-        return line, trail1, trail2
+        trail1.set_data(sim.trail1_x, sim.trail1_y)
+        trail2.set_data(sim.trail2_x, sim.trail2_y)
+        energy_text.set_text(update_info_text())
+        return line, trail1, trail2, energy_text
 
-    anim = FuncAnimation(fig, update_gif, frames=frames, init_func=init, interval=dt * 1000, blit=True)
-    anim.save(gif_filename, writer=PillowWriter(fps=int(1/dt)))
-    print(f"GIF gespeichert als {os.path.abspath(gif_filename)}")
+    anim = FuncAnimation(fig, update_frame, frames=frames, interval=interval, blit=True)
+    writer = PillowWriter(fps=30)
+    anim.save("doppelpendel.gif", writer=writer)
+    print("GIF exportiert: doppelpendel.gif")
 
 gif_button.on_clicked(export_gif)
 
-def start_animation():
-    global ani
-    ani = FuncAnimation(fig, update, frames=100000, init_func=init, interval=dt * 1000, blit=True)
-    plt.show()
-
-if __name__ == "__main__":
-    start_animation()
+anim = FuncAnimation(fig, update, init_func=init, interval=20, blit=True)
+plt.show()
