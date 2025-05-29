@@ -57,7 +57,7 @@ Der Unterschied spiegelt reale Kopplungsverluste wider: Perfekte Kopplung (𝓔�
 Der Effizienzfaktor ergibt sich als:  
   η = (𝓔 ⁄ π)² ≈ 0,74
 
-Dieser Wert ist sowohl theoretisch aus dem Modell als auch aus experimentellen Wirkungsgraden technischer Resonanzsysteme (z. B. Funkübertragung, Induktion) bekannt – siehe hierzu Messungen in [Experimenten zur Energieübertragung](../experimente/energieuebertragung.md).
+Dieser Wert ist sowohl theoretisch aus dem Modell als auch aus experimentellen Wirkungsgraden technischer Resonanzsysteme (z. B. Funkübertragung, Induktion) bekannt – siehe hierzu Messungen in [Experimenten zur Energieübertragung](energieuebertragung.md).
 
 ---
 
