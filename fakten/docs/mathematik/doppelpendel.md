@@ -28,19 +28,18 @@ Die Bewegungsgleichungen werden meist numerisch gelöst, da eine analytische Lö
 
 ## Simulation und Parameter
 
-Interaktive Simulationen finden sich in [simulationen/doppelpendel/doppelpendel.py](../../simulationen/doppelpendel/doppelpendel.py).
+Interaktive Simulationen finden sich in [simulationen/doppelpendel/doppelpendel.py](../../simulationen/doppelpendel/doppelpendel.py).  
 ![GIF-Animation des Doppelpendels](../../simulationen/doppelpendel/doppelpendel_animation.gif)
 
-Veränderbare Parameter:
+**Veränderbare Parameter:**
 - Anfangswinkel θ₁, θ₂: Startpositionen der Pendel
 - Längen l₁, l₂: Pendellängen
 - Massen m₁, m₂
-- Gravitationskonstante g
-- Kopplungsstärke: In der Simulation meist als Federkonstante (k) zwischen den Pendelarmen einstellbar (je größer, desto stärkere Kopplung)
+- Kopplungsstärke 𝓔 ("Schu-Koppler"): In der Simulation als Kopplungskonstante zwischen den Pendelarmen einstellbar (je größer, desto stärkere Kopplung)
 
 **Effekte:**
 - Einstellungen der Anfangswinkel führen zu unterschiedlichen Bewegungsmustern (von periodisch bis chaotisch)
-- Variieren der Kopplungsstärke beeinflusst Synchronisation und Resonanzmuster
+- Variieren der Kopplungsstärke 𝓔 beeinflusst Synchronisation und Resonanzmuster
 
 ## Beobachtete Phänomene
 
@@ -88,8 +87,4 @@ Das Doppelpendel bleibt damit nicht nur ein Lehrbeispiel für chaotische Mechani
 
 ---
 
-© Dominic-René Schu – Resonanzfeldtheorie 2025
-
----
-
-[Zurück zur Übersicht](../../../README.md)
+⬅️ [Zurück zur Übersicht](../../../README.md)
