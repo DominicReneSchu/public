@@ -49,4 +49,8 @@ Erst durch Einbeziehung der komplexen Zeitstruktur und des Kopplungsfaktors ε =
 
 ---
 
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+---
+
 [Zurück zur Übersicht](../../../README.md)
