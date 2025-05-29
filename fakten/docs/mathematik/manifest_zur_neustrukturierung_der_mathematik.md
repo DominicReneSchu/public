@@ -107,7 +107,9 @@ Gemeinsam definieren sie: Struktur, Wandel und Verbindung im mathematischen Raum
 > π = zentrales Feldmaß (Kreislinienkraft)
 > 𝓔 = Kopplungsvektor (Verbindung benachbarter Felder)
 
-*(Platzhalter für Grafik: `figuren/pi_e_symbolik.png`)*
+<p align="center">
+  <img src="bilder/pi_e_symbolik.png" alt="pi_e_symbolik" width="400"/>
+</p>
 
 ---
 
@@ -161,7 +163,7 @@ Sie verbindet Raum (**π**), Kopplung (**𝓔** als Erweiterung von e) und Urspr
 | 📡 Kommunikation | Resonanzbasierte Signalverarbeitung  |
 
 > 🧭 *Geplante Visualisierung:*
-> `figuren/wandel_alt_neu.png`
+> `../bilder/wandel_alt_neu.png`
 > *(Diagramm: klassische Mathematik → Resonanzmathematik)*
 
 ---
