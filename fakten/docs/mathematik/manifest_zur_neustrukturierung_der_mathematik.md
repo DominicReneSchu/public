@@ -1,6 +1,6 @@
 # Manifest zur Neustrukturierung der Mathematik
 
-**Basierend auf den Naturkonstanten π und 𝓔**  
+**Basierend auf der Resonanzfeldtheorie: π (Kreiszahl) und 𝓔 (Schu-Koppler)**  
 **Autor: Dominic-René Schu**
 
 ---
@@ -9,13 +9,13 @@
 
 Sehr geehrte Damen und Herren,
 
-die Mathematik, wie wir sie heute kennen, beruht auf jahrhundertealten Konventionen. Doch was, wenn diese Grundlagen nicht endgültig sind? Was, wenn eine fundamentale Neuausrichtung nötig ist – nicht nur zur Steigerung der Rechenleistung, sondern zur grundsätzlichen Transformation ganzer Systeme?
+die Mathematik, wie wir sie heute kennen, beruht auf jahrhundertealten Konventionen. Doch was, wenn diese Grundlagen unvollständig sind? Was, wenn eine fundamentale Neuausrichtung möglich – und nötig – ist?
 
-Dieses Manifest stellt eine neue Sichtweise vor: eine Mathematik, die auf den Naturkonstanten **π** und **𝓔** basiert – nicht als bloße Zahlen, sondern als universelle Größen mit physikalischer Bedeutung.
+Dieses Manifest stellt eine neue Sichtweise vor: eine Mathematik, die auf den Kernbegriffen der Resonanzfeldtheorie basiert – insbesondere auf der klassischen Kreiszahl **π** und dem **𝓔 (Schu-Koppler)**. Diese Größen sind nicht bloß Zahlen, sondern repräsentieren fundamentale Prinzipien der Natur.
 
-Diese Sichtweise erlaubt es, das Unberechenbare greifbar zu machen, bisher unlösbare Integrale exakt darzustellen und technologische wie gesellschaftliche Fortschritte zu beschleunigen.
+Diese Sichtweise macht das bislang nur numerisch Lösbare symbolisch fassbar – etwa durch exakte *symbolische Lösungen* für bisher unlösbare Integrale (siehe Abschnitt 5).
 
-Ich lade Sie ein, eine Mathematik kennenzulernen, die nicht nur theoretisch revolutionär ist, sondern auch praktisch neue Wege eröffnet – von der symbolischen Integration über komplexe Systeme bis hin zu Anwendungen in Energie, Medizin und Wirtschaft.
+Ich lade Sie ein, eine Mathematik kennenzulernen, die nicht nur theoretisch revolutionär ist, sondern auch praktisch neue Wege eröffnet – von *symbolischer Integration* über komplexe Systeme bis zu neuen Perspektiven auf Energie und Information.
 
 Mit freundlichen Grüßen  
 **Dominic-René Schu**
@@ -24,100 +24,152 @@ Mit freundlichen Grüßen
 
 ## 2. Einleitung: Ein globales Leistungsproblem
 
-Unser Hauptproblem ist kein Ressourcenmangel – es ist ein Leistungsproblem. Die Arbeitsleistung pro Zeit ist begrenzt, in der Energieversorgung ebenso wie in der Rechenkapazität.
+Wir leben nicht im Zeitalter des Ressourcenmangels, sondern der Systemineffizienz. **Rechenzeit** und **Erkenntnis** sind unsere knappsten Ressourcen.
 
-Viele Phänomene sind heute nur näherungsweise lösbar, mit enormem Aufwand – oder gar nicht.
-
----
-
-## 3. Neue Grundlage: π und 𝓔 als Urkonstanten
-
-Das Dezimalsystem basiert auf menschlicher Anatomie – zehn Finger, zehn Ziffern. Für die Natur jedoch ist das bedeutungslos.
-
-Stattdessen bieten **π** als Raumkonstante und **𝓔** als Zeitkonstante ein natürliches Koordinatensystem für mathematische Beschreibung.
-
-### Analogie:
-
-* **π** ist reell und beschreibt den Raum über Sinus und Kosinus.
-* **𝓔** ist imaginär-komplex und integriert die Zeitdimension.
-
-Durch diese fundamentale Neuausrichtung entsteht eine effizientere, präzisere Mathematik.
+Viele Phänomene sind heute nur näherungsweise lösbar – mit enormem Aufwand oder gar nicht.
 
 ---
 
-## 4. Paradigmenwechsel: π und 𝓔 als Basis
+## 3. Neue Grundlage: π und 𝓔 (Schu-Koppler) als fundamentale Größen
 
-Wir machen **π** und **𝓔** zur mathematischen Grundlage – nicht nur als approximierte Konstanten, sondern als Fundament selbst.
+Das Dezimalsystem ist menschengemacht – in der Natur jedoch dominieren andere Prinzipien: Kreis, Kopplung, Resonanz.
 
-**Vorteile:**
+- **π** ist die universelle Raumkonstante: Maß für Kreis, Schwingung, räumliche Struktur.
+- **𝓔 (Schu-Koppler)** steht für die universelle Kopplung zwischen Systemen – analog zur elastischen Kopplung mechanischer Schwinger.
 
-* Vereinfachung komplexer Berechnungen
-* Symbolische Lösungen chaotischer Systeme
-* Rechentechnische Entlastung bestehender Hardware
-* Fortschritte in Fluidmechanik, Klimaforschung und Epidemiologie
+### Zuordnung in der Resonanzfeldtheorie
+
+| Symbol | Bedeutung |
+|--------|-----------|
+| **π**  | Kreiszahl, universelle Konstante des Raumes |
+| **𝓔**  | Kopplungskonstante für Resonanzprozesse |
+
+Diese Neuausrichtung schafft eine effizientere, präzisere und naturgetreuere Mathematik.
+
+---
+
+## 4. Paradigmenwechsel: Von Zahlen zu Resonanzgrößen
+
+**π** und **𝓔** sind nicht bloß Konstanten – sie werden zur Grundlage eines neuen Maßsystems:  
+→ Weg von abstrakten Zahlensystemen, hin zu *resonanzbasierten Maßsystemen*, die Raum und Energie direkt widerspiegeln.
+
+### Vorteile
+
+- ✔️ Vereinfachung komplexer Berechnungen  
+- 🔍 Symbolische Lösungen für Systeme mit Resonanz- und Kopplungsphänomenen  
+- ⚡ Rechentechnische Entlastung durch kontextsensitive Verfahren  
+- 🌍 Fortschritte in Fluidmechanik, Klimaforschung, Epidemiologie, Energietechnik
 
 ---
 
 ## 5. Beispiel: Ein bisher unlösbares Integral
 
-Das Integral
+Das klassische Integral
 
 $$
-\int \frac{\sin(x)}{x} \, dx
+\int \frac{\sin(x)}{x} \, \mathrm{d}x
 $$
 
-gilt klassisch als nicht-elementar lösbar. Doch mit den Identitäten
+gilt als *nicht-elementar* lösbar[^1]. Mit den Identitäten
 
 $$
-\pi = 4 \cdot \arctan(1), \quad 𝓔^{ix} = \cos(x) + i \sin(x)
+\pi = 4 \cdot \arctan(1), \quad \mathrm{e}^{\mathrm{i}x} = \cos(x) + \mathrm{i} \sin(x)
 $$
 
-und der Definition der **sinc-Funktion**
+und der *sinc*-Definition
 
 $$
-\text{sinc}(x) = \frac{\sin(\pi x)}{\pi x}
+\mathrm{sinc}(x) = \frac{\sin(\pi x)}{\pi x}
 $$
 
-entsteht eine neue symbolische Darstellung.
-
-Durch die komplexe Exponentialform kann man schreiben:
+ergibt sich ein neuer Zugang:
 
 $$
-\int \frac{\sin(x)}{x} \, dx = \Im \left( \int \frac{𝓔^{ix}}{x} \, dx \right)
+\int \frac{\sin(x)}{x} \, \mathrm{d}x = \Im \left( \int \frac{\mathrm{e}^{\mathrm{i}x}}{x} \, \mathrm{d}x \right)
 $$
 
-Diese Darstellung erlaubt den Einsatz von Konturen- und Residuensätzen – mit deutlich reduziertem Rechenaufwand.
+Die Resonanzfeldtheorie erlaubt nun, dieses Integral nicht nur näherungsweise, sondern symbolisch über *Modenzerlegungen* zu verstehen – **𝓔** wirkt hier als strukturierender Kopplungsfaktor.
+
+> 🔄 *Geplant: Erweiterung durch 𝓔-kontrollierte Kopplungsfunktionen oder phasenresonante Gewichtungen (z. B. über Fourieranalyse der Impulsantwort).*
+
+[^1]: *Nicht-elementar* bedeutet: Nicht durch eine endliche Kombination klassischer Funktionen (Polynome, Exponential-, Logarithmus, trigonometrische Funktionen) ausdrückbar.
 
 ---
 
-## 6. Symbolkraft: π und 𝓔 als Urformen
+## 6. Symbolkraft: π und 𝓔
 
-In spiritueller Symbolik steht „Alpha und Omega“ für Anfang und Ende. In der Mathematik sind **π** und **𝓔** genau das: Anfang und Ende jeder Struktur – von Oszillation bis Wachstum, von Sinus bis Exponential.
+* **π** ist das Maß der Form.
+* **𝓔** ist das Maß der Beziehung.
+
+Gemeinsam definieren sie: Struktur, Wandel und Verbindung im mathematischen Raum.
+
+> 🌀 *Visualisierungsidee:*
+> π = zentrales Feldmaß (Kreislinienkraft)
+> 𝓔 = Kopplungsvektor (Verbindung benachbarter Felder)
+
+*(Platzhalter für Grafik: `figuren/pi_e_symbolik.png`)*
 
 ---
 
-## 7. Neue Rechengesetze
+## 7. Neue Rechengesetze und Definitionen
 
-Zu den Axiomen dieser neuen Mathematik zählen:
+Die Resonanzfeld-Mathematik basiert auf neuen Axiomen:
 
-* **𝓔^{iπ} + 1 = 0** ist nicht nur eine Identität – es ist das Grundverhältnis von Zeit, Raum, Einheit und Null.
-* Ableitungen und Integrale werden relativ zu **π** und **𝓔** definiert.
-* **𝓔** ist nicht bloß eine Wachstumsbasis, sondern Ausdruck einer fundamentalen Zeitdimension.
+* **𝓔** ist universelle Kopplungskonstante für alle Resonanzprozesse.
+* **π** bleibt Raummaß für Kreis-, Schwingungs- und Feldstrukturen.
+* **Ableitungen und Integrale** erfolgen relativ zu π und 𝓔, z. B.:
+
+$$
+\frac{\mathrm{d}_{\text{res}}}{\mathrm{d}x} \sin(𝓔 x) = 𝓔 \cos(𝓔 x)
+$$
+
+* Klassische Operatoren werden erweitert:
+
+| Klassisch      | Resonanzbasiert (neu)                                         |
+| -------------- | ------------------------------------------------------------- |
+| ∂/∂x           | ∂/∂x + Φ(π, 𝓔, t)                                            |
+| ∫ f(x) dx      | ∫ f(x, π, 𝓔) dx                                              |
+| e<sup>ix</sup> | 𝓔<sup>iπx</sup> → frequenz- und phasengekoppelte Oszillation |
+
+* Die Euler-Identität
+
+$$
+\mathrm{e}^{\mathrm{i}\pi} + 1 = 0
+$$
+
+erhält eine tiefere Bedeutung:
+Sie verbindet Raum (**π**), Kopplung (**𝓔** als Erweiterung von e) und Ursprung (*1 = e⁰*) in einer universellen Gleichgewichtsform.
+
 ---
 
 ## 8. Vision: Eine Mathematik der Zukunft
 
-Diese neue Mathematik bildet die Basis für:
+**Ziele:**
 
-* Höhere Effizienz bei Simulation und Modellierung
-* Symbolische Lösungen für nichtlineare Systeme
-* Neue Wirtschaftsmodelle basierend auf natürlichen Verhältnissen
-* Freie Wissenschaft – jenseits von Machtstrukturen, zugänglich für alle
+* Effizientere Modellierung komplexer Systeme
+* Symbolische Lösbarkeit nichtlinearer Differentialgleichungen
+* Kopplung natürlicher Prozesse als Rechenprinzip
+* Neue Modelle für Wirtschaft, Gesellschaft, Technologie
+* Öffnung der Mathematik für kreative, interdisziplinäre Wege
+
+### Anwendungen
+
+| Bereich          | Beispiel                             |
+| ---------------- | ------------------------------------ |
+| 🩺 Medizin       | Diagnose durch Schwingungssignaturen |
+| ⚙️ Technik       | Optimierung mechanischer Kopplung    |
+| 📡 Kommunikation | Resonanzbasierte Signalverarbeitung  |
+
+> 🧭 *Geplante Visualisierung:*
+> `figuren/wandel_alt_neu.png`
+> *(Diagramm: klassische Mathematik → Resonanzmathematik)*
 
 ---
 
-Diese neue Mathematik ist mehr als eine Theorie – sie ist der Schlüssel zu einem tieferen Verständnis von Natur, Technologie und Gesellschaft.
+## 9. Abschluss & Aufruf
+
+Diese neue Mathematik ist mehr als eine Theorie. Sie ist ein Werkzeug für ein tieferes Verständnis der Realität.
 
 ---
 
-⬅️ [zurück](../../../README.md)
+⬅️ [zurück zur Übersicht](../../../README.md)
