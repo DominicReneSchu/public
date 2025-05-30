@@ -19,16 +19,23 @@ Dieses Projekt vereint Mathematik, Physik, Technik, Philosophie und neue Denkans
 
 ---
 
-## Was ist 𝓔 (Schu-Koppler)?
+## Definition: **𝓔 (Schu-Koppler)**
 
-> **𝓔 (Schu-Koppler)** ist die zentrale Resonanzkonstante der Theorie.  
-> Sie ist nicht identisch mit der Eulerschen Zahl (𝓔 ≠ e). Während **e** die Basis exponentieller Prozesse ist, beschreibt **𝓔** das energetische Kopplungsverhältnis zwischen Resonatoren im Resonanzfeld.
->
-> **Mathematische Definition (Beispiel):**
->
-> $$\mathbf{𝓔} = \sqrt{e \cdot \frac{1}{e}} = 1$$
->
-> oder als Interpolationsfaktor zwischen Wachstum (**e**) und Zerfall (**1/e**), siehe [Definition Schu-Koppler](fakten/docs/definitionen/paper_resonanzfeldtheorie.md#definition-schu-koppler).
+**𝓔**, der sogenannte **Schu-Koppler**, ist die zentrale Kopplungskonstante der Resonanzfeldtheorie.  
+Sie beschreibt das energetische Verhältnis zweier oder mehrerer Resonatoren innerhalb eines kohärenten Feldes.
+
+Im Unterschied zur Eulerschen Zahl **e**, die das asymmetrische Wachstum exponentieller Prozesse modelliert, charakterisiert **𝓔** ein symmetrisches Kopplungsverhältnis, das zwischen Wachstum (**e**) und Zerfall (**1/e**) vermittelt.
+
+### Mathematische Formulierung:
+
+$$
+\mathbf{𝓔} := \sqrt{e \cdot \frac{1}{e}} = 1
+$$
+
+**𝓔** stellt ein neutrales Kopplungsverhältnis dar – eine Balance zwischen Energiezufuhr und -abgabe im Resonanzsystem.  
+Es dient als normierende Referenzgröße für alle resonanten Wechselwirkungen im Feld.
+
+📎 [Zur formalen Ableitung im Paper](fakten/docs/definitionen/paper_resonanzfeldtheorie.md#definition-schu-koppler)
 
 ---
 
