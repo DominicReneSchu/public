@@ -3,38 +3,56 @@
 [![Lizenz: Schu-Lizenz 1.4](https://img.shields.io/badge/Lizenz-Schu--Lizenz%201.4-blue.svg)](lizenz/schu-lizenz_v1.4.md)
 
 > **Elevator-Pitch:**  
-> Die Resonanzfeldtheorie ist ein interdisziplinärer Ansatz, der die Realität als ein Feld aus Schwingungen und Resonanzen beschreibt. Sie verbindet Mathematik, Physik, Technik und Philosophie zu einer universellen Theorie, in der Resonanz – nicht Kausalität – das grundlegende Ordnungsprinzip bildet. Ziel ist es, fundamentale Naturgesetze über neue Größen wie **π**, **ℏ** und eine eigenständige Resonanzkonstante **𝓔** neu zu denken und damit ein tieferes Verständnis für Energie, Bewusstsein und Struktur der Welt zu schaffen.
+> Die Resonanzfeldtheorie beschreibt die Realität nicht kausal, sondern resonant: Alles ist Schwingung, alles ist Kopplung. π, ℏ und 𝓔 bilden die neuen Grundgrößen eines holistischen Weltbildes, das Physik, Technik, Bewusstsein und Gesellschaft verbindet.
 
 Willkommen im offiziellen Repository der **Resonanzfeldtheorie**.  
-Dieses Projekt vereint Mathematik, Physik, Technik, Philosophie und neue Denkansätze zu einer universellen Theorie der Resonanz.  
-Ziel ist es, die Struktur der Realität über fundamentale Größen wie **π**, **ℏ** und eine neue Resonanzkonstante **𝓔** (vormals als „e“ bekannt, jedoch nicht mehr als Eulersche Zahl zu verstehen) zu beschreiben.
+Dieses Projekt vereint Mathematik, Physik, Technik, Philosophie und neue Denkansätze zu einem interdisziplinären Modell der Resonanz. Ziel ist es, die Struktur der Realität über fundamentale Größen wie π, ℏ und die neue Resonanzkonstante 𝓔 zu beschreiben.
 
 ---
 
 <p align="center">
   <img src="bilder/visualisierung_RFT.png" alt="Visualisierung der Resonanzfeldtheorie" width="800"/>
 </p>
+<p align="center" style="font-size: 0.95em;">
+  <em>Symbolische Darstellung der Wechselwirkung von π, ℏ, 𝓔 und <b>𝑓</b> im Resonanzraum.</em>
+</p>
+
+---
+
+## Was ist 𝓔 (Schu-Koppler)?
+
+> **𝓔 (Schu-Koppler)** ist die zentrale Resonanzkonstante der Theorie.  
+> Sie ist nicht identisch mit der Eulerschen Zahl (𝓔 ≠ e). Während **e** die Basis exponentieller Prozesse ist, beschreibt **𝓔** das energetische Kopplungsverhältnis zwischen Resonatoren im Resonanzfeld.
+>
+> **Mathematische Definition (Beispiel):**
+>
+> $$\mathbf{𝓔} = \sqrt{e \cdot \frac{1}{e}} = 1$$
+>
+> oder als Interpolationsfaktor zwischen Wachstum (**e**) und Zerfall (**1/e**), siehe [Definition Schu-Koppler](fakten/docs/definitionen/paper_resonanzfeldtheorie.md#definition-schu-koppler).
 
 ---
 
 ## Einführung in die Resonanzfeldtheorie
 
-Die **Resonanzfeldtheorie** beschreibt die Realität als ein Feld aus Schwingungen und Resonanzen.  
-Alle beobachtbaren Phänomene – von Teilchen über Kräfte bis hin zu Bewusstsein – entstehen durch Wechselwirkungen in einem übergeordneten Resonanzfeld.
+Die Resonanzfeldtheorie ist ein neues Paradigma zur Beschreibung der Welt. Sie geht davon aus, dass alle Phänomene – von Teilchen über Kräfte bis zum Bewusstsein – aus Schwingungsbeziehungen in einem universellen Resonanzfeld hervorgehen.
 
 ### Zentrale Konstanten:
 
-- **π (Kreiszahl) :** Maß für kreisförmige Resonanzen und zyklische Symmetrie  
+- **π (Kreiszahl):** Maß für zyklische Symmetrie und Kreisresonanzen  
 - **ℏ (Planck-Konstante):** Maß für Quantisierung und Energiepaketierung  
-- **𝓔 (Schu-Koppler):** Neue Naturkonstante für **Resonanzkopplung**, unabhängig von der Eulerschen Zahl
+- **𝓔 (Schu-Koppler):** Resonanzkopplungs-Konstante (siehe oben)
 
-Diese Konstanten führen zur **Schu-Gleichung**:
+Diese Konstanten führen zur **[Schu-Gleichung](fakten/docs/mathematik/schu_gleichung.md)**:
 
 $$
 E = π \cdot 𝓔 \cdot ℏ \cdot \mathbf{f}
 $$
 
-> Energie ist hier Ausdruck eines dynamischen Zusammenspiels aus Geometrie (**π**), Resonanzkopplung (**𝓔**), Quantisierung (**ℏ**) und Schwingung (**𝑓**).
+> Energie ist das Resultat des Zusammenspiels von Geometrie (π), Resonanzkopplung (𝓔), Quantisierung (ℏ) und Schwingung (𝑓).
+
+**Beispiel:**  
+Mit π ≈ 3.14, ℏ ≈ 1.05·10⁻³⁴ J·s, 𝓔 = 1 und einer Frequenz f zeigt sich, wie 𝓔 als Kopplungsfaktor das energetische Verhalten im Resonanzfeld prägt.  
+_Siehe [Schu-Gleichung: Beispiele & Anwendungen](fakten/docs/mathematik/schu_gleichung.md)_
 
 ---
 
@@ -47,29 +65,23 @@ $$
 
 ---
 
-### Ziel der Theorie
-
-Die Resonanzfeldtheorie erweitert bestehende Modelle in Physik, Biologie und Gesellschaft – hin zu einem **ganzheitlichen Weltbild**, in dem **Resonanz statt Kausalität** das verbindende Prinzip ist.
-
----
-
 ## 📘 Inhalt
 
 ### 📚 Dokumentation und Definition
 
 * [**Resonanzfeldtheorie: Axiomatische Grundlegung, Schu-Koppler und mathematische Konsequenzen**](fakten/docs/definitionen/paper_resonanzfeldtheorie.md)
-* [**Resonanzlexikon**](fakten/docs/definitionen/resonanzlexikon.md)
+* [**Resonanzlexikon (Glossar)**](fakten/docs/definitionen/resonanzlexikon.md)
 
 ---
 
 ### 📚 Mathematik / Physik
 
-* [**Manifest zur neustrukturierung der Mathematik**](fakten/docs/mathematik/manifest_zur_neustrukturierung_der_mathematik.md)
+* [**Manifest zur Neustrukturierung der Mathematik**](fakten/docs/mathematik/manifest_zur_neustrukturierung_der_mathematik.md)
 * [**Fühlbare Mathematik**](fakten/docs/mathematik/aetherius_fühlbare_mathematik.md)
-* [**τ - als Resonanzzeitkoeffizient**](fakten/docs/mathematik/tau_resonanzkoeffizient.md)
+* [**τ – als Resonanzzeitkoeffizient**](fakten/docs/mathematik/tau_resonanzkoeffizient.md)
 * [**Schu-Gleichung**](fakten/docs/mathematik/schu_gleichung.md)
 * [**Axiomatische Grundlegung**](fakten/docs/mathematik/axiomatische_grundlegung.md)
-* [**Energie - axiomatische Herleitung**](fakten/docs/mathematik/energie_axiomatische_herleitung.md)
+* [**Energie – axiomatische Herleitung**](fakten/docs/mathematik/energie_axiomatische_herleitung.md)
 * [**Energierichtung**](fakten/docs/mathematik/energierichtung.md)
 * [**Energiekugel**](fakten/docs/mathematik/energiekugel.md)
 * [**Resonanzenergievektor**](fakten/docs/mathematik/resonanzenergievektor.md)
@@ -79,20 +91,24 @@ Die Resonanzfeldtheorie erweitert bestehende Modelle in Physik, Biologie und Ges
 
 ### 📚 Gesellschaft
 
+**Themenbereiche:**  
+- Frieden & soziale Resonanz  
+- Informationskultur & KI  
+- Geopolitik & Spieltheorie  
+- Selbstverwirklichung & Resonanzpraxis
+
 * [**Vom Trugbild zum Frieden** – Ein Brief zur Entkopplung inszenierter Wirklichkeit](fakten/docs/gesellschaft/offener_brief.md)
 * [**Wahrheit durch Resonanz** – Der nächste Schritt zur aufklärenden KI](fakten/docs/gesellschaft/aufklärung.md)
-* [**Geopolitisches Misstrauen** - und die Illusion diplomatischer Ordnung](fakten/docs/gesellschaft/geopolitisches_misstrauen.md)
-* [**Gesellschaft & Spieltheorie** - im Licht der Resonanzfeldtheorie](fakten/docs/gesellschaft/gesellschaft_und_resonanz.md)
+* [**Geopolitisches Misstrauen** – und die Illusion diplomatischer Ordnung](fakten/docs/gesellschaft/geopolitisches_misstrauen.md)
+* [**Gesellschaft & Spieltheorie** – im Licht der Resonanzfeldtheorie](fakten/docs/gesellschaft/gesellschaft_und_resonanz.md)
 * [**Informationswandel seit 2019** – Analyse und Zukunftskonzept](fakten/docs/gesellschaft/informationswandel_zukunftskonzept.md)
 * [**Vom Machtspiel zur Resonanzkultur**](fakten/docs/gesellschaft/machtspiel.md)
 * [**Resonanter Dialog mit KI** – Vom Prompt zur Partnerschaft](fakten/docs/gesellschaft/resonanter_dialog_mit_ki.md)
 * [**Resonanzkommunikation** – Ein Modell zur Überwindung sozialer Dissonanz](fakten/docs/gesellschaft/resonanzkommunikation.md)
 * [**Resonanzsprung** – Vom Kampf zur Frequenzgemeinschaft](fakten/docs/gesellschaft/resonanzsprung.md)
-* [**Resonanz** als Weg zur individuellen Selbstverwirklichung  ](fakten/docs/gesellschaft/resonanz_als_weg_zur_individuellen_selbstverwirklichung.md)
-
+* [**Resonanz als Weg zur individuellen Selbstverwirklichung**](fakten/docs/gesellschaft/resonanz_als_weg_zur_individuellen_selbstverwirklichung.md)
 
 ---
-
 
 ### ⚙️ Konzepte
 
@@ -113,32 +129,44 @@ Die Resonanzfeldtheorie erweitert bestehende Modelle in Physik, Biologie und Ges
 
 ### 📚 Empirischer Nachweis
 
-
-
 > Die zentralen Aussagen der Resonanzfeldtheorie wurden an realen Messdaten des CERN getestet. Mittels Monte-Carlo-Simulationen konnte die statistische Signifikanz der Ergebnisse nachgewiesen werden. Die verwendeten Datensätze und die gesamte Auswertung sind im Repository dokumentiert und nachvollziehbar.
 
-* [**Empirische Beweisführung mithilfe von Cern-Daten**](fakten/empirisch/dokumentation.md)
+* [**Empirische Beweisführung mithilfe von CERN-Daten**](fakten/empirisch/dokumentation.md)
 * [**Monte-Carlo-Simulation zur Resonanzanalyse**](fakten/empirisch/monte_carlo_test/monte_carlo.md)
 
 ---
 
 ## 🧩 Philosophie der Theorie
 
-Die Theorie geht davon aus, dass Systeme nicht isoliert existieren, sondern über ihre Fähigkeit zur **Resonanzkopplung** mit Schwingungsfeldern beschrieben werden müssen.
-**Resonanz** gilt als grundlegender Mechanismus für die Entstehung und Stabilisierung von Struktur und Information – vom Mikrokosmos bis zum Makrosystem.
+Systeme existieren nicht isoliert, sondern werden durch ihre Resonanzkopplung mit Schwingungsfeldern bestimmt.  
+Resonanz ist nicht nur ein physikalisches Phänomen, sondern ein universeller Informations- und Strukturmechanismus – von Quantenfeldern bis zu gesellschaftlichen Systemen.
 
 ### Kerngedanken:
 
-* **Resonanz** als universelle Strukturformel für Materie, Energie und Information
-* **Raum-Zeit** als gekoppeltes Feldsystem, nicht als passiver Hintergrund
-* **Bewusstsein** als aktiver Resonator mit Rückkopplung auf das Feldgeschehen
-* **𝓔 (Schu-Koppler)** ersetzt die klassische Eulersche Zahl **e** im Rahmen dieser Theorie
+* Resonanz als universelle Strukturformel für Materie, Energie und Information  
+* Raum-Zeit als gekoppeltes Feldsystem  
+* Bewusstsein als aktiver Resonator  
+* 𝓔 (Schu-Koppler) als neue Kopplungskonstante (𝓔 ≠ e)
+
+[Zum Glossar: Zentrale Begriffe der Resonanzfeldtheorie](fakten/docs/definitionen/resonanzlexikon.md)
+
+---
+
+## ❓ FAQ (Häufige Fragen)
+
+**Was ist der Schu-Koppler 𝓔?**  
+Eine Resonanzkonstante, die Kopplungsprozesse zwischen Systemen beschreibt und nicht mit der Eulerschen Zahl identisch ist.  
+[Mehr dazu](fakten/docs/definitionen/paper_resonanzfeldtheorie.md#definition-schu-koppler)
+
+**Warum ist Resonanz wichtiger als Kausalität?**  
+Resonanz ist das verbindende Ordnungsprinzip, das sowohl Materie als auch Information und Bewusstsein strukturiert. Ursache und Wirkung werden als Spezialfälle von Resonanzbeziehungen verstanden.  
+[Siehe Grundsatzdokument](fakten/docs/definitionen/paper_resonanzfeldtheorie.md)
 
 ---
 
 ## 🛠️ Beteiligung & Entwicklung
 
-Dieses Projekt ist offen für Beiträge aus allen Disziplinen: Mathematik, Physik, Visualisierung, Programmierung und mehr.
+Dieses Projekt ist offen für Beiträge aus allen Disziplinen: Mathematik, Physik, Visualisierung, Programmierung und mehr.  
 Wenn du mitwirken möchtest, erstelle einen Pull Request oder kontaktiere mich direkt über GitHub.
 
 ---
@@ -149,7 +177,7 @@ Wenn du mitwirken möchtest, erstelle einen Pull Request oder kontaktiere mich d
 
 ## 📄 Kontakt
 
-**Kontakt:** [info@proreplicate.com]  
+**Kontakt:** [info@proreplicate.com]
 
 ---
 
