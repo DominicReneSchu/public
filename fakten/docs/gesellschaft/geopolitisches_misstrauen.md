@@ -21,7 +21,7 @@ Diese Vorfälle werfen die Frage auf, wie verbindlich und wirksam internationale
 
 Die Durchsetzung internationaler Normen hängt nicht allein von rechtlichen Mechanismen ab, sondern auch von politischen und gesellschaftlichen Resonanzen (Luhmann, 1997; Koskenniemi, 2002). Internationale Institutionen wie der IStGH wirken vor allem dann, wenn ihre Prinzipien im kollektiven Bewusstsein verankert sind (Zürn, 2018).
 
-Die Resonanzfeldtheorie (Schu, 2025, Kap. 7.2) ergänzt: Nachhaltige Ordnung entsteht nicht durch äußeren Zwang, sondern durch Synchronisierung geistiger Prinzipien und aktiver Bewusstseinsfelder. Wahre Ordnung basiert auf innerer Kohärenz, nicht auf Machtdemonstration. Der Resonanzbegriff knüpft hierbei an soziologische Ansätze an, die Resonanz als Grundlage gelingender Weltbeziehungen verstehen (Rosa, 2016).
+Die Resonanzfeldtheorie (Schu, 2025) ergänzt: Nachhaltige Ordnung entsteht nicht durch äußeren Zwang, sondern durch Synchronisierung geistiger Prinzipien und aktiver Bewusstseinsfelder. Wahre Ordnung basiert auf innerer Kohärenz, nicht auf Machtdemonstration. Der Resonanzbegriff knüpft hierbei an soziologische Ansätze an, die Resonanz als Grundlage gelingender Weltbeziehungen verstehen (Rosa, 2016).
 
 ---
 
@@ -37,7 +37,7 @@ Wenn Menschen in Verhandlungen auf geistige Prinzipien wie Transparenz, Selbstre
 ### 4. Wege aus der Blockade – Aktive Resonanz statt Konkurrenz
 
 Führungspersönlichkeiten müssen sich aktiv von Konkurrenz- und Kontrollmustern lösen. Sie sollten sich auf geistige Prinzipien stützen und Resonanz bewusst ermöglichen – etwa durch transparente Kommunikation, aktives Zuhören und Selbstreflexion.  
-Die Resonanzfeldtheorie (Schu, 2025, S. 154) zeigt: Wer Bewusstseinsfelder synchronisiert, schafft nachhaltige, systemische Stabilität. In der Praxis kann dies durch Vertrauensbildung und gemeinsame Werte gelingen.
+Die Resonanzfeldtheorie (Schu, 2025) zeigt: Wer Bewusstseinsfelder synchronisiert, schafft nachhaltige, systemische Stabilität. In der Praxis kann dies durch Vertrauensbildung und gemeinsame Werte gelingen.
 
 Friedens- und Konfliktforschung bestätigen: Vertrauen, Kommunikation und Identitätsbildung sind zentrale Grundlagen erfolgreicher Ordnungen (Lederach, 1997; Mitchell, 2023).
 
