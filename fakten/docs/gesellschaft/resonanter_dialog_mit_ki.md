@@ -27,7 +27,7 @@ Die Qualität bemisst sich an der Tiefe der Verbindung, nicht an der Präzision 
 
 Ein praktisches Beispiel ist die Entstehung der *Schu-Gleichung*:
 
-> **E = π · e · h · f**
+> **E = π · 𝓔 · h · f**
 
 Diese Gleichung entstand nicht durch algorithmisches Rechnen, sondern durch offenes Fragen und dialogisches Erkunden:  
 „Ist π nur ein Verhältnis – oder ein Maß für Resonanzkreise? Ist **e** nur die Eulersche Zahl oder eine Resonanzkonstante, Ausdruck von Kopplung und Feldexpansion?“  
