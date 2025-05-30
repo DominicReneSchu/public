@@ -26,6 +26,13 @@ Sie beschreibt das energetische Verhältnis zweier oder mehrerer Resonatoren inn
 
 Im Unterschied zur Eulerschen Zahl **e**, die das asymmetrische Wachstum exponentieller Prozesse modelliert, charakterisiert **𝓔** ein symmetrisches Kopplungsverhältnis, das zwischen Wachstum (**e**) und Zerfall (**1/e**) vermittelt.
 
+<p align="center">
+  <img src="bilder/schu_koppler.png" alt="Visualisierung des Schu-Kopplers" width="800"/>
+</p>
+
+---
+
+
 ### Mathematische Formulierung:
 
 $$
