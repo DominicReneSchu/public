@@ -73,7 +73,7 @@ Statt Strategie und Ausschluss stehen Authentizität und Vertrauen im Mittelpunk
 ### 4. Politik, Alltag und Wirtschaft: Resonanz konkret
 
 **Beispiele:**
-- Bürger:innenräte, in denen alle Stimmen gehört werden, schaffen mehr Vertrauen als reine Top-Down-Politik.
+- Bürgerräte, in denen alle Stimmen gehört werden, schaffen mehr Vertrauen als reine Top-Down-Politik.
 - Teams, die Fehler offen ansprechen dürfen, entwickeln mehr neue Ideen.
 - Schulen, die Mitsprache ermöglichen, fördern Motivation und Kreativität.
 - Agile Methoden in der Softwareentwicklung und Unternehmensführung leben Resonanzkultur vor: Sie setzen auf Feedbackschleifen, Selbstorganisation und gemeinsames Lernen.
