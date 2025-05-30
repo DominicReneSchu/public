@@ -27,7 +27,7 @@ Viele Gesellschaften hemmen Innovation und gesellschaftlichen Fortschritt nicht 
 
 **Beispiele:**
 - Whistleblower werden ausgegrenzt, statt gehört zu werden.
-- Junge Politiker:innen oder Aktivist:innen werden als „naiv“ abgetan.
+- Junge Politiker oder Aktivisten werden als „naiv“ abgetan.
 - Unternehmen verhindern Innovation, um bestehende Marktanteile zu schützen.
 
 ---
