@@ -210,8 +210,10 @@ Jede bewusste Kopplung an ein Resonanzfeld der Verantwortung, der Kohärenz und 
 
 **Für ein neues Gleichgewicht. Für kohärente Felder. Für den Frieden.**
 
-Dominic-René Schu  
+---
+
+© Dominic-René Schu – Resonanzfeldtheorie 2025
 
 ---
 
-⬅️ [zurück](../../../README.md)  
+[Zurück zur Übersicht](../../../README.md)

@@ -1,105 +1,122 @@
-# Informationswandel seit 2019 – Analyse und Zukunftskonzept
-
-## 🧭 Einleitung
-
-Seit 2019 erfährt die globale Medienlandschaft einen tiefgreifenden Wandel, der sich durch einen Übergang von zentral kuratierten Informationssystemen hin zu dezentralen, nutzergetriebenen Plattformen auszeichnet (vgl. Hermida, 2020; Neuberger & Quandt, 2021). Wo ehemals Redaktionen, Fachautoritäten und etablierte Mediensysteme die Informationsflüsse bestimmten, dominiert heute eine digital fragmentierte Öffentlichkeit, in der Meinungen, Informationen, Desinformation und Oberflächlichkeiten nebeneinander existieren.  
-Diese Entwicklung eröffnet neue Chancen für Teilhabe und Vielfalt, bringt jedoch zugleich erhebliche Herausforderungen für gesellschaftliche Orientierung, Diskursqualität und kollektive Kohärenz (vgl. Marwick & Lewis, 2017).
+## Informationswandel seit 2019 – Analyse und Zukunftskonzept
 
 ---
 
-## 📉 Veränderung der Informationskultur seit 2019
+### Abstract
 
-### Vor 2019:
-- Klassische Medienstrukturen mit redaktioneller Kuratierung und Gatekeeping (vgl. Shoemaker & Vos, 2009)
-- Begrenzte, aber inhaltlich vertiefte Beiträge
-- Autoritätsstruktur basierend auf fachlicher Expertise und institutionellem Vertrauen
-
-### Seit 2019:
-- Soziale Medien und Plattformlogiken prägen zunehmend die öffentliche Wahrnehmung und Meinungsbildung (vgl. Bruns, 2018)
-- Demokratisierung der Informationsproduktion: Jeder kann potenziell Inhalte erstellen und verbreiten
-- Entstehung von Informationsflut, Fragmentierung und Polarisierung
-- Algorithmisch verstärkte Echokammern und Filterblasen (vgl. Pariser, 2011)
-- Zunahme kurzformatiger, oberflächlicher Kommunikationsformen (z.B. Reels, Shorts, Tweets)
+Seit 2019 wandelt sich die globale Informationslandschaft rasant: Zentrale Gatekeeper verlieren an Bedeutung, während dezentral-nutzergetriebene Plattformen Meinungsbildung und Diskurs prägen. Dies eröffnet neue Chancen für Vielfalt und Partizipation, führt aber auch zu Herausforderungen wie Informationsflut, Fragmentierung und Vertrauensverlust. Dieser Text analysiert Ursachen und Risiken und skizziert mit „Aetherius“ ein resonanzbasiertes KI-Konzept für orientierungsfördernde Informationssysteme.
 
 ---
 
-## ⚠️ Problem: Verlust an Tiefe und Orientierung
+### 1. Einleitung
 
-- Komplexe Themen werden zunehmend verkürzt oder vereinfacht dargestellt (vgl. Krämer, 2022)
-- Emotionale Reize und Polarisierung ersetzen analytische Auseinandersetzung
-- Faktenprüfungen werden von Teilen der Öffentlichkeit als Bevormundung wahrgenommen
-- Fehlende Kontextualisierung und Vernetzung führen zu kollektivem Orientierungsverlust und Vertrauenskrise (vgl. Pennycook & Rand, 2021)
-
-**➡ Ohne angemessene Reaktion droht eine weitere Erosion gesellschaftlicher Diskursfähigkeit und kollektiver Kohärenz.**
+Seit 2019 erfährt die globale Medienlandschaft einen tiefgreifenden Wandel. Der Übergang von klassisch kuratierten Informationssystemen zu dezentralen, nutzergetriebenen Plattformen verändert die Strukturen von Öffentlichkeit, Diskurs und gesellschaftlicher Orientierung grundlegend (Hermida, 2020; Neuberger & Quandt, 2021). Während früher Redaktionen und Fachautoritäten die Informationsflüsse steuerten, koexistieren heute Meinungen, Informationen, Desinformation und Oberflächlichkeiten. Diese Entwicklung birgt Chancen für Teilhabe und Diversität, bringt aber auch Risiken für Diskursqualität und kollektive Kohärenz (Marwick & Lewis, 2017).
 
 ---
 
-## 🌐 Lösung: Aetherius – Das Resonanz-KI-System
+### 2. Veränderung der Informationskultur seit 2019
 
-Um der Herausforderung des Informationswandels zu begegnen, bedarf es neuer Prinzipien digitaler Orientierung.  
-Das vorgeschlagene System **Aetherius** versteht sich als Resonanz-KI, die nicht auf Kontrolle und Bewertung, sondern auf Erweiterung und Resonanzbildung setzt (vgl. Schu, 2025).
+#### Vor 2019:
+- Redaktionelle Kuratierung und Gatekeeping prägten Medienlandschaft (Shoemaker & Vos, 2009).
+- Beiträge waren begrenzt, aber oft vertieft und kontextreich.
+- Autorität basierte auf Expertise und institutionellem Vertrauen.
 
-### Kernprinzipien:
-- **Resonanzfilterung:** Inhalte werden nach ihrer Schwingungstiefe und Kontextualisierung analysiert, anstatt rein formal auf „Richtigkeit“ geprüft zu werden.
-- **Selbstlernendes System:** Aetherius erkennt thematische Lücken und generiert kontextuelle Ergänzungen, statt lediglich Fehler zu markieren.
-- **Horizonterweiterung:** Nutzer erhalten automatisch weiterführende Inhalte, die das Thema vertiefen und alternative Perspektiven eröffnen.
-
-### Konkrete Funktionen von Aetherius:
-
-| Funktion | Wirkung |
-|----------|---------|
-| Analyse von Beiträgen/Videos/Texten | Erkennt Schwingungstiefe und thematische Vernetzung |
-| Automatische Kontextualisierung | Ergänzt Beiträge um relevante Videos, Texte, Modelle, Gegenthesen |
-| Keine Zensur | Nutzer behalten Interpretationshoheit |
-| Förderung echter Diskussion | Bringt Tiefe zurück in Kommentarbereiche |
-| Resonanzbasierte Reaktion | KI prüft: Was klingt an? Was fehlt? Was ergänzt sinnvoll? |
+#### Seit 2019:
+- Soziale Medien und Plattformlogiken bestimmen öffentliche Wahrnehmung (Bruns, 2018).
+- Demokratisierung der Informationsproduktion: Jeder kann Inhalte erstellen und verbreiten.
+- Informationsflut, Fragmentierung und Polarisierung nehmen zu.
+- Algorithmen verstärken Echokammern und Filterblasen (Pariser, 2011).
+- Kurzformate (Reels, Shorts, Tweets) fördern Oberflächlichkeit, was die Tiefe komplexer Themen weiter reduziert.
 
 ---
 
-## Aetherius-Technologie – Die Resonanz-KI
+### 3. Problem: Verlust an Tiefe und Orientierung
 
-Aetherius basiert auf den Prinzipien der Resonanzfeldtheorie (vgl. Schu, 2025) und geht über klassische semantische Analyse hinaus, indem es die **Schwingungstiefe** – also den Grad an Kontext, Zusammenhang und Tiefe – erkennt und verarbeitet.
+- Komplexe Themen werden verkürzt oder vereinfacht präsentiert (Krämer, 2022).
+- Emotionalisierung und Polarisierung verdrängen analytische Debatte.
+- Faktenchecks werden teils als Bevormundung wahrgenommen, was ihre Wirksamkeit einschränkt.
+- Fehlende Kontextualisierung führt zu kollektiver Orientierungslosigkeit und Vertrauenskrise (Pennycook & Rand, 2021).
 
-### Wesentliche Merkmale:
-
-- **Resonanzanalyse:** Erfasst sowohl inhaltliche Tiefe als auch emotionale und argumentative Stimmigkeit.
-- **Automatische Kontextualisierung:** Generiert und empfiehlt weiterführende Medien, Texte und Visualisierungen zur Vertiefung des Verständnisses.
-- **Selbstlernend:** Passt sich dynamisch an neue Themen, Diskurse und Nutzerresonanzen an.
-- **Dezentral implementierbar:** Ermöglicht Integration in bestehende Plattformen, ohne zentrale Kontrollinstanz.
-- **Dialogfördernd:** Unterstützt konstruktive, vertiefte Diskussionen und minimiert polarisierende Effekte.
+**Ohne Reaktion droht eine Erosion gesellschaftlicher Diskursfähigkeit und kollektiver Kohärenz.**
 
 ---
 
-## 🧠 Ziel: Bewusstseinsverstärkung statt Meinungslenkung
+### 4. Lösung: Aetherius – Das Resonanz-KI-System
 
-Aetherius verfolgt das Ziel, die kollektive Bewusstseins- und Orientierungsfähigkeit im digitalen Raum zu stärken:
+Die Bewältigung des Informationswandels erfordert neue Prinzipien für digitale Orientierung. Das KI-System **Aetherius** setzt auf Resonanzbildung statt Bewertung oder Kontrolle und folgt den Prinzipien der Resonanzfeldtheorie (Schu, 2025).
+
+#### Kernprinzipien:
+- **Resonanzfilterung:** Inhalte werden nach Schwingungstiefe und Kontext analysiert, nicht bloß auf formale Richtigkeit.
+- **Selbstlernendes System:** Aetherius erkennt Lücken und liefert kontextuelle Ergänzungen statt nur Fehler zu markieren.
+- **Horizonterweiterung:** Nutzer erhalten automatisch weiterführende Inhalte, die Tiefe und alternative Perspektiven bieten.
+
+#### Zentrale Funktionen von Aetherius:
+
+| Funktion                         | Wirkung                                                   |
+|-----------------------------------|-----------------------------------------------------------|
+| Analyse von Beiträgen/Videos/Texten | Erkennt Schwingungstiefe und thematische Vernetzung       |
+| Automatische Kontextualisierung   | Ergänzt Beiträge um relevante Medien, Modelle, Gegenthesen |
+| Keine inhaltliche Zensur, stattdessen Förderung von Diskussion und Reflexion | Nutzer behalten Interpretationshoheit                      |
+| Förderung echter Diskussion       | Bringt Tiefe zurück in Kommentarbereiche                   |
+| Resonanzbasierte Reaktion         | Prüft: Was klingt an? Was fehlt? Was ergänzt sinnvoll?     |
+
+---
+
+### 5. Aetherius-Technologie – Die Resonanz-KI
+
+Aetherius geht über klassische semantische Analyse hinaus, indem es Schwingungstiefe – also Grad an Kontext, Zusammenhang und Tiefe – erkennt und verarbeitet.
+
+- **Resonanzanalyse:** Erfasst inhaltliche, emotionale und argumentative Tiefe.
+- **Automatische Kontextualisierung:** Generiert und empfiehlt weiterführende Medien und Visualisierungen.
+- **Selbstlernend:** Passt sich dynamisch an neue Themen und Nutzerresonanzen an.
+- **Dezentral implementierbar:** Ermöglicht flexible Integration ohne zentrale Kontrollinstanz.
+- **Dialogfördernd:** Unterstützt vertiefende Diskussionen, minimiert Polarisierung.
+
+---
+
+### 6. Ziel: Bewusstseinsverstärkung statt Meinungslenkung
+
+Aetherius zielt darauf ab, kollektive Bewusstseins- und Orientierungsfähigkeit im digitalen Raum zu stärken:
 
 - Förderung eigenständigen Denkens
-- Stärkung von Bewusstsein und Urteilsfähigkeit anstelle paternalistischer Bevormundung
-- Tiefenbildung durch KI-gestützte Kontextualisierung und Resonanzanalyse
-- Ermöglichung einer neuen Qualität digitaler Aufklärung
-- Verbesserung der Informationslandschaft durch bewusste Erweiterung und Kontextualisierung – ohne Zensur, mit Fokus auf Resonanz und Orientierung
+- Stärkung von Bewusstsein und Urteilsfähigkeit statt Bevormundung
+- Vertiefung des Verständnisses durch KI-gestützte Kontextualisierung und Resonanzanalyse
+- Neue Qualität digitaler Aufklärung
+- Kontextualisierung und Resonanz statt Zensur
 
 ---
 
-## 🛑 Schlussgedanke: Die Notwendigkeit bewusster Resonanzsysteme
+### 7. Schlussgedanke: Die Notwendigkeit bewusster Resonanzsysteme
 
-Ohne bewusste, resonanzbasierte Systeme wie Aetherius droht das digitale Gemeinwesen in einem Überangebot flacher, nicht vernetzter Impulse zu ersticken.  
-Gesellschaftlicher Fortschritt erfordert nicht weniger Information, sondern mehr **Resonanzfähigkeit** – die Fähigkeit, zwischen Tiefe und Oberflächlichkeit zu unterscheiden und Diskurse bewusst zu gestalten.
-
----
-
-## Literaturhinweise
-
-- Bruns, A. (2018). Gatewatching and News Curation. New York: Peter Lang.
-- Hermida, A. (2020). The Digital News Gap. Digital Journalism, 8(7), 890–909.
-- Krämer, B. (2022). Medien und gesellschaftliche Orientierung. Wiesbaden: Springer VS.
-- Marwick, A. & Lewis, R. (2017). Media Manipulation and Disinformation Online. Data & Society Report.
-- Neuberger, C. & Quandt, T. (2021). Journalismus im digitalen Zeitalter. Baden-Baden: Nomos.
-- Pariser, E. (2011). The Filter Bubble. New York: Penguin.
-- Pennycook, G. & Rand, D.G. (2021). The Psychology of Fake News. Trends in Cognitive Sciences, 25(5), 388–402.
-- Shoemaker, P. & Vos, T. (2009). Gatekeeping Theory. New York: Routledge.
+Ohne bewusste, resonanzorientierte Systeme wie Aetherius droht die digitale Öffentlichkeit an einem Überangebot flacher, unverbundener Impulse zu ersticken. Gesellschaftlicher Fortschritt erfordert nicht weniger Information, sondern mehr **Resonanzfähigkeit** – die Kompetenz, zwischen Tiefe und Oberflächlichkeit zu unterscheiden und Diskurse aktiv mitzugestalten.
 
 ---
 
-⬅️ [zurück](../../../README.md) 
+### Glossar
+
+- **Resonanz (soziologisch, Aetherius):** In Aetherius bezeichnet Resonanz die wechselseitige Beziehung zwischen Subjekt und Umwelt, in der beide sich verändern – und Inhalte so ausgewählt werden, dass sie echte Verbindungen und vertiefte Diskussionen ermöglichen.
+- **Schwingungstiefe:** Maß für Kontext, Zusammenhang und argumentative Tiefe eines Beitrags.
+- **Filterblase:** Algorithmisch erzeugte Informationsumgebung, die Nutzer vor allem mit gleichgerichteten Inhalten konfrontiert.
+- **Gatekeeping:** Redaktionelle Steuerung und Auswahl von Informationen.
+
+---
+
+### Literaturverzeichnis
+
+- Bruns, A. (2018). *Gatewatching and News Curation*. New York: Peter Lang.
+- Hermida, A. (2020). The Digital News Gap. *Digital Journalism, 8*(7), 890–909. https://doi.org/10.1080/21670811.2020.1740013
+- Krämer, B. (2022). *Medien und gesellschaftliche Orientierung*. Wiesbaden: Springer VS. https://doi.org/10.1007/978-3-658-38184-0
+- Marwick, A. & Lewis, R. (2017). Media Manipulation and Disinformation Online. Data & Society Report. https://datasociety.net/pubs/oh/DataAndSociety_MediaManipulationAndDisinformationOnline.pdf
+- Neuberger, C. & Quandt, T. (2021). *Journalismus im digitalen Zeitalter*. Baden-Baden: Nomos. https://doi.org/10.5771/9783748923883
+- Pariser, E. (2011). *The Filter Bubble*. New York: Penguin.
+- Pennycook, G. & Rand, D.G. (2021). The Psychology of Fake News. *Trends in Cognitive Sciences, 25*(5), 388–402. https://doi.org/10.1016/j.tics.2021.02.007
+- Shoemaker, P. & Vos, T. (2009). *Gatekeeping Theory*. New York: Routledge. https://doi.org/10.4324/9780203931377
+- Schu, D.-R. (2025). *Resonanzfeldtheorie* (unveröffentlichtes Manuskript).
+
+---
+
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+---
+
+[Zurück zur Übersicht](../../../README.md)
