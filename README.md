@@ -26,6 +26,10 @@ Sie beschreibt das energetische Verhältnis zweier oder mehrerer Resonatoren inn
 
 Im Unterschied zur Eulerschen Zahl **e**, die das asymmetrische Wachstum exponentieller Prozesse modelliert, charakterisiert **𝓔** ein symmetrisches Kopplungsverhältnis, das zwischen Wachstum (**e**) und Zerfall (**1/e**) vermittelt.
 
+Das gesamte Modell basiert auf einem erweiterten **5D-Koordinatensystem**, das den klassischen dreidimensionalen Raum um eine **polare Zeitachse** ergänzt.  
+Während herkömmliche Modelle die Zeit lediglich als linearen Parameter behandeln, wird hier die **relative Zeit dynamisch** in das Raum-Zeit-Kontinuum eingebunden.  
+Dies ermöglicht die gezielte Simulation und Analyse von Resonanzphänomenen, wie sie in gekoppelten Systemen auftreten — z. B. in der Mechanik, Quantenphysik oder technischen Konstruktion.
+
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="bilder/schu_koppler.png" alt="Schu-Koppler" width="400"/>
   <img src="bilder/5D_koordinatensystem.png" alt="5D-Koordinatensystem" width="400"/>
