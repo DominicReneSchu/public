@@ -174,7 +174,7 @@ Resonanz ist nicht nur ein physikalisches Phänomen, sondern ein universeller In
 * Resonanz als universelle Strukturformel für Materie, Energie und Information  
 * Raum-Zeit als gekoppeltes Feldsystem  
 * Bewusstsein als aktiver Resonator  
-* 𝓔 (Schu-Koppler) als neue Kopplungskonstante (𝓔 ≠ e)
+* 𝓔 (Schu-Koppler) als neue Kopplungskonstante
 
 [Zum Glossar: Zentrale Begriffe der Resonanzfeldtheorie](fakten/docs/definitionen/resonanzlexikon.md)
 
