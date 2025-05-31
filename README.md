@@ -33,13 +33,13 @@ Dies ermöglicht die gezielte Simulation und Analyse von Resonanzphänomenen, wi
 <table>
   <tr>
     <td width="40%">
-      <img src="bilder/schu_koppler.png" alt="Schu-Koppler" width="250"/>
+      <img src="bilder/schu_koppler.png" alt="Schu-Koppler" width="400"/>
     </td>
     <td width="20%">
       <!-- Leere Zelle für Abstand -->
     </td>
     <td width="40%">
-      <img src="bilder/5D_koordinatensystem.png" alt="5D-Koordinatensystem" width="250"/>
+      <img src="bilder/5D_koordinatensystem.png" alt="5D-Koordinatensystem" width="400"/>
     </td>
   </tr>
 </table>
