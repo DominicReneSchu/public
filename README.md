@@ -30,11 +30,16 @@ Das gesamte Modell basiert auf einem erweiterten **5D-Koordinatensystem**, das d
 Während herkömmliche Modelle die Zeit lediglich als linearen Parameter behandeln, wird hier die **relative Zeit dynamisch** in das Raum-Zeit-Kontinuum eingebunden.  
 Dies ermöglicht die gezielte Simulation und Analyse von Resonanzphänomenen, wie sie in gekoppelten Systemen auftreten — z. B. in der Mechanik, Quantenphysik oder technischen Konstruktion.
 
-<div style="width: 100%; display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; margin: 30px 0;">
-  <img src="bilder/schu_koppler.png" alt="Schu-Koppler" style="width: 40%; min-width: 200px; max-width: 400px;">
-  <span style="flex: 0 1 40px;"></span>
-  <img src="bilder/5D_koordinatensystem.png" alt="5D-Koordinatensystem" style="width: 40%; min-width: 200px; max-width: 400px;">
-</div>
+<table>
+  <tr>
+    <td align="left" width="50%">
+      <img src="bilder/schu_koppler.png" alt="Schu-Koppler" width="320"/>
+    </td>
+    <td align="right" width="50%">
+      <img src="bilder/5D_koordinatensystem.png" alt="5D-Koordinatensystem" width="320"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
