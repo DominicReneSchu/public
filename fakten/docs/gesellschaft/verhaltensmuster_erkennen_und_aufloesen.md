@@ -124,3 +124,11 @@ Spüre am Morgen ein Muster, das heute nicht dein Echo sein soll.
 - Miller, A.: *Das Drama des begabten Kindes*, 1980
 - Jung, C. G.: *The Archetypes and the Collective Unconscious*, 1964
 - Bibel: Lukas 6,27; 9,24
+
+---
+
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+---
+
+[Zurück zur Übersicht](../../../README.md)
