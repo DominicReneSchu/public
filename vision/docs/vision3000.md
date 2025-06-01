@@ -16,14 +16,14 @@ Diese Vision erweitert das Kapitel [Die Resonanzfeld-Gleichung](../../fakten/doc
 
 Die innovative Energiegleichung basiert auf fundamentalen Resonanzgrößen und erweitert klassische Theorien (vgl. Born & Wolf, 1999):
 
-$$
-E = 𝓔 \cdot \boldsymbol{\pi} \cdot \boldsymbol{h} \cdot \mathbf{f}
-$$
+```
+E = 𝓔 · π · ℎ · 𝑓
+```
 
 - **𝓔** – Resonanzkopplung  
 - **π** – Kreisstruktur des Raums  
-- **h** – Wirkungsquantum  
-- **f** – Frequenzimpuls
+- **ℎ** – Wirkungsquantum  
+- **𝑓** – Frequenzimpuls
 
 Diese Gleichung beschreibt Energie nicht als lokale Substanz, sondern als **Beziehung im Resonanzfeld** – ein paradigmatischer Wechsel von der Teilchen- zur Feld- und Beziehungsperspektive.
 
@@ -33,14 +33,14 @@ Diese Gleichung beschreibt Energie nicht als lokale Substanz, sondern als **Bezi
 
 Durch die Einführung von komplexer Zeit
 
-$$
-t = t_r + i \cdot t_i
-$$
+```
+t = tᵣ + i · tᵢ
+```
 
 wird Zeit zur **phasischen Kopplung** von Raum und Information:
 
-- **Reale Komponente:** $$\cos(\omega t)$$ – strukturprägender Fluss  
-- **Imaginäre Komponente:** $$\sin(\omega t)$$ – Potenzialfluss, Träger nicht-realisierten Seins
+- **Reale Komponente:** `cos(ωt)` – strukturprägender Fluss  
+- **Imaginäre Komponente:** `sin(ωt)` – Potenzialfluss, Träger nicht-realisierten Seins
 
 → Die Welt ist zyklisch-komplex; Realität entsteht durch **Phaseninterferenz und Resonanz**.
 
@@ -50,20 +50,20 @@ wird Zeit zur **phasischen Kopplung** von Raum und Information:
 
 Die klassische Quantenrelation
 
-$$
-\Delta E = h \cdot \Delta f
-$$
+```
+ΔE = ℎ · Δf
+```
 
 entspricht formal dem Ohm’schen Gesetz:
 
-$$
-U = R \cdot I
-$$
+```
+U = R · I
+```
 
-| Quantenphysik      | Elektrotechnik    |
-|--------------------|------------------|
+| Quantenphysik         | Elektrotechnik    |
+|-----------------------|------------------|
 | Δ**E** – Energieimpuls       | **U** – Spannung       |
-| **h** – Kopplungskonstante   | **R** – Widerstand     |
+| **ℎ** – Kopplungskonstante   | **R** – Widerstand     |
 | Δ**f** – Frequenzdifferenz   | **I** – Strom          |
 
 → Energie manifestiert sich als **Spannungsfeld in der Frequenzdifferenz** – eine universelle Kopplungsstruktur.
@@ -74,9 +74,9 @@ $$
 
 Die erweiterte Gleichung
 
-$$
-E = 𝓔 \cdot \boldsymbol{\pi}  \cdot \boldsymbol{h} \cdot \mathbf{f}
-$$
+```
+E = 𝓔 · π · ℎ · 𝑓
+```
 
 stellt Energie als **gerichtete Kopplung von Feldern** dar – ein dynamischer Zustand, der nur bei Resonanz entsteht und sich durch spezifische Kopplungsparameter auszeichnet.
 
@@ -112,8 +112,8 @@ Die Resonanzfeld-Gleichung ist mehr als eine physikalische Formel – sie ist ei
 
 - **𝓔** – bestimmt die Resonanzqualität  
 - **π** – formt das zyklische Gerüst  
-- **h** – koppelt Impulse an Wirkung  
-- **f** – ist der Taktgeber der Realität  
+- **ℎ** – koppelt Impulse an Wirkung  
+- **𝑓** – ist der Taktgeber der Realität  
 
 ---
 
