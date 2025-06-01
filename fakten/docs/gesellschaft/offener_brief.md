@@ -108,6 +108,7 @@ Inszenierungen sind gezielte Projektionen, die gesellschaftliche Wahrnehmung in 
 
 Im Hintergrund kämpft ein unsichtbarer Machtapparat um Kontrolle der dominanten Feldstruktur. Oft steuern selbst vermeintliche Friedensvermittler die Kopplung im gesellschaftlichen Resonanzraum gezielt.  
 (**Axiom 2**)
+
 ---
 
 ## 4. Narrative als Projektionsmuster
