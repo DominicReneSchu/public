@@ -22,7 +22,7 @@
 | **Impedanz**                   | Öffnung & Wirkung (als Schwelle) | 🌊     |
 | **Resonanzfeldtheorie**        | Theorie / Meta                   | —      |
 | **Resonanzfeld-Gleichung**     | Öffnung & Wirkung / Mathematik   | 🌊     |
-| **Kopplungsoperator (epsilon)**| Kopplung & Passung               | 🔗     |
+| **Kopplungsoperator (ε)**      | Kopplung & Passung               | 🔗     |
 | **Energetischer Stabilitätsraum**   | Rückkopplung & Gedächtnis    | 🔄     |
 | **Reihenentwicklung**          | Mathematische Methode            | —      |
 | **Quantisierte Kopplungszustände** | Kopplung & Passung           | 🔗     |
@@ -55,17 +55,17 @@ Die Resonanzfeldtheorie liefert einen übergreifenden Rahmen, um Vielschichtigke
 ### **Resonanzfeld-Gleichung** 🌊
 **Definition:**  
 Die Resonanzfeld-Gleichung  
-E = π · epsilon · h · f  
-verbindet Energie (E), Kopplung (epsilon), das Plancksche Wirkungsquantum (h) und die Resonanzfrequenz (f). Sie beschreibt, wie Kopplungsstärke und Frequenz gemeinsam die Energieübertragung bestimmen.
+E = π · ε · h · f  
+verbindet Energie (E), Kopplung (ε), das Plancksche Wirkungsquantum (h) und die Resonanzfrequenz (f). Sie beschreibt, wie Kopplungsstärke und Frequenz gemeinsam die Energieübertragung bestimmen.
 
 **Meta-Impuls:**  
 Die Gleichung verdeutlicht, dass Resonanz nicht nur von Frequenz, sondern auch von der Kopplungsqualität abhängt.
 
 ---
 
-### **Kopplungsoperator (epsilon)** 🔗
+### **Kopplungsoperator (ε)** 🔗
 **Definition:**  
-Der Kopplungsoperator (epsilon) beschreibt als dynamische Größe die Stärke der Resonanzkopplung. Er kann Werte im Bereich von circa 0,37 bis 2,72 annehmen (entsprechend 1/e bis e) und bestimmt maßgeblich, wie effizient Energie zwischen Systemen übertragen wird.
+Der Kopplungsoperator ε beschreibt als dynamische Größe die Stärke der Resonanzkopplung. Er kann Werte im Bereich von ca. 0,37 bis 2,72 annehmen (entsprechend 1/e bis e) und bestimmt maßgeblich, wie effizient Energie zwischen Systemen übertragen wird.
 
 **Meta-Impuls:**  
 Der Kopplungsoperator erlaubt es, Kopplungszustände mathematisch und experimentell präzise zu erfassen und zu steuern.
@@ -98,7 +98,7 @@ Durch Reihenentwicklung werden auch nichtlineare und komplexe Zusammenhänge mat
 
 ### **Quantisierte Kopplungszustände** 🔗  
 **Definition:**  
-Quantisierte Kopplungszustände sind diskrete Werte des Kopplungsoperators, wie sie in experimentellen oder simulierten Daten beobachtet werden. Sie weisen auf stufenweise Übergänge im Resonanzverhalten hin.
+Quantisierte Kopplungszustände sind diskrete Werte des Kopplungsoperators (ε), wie sie in experimentellen oder simulierten Daten beobachtet werden. Sie weisen auf stufenweise Übergänge im Resonanzverhalten hin.
 
 **Meta-Impuls:**  
 Quantisierung zeigt: Resonanzfelder können sprunghaft neue Qualitäten annehmen – vergleichbar mit Quantensprüngen.
@@ -112,13 +112,6 @@ Dynamische Simulation bezeichnet die computergestützte Nachbildung komplexer Ko
 **Meta-Impuls:**  
 Simulation macht unsichtbare Dynamiken sichtbar und eröffnet neue Wege zur Kontrolle und Optimierung von Resonanzsystemen.
 
----
-
-© Dominic-René Schu – Resonanzfeldtheorie 2025
-
----
-
-[Zurück zur Übersicht](../../../README.md)
 
 ### ✴️ Resonanzfrequenz
 
