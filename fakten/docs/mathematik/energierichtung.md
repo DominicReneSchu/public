@@ -49,9 +49,10 @@ Das Drehmoment 𝐓 ist ein Vektor mit derselben Einheit wie Energie:
 - In der Resonanzfeldtheorie: sichtbare Projektion des Energievektors (Axiom 5)
 - Drehsinn steht für die Kopplungsrichtung energetischer Prozesse
 
-> ![Abb. 2: Drehmoment als Vektorprodukt, Richtung und Drehsinn visualisiert.](./abb2_drehmoment.png)
+<p align="center">
+  <img src="../bilder/abb2_drehmoment.png" alt="Abb. 2: Drehmoment als Vektorprodukt, Richtung und Drehsinn visualisiert." width="400"/>
+</p>
 
----
 
 ## 3. Spin als Ausdruck des Resonanz-Drehsinns
 
@@ -66,7 +67,9 @@ Spin ist die geschlossene Rotation des Energievektors in einer höheren Dimensio
   S_z |ψ⟩ = s·ħ |ψ⟩  
   wobei ħ das reduzierte Planck’sche Wirkungsquantum ist, s die Spinquantenzahl.
 
-> ![Abb. 3: Spin als Kreisbewegung mit Richtung und Drehsinn.](./abb3_spin.png)
+<p align="center">
+  <img src="../bilder/abb3_spin.png" alt="Abb. 3: Spin als Kreisbewegung mit Richtung und Drehsinn." width="400"/>
+</p>
 
 ---
 
@@ -94,7 +97,9 @@ Beispiele:
 - Biophysik: Der FRET-Mechanismus funktioniert nur bei passender Ausrichtung von Donor- und Akzeptormolekül.
 - Elektrotechnik: Ein Polarisationsfilter lässt nur Licht mit passender Energierichtung durch.
 
-> ![Abb. 4: Resonanzkopplung zweier Vektoren mit Winkel θ.](./abb4_kopplung.png)
+<p align="center">
+  <img src="../bilder/abb4_kopplung.png" alt="Abb. 4: Resonanzkopplung zweier Vektoren mit Winkel θ." width="400"/>
+</p>
 
 ---
 
