@@ -80,7 +80,7 @@ $$
 
 **Beispiel:**  
 Mit π ≈ 3.14, ℏ ≈ 1.05·10⁻³⁴ J·s, 𝓔 = 1 und einer Frequenz f zeigt sich, wie 𝓔 als Kopplungsfaktor das energetische Verhalten im Resonanzfeld prägt.  
-_Siehe [Resonanzfeld-Gleichung: Beispiele & Anwendungen](fakten/docs/mathematik/schu_gleichung.md)_
+_Siehe [Resonanzfeld-Gleichung: Beispiele & Anwendungen](fakten/docs/mathematik/resonanzfeld_gleichung.md)_
 
 ---
 
