@@ -151,6 +151,7 @@ Eine friedensorientierte Narrativpraxis erfordert Transparenz über die eigenen 
 
 **Fazit:**  
 Nur durch die bewusste Reflexion und Öffnung der gesellschaftlichen Projektionsmuster kann das Resonanzfeld wieder an Tiefe und Kohärenz gewinnen. Dies ist die Voraussetzung für nachhaltige Konflikttransformation und echte Friedensfähigkeit.
+
 ---
 
 ## 5. Die Rolle der Medien
