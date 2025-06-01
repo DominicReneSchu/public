@@ -13,21 +13,28 @@
 
 **Bisherige Zuordnung der Begriffe:**
 
-| Begriff              | Kategorie                        | Symbol |
-| -------------------- | -------------------------------- | ------ |
-| **Resonanzfrequenz** | Quelle & Impuls                  | ✴️     |
-| **Kopplung**         | Kopplung & Passung               | 🔗     |
-| **Selbstinduktion**  | Rückkopplung & Gedächtnis        | 🔄     |
-| **Kohärenz**         | Rückkopplung & Gedächtnis        | 🔄     |
-| **Impedanz**         | Öffnung & Wirkung (als Schwelle) | 🌊     |
+| Begriff                        | Kategorie                        | Symbol |
+| ------------------------------ | -------------------------------- | ------ |
+| **Resonanzfrequenz**           | Quelle & Impuls                  | ✴️     |
+| **Kopplung**                   | Kopplung & Passung               | 🔗     |
+| **Selbstinduktion**            | Rückkopplung & Gedächtnis        | 🔄     |
+| **Kohärenz**                   | Rückkopplung & Gedächtnis        | 🔄     |
+| **Impedanz**                   | Öffnung & Wirkung (als Schwelle) | 🌊     |
+| **Resonanzfeldtheorie**        | Theorie / Meta                   | —      |
+| **Resonanzfeld-Gleichung**     | Öffnung & Wirkung / Mathematik   | 🌊     |
+| **Kopplungsoperator (epsilon)**| Kopplung & Passung               | 🔗     |
+| **Energetischer Stabilitätsraum**   | Rückkopplung & Gedächtnis    | 🔄     |
+| **Reihenentwicklung**          | Mathematische Methode            | —      |
+| **Quantisierte Kopplungszustände** | Kopplung & Passung           | 🔗     |
+| **Dynamische Simulation**      | Öffnung & Wirkung / Methode      | 🌊     |
 
 ---
 
 ## Symbollegende
 
-- ✴️ Quelle & Impuls
-- 🔗 Kopplung & Passung
-- 🔄 Rückkopplung & Gedächtnis
+- ✴️ Quelle & Impuls  
+- 🔗 Kopplung & Passung  
+- 🔄 Rückkopplung & Gedächtnis  
 - 🌊 Öffnung & Wirkung
 
 ---
@@ -35,6 +42,83 @@
 ## Begriffslexikon
 
 ---
+
+### **Resonanzfeldtheorie**
+**Definition:**  
+Die Resonanzfeldtheorie ist ein universelles Modell zur Energieübertragung und Kopplung in dynamischen Systemen. Sie beschreibt, wie Schwingungen, Felder und Kopplungsmechanismen in Natur, Technik und Gesellschaft miteinander interagieren und Resonanzphänomene ermöglichen.
+
+**Meta-Impuls:**  
+Die Resonanzfeldtheorie liefert einen übergreifenden Rahmen, um Vielschichtigkeit, Verbundenheit und Energiefluss zu verstehen – von der Quantenphysik bis zur sozialen Interaktion.
+
+---
+
+### **Resonanzfeld-Gleichung** 🌊
+**Definition:**  
+Die Resonanzfeld-Gleichung  
+E = π · epsilon · h · f  
+verbindet Energie (E), Kopplung (epsilon), das Plancksche Wirkungsquantum (h) und die Resonanzfrequenz (f). Sie beschreibt, wie Kopplungsstärke und Frequenz gemeinsam die Energieübertragung bestimmen.
+
+**Meta-Impuls:**  
+Die Gleichung verdeutlicht, dass Resonanz nicht nur von Frequenz, sondern auch von der Kopplungsqualität abhängt.
+
+---
+
+### **Kopplungsoperator (epsilon)** 🔗
+**Definition:**  
+Der Kopplungsoperator (epsilon) beschreibt als dynamische Größe die Stärke der Resonanzkopplung. Er kann Werte im Bereich von circa 0,37 bis 2,72 annehmen (entsprechend 1/e bis e) und bestimmt maßgeblich, wie effizient Energie zwischen Systemen übertragen wird.
+
+**Meta-Impuls:**  
+Der Kopplungsoperator erlaubt es, Kopplungszustände mathematisch und experimentell präzise zu erfassen und zu steuern.
+
+---
+
+### **Resonanzfrequenz (f)** ✴️  
+**Definition:**  
+Die Resonanzfrequenz (f) ist die charakteristische Frequenz, bei der ein System maximale Kopplung und Energieübertragung erfährt.
+
+---
+
+### **Energetischer Stabilitätsraum** 🔄  
+**Definition:**  
+Der energetische Stabilitätsraum umfasst jene Kombinationen von Kopplungs- und Frequenzparametern, in denen ein System stabil resonant operiert. Außerhalb dieses Bereichs drohen Instabilität oder Energieverluste.
+
+**Meta-Impuls:**  
+Stabilität ist Voraussetzung für nachhaltige Resonanz – sie entsteht aus dem Zusammenspiel von Kopplung und Frequenz.
+
+---
+
+### **Reihenentwicklung**  
+**Definition:**  
+Die Reihenentwicklung ist eine analytische Methode, mit der komplexe Integrale und Gleichungen innerhalb der Resonanzfeldtheorie gelöst werden können – beispielsweise zur Beschreibung von Kopplungsdynamiken.
+
+**Meta-Impuls:**  
+Durch Reihenentwicklung werden auch nichtlineare und komplexe Zusammenhänge mathematisch zugänglich.
+
+---
+
+### **Quantisierte Kopplungszustände** 🔗  
+**Definition:**  
+Quantisierte Kopplungszustände sind diskrete Werte des Kopplungsoperators, wie sie in experimentellen oder simulierten Daten beobachtet werden. Sie weisen auf stufenweise Übergänge im Resonanzverhalten hin.
+
+**Meta-Impuls:**  
+Quantisierung zeigt: Resonanzfelder können sprunghaft neue Qualitäten annehmen – vergleichbar mit Quantensprüngen.
+
+---
+
+### **Dynamische Simulation** 🌊  
+**Definition:**  
+Dynamische Simulation bezeichnet die computergestützte Nachbildung komplexer Kopplungszustände, etwa mit Modellen wie dem Doppelpendel. Sie erlaubt das Erforschen von Instabilitäten, Synchronisation und neuen Resonanzphänomenen.
+
+**Meta-Impuls:**  
+Simulation macht unsichtbare Dynamiken sichtbar und eröffnet neue Wege zur Kontrolle und Optimierung von Resonanzsystemen.
+
+---
+
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+---
+
+[Zurück zur Übersicht](../../../README.md)
 
 ### ✴️ Resonanzfrequenz
 
