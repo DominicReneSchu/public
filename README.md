@@ -135,6 +135,7 @@ _Siehe [Resonanzfeld-Gleichung: Beispiele & Anwendungen](fakten/docs/mathematik/
 * [**Resonanzkommunikation** – Ein Modell zur Überwindung sozialer Dissonanz](fakten/docs/gesellschaft/resonanzkommunikation.md)
 * [**Resonanzsprung** – Vom Kampf zur Frequenzgemeinschaft](fakten/docs/gesellschaft/resonanzsprung.md)
 * [**Resonanz als Weg zur individuellen Selbstverwirklichung**](fakten/docs/gesellschaft/resonanz_als_weg_zur_individuellen_selbstverwirklichung.md)
+* [**Verhaltensmuster erkennen und auflösen**](fakten/docs/gesellschaft/verhaltensmuster_erkennen_und_aufloesen.md)
 
 ---
 
