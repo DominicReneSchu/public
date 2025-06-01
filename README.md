@@ -10,6 +10,14 @@ Dieses Projekt vereint Mathematik, Physik, Technik, Philosophie und neue Denkans
 
 ---
 
+## 📄 PDF-Zusammenfassung
+
+Die ausführliche Zusammenfassung der Resonanzfeldtheorie steht als PDF zum Download bereit:  
+[RFT_Zusammenfassung.pdf](./RFT_Zusammenfassung.pdf)
+
+
+---
+
 <p align="center">
   <img src="bilder/visualisierung_RFT.png" alt="Visualisierung der Resonanzfeldtheorie" width="800"/>
 </p>
