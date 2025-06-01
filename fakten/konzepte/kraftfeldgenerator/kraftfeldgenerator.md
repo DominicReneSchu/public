@@ -7,6 +7,12 @@ Die Nutzer können Wandposition, Wandbreite, Kopplungsintensität, Frequenzen, F
 
 ---
 
+<p align="center">
+  <img src="wand.gif" alt="GIF-Animation des Kraftfelds" width="600">
+</p>
+
+---
+
 ## Voraussetzungen
 
 - **Python 3.7+**
