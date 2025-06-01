@@ -107,7 +107,7 @@ _Siehe [Resonanzfeld-Gleichung: Beispiele & Anwendungen](fakten/docs/mathematik/
 * [**Manifest zur Neustrukturierung der Mathematik**](fakten/docs/mathematik/manifest_zur_neustrukturierung_der_mathematik.md)
 * [**Fühlbare Mathematik**](fakten/docs/mathematik/aetherius_fühlbare_mathematik.md)
 * [**τ – als Resonanzzeitkoeffizient**](fakten/docs/mathematik/tau_resonanzkoeffizient.md)
-* [**Resonanzfeld-Gleichung**](fakten/docs/mathematik/schu_gleichung.md)
+* [**Resonanzfeld-Gleichung**](fakten/docs/mathematik/resonanzfeld_gleichung.md)
 * [**Axiomatische Grundlegung**](fakten/docs/mathematik/axiomatische_grundlegung.md)
 * [**Energie – axiomatische Herleitung**](fakten/docs/mathematik/energie_axiomatische_herleitung.md)
 * [**Energierichtung**](fakten/docs/mathematik/energierichtung.md)
