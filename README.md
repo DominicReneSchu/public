@@ -33,7 +33,7 @@ Dies ermöglicht die gezielte Simulation und Analyse von Resonanzphänomenen, wi
 <table>
   <tr>
     <td width="40%">
-      <img src="bilder/schu_koppler.png" alt="Kopplungsoperator" width="500"/>
+      <img src="bilder/kopplungsoperator.png" alt="Kopplungsoperator" width="500"/>
     </td>
     <td width="20%">
       <!-- Leere Zelle für Abstand -->
