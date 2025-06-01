@@ -30,7 +30,7 @@ Das sichtbare Beispiel ist das **Drehmoment**:
 - Richtung: durch Rechte-Hand-Regel vorgegeben
 - Drehsinn: Ausdruck der Kopplungsstruktur
 
-> ![Abb. 1: Energievektor mit Richtung und Drehsinn.](./abb1_energievektor.png)
+> ![Abb. 1: Energievektor mit Richtung und Drehsinn.](../bilder/abb1_energievektor.png)
 
 Das Drehmoment ist somit die räumliche Projektion eines gerichteten Energievektors – ein Fenster in die höhere Struktur von Energie (Axiom 5).
 
