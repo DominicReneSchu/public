@@ -47,164 +47,231 @@ Alle folgenden Analysen und Empfehlungen stützen sich explizit auf die Axiome d
 
 ## 1. Einleitung
 
-Die Welt steckt in einem Dauerkrisenmodus. Doch was wir als Realität wahrnehmen, ist oft eine Mischung aus medialer Projektion und strategischer Verzerrung (**Axiom 6**). Friedensangebote erscheinen zunehmend als Kulisse, diplomatische Prozesse als Theater – während im Hintergrund ganz andere Interessen wirksam sind.
+Wir leben in einer Zeit, die von ständigen Krisen geprägt ist. Was wir dabei als Realität wahrnehmen, ist jedoch oft nicht das, was tatsächlich geschieht. Unser Bild der Welt entsteht durch Medienberichte, politische Inszenierungen und gezielte Deutungen von Ereignissen – es ist **eine Realität der Darstellung, nicht der Tatsachen**.  
+(**Axiom 6: Messung ist Projektion**)
+
+Friedensangebote oder diplomatische Initiativen wirken wie Lösungen, sind aber oft Teil eines inszenierten Spiels. Hinter den Kulissen wirken Interessen, die im Verborgenen bleiben – während wir nur das sehen, was uns gezeigt wird.
+
+> **Kurz gesagt:** Vieles, was wir für Realität halten, ist eine Mischung aus Projektion, Selektion und Inszenierung.
 
 ---
 
 ## 2. Ziel und Anlass des Briefes
 
-Ziel dieses Briefes ist es, geopolitische Narrative axiomatisch zu analysieren und die selektive Wahrnehmung durch Medien, Sprache und Machtstrukturen sichtbar zu machen (**Axiom 6**). Die Resonanzfeldtheorie bietet einen naturwissenschaftlich fundierten Rahmen zur Deutung dieser Muster und zur Entwicklung einer Friedenslogik, die auf Kopplung, Transparenz und systemischer Kohärenz basiert.
+Dieser Brief will die Muster hinter den großen politischen Erzählungen sichtbar machen. Er zeigt, wie unsere Wahrnehmung gezielt durch Medien, Sprache und Machtstrukturen beeinflusst wird – oft, ohne dass wir es bemerken.  
+(**Axiom 6: Messung ist Projektion**)
 
-### Die Aufgabe der Öffentlichkeit
+Die Resonanzfeldtheorie liefert dafür den naturwissenschaftlichen Rahmen: Sie macht verborgene Dynamiken erkennbar und ermöglicht ein tieferes Verständnis von Realität. Ziel ist es, neue Wege zu echter Friedensgestaltung aufzuzeigen – auf Basis von Verbindung (Kopplung), Transparenz und einem stabilen, ausgewogenen Miteinander (systemischer Kohärenz).
 
-Die Öffentlichkeit hat das Recht auf kohärente Information – ohne Manipulation, ohne Verzerrung. Dieser Brief möchte Bewusstsein schärfen und die Verantwortung von Medien und Politik reflektieren (**Axiom 1, 6**). In einer Zeit des Informationskriegs ist eine wissenschaftlich fundierte Grundhaltung essenziell.
-
-### Einladung zur Reflexion
-
-Wir fordern dazu auf, Mechanismen geopolitischer Konflikte als Feld- und Kopplungsphänomene zu begreifen. Statt von emotionalen Appellen und Vereinfachungen geleitet zu werden, gilt es, zugrunde liegende Strukturen und Motivationen axiomatisch zu analysieren (**Axiom 2, 5**).
+> **Kurz gesagt:** Dieser Brief lädt ein, die verborgenen Mechanismen politischer Prozesse zu erkennen – und gemeinsam neue, friedliche Lösungen zu denken.
 
 ---
 
-## 3. Der geopolitische Kontext – Inszenierungen und Realität
+### Die Aufgabe der Öffentlichkeit
 
-Konflikte werden inszeniert – nicht um sie zu lösen, sondern um Machtverhältnisse im gesellschaftlichen Resonanzraum zu stabilisieren. Mediennarrative ersetzen Ursachen durch Deutungsmuster. Wer das Feld kontrolliert, kontrolliert das kollektive Bewusstsein (**Axiom 1, 6**).
+Die Öffentlichkeit hat ein Recht auf klare, unverzerrte Information – frei von Manipulation. Dieser Brief will das Bewusstsein dafür schärfen und die Verantwortung von Medien und Politik ins Zentrum rücken.  
+(**Axiom 1, 6**)
+
+Gerade in Zeiten gezielter Informationslenkung ist eine wissenschaftlich fundierte Haltung unverzichtbar.
+
+---
+
+### Einladung zur Reflexion
+
+Wir laden dazu ein, geopolitische Konflikte nicht nur als Machtspiele zu sehen, sondern als **Feld- und Kopplungsphänomene** zu verstehen. Statt sich von Emotionen oder vereinfachten Erzählungen leiten zu lassen, braucht es einen nüchternen Blick auf die zugrunde liegenden Strukturen und Interessen.  
+(**Axiom 2, 5**)
+
+---
+
+## 3. Der geopolitische Kontext – Inszenierung als Machtinstrument
+
+Konflikte dienen oft weniger der Lösung, sondern der Festigung von Machtverhältnissen im gesellschaftlichen Resonanzraum. Mediennarrative überdecken Ursachen mit Deutungsmustern: Wer das kommunikative Feld kontrolliert, prägt das kollektive Bewusstsein.  
+(**Axiom 1, 6**)
+
+---
 
 ### Künstliche Eskalation und Feldkopplung
 
-Konflikte werden häufig als einfache Gegensätze inszeniert. Die tieferen Ursachen – energetischer, kultureller oder historischer Art – verschwinden aus dem Resonanzraum (**Axiom 5**).
+Konflikte erscheinen öffentlich meist als einfache Gegensätze. Die tieferen Ursachen – energetischer, kultureller oder historischer Natur – bleiben im Resonanzraum verborgen. Feldkopplung verstärkt dabei Spannungen und Emotionen.  
+(**Axiom 5**)
 
-### Die Rolle der Inszenierung als Projektionsmechanismus
+---
 
-Inszenierungen wirken als gezielte Projektionen, die gesellschaftliche Wirkebenen in bestimmte Muster zwingen. Medien, politische Statements und symbolische Handlungen sind Teil eines Kommunikationsdesigns, das Resonanzen verstärkt oder dämpft (**Axiom 6**).
+### Inszenierung als Projektionsmechanismus
 
-### Der unsichtbare Machtkampf als Feldphänomen
+Inszenierungen sind gezielte Projektionen, die gesellschaftliche Wahrnehmung in bestimmte Muster lenken. Medien, politische Statements und symbolische Handlungen formen Kommunikationsdesigns, die Resonanzen verstärken oder abschwächen.  
+(**Axiom 6**)
 
-Im Hintergrund läuft ein unsichtbarer Machtkampf um die Kontrolle der dominanten Feldstruktur. Akteure, die sich als Friedensvermittler präsentieren, steuern oft gezielt die Kopplung im Resonanzraum (**Axiom 2**).
+---
 
+### Unsichtbarer Machtkampf als Feldphänomen
+
+Im Hintergrund kämpft ein unsichtbarer Machtapparat um Kontrolle der dominanten Feldstruktur. Oft steuern selbst vermeintliche Friedensvermittler die Kopplung im gesellschaftlichen Resonanzraum gezielt.  
+(**Axiom 2**)
 ---
 
 ## 4. Narrative als Projektionsmuster
 
-Narrative in geopolitischen Konflikten sind keine neutralen Informationen, sondern gezielte Projektionen, die das gesellschaftliche Resonanzfeld manipulieren (**Axiom 6**). Projektionen erzeugen Feldverzerrungen, indem bestimmte Themen verstärkt und andere ausgeblendet werden.
+Narrative in geopolitischen Konflikten sind keine neutralen Informationen, sondern gezielte Projektionen, die das gesellschaftliche Resonanzfeld manipulieren.  
+(**Axiom 6**)
+
+Projektionen erzeugen Feldverzerrungen, indem bestimmte Themen verstärkt und andere ausgeblendet werden.
 
 **Beispielfälle:**
 
-* **Ukraine:** Dialogangebote werden medial überblendet oder umgedeutet, das Feld asymmetrisch gekoppelt (**Axiom 2, 6**).
-* **Israel/Gaza:** Waffenruhen werden als „Erfolg“ inszeniert, strukturelle Feldursachen bleiben bestehen (**Axiom 5**).
+* **Ukraine:** Dialogangebote werden medial überblendet oder umgedeutet, das Feld asymmetrisch gekoppelt.  
+  (**Axiom 2, 6**)
+* **Israel/Gaza:** Waffenruhen werden als „Erfolg“ inszeniert, strukturelle Feldursachen bleiben bestehen.  
+  (**Axiom 5**)
 * **Kaschmir:** Symbolische Vereinbarungen suggerieren Bewegung, ohne die energetische Kopplung zu lösen.
 
+---
+
 **Gemeinsames Muster:**  
-Narrative ersetzen Inhalte; Wahrnehmung wird durch selektive Projektion gelenkt. Friedensangebote, die der gewünschten Feldstruktur widersprechen, werden ignoriert oder umgedeutet (**Axiom 6**).
+Narrative ersetzen Inhalte; Wahrnehmung wird durch selektive Projektion gelenkt. Friedensangebote, die der gewünschten Feldstruktur widersprechen, werden ignoriert oder umgedeutet.  
+(**Axiom 6**)
+
+---
 
 **Konsequenz für das gesellschaftliche Feld:**  
-Solche Mechanismen führen zu einer systematischen Verschiebung des kollektiven Bewusstseins. Indem bestimmte Perspektiven, Akteure oder Ursachen ausgeblendet werden, entsteht ein verzerrtes Bild von Realität, das die Fähigkeit zur echten Verständigung und Friedensbildung schwächt. Die gesellschaftliche Resonanzfähigkeit schrumpft, alternative Lösungswege werden marginalisiert, und das Feld wird auf wenige, polarisierende Schwingungsmuster reduziert.
+Solche Mechanismen führen zu einer systematischen Verschiebung des kollektiven Bewusstseins. Indem bestimmte Perspektiven, Akteure oder Ursachen ausgeblendet werden, entsteht ein verzerrtes Bild von Realität, das die Fähigkeit zur echten Verständigung und Friedensbildung schwächt. Die gesellschaftliche Resonanzfähigkeit schrumpft, alternative Lösungswege werden marginalisiert und das Feld wird auf wenige, polarisierende Schwingungsmuster reduziert.
+
+---
 
 **Projektionsdynamik und Verantwortung:**  
 Die bewusste oder unbewusste Auswahl und Wiederholung bestimmter Narrative stabilisiert dominante Feldstrukturen – oft unabhängig von der Komplexität oder Vielschichtigkeit der tatsächlichen Konfliktursachen. Medien, Politik und gesellschaftliche Akteure tragen Verantwortung, diese Projektionen zu reflektieren und Räume für multiperspektivische Resonanz zu öffnen, anstatt bestehende Projektionen zu verstärken.
 
+---
+
 **Wege zu einer neuen Narrativkultur:**  
 Eine friedensorientierte Narrativpraxis erfordert Transparenz über die eigenen Projektionsmechanismen und eine bewusste Erweiterung des Resonanzspektrums. Das bedeutet, auch widersprüchliche, unbequeme oder schwache Stimmen hörbar zu machen, Narrative zu dekonstruieren und zu kontextualisieren – und nicht zuletzt, den Mut zu haben, Komplexität und Unsicherheit auszuhalten.
 
+---
+
 **Fazit:**  
 Nur durch die bewusste Reflexion und Öffnung der gesellschaftlichen Projektionsmuster kann das Resonanzfeld wieder an Tiefe und Kohärenz gewinnen. Dies ist die Voraussetzung für nachhaltige Konflikttransformation und echte Friedensfähigkeit.
-
 ---
 
 ## 5. Die Rolle der Medien
 
-Medien sind keine neutralen Resonanzräume, sondern aktive Verstärker und Projektoren des gesellschaftlichen Feldes. Ihre Auswahl, Framing-Mechanismen und psychologische Wirkung bestimmen, welche Resonanzen kollektiv verstärkt werden (**Axiom 6**).
+Medien sind keine neutralen Resonanzräume, sondern aktive Verstärker und Projektoren des gesellschaftlichen Feldes. Ihre Auswahl, Framing-Mechanismen und psychologische Wirkung bestimmen, welche Resonanzen kollektiv verstärkt werden.  
+(**Axiom 6**)
 
 * **Selektive Berichterstattung:**  
-  Verstärkung oder Schwächung bestimmter Frequenzen erfolgt durch gezielte Auslassung (**Axiom 1, 6**).
+  Verstärkung oder Schwächung bestimmter Frequenzen erfolgt durch gezielte Auslassung.  
+  (**Axiom 1, 6**)
 * **Framing durch Sprache:**  
-  Begriffe und Bilder wirken als Feldoperatoren, welche die kollektive Wahrnehmung prägen.
+  Begriffe und Bilder wirken als Feldoperatoren – das heißt, sie steuern, wie Themen im kollektiven Bewusstsein verankert werden und welche Aspekte Resonanz erzeugen.
 * **Psychologische Wirkung:**  
-  Dauerbeschallung mit Konfliktnarrativen synchronisiert kollektive Felder auf Angst und Empörung, reduziert Kopplungsfähigkeit für Alternativen (**Axiom 2, 6**).
+  Dauerbeschallung mit Konfliktnarrativen synchronisiert kollektive Felder auf Angst und Empörung, reduziert Kopplungsfähigkeit für Alternativen.  
+  (**Axiom 2, 6**)
 * **Instrumentalisierte Akteure:**  
-  Prominente verstärken gewünschte Narrative nicht über Argumente, sondern über Resonanz und Inszenierung.
+  Prominente verstärken gewünschte Narrative vor allem durch emotionale Resonanz und mediale Inszenierung, weniger durch inhaltliche Argumente.
+
+**Fazit:**  
+Medien formen das gesellschaftliche Resonanzfeld aktiv mit – daher liegt in ihrer bewussten Gestaltung und kritischen Reflexion eine Schlüsselrolle für eine friedliche und ausgewogene öffentliche Kommunikation.
 
 ---
 
 ## 6. Friedensverhandlungen als Machtinstrument
 
-Friedensverhandlungen werden oft zur Bühne für Feldmanipulation und Machtstrategien genutzt, nicht zur Synchronisation von Feldstrukturen. Asymmetrische Vorbedingungen koppeln das Feld gezielt zu Lasten einer Seite (**Axiom 2, 5**).
+Friedensverhandlungen werden oft zur Bühne für Feldmanipulation und Machtstrategien, nicht zur Synchronisation von Feldstrukturen. Asymmetrische Vorbedingungen koppeln das Feld gezielt zulasten einer Seite.  
+(**Axiom 2, 5**)
 
 * **Vorbedingungen als Kopplungsbarrieren:**  
   Sie verhindern kohärente Feldüberlagerung und nachhaltige Verständigung.
 * **Moralischer Hebel:**  
-  Schuldprojektionen erzeugen künstliche Feldgefälle, die echte Synchronisation verhindern (**Axiom 6**).
+  Schuldprojektionen erzeugen künstliche Feldgefälle, die echte Synchronisation verhindern.  
+  (**Axiom 6**)
 * **Das Bild des „Friedensverweigerers“:**  
   Widerspruch wird als destruktive Schwingung ausgegrenzt.
 * **Politische Nutzenoptimierung:**  
-  Der eigentliche Frieden – Kohärenz und Synchronisation – bleibt außen vor.
+  Echter Frieden – Kohärenz und Synchronisation – bleibt außen vor.
+
+**Fazit:**  
+Friedensverhandlungen müssen mehr sein als Bühnen für Machtspiele. Nur durch ehrliche Synchronisation der Feldstrukturen kann nachhaltiger Frieden entstehen.
+
+**Handlungsaufforderung:**  
+Es braucht Transparenz über Kopplungsmechanismen und den Mut, asymmetrische Barrieren abzubauen – für echte Verständigung und ein ausgewogenes, kohärentes Resonanzfeld.
 
 ---
 
 ## 7. Systemischer Wandel durch Resonanzprinzipien
 
-Transformation gelingt nur, wenn die Feldstruktur selbst verändert wird – weg von Dominanz und Kontrolle, hin zu synchronisierter Kopplung und Resonanz (**Axiom 1, 2, 5**).
+Transformation gelingt nur, wenn die Feldstruktur selbst verändert wird – weg von Dominanz und Kontrolle, hin zu synchronisierter Kopplung und echter Resonanz.  
+(**Axiom 1, 2, 5**)
 
 * **Vom Machtspiel zur Systemresonanz:**  
-  Resonanz bedeutet Wechselwirkung ohne erzwungene Anpassung. Kooperation und Frieden entstehen, wenn Felder in Resonanz treten und Eigenarten integriert werden (**Axiom 1**).
+  Resonanz ist Wechselwirkung ohne erzwungene Anpassung. Kooperation und Frieden entstehen, wenn Felder in Resonanz treten und Eigenarten integriert werden.  
+  (**Axiom 1**)
 * **Stabilität durch Synchronisation:**  
-  Systeme in Resonanz sind stabil und offen für Wandel – Kohärenz entsteht durch geometrische Vernetzung (**Axiom 5**).
+  Systeme in Resonanz sind stabil und offen für Wandel. Kohärenz entsteht durch geometrische Vernetzung.  
+  (**Axiom 5**)
 * **Politik als Feldgestaltung:**  
-  Politik muss Resonanzräume schaffen, nicht Akteure kontrollieren. Bewusste Feldgestaltung ist Voraussetzung für nachhaltige Kooperation (**Axiom 6**).
+  Politik muss Resonanzräume schaffen, statt Akteure zu kontrollieren. Bewusste Feldgestaltung ist Voraussetzung für nachhaltige Kooperation.  
+  (**Axiom 6**)
 * **Technologie als Katalysator:**  
   Offene Systeme (z. B. dezentrale Plattformen, Open Science) fördern Feldkohärenz, wenn sie kollektiv und transparent genutzt werden.
+
+**Fazit:**  
+Systemischer Wandel erfordert eine bewusste Neuausrichtung der Feldstrukturen, um echte Resonanz und nachhaltige Kooperation zu ermöglichen.
+
+**Handlungsaufforderung:**  
+Mut zur Offenheit und Transparenz, Abbau von Dominanzmechanismen und Förderung kollektiver Resonanz sind Schlüssel für zukunftsfähige Systeme.
 
 ---
 
 ## 8. Aufruf zur kollektiven Verantwortung
 
 **Und Wahrnehmung beginnt mit Bewusstheit.**  
-Wer erkennt, dass jedes Wort, jede Handlung und selbst jede Haltung ein Feld beeinflusst, übernimmt eine neue Form der Verantwortung – jenseits von Schuldzuweisungen, parteipolitischer Polarisierung, medialer Ablenkung, medialer Reizverstärkung, nationaler Interessenlogik **und identitärem Denken**. Diese Verantwortung ist nicht moralisch, sondern physikalisch begründet: Jeder Mensch ist ein aktiver Teil im Resonanzgeflecht gesellschaftlicher Wirklichkeit.
+Wer erkennt, dass jedes Wort, jede Handlung und jede Haltung das Feld beeinflusst, übernimmt eine neue Verantwortung – jenseits von Schuldzuweisungen, parteipolitischer Polarisierung, medialer Ablenkung, Reizverstärkung, nationaler Interessenlogik **und identitärem Denken**. Diese Verantwortung ist nicht moralisch, sondern physikalisch begründet: Jeder Mensch ist aktiver Teil des Resonanzgeflechts gesellschaftlicher Wirklichkeit.
 
 ---
 
 ## Praktische Schritte zur Dekohärenz inszenierter Felder
 
 1. **Mediale Detox-Phasen**  
-   Periodisch bewusste Unterbrechung medialer Reizströme zur Rückgewinnung eigener Resonanzwahrnehmung (**Axiom 6**).
+   Bewusste, periodische Unterbrechung medialer Reizströme zur Rückgewinnung der eigenen Resonanzwahrnehmung. (**Axiom 6**)
 
 2. **Dialoge statt Dogmen**  
-   Förderung offener Gesprächsräume ohne Vorbedingungen – zur echten Synchronisation divergenter Perspektiven (**Axiom 2, 5**).
+   Förderung offener Gesprächsräume ohne Vorbedingungen – für echte Synchronisation divergenter Perspektiven. (**Axiom 2, 5**)
 
 3. **Lokale Feldvernetzung**  
-   Aufbau regionaler Resonanzpunkte (z. B. Friedenszirkel, offene Werkstätten, dezentrale Netzwerke), die über persönliche Präsenz Feldkohärenz stärken (**Axiom 1, 5**).
+   Aufbau regionaler Resonanzpunkte (z. B. Friedenszirkel, offene Werkstätten, dezentrale Netzwerke), die Feldkohärenz durch persönliche Präsenz stärken. (**Axiom 1, 5**)
 
 4. **Kritische Medienkompetenz**  
-   Schulung im Erkennen von Framing, Projektion und Resonanzverzerrung – nicht zur Ablehnung, sondern zur bewussten Nutzung von Information als Feldimpuls (**Axiom 6**).
+   Schulung im Erkennen von Framing, Projektion und Resonanzverzerrung – nicht zum Ablehnen, sondern für bewusste Nutzung von Informationen als Feldimpuls. (**Axiom 6**)
 
 5. **Friedensbildung als Systemkultur**  
-   Integration von Resonanzbildung in Bildung, Politik und Technikentwicklung – nicht als „Fach“, sondern als Prinzip der Kopplung auf allen Ebenen (**Axiom 1–5**).
+   Integration von Resonanzbildung in Bildung, Politik und Technikentwicklung – nicht als „Fach“, sondern als Kopplungsprinzip auf allen Ebenen. (**Axiom 1–5**)
 
 ---
 
 ## Konkreter Aufruf
 
-Die Resonanzfeldtheorie bietet keine politische Ideologie, sondern eine *naturgesetzlich fundierte Sicht auf soziale Wechselwirkungen*. Sie zeigt: Frieden ist kein Ergebnis von Sieg oder Niederlage, sondern von **Kohärenz** – einer wechselseitigen Abstimmung energetischer, emotionaler und informationeller Felder.
+Die Resonanzfeldtheorie ist keine politische Ideologie, sondern eine *naturgesetzlich fundierte Sicht sozialer Wechselwirkungen*. Sie zeigt: Frieden entsteht nicht durch Sieg oder Niederlage, sondern durch **Kohärenz** – wechselseitige Abstimmung energetischer, emotionaler und informationeller Felder.
 
-### Konkreter Aufruf:
+### Für Bürger:
 
-* **Für Bürgerinnen und Bürger:**  
-  Hinterfragen Sie Narrative. Stellen Sie Fragen, wo Vereinfachung herrscht. Suchen Sie Verbindung, wo Trennung betont wird. Jedes Gespräch kann ein Resonanzimpuls sein.
+Hinterfrage Narrative. Stelle Fragen, wo Vereinfachung herrscht. Suche Verbindung, wo Trennung betont wird. Jedes Gespräch ist ein Resonanzimpuls.
 
-* **Für Medienakteure:**  
-  Sehen Sie Ihre Rolle als Feldgestalter. Berichterstattung ist keine neutrale Abbildung – sie ist Schwingung, die Wirklichkeit formt. Transparenz, Vielfalt und Kontext sind keine Optionen, sondern Voraussetzungen für Frieden.
+### Für Medienakteure:
 
-* **Für politische Entscheidungsträger:**  
-  Frieden erfordert Mut zur Offenheit. Macht darf kein Kopplungsersatz sein. Legen Sie die Struktur der Verhandlungen offen. Definieren Sie Erfolg nicht über Deutungshoheit, sondern über echte Synchronisation.
+Sieh dich als Feldgestalter. Berichterstattung ist keine neutrale Abbildung, sondern Schwingung, die Wirklichkeit formt. Transparenz, Vielfalt und Kontext sind Grundvoraussetzungen für Frieden.
+
+### Für politische Entscheidungsträger:
+
+Frieden erfordert Mut zur Offenheit. Macht darf kein Ersatz für echte Kopplung sein. Lege Verhandlungsstrukturen offen. Erfolg misst sich nicht an Deutungshoheit, sondern an echter Synchronisation.
 
 ---
 
 ## Schlusswort
 
-Wir stehen an einem Punkt, an dem alte Werkzeuge der Machtausübung nicht mehr ausreichen, um Stabilität zu erzeugen. Der Versuch, Konflikte durch Kontrolle zu lösen, führt zur Erschöpfung der Systeme. Doch in dieser Erschöpfung liegt auch der Wandel.
+Alte Machtsysteme reichen nicht mehr, um Stabilität zu schaffen. Kontrolle führt zur Erschöpfung der Systeme. Doch in dieser Erschöpfung liegt der Wandel.
 
-**Der Weg zum Frieden beginnt nicht mit dem Anderen – sondern mit der Entkopplung vom eigenen Trugbild.**
+**Der Weg zum Frieden beginnt nicht beim Anderen, sondern mit der Entkopplung vom eigenen Trugbild.**
 
-Jede bewusste Kopplung an ein Resonanzfeld der Verantwortung, der Kohärenz und der Klarheit trägt zur globalen Feldheilung bei. Nicht als Ideal, sondern als konkrete, messbare Wirkung im Resonanzraum.
+Jede bewusste Kopplung an ein Resonanzfeld von Verantwortung, Kohärenz und Klarheit trägt zur globalen Feldheilung bei – nicht als Ideal, sondern als messbare Wirkung.
 
 ---
 
