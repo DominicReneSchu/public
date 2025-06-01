@@ -56,7 +56,7 @@ $$
 **𝓔** stellt ein neutrales Kopplungsverhältnis dar – eine Balance zwischen Energiezufuhr und -abgabe im Resonanzsystem.  
 Es dient als normierende Referenzgröße für alle resonanten Wechselwirkungen im Feld.
 
-📎 [Zur formalen Ableitung im Paper](fakten/docs/definitionen/paper_resonanzfeldtheorie.md#definition-schu-koppler)
+📎 [Zur formalen Ableitung im Paper](fakten/docs/definitionen/paper_resonanzfeldtheorie.md)
 
 ---
 
@@ -70,7 +70,7 @@ Die Resonanzfeldtheorie ist ein neues Paradigma zur Beschreibung der Welt. Sie g
 - **ℏ (Planck-Konstante):** Maß für Quantisierung und Energiepaketierung  
 - **𝓔 (Kopplungsoperator):** Resonanzkopplungs-Konstante (siehe oben)
 
-Diese Konstanten führen zur **[Resonanzfeld-Gleichung](fakten/docs/mathematik/schu_gleichung.md)**:
+Diese Konstanten führen zur **[Resonanzfeld-Gleichung](fakten/docs/mathematik/resonanzfeld_gleichung.md)**:
 
 $$
 E = π \cdot 𝓔 \cdot ℏ \cdot \mathbf{f}
@@ -184,7 +184,7 @@ Resonanz ist nicht nur ein physikalisches Phänomen, sondern ein universeller In
 
 **Was ist der Kopplungsoperator 𝓔?**  
 Eine Resonanzkonstante, die Kopplungsprozesse zwischen Systemen beschreibt und nicht mit der Eulerschen Zahl identisch ist.  
-[Mehr dazu](fakten/docs/definitionen/paper_resonanzfeldtheorie.md#definition-schu-koppler)
+[Mehr dazu](fakten/docs/definitionen/paper_resonanzfeldtheorie.md)
 
 **Warum ist Resonanz wichtiger als Kausalität?**  
 Resonanz ist das verbindende Ordnungsprinzip, das sowohl Materie als auch Information und Bewusstsein strukturiert. Ursache und Wirkung werden als Spezialfälle von Resonanzbeziehungen verstanden.  
