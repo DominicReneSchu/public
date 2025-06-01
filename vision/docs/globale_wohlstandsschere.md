@@ -83,4 +83,8 @@ Bei verantwortungsvoller Anwendung kann er die größte Wohlstandsumverteilung d
 
 ---
 
-⬅️ [Zurück](../../README.md)
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+---
+
+[Zurück zur Übersicht](../../../README.md)

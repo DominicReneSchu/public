@@ -110,4 +110,8 @@ Eine Welt, in der alles fliegt – **ohne Umweltzerstörung**, **ohne Begrenzung
 
 ---
 
-⬅️ [zurück](../../README.md)
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+---
+
+[Zurück zur Übersicht](../../../README.md)

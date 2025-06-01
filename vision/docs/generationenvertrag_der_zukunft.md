@@ -56,4 +56,8 @@ Diese Rechnung macht deutlich:
 
 ---
 
-⬅️ [zurück](../../README.md)
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+---
+
+[Zurück zur Übersicht](../../../README.md)
