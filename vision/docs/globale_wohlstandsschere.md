@@ -87,4 +87,4 @@ Bei verantwortungsvoller Anwendung kann er die größte Wohlstandsumverteilung d
 
 ---
 
-[Zurück zur Übersicht](../../../README.md)
+[Zurück zur Übersicht](../../README.md)

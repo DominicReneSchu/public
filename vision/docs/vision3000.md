@@ -133,4 +133,4 @@ Sie beginnt mit dem Kreis – und kulminiert im Bewusstsein.
 
 ---
 
-[Zurück zur Übersicht](../../../README.md)
+[Zurück zur Übersicht](../../README.md)
