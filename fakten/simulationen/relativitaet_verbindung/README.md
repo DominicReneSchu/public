@@ -1,16 +1,16 @@
 # Resonanzfeldtheorie Framework
 
-Dieses Framework bietet eine modulare, moderne Infrastruktur zur Simulation und Analyse skalarer Resonanzfelder in flacher und gekrümmter Raumzeit. Es verbindet numerische Methoden, Visualisierung und wissenschaftliche Dokumentation und legt einen besonderen Fokus auf Energiehaltung, Stabilität und Erweiterbarkeit.
+Dieses Framework bietet eine modulare, moderne Infrastruktur zur Simulation und Analyse skalarer Resonanzfelder in flacher und gekrümmter Raumzeit. Es verbindet numerische Methoden, Visualisierung und wissenschaftliche Dokumentation und legt besonderen Fokus auf Energiehaltung, Stabilität und Erweiterbarkeit.
 
 ---
 
 ## Inhalt und Motivation
 
 **Was ist die Resonanzfeldtheorie?**  
-Die Resonanzfeldtheorie beschreibt ein skalares Feld \(\varepsilon\) mit nichtlinearem Potential, das an die Raumzeitgeometrie – speziell an den Ricci-Skalar \(R\) – gekoppelt ist. Solche Felder sind relevant in der modernen Kosmologie (z.B. modifizierte Gravitation, Inflatonmodelle, skalare Solitonen, Topologische Defekte) und in der Feldtheorie (Domänenwände, Symmetriebrüche).
+Die Resonanzfeldtheorie beschreibt ein skalares Feld (epsilon, ε) mit nichtlinearem Potential, das an die Raumzeitgeometrie – speziell an den Ricci-Skalar (R) – gekoppelt ist. Solche Felder sind relevant in der modernen Kosmologie (z.B. modifizierte Gravitation, Inflatonmodelle, skalare Solitonen, Topologische Defekte) und in der Feldtheorie (Domänenwände, Symmetriebrüche).
 
 **Was kann das Framework?**  
-- **1D/FLRW-Modell:** Direkte Zeitentwicklung des Resonanzfelds und des kosmologischen Skalenfaktors \(a(t)\), gekoppelt über modifizierte Einsteingleichungen. Energiehaltung und Dynamik werden überwacht.
+- **1D/FLRW-Modell:** Direkte Zeitentwicklung des Resonanzfelds und des kosmologischen Skalenfaktors (a(t)), gekoppelt über modifizierte Einsteingleichungen. Energiehaltung und Dynamik werden überwacht.
 - **3D-Resonanzfeld:** Klassische Gitter-Simulation (explizite Zeitentwicklung) für nichtlineare Wellengleichungen, inkl. Visualisierung von Schnitten und Mittelwerten. Erweiterbar auf parallele oder GPU-basierte Berechnung.
 - **Theorie, Tests, Doku:** Alle Gleichungen, Methoden und Skripte sind dokumentiert und mit Unittests versehen. Die Struktur erlaubt eine schnelle Anpassung für eigene Fragestellungen.
 
@@ -29,7 +29,7 @@ Die Resonanzfeldtheorie beschreibt ein skalares Feld \(\varepsilon\) mit nichtli
 ## Ordnerstruktur
 
 ```
-resonanzfeldtheorie/
+relativitaet_verbindung/
 │
 ├── config.py                  # Globale Parameter & Optionen
 ├── requirements.txt           # Python-Abhängigkeiten
@@ -66,7 +66,7 @@ resonanzfeldtheorie/
    ```bash
    python run_1d.py
    ```
-   → Plots für \(\varepsilon(t)\), Skalenfaktor \(a(t)\) und Energieänderung.
+   → Plots für ε(t), Skalenfaktor a(t) und Energieänderung.
 
 3. **3D-Resonanzfeldsimulation starten**
    ```bash
@@ -116,11 +116,3 @@ resonanzfeldtheorie/
 Offen für Forschung, Lehre und Kollaboration.  
 Kontakt: DominicReneSchu  
 Letzte Aktualisierung: Juni 2025
-
----
-
-© Dominic-René Schu – Resonanzfeldtheorie 2025
-
----
-
-[Zurück zur Übersicht](../README.md)
