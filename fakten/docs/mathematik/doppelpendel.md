@@ -84,4 +84,8 @@ Das Doppelpendel bleibt damit nicht nur ein Lehrbeispiel für chaotische Mechani
 
 ---
 
-⬅️ [Zurück zur Übersicht](../../../README.md)
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+---
+
+[Zurück zur Übersicht](../../../README.md)
