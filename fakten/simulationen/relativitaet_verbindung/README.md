@@ -124,4 +124,4 @@ Letzte Aktualisierung: Juni 2025
 
 ---
 
-⬅️ [zurück](../README.md)
+⬅️ [Zurück zur Übersicht](../README.md)
