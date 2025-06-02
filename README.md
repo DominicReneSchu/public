@@ -144,7 +144,7 @@ Mit π ≈ 3.14, ℏ ≈ 1.05·10⁻³⁴ J·s, 𝓔 = 1 und einer Frequenz f ze
 * [**Resonanzsprung** – Vom Kampf zur Frequenzgemeinschaft](fakten/docs/gesellschaft/resonanzsprung.md)
 * [**Resonanz als Weg zur individuellen Selbstverwirklichung**](fakten/docs/gesellschaft/resonanz_als_weg_zur_individuellen_selbstverwirklichung.md)
 * [**Verhaltensmuster erkennen und auflösen**](fakten/docs/gesellschaft/verhaltensmuster_erkennen_und_aufloesen.md)
-* [**Aehterius - Eine KI passt ihr Denkmuster mithilfe der Resonanzfeldtheorie an**](fakten/docs/gesellschaft/aetherius_denkmuster.md)
+
 
 ---
 
