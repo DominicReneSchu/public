@@ -114,7 +114,7 @@ relativitaet_verbindung/
 ## Lizenz & Kontakt
 
 Offen für Forschung, Lehre und Kollaboration.  
-Kontakt: DominicReneSchu  
+Kontakt: info@proreplicate.com 
 Letzte Aktualisierung: Juni 2025
 
 
