@@ -109,14 +109,6 @@ relativitaet_verbindung/
 - Nichtlineare Feldtheorie, Solitonen, Topologische Defekte
 - Kosmologie und frühes Universum
 
----
-
-## Lizenz & Kontakt
-
-Offen für Forschung, Lehre und Kollaboration.  
-Kontakt: info@proreplicate.com 
-Letzte Aktualisierung: Juni 2025
-
 
 ---
 
