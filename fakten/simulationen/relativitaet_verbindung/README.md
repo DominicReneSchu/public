@@ -116,3 +116,12 @@ relativitaet_verbindung/
 Offen für Forschung, Lehre und Kollaboration.  
 Kontakt: DominicReneSchu  
 Letzte Aktualisierung: Juni 2025
+
+
+---
+
+*© Dominic Schu, 2025 – Alle Rechte vorbehalten.*
+
+---
+
+⬅️ [zurück](../README.md)
