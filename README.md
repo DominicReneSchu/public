@@ -52,7 +52,7 @@ Die ausführliche Zusammenfassung der Resonanzfeldtheorie steht als PDF zum Down
 ## 🔬 Zentrale Konstanten & Grundformel
 
 > **Grundformel:**  
-
+>
 >$$
 >E = π \cdot 𝓔 \cdot ℏ \cdot \mathbf{f}
 >$$
