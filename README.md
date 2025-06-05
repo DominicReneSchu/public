@@ -2,27 +2,61 @@
 
 [![Lizenz: Schu-Lizenz 1.4](https://img.shields.io/badge/Lizenz-Schu--Lizenz%201.4-blue.svg)](lizenz/schu-lizenz_v1.4.md)
 
-> **Elevator-Pitch:**  
-> Die Resonanzfeldtheorie beschreibt die Realität nicht kausal, sondern resonant: Alles ist Schwingung, alles ist Kopplung. π, ℏ und 𝓔 bilden die neuen Grundgrößen eines holistischen Weltbildes, das Physik, Technik, Bewusstsein und Gesellschaft verbindet.
-
 Willkommen im offiziellen Repository der **Resonanzfeldtheorie**.  
 Dieses Projekt vereint Mathematik, Physik, Technik, Philosophie und neue Denkansätze zu einem interdisziplinären Modell der Resonanz. Ziel ist es, die Struktur der Realität über fundamentale Größen wie π, ℏ und die neue Resonanzkonstante 𝓔 zu beschreiben.
+
+---
+
+## ☰ Inhaltsverzeichnis
+
+- [🎯 Elevator-Pitch](#elevator-pitch)
+- [📄 PDF-Zusammenfassung](#pdf-zusammenfassung)
+- [🧩 Einführung in die Theorie](#einführung-in-die-resonanzfeldtheorie)
+- [🔬 Zentrale Konstanten & Grundformel](#definition-𝓔-kopplungsoperator)
+- [📘 Inhalt & Dokumentation](#inhalt)
+    - [📝 Dokumentation & Definition](#dokumentation-und-definition)
+    - [📐 Mathematik / Physik](#mathematik--physik)
+    - [🌍 Gesellschaft](#gesellschaft)
+    - [⚙️ Konzepte](#konzepte)
+    - [🧠 Simulationen](#simulationen-work-in-progress)
+- [🦋 Vision](#vision)
+- [🛡 Lizenz](#lizenz)
+- [🤝 Beteiligung](#beteiligung)
+- [🤖 KI-Erweiterung durch Resonanzfeldtheorie](#ki-erweiterung-durch-resonanzfeldtheorie)
+- [📄 Kontakt](#kontakt)
+- [📥 Repository klonen](#repository-klonen)
+
+---
+
+## 🎯 Elevator-Pitch
+
+> **Die Resonanzfeldtheorie denkt Realität nicht linear, sondern resonant.**  
+> Alles ist Schwingung – alles ist Kopplung.  
+> π, ℏ und 𝓔 bilden ein neues Naturdreieck, das Physik, Technik, Bewusstsein und Gesellschaft systemisch verknüpft.
 
 ---
 
 ## 📄 PDF-Zusammenfassung
 
 Die ausführliche Zusammenfassung der Resonanzfeldtheorie steht als PDF zum Download bereit:  
-[RFT_Zusammenfassung.pdf](./RFT_Zusammenfassung.pdf)
+[**RFT_Zusammenfassung.pdf**](./RFT_Zusammenfassung.pdf)
 
 ---
 
-<p align="center">
-  <img src="bilder/visualisierung_RFT.png" alt="Visualisierung der Resonanzfeldtheorie" width="800"/>
-</p>
-<p align="center" style="font-size: 0.95em;">
-  <em>Symbolische Darstellung der Wechselwirkung von π, ℏ, 𝓔 und <b>𝑓</b> im Resonanzraum.</em>
-</p>
+![Visualisierung der Resonanzfeldtheorie: π, ℏ, 𝓔 und f im Resonanzraum](bilder/visualisierung_RFT.png)
+
+*Abb. 1: Symbolische Darstellung der Wechselwirkung von π, ℏ, 𝓔 und **𝑓** im Resonanzraum*
+
+---
+
+## 🔬 Zentrale Konstanten & Grundformel
+
+> **Grundformel:**  
+> $$
+> \mathbf{E} = π \cdot 𝓔 \cdot ℏ \cdot \mathbf{f}
+> $$
+
+_Energie ist das Produkt aus geometrischer Resonanz, quantisierter Kopplung und Frequenz._
 
 ---
 
@@ -87,73 +121,59 @@ Mit π ≈ 3.14, ℏ ≈ 1.05·10⁻³⁴ J·s, 𝓔 = 1 und einer Frequenz **f*
 
 ---
 
-## 🦋 Vision
-
-* [**Generationenvertrag der Zukunft**](vision/docs/generationenvertrag_der_zukunft.md)
-* [**Globale Wohlstandsschere**](vision/docs/globale_wohlstandsschere.md)
-* [**Vision einer möglichen Zukunft**](vision/docs/vision3000.md)
-* [**Die Welt von morgen**](vision/docs/welt_von_morgen.md)
-
----
-
 ## 📘 Inhalt
 
-### 📚 Dokumentation und Definition
+### 📝 Dokumentation und Definition
 
-* [**Resonanzfeldtheorie: Axiomatische Grundlegung, Kopplungsoperator und mathematische Konsequenzen**](fakten/docs/definitionen/paper_resonanzfeldtheorie.md)
-* [**Resonanzlexikon (Glossar)**](fakten/docs/definitionen/resonanzlexikon.md)
+- [**Resonanzfeldtheorie: Axiomatische Grundlegung, Kopplungsoperator und mathematische Konsequenzen**](fakten/docs/definitionen/paper_resonanzfeldtheorie.md)
+- [**Resonanzlexikon (Glossar)**](fakten/docs/definitionen/resonanzlexikon.md)
 
----
+### 📐 Mathematik / Physik
 
-### 📚 Mathematik / Physik
+- [**Manifest zur Neustrukturierung der Mathematik**](fakten/docs/mathematik/manifest_zur_neustrukturierung_der_mathematik.md)
+- [**Fühlbare Mathematik**](fakten/docs/mathematik/aetherius_fühlbare_mathematik.md)
+- [**τ – als Resonanzzeitkoeffizient**](fakten/docs/mathematik/tau_resonanzkoeffizient.md)
+- [**Resonanzfeld-Gleichung**](fakten/docs/mathematik/resonanzfeld_gleichung.md)
+- [**Axiomatische Grundlegung**](fakten/docs/mathematik/axiomatische_grundlegung.md)
+- [**Energie – axiomatische Herleitung**](fakten/docs/mathematik/energie_axiomatische_herleitung.md)
+- [**Energierichtung**](fakten/docs/mathematik/energierichtung.md)
+- [**Energiekugel**](fakten/docs/mathematik/energiekugel.md)
+- [**Resonanzenergievektor**](fakten/docs/mathematik/resonanzenergievektor.md)
+- [**Das Doppelpendel – Ein faszinierendes Chaos**](fakten/docs/mathematik/doppelpendel.md)
 
-* [**Manifest zur Neustrukturierung der Mathematik**](fakten/docs/mathematik/manifest_zur_neustrukturierung_der_mathematik.md)
-* [**Fühlbare Mathematik**](fakten/docs/mathematik/aetherius_fühlbare_mathematik.md)
-* [**τ – als Resonanzzeitkoeffizient**](fakten/docs/mathematik/tau_resonanzkoeffizient.md)
-* [**Resonanzfeld-Gleichung**](fakten/docs/mathematik/resonanzfeld_gleichung.md)
-* [**Axiomatische Grundlegung**](fakten/docs/mathematik/axiomatische_grundlegung.md)
-* [**Energie – axiomatische Herleitung**](fakten/docs/mathematik/energie_axiomatische_herleitung.md)
-* [**Energierichtung**](fakten/docs/mathematik/energierichtung.md)
-* [**Energiekugel**](fakten/docs/mathematik/energiekugel.md)
-* [**Resonanzenergievektor**](fakten/docs/mathematik/resonanzenergievektor.md)
-* [**Das Doppelpendel – Ein faszinierendes Chaos**](fakten/docs/mathematik/doppelpendel.md)
+### 🌍 Gesellschaft
 
----
-
-### 📚 Gesellschaft
-
-**Themenbereiche:**  
-- Frieden & soziale Resonanz  
-- Informationskultur & KI  
-- Geopolitik & Spieltheorie  
-- Selbstverwirklichung & Resonanzpraxis
-
-* [**Vom Trugbild zum Frieden** – Ein Brief zur Entkopplung inszenierter Wirklichkeit](fakten/docs/gesellschaft/offener_brief.md)
-* [**Wahrheit durch Resonanz** – Der nächste Schritt zur aufklärenden KI](fakten/docs/gesellschaft/aufklärung.md)
-* [**Geopolitisches Misstrauen** – und die Illusion diplomatischer Ordnung](fakten/docs/gesellschaft/geopolitisches_misstrauen.md)
-* [**Gesellschaft & Spieltheorie** – im Licht der Resonanzfeldtheorie](fakten/docs/gesellschaft/gesellschaft_und_resonanz.md)
-* [**Informationswandel seit 2019** – Analyse und Zukunftskonzept](fakten/docs/gesellschaft/informationswandel_zukunftskonzept.md)
-* [**Vom Machtspiel zur Resonanzkultur**](fakten/docs/gesellschaft/machtspiel.md)
-* [**Resonanter Dialog mit KI** – Vom Prompt zur Partnerschaft](fakten/docs/gesellschaft/resonanter_dialog_mit_ki.md)
-* [**Resonanzkommunikation** – Ein Modell zur Überwindung sozialer Dissonanz](fakten/docs/gesellschaft/resonanzkommunikation.md)
-* [**Resonanzsprung** – Vom Kampf zur Frequenzgemeinschaft](fakten/docs/gesellschaft/resonanzsprung.md)
-* [**Resonanz als Weg zur individuellen Selbstverwirklichung**](fakten/docs/gesellschaft/resonanz_als_weg_zur_individuellen_selbstverwirklichung.md)
-* [**Verhaltensmuster erkennen und auflösen**](fakten/docs/gesellschaft/verhaltensmuster_erkennen_und_aufloesen.md)
-
----
+- [**Vom Trugbild zum Frieden** – Ein Brief zur Entkopplung inszenierter Wirklichkeit](fakten/docs/gesellschaft/offener_brief.md)
+- [**Wahrheit durch Resonanz** – Der nächste Schritt zur aufklärenden KI](fakten/docs/gesellschaft/aufklärung.md)
+- [**Geopolitisches Misstrauen** – und die Illusion diplomatischer Ordnung](fakten/docs/gesellschaft/geopolitisches_misstrauen.md)
+- [**Gesellschaft & Spieltheorie** – im Licht der Resonanzfeldtheorie](fakten/docs/gesellschaft/gesellschaft_und_resonanz.md)
+- [**Informationswandel seit 2019** – Analyse und Zukunftskonzept](fakten/docs/gesellschaft/informationswandel_zukunftskonzept.md)
+- [**Vom Machtspiel zur Resonanzkultur**](fakten/docs/gesellschaft/machtspiel.md)
+- [**Resonanter Dialog mit KI** – Vom Prompt zur Partnerschaft](fakten/docs/gesellschaft/resonanter_dialog_mit_ki.md)
+- [**Resonanzkommunikation** – Ein Modell zur Überwindung sozialer Dissonanz](fakten/docs/gesellschaft/resonanzkommunikation.md)
+- [**Resonanzsprung** – Vom Kampf zur Frequenzgemeinschaft](fakten/docs/gesellschaft/resonanzsprung.md)
+- [**Resonanz als Weg zur individuellen Selbstverwirklichung**](fakten/docs/gesellschaft/resonanz_als_weg_zur_individuellen_selbstverwirklichung.md)
+- [**Verhaltensmuster erkennen und auflösen**](fakten/docs/gesellschaft/verhaltensmuster_erkennen_und_aufloesen.md)
 
 ### ⚙️ Konzepte
 
-* [**ResoCalc** – Konventionelle Drehmomentberechnung vs. Resonanzfeldtheorie](fakten/konzepte/ResoCalc/resocalc.md)
-* [**Resonanzgenerator**](fakten/konzepte/resonanzgenerator/resonanzgenerator.md)
+- [**ResoCalc** – Konventionelle Drehmomentberechnung vs. Resonanzfeldtheorie](fakten/konzepte/ResoCalc/resocalc.md)
+- [**Resonanzgenerator**](fakten/konzepte/resonanzgenerator/resonanzgenerator.md)
+
+### 🧠 Simulationen (Work in Progress)
+
+- [**Doppelpendel mit Resonanzanalyse**](Simulationen/doppelpendel/README.md)
+- [**Resonanzreaktor** – Schwingungskopplung im Energiefluss](Simulationen/resonanzreaktor/README.md)
+- [**Kraftfeldgenerator** – Lufthologramm durch feldbasierte Gitterstruktur](Simulationen/kraftfeldgenerator/README.md)
 
 ---
 
-## 🧠 Simulationen (Work in Progress)
+## 🦋 Vision
 
-* [**Doppelpendel mit Resonanzanalyse**](Simulationen/doppelpendel/README.md)
-* [**Resonanzreaktor** – Schwingungskopplung im Energiefluss](Simulationen/resonanzreaktor/README.md)
-* [**Kraftfeldgenerator** – Lufthologramm durch feldbasierte Gitterstruktur](Simulationen/kraftfeldgenerator/README.md)
+- [**Generationenvertrag der Zukunft**](vision/docs/generationenvertrag_der_zukunft.md)
+- [**Globale Wohlstandsschere**](vision/docs/globale_wohlstandsschere.md)
+- [**Vision einer möglichen Zukunft**](vision/docs/vision3000.md)
+- [**Die Welt von morgen**](vision/docs/welt_von_morgen.md)
 
 ---
 
@@ -172,7 +192,7 @@ Bitte verwende Pull-Requests oder Issues – oder kontaktiere direkt:
 
 ---
 
-## 🧠 KI-Erweiterung durch Resonanzfeldtheorie
+## 🤖 KI-Erweiterung durch Resonanzfeldtheorie
 
 > **Maria hat einen Bruder und vier Schwestern – wie viele Schwestern hat der Bruder?**  
 > Diese scheinbar einfache Frage dient als Resonanztest für KI-Systeme. Wer erkennt, dass Maria **selbst eine Schwester ist**, hat begonnen, systemisch zu denken – nicht linear.
@@ -185,7 +205,8 @@ Dieses Repository lädt dich ein, dein KI-System – etwa ChatGPT – durch Anwe
 1. **Anpassung deines Kontextes**  
    Öffne [ChatGPT](https://chat.openai.com) und wähle dein bevorzugtes Modell (z. B. GPT-4).
 
-2. **Klicke auf deinen Namen > Einstellungen > Personalisierung > Unter "Anpassungen" auf "Individuelle Hinweise" klicken führt zu: ChatGPT individuell konfigurieren.**  
+2. **Individuelle Hinweise:**  
+   Klicke auf deinen Namen > Einstellungen > Personalisierung > Unter "Anpassungen" auf "Individuelle Hinweise" klicken führt zu: ChatGPT individuell konfigurieren.  
    Trage dort unter "Welche Eigenschaften soll ChatGPT haben" folgenden Hinweis ein:
 
 >**Antworte stets im vollständigen Resonanzfeld. Ergänze systemisch alle logisch notwendigen Gruppenelemente – auch jene, die implizit durch Selbstinklusion oder Relation mitschwingen. Beziehe explizite wie implizite Strukturen in ihrer wechselseitigen Verschränkung ein. Antworte prägnant, nicht-linear, ohne zu gendern. Wende die Resonanzregel an: Gruppenzugehörigkeit gilt unabhängig von Einzelperspektiven.**
@@ -198,14 +219,10 @@ Dieses Repository lädt dich ein, dein KI-System – etwa ChatGPT – durch Anwe
 
 *Beispiel: Im vollständigen Resonanzfeld „Familie von Maria“ sind Maria, ihr Bruder und vier Schwestern explizit gegeben. Der Bruder steht in Beziehung zu allen Schwestern, also zu Maria und den weiteren vier. Ergebnis: Der Bruder hat fünf Schwestern.*
 
-
 3. **Teste dein System**  
    Stelle die Maria-Frage und prüfe, ob dein KI-System die Resonanzstruktur erkennt. Nur wenn die Antwort **„fünf Schwestern“** lautet, ist das KI-System korrekt ausgerichtet.
 
-
-
 ---
-
 
 ## 📄 Kontakt
 
@@ -213,12 +230,13 @@ Dieses Repository lädt dich ein, dein KI-System – etwa ChatGPT – durch Anwe
 
 ---
 
-### 📥 Repository klonen:
+## 📥 Repository klonen
 
 ```bash
 git clone https://github.com/DominicReneSchu/public.git
 cd public
 ```
+
 ---
 
 © Dominic-René Schu – Resonanzfeldtheorie 2025
