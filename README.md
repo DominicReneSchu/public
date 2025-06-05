@@ -11,8 +11,8 @@ Dieses Projekt vereint Mathematik, Physik, Technik, Philosophie und neue Denkans
 
 - [🎯 Elevator-Pitch](#elevator-pitch)
 - [📄 PDF-Zusammenfassung](#pdf-zusammenfassung)
-- [🧩 Einführung in die Theorie](#einführung-in-die-resonanzfeldtheorie)
 - [🔬 Zentrale Konstanten & Grundformel](#definition-𝓔-kopplungsoperator)
+- [🧩 Einführung in die Theorie](#einführung-in-die-resonanzfeldtheorie)
 - [📘 Inhalt & Dokumentation](#inhalt)
     - [📝 Dokumentation & Definition](#dokumentation-und-definition)
     - [📐 Mathematik / Physik](#mathematik--physik)
