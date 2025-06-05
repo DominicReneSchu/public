@@ -12,7 +12,7 @@ Dieses Projekt vereint Mathematik, Physik, Technik, Philosophie und neue Denkans
 - [🎯 Elevator-Pitch](#elevator-pitch)
 - [📄 PDF-Zusammenfassung](#pdf-zusammenfassung)
 - [🔬 Zentrale Konstanten & Grundformel](#zentrale-konstanten-&-grundformel)
-- [🧩 Einführung in die Theorie](#einführung-in-die-resonanzfeldtheorie)
+- [🧩 Einführung in die Theorie](#🧩-einführung-in-die-resonanzfeldtheorie)
 - [📘 Inhalt & Dokumentation](#inhalt)
     - [📝 Dokumentation & Definition](#dokumentation-und-definition)
     - [📐 Mathematik / Physik](#mathematik-/-physik)
