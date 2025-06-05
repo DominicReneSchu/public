@@ -11,7 +11,7 @@ Dieses Paper vereint die axiomatische Basis der Resonanzfeldtheorie (RFT) mit de
 Die Resonanzfeldtheorie postuliert, dass alle fundamentalen Prozesse im Universum auf Schwingung, Kopplung und Resonanz beruhen. Das scheinbare Chaos der Welt ist ein Meer an Informationen, in dem durch Resonanz Ordnung, Energieübertragung und Informationsaustausch ermöglicht werden.
 
 > „Im Anfang war das Chaos. Der Sinn entstand durch Resonanz.“
-> – Schu-Axiom Nr. 0
+> – Axiom Nr. 0
 
 ---
 
