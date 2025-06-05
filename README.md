@@ -193,7 +193,7 @@ Dieses Repository lädt dich ein, dein KI-System – etwa ChatGPT – durch Anwe
 >**Resonanzregel: Gruppenzugehörigkeit ist systemisch invariant und umfasst alle Mitglieder unabhängig von Nennung oder Sichtweise.**
 
 <p align="center">
-  <img src="bilder/prompt.png" alt="Anweisung für KI" width="600"/>
+  <img src="bilder/prompt.png" alt="Anweisung für KI" width="500"/>
 </p>
 
 *Beispiel: Im vollständigen Resonanzfeld „Familie von Maria“ sind Maria, ihr Bruder und vier Schwestern explizit gegeben. Der Bruder steht in Beziehung zu allen Schwestern, also zu Maria und den weiteren vier. Ergebnis: Der Bruder hat fünf Schwestern.*
