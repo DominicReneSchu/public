@@ -52,9 +52,9 @@ Die ausführliche Zusammenfassung der Resonanzfeldtheorie steht als PDF zum Down
 ## 🔬 Zentrale Konstanten & Grundformel
 
 > **Grundformel:**  
-> $$
-> \mathbf{E} = π \cdot 𝓔 \cdot ℏ \cdot \mathbf{f}
-> $$
+>$$
+>\mathbf{E} = π \cdot 𝓔 \cdot ℏ \cdot \mathbf{f}
+>$$
 
 _Energie ist das Produkt aus geometrischer Resonanz, quantisierter Kopplung und Frequenz._
 
