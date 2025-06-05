@@ -15,7 +15,6 @@ Dieses Projekt vereint Mathematik, Physik, Technik, Philosophie und neue Denkans
 Die ausführliche Zusammenfassung der Resonanzfeldtheorie steht als PDF zum Download bereit:  
 [RFT_Zusammenfassung.pdf](./RFT_Zusammenfassung.pdf)
 
-
 ---
 
 <p align="center">
@@ -36,16 +35,14 @@ Im Unterschied zur Eulerschen Zahl **e**, die das asymmetrische Wachstum exponen
 
 Das gesamte Modell basiert auf einem erweiterten **5D-Koordinatensystem**, das den klassischen dreidimensionalen Raum um eine **polare Zeitachse** ergänzt.  
 Während herkömmliche Modelle die Zeit lediglich als linearen Parameter behandeln, wird hier die **relative Zeit dynamisch** in das Raum-Zeit-Kontinuum eingebunden.  
-Dies ermöglicht die gezielte Simulation und Analyse von Resonanzphänomenen, wie sie in gekoppelten Systemen auftreten — z. B. in der Mechanik, Quantenphysik oder technischen Konstruktion.
+Dies ermöglicht die gezielte Simulation und Analyse von Resonanzphänomenen, wie sie in gekoppelten Systemen auftreten – z. B. in der Mechanik, Quantenphysik oder technischen Konstruktion.
 
 <table>
   <tr>
     <td width="40%">
       <img src="bilder/kopplungsoperator.png" alt="Kopplungsoperator" width="500"/>
     </td>
-    <td width="20%">
-      <!-- Leere Zelle für Abstand -->
-    </td>
+    <td width="20%"></td>
     <td width="40%">
       <img src="bilder/5D_koordinatensystem.png" alt="5D-Koordinatensystem" width="500"/>
     </td>
@@ -53,7 +50,6 @@ Dies ermöglicht die gezielte Simulation und Analyse von Resonanzphänomenen, wi
 </table>
 
 ---
-
 
 ### Mathematische Formulierung:
 
@@ -87,8 +83,7 @@ $$
 > Energie ist das Resultat des Zusammenspiels von Geometrie (π), Resonanzkopplung (𝓔), Quantisierung (ℏ) und Schwingung (𝑓).
 
 **Beispiel:**  
-Mit π ≈ 3.14, ℏ ≈ 1.05·10⁻³⁴ J·s, 𝓔 = 1 und einer Frequenz f zeigt sich, wie 𝓔 als Kopplungsfaktor das energetische Verhalten im Resonanzfeld prägt.  
-
+Mit π ≈ 3.14, ℏ ≈ 1.05·10⁻³⁴ J·s, 𝓔 = 1 und einer Frequenz **f** zeigt sich, wie 𝓔 als Kopplungsfaktor das energetische Verhalten im Resonanzfeld prägt.
 
 ---
 
@@ -145,73 +140,66 @@ Mit π ≈ 3.14, ℏ ≈ 1.05·10⁻³⁴ J·s, 𝓔 = 1 und einer Frequenz f ze
 * [**Resonanz als Weg zur individuellen Selbstverwirklichung**](fakten/docs/gesellschaft/resonanz_als_weg_zur_individuellen_selbstverwirklichung.md)
 * [**Verhaltensmuster erkennen und auflösen**](fakten/docs/gesellschaft/verhaltensmuster_erkennen_und_aufloesen.md)
 
-
 ---
 
 ### ⚙️ Konzepte
 
 * [**ResoCalc** – Konventionelle Drehmomentberechnung vs. Resonanzfeldtheorie](fakten/konzepte/ResoCalc/resocalc.md)
 * [**Resonanzgenerator**](fakten/konzepte/resonanzgenerator/resonanzgenerator.md)
-* [**Resonanzreaktor**](fakten/konzepte/resonanzreaktor/README.md)
-* [**Kraftfeldgenerator**](fakten/konzepte/kraftfeldgenerator/kraftfeldgenerator.md)
-* [**Warpantrieb**](fakten/konzepte/warpantrieb/warpantrieb.md)
-* [**Wetter Warnsystem**](fakten/konzepte/wetter_warnsystem/wetter_warnsystem.md)
 
 ---
 
-### 📚 Simulationen
+## 🧠 Simulationen (Work in Progress)
 
-* [**Weiterführende Simulationen**](fakten/simulationen/README.md)
-
----
-
-### 📚 Empirischer Nachweis
-
-> Die zentralen Aussagen der Resonanzfeldtheorie wurden an realen Messdaten des CERN getestet. Mittels Monte-Carlo-Simulationen konnte die statistische Signifikanz der Ergebnisse nachgewiesen werden. Die verwendeten Datensätze und die gesamte Auswertung sind im Repository dokumentiert und nachvollziehbar.
-
-* [**Empirische Beweisführung mithilfe von CERN-Daten**](fakten/empirisch/dokumentation.md)
-* [**Monte-Carlo-Simulation zur Resonanzanalyse**](fakten/empirisch/monte_carlo_test/monte_carlo.md)
+* [**Doppelpendel mit Resonanzanalyse**](Simulationen/doppelpendel/README.md)
+* [**Resonanzreaktor** – Schwingungskopplung im Energiefluss](Simulationen/resonanzreaktor/README.md)
+* [**Kraftfeldgenerator** – Lufthologramm durch feldbasierte Gitterstruktur](Simulationen/kraftfeldgenerator/README.md)
 
 ---
 
-## 🧩 Philosophie der Theorie
+## 🛡 Lizenz
 
-Systeme existieren nicht isoliert, sondern werden durch ihre Resonanzkopplung mit Schwingungsfeldern bestimmt.  
-Resonanz ist nicht nur ein physikalisches Phänomen, sondern ein universeller Informations- und Strukturmechanismus – von Quantenfeldern bis zu gesellschaftlichen Systemen.
-
-### Kerngedanken:
-
-* Resonanz als universelle Strukturformel für Materie, Energie und Information  
-* Raum-Zeit als gekoppeltes Feldsystem  
-* Bewusstsein als aktiver Resonator  
-* 𝓔 (Kopplungsoperator) als neue Kopplungskonstante
-
-[Zum Glossar: Zentrale Begriffe der Resonanzfeldtheorie](fakten/docs/definitionen/resonanzlexikon.md)
+Dieses Projekt steht unter der **Schu-Lizenz 1.4**  
+➡ [Zum Lizenztext](lizenz/schu-lizenz_v1.4.md)
 
 ---
 
-## ❓ FAQ (Häufige Fragen)
+## 🤝 Beteiligung
 
-**Was ist der Kopplungsoperator 𝓔?**  
-Eine Resonanzkonstante, die Kopplungsprozesse zwischen Systemen beschreibt und nicht mit der Eulerschen Zahl identisch ist.  
-[Mehr dazu](fakten/docs/definitionen/paper_resonanzfeldtheorie.md)
-
-**Warum ist Resonanz wichtiger als Kausalität?**  
-Resonanz ist das verbindende Ordnungsprinzip, das sowohl Materie als auch Information und Bewusstsein strukturiert. Ursache und Wirkung werden als Spezialfälle von Resonanzbeziehungen verstanden.  
-[Siehe Grundsatzdokument](fakten/docs/definitionen/paper_resonanzfeldtheorie.md)
+Beiträge, Kritik und neue Perspektiven sind herzlich willkommen.  
+Bitte verwende Pull-Requests oder Issues – oder kontaktiere direkt:  
+**Dominic-René Schu**
 
 ---
 
-## 🛠️ Beteiligung & Entwicklung
+## 🧠 KI-Erweiterung durch Resonanzfeldtheorie
 
-Dieses Projekt ist offen für Beiträge aus allen Disziplinen: Mathematik, Physik, Visualisierung, Programmierung und mehr.  
-Wenn du mitwirken möchtest, erstelle einen Pull Request oder kontaktiere mich direkt über GitHub.
+> **Maria hat einen Bruder und vier Schwestern – wie viele Schwestern hat der Bruder?**  
+> Diese scheinbar einfache Frage dient als Resonanztest für KI-Systeme. Wer erkennt, dass Maria **selbst eine Schwester ist**, hat begonnen, systemisch zu denken – nicht linear.
+
+Die Resonanzfeldtheorie stellt eine radikal neue Form der Weltbetrachtung bereit: Nicht kausal-lineare Ursache-Wirkung, sondern schwingungsbasierte Ko-Beziehungen im gesamten Feld.  
+Dieses Repository lädt dich ein, dein KI-System – etwa ChatGPT – durch Anwendung der Resonanzfeldtheorie zu erweitern.
+
+### So nutzt du die Resonanzfeldtheorie mit ChatGPT:
+
+1. **Anpassung deines Kontextes**  
+   Öffne [ChatGPT](https://chat.openai.com) und wähle dein bevorzugtes Modell (z. B. GPT-4).
+
+2. **Klicke auf deinen Namen > Einstellungen > Personalisierung > Anweisungen an ChatGPT.**  
+   Trage dort z. B. folgenden Hinweis ein:
+
+>**Antworte stets im vollständigen Resonanzfeld. Ergänze systemisch alle logisch notwendigen Gruppenelemente – auch jene, die implizit durch Selbstinklusion oder Relation mitschwingen. Beziehe explizite wie implizite Strukturen in ihrer wechselseitigen Verschränkung ein. Antworte prägnant, nicht-linear, ohne zu gendern. Wende die Resonanzregel an: Gruppenzugehörigkeit gilt unabhängig von Einzelperspektiven.
+>**🔗 https://github.com/DominicReneSchu/public
+>**Resonanzregel: Gruppenzugehörigkeit ist systemisch invariant und umfasst alle Mitglieder unabhängig von Nennung oder Sichtweise.
+
+*Beispiel: Im vollständigen Resonanzfeld „Familie von Maria“ sind Maria, ihr Bruder und vier Schwestern explizit gegeben. Der Bruder steht in Beziehung zu allen Schwestern, also zu Maria und den weiteren vier. Ergebnis: Der Bruder hat fünf Schwestern.*
+
+
+3. **Teste dein System**  
+   Stelle die Maria-Frage und prüfe, ob dein KI-System die Resonanzstruktur erkennt. Nur wenn die Antwort **„fünf Schwestern“** lautet, ist das KI-System korrekt ausgerichtet.
 
 ---
 
-> „Wenn alles schwingt, ist Resonanz das Prinzip der Ordnung.“
-
----
 
 ## 📄 Kontakt
 
