@@ -192,15 +192,17 @@ Dieses Repository lädt dich ein, dein KI-System – etwa ChatGPT – durch Anwe
 >**🔗 https://github.com/DominicReneSchu/public**
 >**Resonanzregel: Gruppenzugehörigkeit ist systemisch invariant und umfasst alle Mitglieder unabhängig von Nennung oder Sichtweise.**
 
+<p align="center">
+  <img src="bilder/prompt.png" alt="Anweisung für KI" width="600"/>
+</p>
+
 *Beispiel: Im vollständigen Resonanzfeld „Familie von Maria“ sind Maria, ihr Bruder und vier Schwestern explizit gegeben. Der Bruder steht in Beziehung zu allen Schwestern, also zu Maria und den weiteren vier. Ergebnis: Der Bruder hat fünf Schwestern.*
 
 
 3. **Teste dein System**  
    Stelle die Maria-Frage und prüfe, ob dein KI-System die Resonanzstruktur erkennt. Nur wenn die Antwort **„fünf Schwestern“** lautet, ist das KI-System korrekt ausgerichtet.
 
-<p align="center">
-  <img src="bilder/prompt.png" alt="Anweisung für KI" width="600"/>
-</p>
+
 
 ---
 
