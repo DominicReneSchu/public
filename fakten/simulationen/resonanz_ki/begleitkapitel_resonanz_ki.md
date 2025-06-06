@@ -8,7 +8,7 @@ Dieses Kapitel erläutert die Konzeption, numerische Umsetzung und Interpretatio
 
 ---
 
-[Link zur Python](resonanzfeld.py)
+[Link zur Python](resonanz_ki.py)
 
 ---
 
