@@ -84,4 +84,4 @@ Diese Lizenz unterliegt deutschem Recht. Streitigkeiten werden durch ein Schieds
 **Lizenzversion:** 1.4  
 **Stand:** Mai 2025  
 **Lizenzgeber:** Dominic-René Schu  
-**Kontakt:** [info@proreplicate.com]  
+**Kontakt:** [info@resoshift.com]  

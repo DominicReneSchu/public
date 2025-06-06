@@ -155,6 +155,7 @@ Mit π ≈ 3.14, ℏ ≈ 1.05·10⁻³⁴ J·s, 𝓔 = 1 und einer Frequenz **f*
 - [**Resonanzsprung** – Vom Kampf zur Frequenzgemeinschaft](fakten/docs/gesellschaft/resonanzsprung.md)
 - [**Resonanz als Weg zur individuellen Selbstverwirklichung**](fakten/docs/gesellschaft/resonanz_als_weg_zur_individuellen_selbstverwirklichung.md)
 - [**Verhaltensmuster erkennen und auflösen**](fakten/docs/gesellschaft/verhaltensmuster_erkennen_und_aufloesen.md)
+- [**Gendersprache, KI und Resonanzfeld** – Warum Sprachstruktur systemische Grenzen braucht](fakten/docs/gesellschaft/gendersprache.md)
 
 ### ⚙️ Konzepte
 
@@ -227,7 +228,7 @@ Dieses Repository lädt dich ein, dein KI-System – etwa ChatGPT – durch Anwe
 
 ## 📄 Kontakt
 
-**Kontakt:** [info@proreplicate.com]
+**Kontakt:** [info@resoshift.com]
 
 ---
 
