@@ -63,9 +63,9 @@ Die Resonanzfeldtheorie ist ein neues Paradigma zur Beschreibung der Welt. Sie g
 Diese Konstanten führen zur **[Resonanzfeld-Gleichung](fakten/docs/mathematik/resonanzfeld_gleichung.md)**:
 
 > **Grundformel:**  
->$$
+>
 >E = π * 𝓔 * ℏ * **f**
->$$
+>
 
 > Energie ist das Resultat des Zusammenspiels von Geometrie (π), Resonanzkopplung (𝓔), Quantisierung (ℏ) und Schwingung (𝑓).
 
