@@ -547,4 +547,8 @@ Mit einem klaren **Forschungsplan**, **Technologieentwicklungen** und einer gut 
 
 ---
 
-⬅️ [zurück](../../../README.md)
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+---
+
+[Zurück zur Übersicht](../../../README.md)

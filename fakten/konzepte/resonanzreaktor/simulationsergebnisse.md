@@ -169,4 +169,8 @@ Die Simulation bietet eine flexible Möglichkeit, den Zerfall und die Transmutat
 
 ---
 
-⬅️ [zurück](README.md)
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+---
+
+[Zurück zur Übersicht](README.md)

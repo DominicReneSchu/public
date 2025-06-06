@@ -61,4 +61,8 @@ Das Überschreiten eines kritischen Schwellwerts der Amplitudensteigerung signal
 
 ---
 
-⬅️ [zurück](../../../README.md)
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+---
+
+[Zurück zur Übersicht](../../../README.md)

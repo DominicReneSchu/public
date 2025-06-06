@@ -73,4 +73,8 @@ Die Simulation visualisiert den Energiegewinn bei Variation von Frequenz und Tem
 
 ---
 
-⬅️ [zurück](README.md)
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+---
+
+[Zurück zur Übersicht](README.md)

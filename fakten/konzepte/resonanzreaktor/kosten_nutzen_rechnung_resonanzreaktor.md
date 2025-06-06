@@ -90,4 +90,8 @@ Die **Investition in den Resonanzreaktor** ist wirtschaftlich, ökologisch und g
 
 ---
 
-⬅️ [zurück](README.md)
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+---
+
+[Zurück zur Übersicht](README.md)

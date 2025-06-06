@@ -90,4 +90,8 @@ Passen Sie die Parameter oder das User Interface nach Bedarf an.
 
 ---
 
-⬅️ [zurück](../../../README.md)
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+---
+
+[Zurück zur Übersicht](../../../README.md)
