@@ -83,5 +83,8 @@ Grenzwerte bleiben realistisch, das Ergebnis ist reproduzierbar – und für Ing
 
 ---
 
+© Dominic-René Schu – Resonanzfeldtheorie 2025
 
-⬅️ [zurück](../../../README.md)
+---
+
+[Zurück zur Übersicht](../../../README.md)

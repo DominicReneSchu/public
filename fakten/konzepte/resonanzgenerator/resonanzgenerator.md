@@ -46,4 +46,8 @@ Weitere Tiefe und Visualisierung bietet die [Nichtlineare Resonanzanalyse](nicht
 
 ---
 
-⬅️ [zurück](../../../README.md)  
+© Dominic-René Schu – Resonanzfeldtheorie 2025
+
+---
+
+[Zurück zur Übersicht](../../../README.md)
