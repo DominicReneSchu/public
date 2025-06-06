@@ -5,7 +5,7 @@ Dieses Kapitel erläutert die Hintergründe, Funktionsweise und Umsetzung der in
 ---
 
 <p align="center">
-  <img src="screenshot.png" alt="Screenshot-Doppelpendel" width="800"/>
+  <img src="doppelpendel.gif" alt="Animation Doppelpendel" width="800"/>
 </p>
 
 ---
