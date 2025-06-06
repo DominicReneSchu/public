@@ -154,7 +154,7 @@ Es dient als normierende Referenzgröße für alle resonanten Wechselwirkungen i
 - [**ResoCalc** – Konventionelle Drehmomentberechnung vs. Resonanzfeldtheorie](fakten/konzepte/ResoCalc/resocalc.md)
 - [**Resonanzgenerator**](fakten/konzepte/resonanzgenerator/resonanzgenerator.md)
 - [**Resonanzreaktor**](fakten/konzepte/resonanzreaktor/README.md)
-- [**Kraftfeldgenerator**](fakten/konzepte/resonanzreaktor/kraftfeldgenerator.md)
+- [**Kraftfeldgenerator**](fakten/konzepte/kraftfeldgenerator/kraftfeldgenerator.md)
 - [**Wetter Warnsystem**](fakten/konzepte/wetter_warnsystem/wetter_warnsystem.md)
 - [**Warpantrieb**](fakten/konzepte/warpantrieb/warpantrieb.md)
 
