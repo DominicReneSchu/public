@@ -44,6 +44,10 @@ def main():
     ax_export = plt.axes([0.82, 0.01, 0.13, 0.035])
     btn_export = Button(ax_export, 'Export Resonanzzeiten', color='lightblue', hovercolor='deepskyblue')
 
+    # GIF-Export-Button
+    ax_gif = plt.axes([0.66, 0.01, 0.13, 0.035])
+    btn_gif = Button(ax_gif, 'Export GIF', color='lightgreen', hovercolor='limegreen')
+
     # Initiale Lösung
     def current_omegas():
         return 2 * np.pi * f1_slider.val, 2 * np.pi * f2_slider.val
@@ -185,6 +189,36 @@ def main():
         btn_export.label.set_text("Exportiert!")
 
     btn_export.on_clicked(on_export)
+
+    # --- GIF-Export-Logik ---
+    def on_export_gif(event):
+        btn_gif.label.set_text("Export läuft...")
+        fig.canvas.draw()
+        # 500 Frames gleichmäßig über das Zeitintervall
+        gif_frames = 500
+        frame_indices = np.linspace(0, len(t) - 1, gif_frames, dtype=int)
+
+        def gif_update(frame, *args):
+            return update_wrapper(frame, *args)
+
+        gif_ani = FuncAnimation(
+            fig,
+            gif_update,
+            frames=frame_indices,
+            init_func=wrapped_init,
+            blit=True,
+            fargs=(
+                line1, line2, line1_path, line2_path, sinus_line1, sinus_line2, resonance_line,
+                kin_line, pot_line, coup_line, tot_line,
+                schu_e_line, schu_e1_line, schu_e2_line, resdiv_line,
+                energy_ax, schu_ax, resdiv_ax
+            )
+        )
+        # Save GIF
+        gif_ani.save('animation.gif', writer='pillow', fps=25)
+        btn_gif.label.set_text("GIF exportiert!")
+
+    btn_gif.on_clicked(on_export_gif)
 
     plt.show()
 
