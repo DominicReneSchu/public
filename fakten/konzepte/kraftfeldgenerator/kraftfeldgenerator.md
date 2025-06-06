@@ -74,15 +74,6 @@ brew install ffmpeg
 
 ---
 
-## Beispiel (Screenshot)
-
-<p align="center">
-  <img src="bilder/wand_animation_example.png" alt="Simulation einer Kraftfeldwand" width="600"/>
-</p>
-
-
----
-
 ## Quellcode
 
 Füge den vollständigen Python-Code aus `wand_animation_ultimate.py` in eine Notebook-Zelle ein.  
