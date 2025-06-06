@@ -58,7 +58,7 @@ Die Resonanzfeldtheorie ist ein neues Paradigma zur Beschreibung der Welt. Sie g
 
 - **π (Kreiszahl):** Maß für zyklische Symmetrie und Kreisresonanzen  
 - **ℏ (Planck-Konstante):** Maß für Quantisierung und Energiepaketierung  
-- **𝓔 (Kopplungsoperator):** Resonanzkopplungs-Konstante (siehe oben)
+- **𝓔 (Kopplungsoperator):** Resonanzkopplungs-Konstante
 
 Diese Konstanten führen zur **[Resonanzfeld-Gleichung](fakten/docs/mathematik/resonanzfeld_gleichung.md)**:
 
@@ -66,7 +66,7 @@ Diese Konstanten führen zur **[Resonanzfeld-Gleichung](fakten/docs/mathematik/r
 >
 >E = π * 𝓔 * ℏ * **f**
 >
-
+>
 > Energie ist das Resultat des Zusammenspiels von Geometrie (π), Resonanzkopplung (𝓔), Quantisierung (ℏ) und Schwingung (𝑓).
 
 **Beispiel:**  
