@@ -99,7 +99,7 @@ Es dient als normierende Referenzgröße für alle resonanten Wechselwirkungen i
 
 ---
 
-## Einführung in die Resonanzfeldtheorie
+## Einführung in die Resonanzfeldtheorie 🧩
 
 Die Resonanzfeldtheorie ist ein neues Paradigma zur Beschreibung der Welt. Sie geht davon aus, dass alle Phänomene – von Teilchen über Kräfte bis zum Bewusstsein – aus Schwingungsbeziehungen in einem universellen Resonanzfeld hervorgehen.
 
