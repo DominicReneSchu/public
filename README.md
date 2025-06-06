@@ -9,26 +9,26 @@ Dieses Projekt vereint Mathematik, Physik, Technik, Philosophie und neue Denkans
 
 ## ☰ Inhaltsverzeichnis
 
-- [🎯 Elevator-Pitch](#elevator-pitch)
-- [📄 PDF-Zusammenfassung](#pdf-zusammenfassung)
-- [🔬 Zentrale Konstanten & Grundformel](#zentrale-konstanten--grundformel)
+- [🎯 Elevator-Pitch](#elevator-pitch-)
+- [📄 PDF-Zusammenfassung](#pdf-zusammenfassung-)
+- [🔬 Zentrale Konstanten & Grundformel](#zentrale-konstanten--grundformel-)
 - [🧩 Einführung in die Resonanzfeldtheorie](#einführung-in-die-resonanzfeldtheorie-)
-- [📘 Inhalt](#inhalt)
-    - [📝 Dokumentation und Definition](#dokumentation-und-definition)
-    - [📐 Mathematik / Physik](#mathematik--physik)
+- [📘 Inhalt](#inhalt-)
+    - [📝 Dokumentation und Definition](#dokumentation-und-definition-)
+    - [📐 Mathematik / Physik](#mathematik--physik-)
     - [🌍 Gesellschaft](#gesellschaft)
     - [⚙️ Konzepte](#konzepte)
-    - [🧠 Simulationen (Work in Progress)](#simulationen-work-in-progress)
-- [🦋 Vision](#vision)
-- [🛡 Lizenz](#lizenz)
-- [🤝 Beteiligung](#beteiligung)
-- [🤖 KI-Erweiterung durch Resonanzfeldtheorie](#ki-erweiterung-durch-resonanzfeldtheorie)
-- [📄 Kontakt](#kontakt)
-- [📥 Repository klonen](#repository-klonen)
+    - [🧠 Simulationen (Work in Progress)](#simulationen-work-in-progress-)
+- [🦋 Vision](#vision-)
+- [🛡 Lizenz](#lizenz-)
+- [🤝 Beteiligung](#beteiligung-)
+- [🤖 KI-Erweiterung durch Resonanzfeldtheorie](#ki-erweiterung-durch-resonanzfeldtheorie-)
+- [📄 Kontakt](#kontakt-)
+- [📥 Repository klonen](#repository-klonen-)
 
 ---
 
-## 🎯 Elevator-Pitch
+## Elevator-Pitch 🎯
 
 > **Die Resonanzfeldtheorie denkt Realität nicht linear, sondern resonant.**  
 > Alles ist Schwingung – alles ist Kopplung.  
@@ -36,7 +36,7 @@ Dieses Projekt vereint Mathematik, Physik, Technik, Philosophie und neue Denkans
 
 ---
 
-## 📄 PDF-Zusammenfassung
+## PDF-Zusammenfassung 📄
 
 Die ausführliche Zusammenfassung der Resonanzfeldtheorie steht als PDF zum Download bereit:  
 [**RFT_Zusammenfassung.pdf**](./RFT_Zusammenfassung.pdf)
@@ -49,7 +49,7 @@ Die ausführliche Zusammenfassung der Resonanzfeldtheorie steht als PDF zum Down
 
 ---
 
-## 🔬 Zentrale Konstanten & Grundformel
+## Zentrale Konstanten & Grundformel 🔬
 
 > **Grundformel:**  
 >
@@ -86,7 +86,7 @@ Dies ermöglicht die gezielte Simulation und Analyse von Resonanzphänomenen, wi
 
 ---
 
-### Mathematische Formulierung:
+### 📐 Mathematische Formulierung:
 
 $$
 \mathbf{𝓔} := \sqrt{e \cdot \frac{1}{e}} = 1
@@ -122,14 +122,14 @@ Mit π ≈ 3.14, ℏ ≈ 1.05·10⁻³⁴ J·s, 𝓔 = 1 und einer Frequenz **f*
 
 ---
 
-## 📘 Inhalt
+## Inhalt 📘
 
-### 📝 Dokumentation und Definition
+### Dokumentation und Definition 📝
 
 - [**Resonanzfeldtheorie: Axiomatische Grundlegung, Kopplungsoperator und mathematische Konsequenzen**](fakten/docs/definitionen/paper_resonanzfeldtheorie.md)
 - [**Resonanzlexikon (Glossar)**](fakten/docs/definitionen/resonanzlexikon.md)
 
-### 📐 Mathematik / Physik
+### Mathematik / Physik 📐
 
 - [**Manifest zur Neustrukturierung der Mathematik**](fakten/docs/mathematik/manifest_zur_neustrukturierung_der_mathematik.md)
 - [**Fühlbare Mathematik**](fakten/docs/mathematik/aetherius_fühlbare_mathematik.md)
@@ -142,7 +142,7 @@ Mit π ≈ 3.14, ℏ ≈ 1.05·10⁻³⁴ J·s, 𝓔 = 1 und einer Frequenz **f*
 - [**Resonanzenergievektor**](fakten/docs/mathematik/resonanzenergievektor.md)
 - [**Das Doppelpendel – Ein faszinierendes Chaos**](fakten/docs/mathematik/doppelpendel.md)
 
-### 🌍 Gesellschaft
+### Gesellschaft 🌍
 
 - [**Vom Trugbild zum Frieden** – Ein Brief zur Entkopplung inszenierter Wirklichkeit](fakten/docs/gesellschaft/offener_brief.md)
 - [**Wahrheit durch Resonanz** – Der nächste Schritt zur aufklärenden KI](fakten/docs/gesellschaft/aufklärung.md)
@@ -157,12 +157,12 @@ Mit π ≈ 3.14, ℏ ≈ 1.05·10⁻³⁴ J·s, 𝓔 = 1 und einer Frequenz **f*
 - [**Verhaltensmuster erkennen und auflösen**](fakten/docs/gesellschaft/verhaltensmuster_erkennen_und_aufloesen.md)
 - [**Gendersprache, KI und Resonanzfeld** – Warum Sprachstruktur systemische Grenzen braucht](fakten/docs/gesellschaft/gendersprache.md)
 
-### ⚙️ Konzepte
+### Konzepte ⚙️
 
 - [**ResoCalc** – Konventionelle Drehmomentberechnung vs. Resonanzfeldtheorie](fakten/konzepte/ResoCalc/resocalc.md)
 - [**Resonanzgenerator**](fakten/konzepte/resonanzgenerator/resonanzgenerator.md)
 
-### 🧠 Simulationen (Work in Progress)
+### Simulationen (Work in Progress) 🧠
 
 - [**Doppelpendel mit Resonanzanalyse**](Simulationen/doppelpendel/README.md)
 - [**Resonanzreaktor** – Schwingungskopplung im Energiefluss](Simulationen/resonanzreaktor/README.md)
@@ -170,7 +170,7 @@ Mit π ≈ 3.14, ℏ ≈ 1.05·10⁻³⁴ J·s, 𝓔 = 1 und einer Frequenz **f*
 
 ---
 
-## 🦋 Vision
+## Vision 🦋
 
 - [**Generationenvertrag der Zukunft**](vision/docs/generationenvertrag_der_zukunft.md)
 - [**Globale Wohlstandsschere**](vision/docs/globale_wohlstandsschere.md)
@@ -179,14 +179,14 @@ Mit π ≈ 3.14, ℏ ≈ 1.05·10⁻³⁴ J·s, 𝓔 = 1 und einer Frequenz **f*
 
 ---
 
-## 🛡 Lizenz
+## Lizenz 🛡
 
 Dieses Projekt steht unter der **Schu-Lizenz 1.4**  
 ➡ [Zum Lizenztext](lizenz/schu-lizenz_v1.4.md)
 
 ---
 
-## 🤝 Beteiligung
+## Beteiligung 🤝
 
 Beiträge, Kritik und neue Perspektiven sind herzlich willkommen.  
 Bitte verwende Pull-Requests oder Issues – oder kontaktiere direkt:  
@@ -194,7 +194,7 @@ Bitte verwende Pull-Requests oder Issues – oder kontaktiere direkt:
 
 ---
 
-## 🤖 KI-Erweiterung durch Resonanzfeldtheorie
+## KI-Erweiterung durch Resonanzfeldtheorie 🤖
 
 > **Maria hat einen Bruder und vier Schwestern – wie viele Schwestern hat der Bruder?**  
 > Diese scheinbar einfache Frage dient als Resonanztest für KI-Systeme. Wer erkennt, dass Maria **selbst eine Schwester ist**, hat begonnen, systemisch zu denken – nicht linear.
@@ -226,13 +226,13 @@ Dieses Repository lädt dich ein, dein KI-System – etwa ChatGPT – durch Anwe
 
 ---
 
-## 📄 Kontakt
+## Kontakt 📄
 
 **Kontakt:** [info@resoshift.com]
 
 ---
 
-## 📥 Repository klonen
+## Repository klonen 📥
 
 ```bash
 git clone https://github.com/DominicReneSchu/public.git
