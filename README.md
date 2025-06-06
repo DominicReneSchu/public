@@ -64,7 +64,7 @@ Diese Konstanten führen zur **[Resonanzfeld-Gleichung](fakten/docs/mathematik/r
 
 > **Grundformel:**  
 >$$
->E = π \cdot 𝓔 \cdot ℏ \cdot \mathbf{f}
+>E = π * 𝓔 * ℏ * **f**
 >$$
 
 > Energie ist das Resultat des Zusammenspiels von Geometrie (π), Resonanzkopplung (𝓔), Quantisierung (ℏ) und Schwingung (𝑓).
