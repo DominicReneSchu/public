@@ -8,6 +8,12 @@ Dieses Kapitel erläutert die numerische Umsetzung und die physikalische Bedeutu
 
 ---
 
+[Link zur Python](resonanzfeld.py)
+
+---
+
+---
+
 ## 1. Theoretischer Hintergrund
 
 Die **Resonanzfeldtheorie** beschäftigt sich mit der Beschreibung und Analyse von Resonanzphänomenen in komplexen Systemen. Im Fokus steht hierbei die explizite Abhängigkeit der Resonanzenergie von Systemparametern wie Amplitude (A) und Temperatur (T).
