@@ -43,7 +43,7 @@ $$
 - **A** = Feldamplitude
 - **𝒇₍warp₎(x, t)** = positionale Warp-Frequenz
 - **σ** = Dämpfungskoeffizient
-- **ε** = Resonanzkopplungskonstante (vgl. Schu, 2022)
+- **ε** = Resonanzkopplungskonstante
 
 ---
 
