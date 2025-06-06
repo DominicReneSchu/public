@@ -19,6 +19,7 @@ Dieses Projekt vereint Mathematik, Physik, Technik, Philosophie und neue Denkans
     - [🌍 Gesellschaft](#gesellschaft-)
     - [📐 Konzepte](#konzepte-)
     - [🧠 Simulationen](#simulationen-)
+	- [🔬 Empirische Beweisführung](#empirische-beweisführung-)
 - [🦋 Vision](#vision-)
 - [🛡 Lizenz](#lizenz-)
 - [🤝 Beteiligung](#beteiligung-)
@@ -169,6 +170,13 @@ Mit π ≈ 3.14, ℏ ≈ 1.05·10⁻³⁴ J·s, 𝓔 = 1 und einer Frequenz **f*
 ### Simulationen 🧠
 
 - [**Weiterführende Simulationen**](fakten/simulationen/README.md)
+
+---
+
+### Empirische Beweisführung 🔬
+
+- [**Resonanzanalyse in Massendaten**](fakten/empirisch/dokumentation.md)
+- [**Monte-Carlo-Simulation zur Resonanzanalyse**](fakten/empirisch/monte_carlo/monte_carlo.md)
 
 ---
 
