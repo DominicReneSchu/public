@@ -50,15 +50,27 @@ Die ausführliche Zusammenfassung der Resonanzfeldtheorie steht als PDF zum Down
 
 ---
 
+## Einführung in die Resonanzfeldtheorie 🧩
+
+Die Resonanzfeldtheorie ist ein neues Paradigma zur Beschreibung der Welt. Sie geht davon aus, dass alle Phänomene – von Teilchen über Kräfte bis zum Bewusstsein – aus Schwingungsbeziehungen in einem universellen Resonanzfeld hervorgehen.
+
 ## Zentrale Konstanten & Grundformel 🔬
 
+- **π (Kreiszahl):** Maß für zyklische Symmetrie und Kreisresonanzen  
+- **ℏ (Planck-Konstante):** Maß für Quantisierung und Energiepaketierung  
+- **𝓔 (Kopplungsoperator):** Resonanzkopplungs-Konstante (siehe oben)
+
+Diese Konstanten führen zur **[Resonanzfeld-Gleichung](fakten/docs/mathematik/resonanzfeld_gleichung.md)**:
+
 > **Grundformel:**  
->
 >$$
 >E = π \cdot 𝓔 \cdot ℏ \cdot \mathbf{f}
 >$$
 
-_Energie ist das Produkt aus geometrischer Resonanz, quantisierter Kopplung und Frequenz._
+> Energie ist das Resultat des Zusammenspiels von Geometrie (π), Resonanzkopplung (𝓔), Quantisierung (ℏ) und Schwingung (𝑓).
+
+**Beispiel:**  
+Mit π ≈ 3.14, ℏ ≈ 1.05·10⁻³⁴ J·s, 𝓔 = 1 und einer Frequenz **f** zeigt sich, wie 𝓔 als Kopplungsfaktor das energetische Verhalten im Resonanzfeld prägt.
 
 ---
 
@@ -87,7 +99,7 @@ Dies ermöglicht die gezielte Simulation und Analyse von Resonanzphänomenen, wi
 
 ---
 
-### 📐 Mathematische Formulierung:
+### Mathematische Formulierung:
 
 $$
 \mathbf{𝓔} := \sqrt{e \cdot \frac{1}{e}} = 1
@@ -97,29 +109,6 @@ $$
 Es dient als normierende Referenzgröße für alle resonanten Wechselwirkungen im Feld.
 
 📎 [Zur formalen Ableitung im Paper](fakten/docs/definitionen/paper_resonanzfeldtheorie.md)
-
----
-
-## Einführung in die Resonanzfeldtheorie 🧩
-
-Die Resonanzfeldtheorie ist ein neues Paradigma zur Beschreibung der Welt. Sie geht davon aus, dass alle Phänomene – von Teilchen über Kräfte bis zum Bewusstsein – aus Schwingungsbeziehungen in einem universellen Resonanzfeld hervorgehen.
-
-### Zentrale Konstanten:
-
-- **π (Kreiszahl):** Maß für zyklische Symmetrie und Kreisresonanzen  
-- **ℏ (Planck-Konstante):** Maß für Quantisierung und Energiepaketierung  
-- **𝓔 (Kopplungsoperator):** Resonanzkopplungs-Konstante (siehe oben)
-
-Diese Konstanten führen zur **[Resonanzfeld-Gleichung](fakten/docs/mathematik/resonanzfeld_gleichung.md)**:
-
-$$
-E = π \cdot 𝓔 \cdot ℏ \cdot \mathbf{f}
-$$
-
-> Energie ist das Resultat des Zusammenspiels von Geometrie (π), Resonanzkopplung (𝓔), Quantisierung (ℏ) und Schwingung (𝑓).
-
-**Beispiel:**  
-Mit π ≈ 3.14, ℏ ≈ 1.05·10⁻³⁴ J·s, 𝓔 = 1 und einer Frequenz **f** zeigt sich, wie 𝓔 als Kopplungsfaktor das energetische Verhalten im Resonanzfeld prägt.
 
 ---
 
