@@ -17,7 +17,7 @@ Dieses Projekt vereint Mathematik, Physik, Technik, Philosophie und neue Denkans
     - [📝 Dokumentation und Definition](#dokumentation-und-definition-)
     - [📐 Mathematik / Physik](#mathematik--physik-)
     - [🌍 Gesellschaft](#gesellschaft-)
-    - [⚙️ Konzepte](#konzepte-)
+    - [⚙️ Konzepte](#konzepte--)
     - [🧠 Simulationen (Work in Progress)](#simulationen-work-in-progress-)
 - [🦋 Vision](#vision-)
 - [🛡 Lizenz](#lizenz-)
