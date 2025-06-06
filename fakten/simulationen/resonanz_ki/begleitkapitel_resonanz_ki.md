@@ -8,6 +8,10 @@ Dieses Kapitel erläutert die Konzeption, numerische Umsetzung und Interpretatio
 
 ---
 
+[Link zur Python](resonanzfeld.py)
+
+---
+
 ## 1. Modellidee und physikalische Basis
 
 Das Modell betrachtet **zwei Akteure** (zum Beispiel Oszillatoren, Systeme oder Agenten), die jeweils mit eigenen Frequenzen (f₁, f₂) schwingen. Über eine **Kopplungskonstante** (epsilon) beeinflussen sie sich gegenseitig. Die Kopplung kann für viele reale Anwendungen stehen, etwa Resonanzphänomene in Physik, Biologie oder sozialen Systemen.
