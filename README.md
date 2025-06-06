@@ -157,16 +157,18 @@ Mit π ≈ 3.14, ℏ ≈ 1.05·10⁻³⁴ J·s, 𝓔 = 1 und einer Frequenz **f*
 - [**Verhaltensmuster erkennen und auflösen**](fakten/docs/gesellschaft/verhaltensmuster_erkennen_und_aufloesen.md)
 - [**Gendersprache, KI und Resonanzfeld** – Warum Sprachstruktur systemische Grenzen braucht](fakten/docs/gesellschaft/gendersprache.md)
 
+---
+
 ### Konzepte 📐
 
 - [**ResoCalc** – Konventionelle Drehmomentberechnung vs. Resonanzfeldtheorie](fakten/konzepte/ResoCalc/resocalc.md)
 - [**Resonanzgenerator**](fakten/konzepte/resonanzgenerator/resonanzgenerator.md)
 
-### Simulationen (Work in Progress) 🧠
+---
 
-- [**Doppelpendel mit Resonanzanalyse**](Simulationen/doppelpendel/README.md)
-- [**Resonanzreaktor** – Schwingungskopplung im Energiefluss](Simulationen/resonanzreaktor/README.md)
-- [**Kraftfeldgenerator** – Lufthologramm durch feldbasierte Gitterstruktur](Simulationen/kraftfeldgenerator/README.md)
+### Simulationen 🧠
+
+- [**Weiterführende Simulationen**](fakten/simulationen/README.md)
 
 ---
 
