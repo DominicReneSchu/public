@@ -92,4 +92,4 @@ Die entwickelte Simulation verbindet anschauliche Visualisierung, Interaktivitä
 
 ---
 
-⬅️ [Zurück zur Übersicht](../README.md)
+⬅️ [zurück zur Übersicht](../README.md)

@@ -79,4 +79,4 @@ Die vorliegende Implementation bietet nicht nur eine konkrete Überprüfung der 
 
 ---
 
-⬅️ [zurück](README.md)
+⬅️ [zurück zur Übersicht](README.md)

@@ -116,4 +116,4 @@ relativitaet_verbindung/
 
 ---
 
-⬅️ [Zurück zur Übersicht](../README.md)
+⬅️ [zurück zur Übersicht](../README.md)

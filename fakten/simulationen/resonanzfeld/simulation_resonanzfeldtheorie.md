@@ -91,4 +91,4 @@ pip install numpy matplotlib ipywidgets
 
 ---
 
-⬅️ [zurück](../README.md)
+⬅️ [zurück zur Übersicht](../README.md)
