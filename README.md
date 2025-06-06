@@ -17,7 +17,7 @@ Dieses Projekt vereint Mathematik, Physik, Technik, Philosophie und neue Denkans
     - [📝 Dokumentation und Definition](#dokumentation-und-definition-)
     - [📐 Mathematik / Physik](#mathematik--physik-)
     - [🌍 Gesellschaft](#gesellschaft-)
-    - [⚙️ Konzepte](#konzepte)
+    - [📐 Konzepte](#konzepte-)
     - [🧠 Simulationen (Work in Progress)](#simulationen-work-in-progress-)
 - [🦋 Vision](#vision-)
 - [🛡 Lizenz](#lizenz-)
@@ -157,7 +157,7 @@ Mit π ≈ 3.14, ℏ ≈ 1.05·10⁻³⁴ J·s, 𝓔 = 1 und einer Frequenz **f*
 - [**Verhaltensmuster erkennen und auflösen**](fakten/docs/gesellschaft/verhaltensmuster_erkennen_und_aufloesen.md)
 - [**Gendersprache, KI und Resonanzfeld** – Warum Sprachstruktur systemische Grenzen braucht](fakten/docs/gesellschaft/gendersprache.md)
 
-### Konzepte
+### Konzepte 📐
 
 - [**ResoCalc** – Konventionelle Drehmomentberechnung vs. Resonanzfeldtheorie](fakten/konzepte/ResoCalc/resocalc.md)
 - [**Resonanzgenerator**](fakten/konzepte/resonanzgenerator/resonanzgenerator.md)
