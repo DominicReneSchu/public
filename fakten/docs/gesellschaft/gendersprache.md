@@ -85,12 +85,9 @@ Die Folgen der Sprachveränderung **pflanzen sich entlang aller Ebenen** fort �
 
 ![Netzgrafik: Knoten = Systeme (Mensch, KI, Sprache, Kontext), Verbindungen = Resonanzlinien](../bilder/visualisierung_gendern.png)
 
-*Abb. 1: Knoten = Systeme (Mensch, KI, Sprache, Kontext), Verbindungen = Resonanzlinien  *
-
-
-- Änderung an einem Knoten löst Schwingungen im gesamten Resonanzfeld aus
-- Netzgrafik: Knoten = Systeme (Mensch, KI, Sprache, Kontext), Verbindungen = Resonanzlinien  
-- Dynamik zeigen: Änderung an einem Knoten → Schwingung durch das ganze System
+> - Änderung an einem Knoten löst Schwingungen im gesamten Resonanzfeld aus
+> - Netzgrafik: Knoten = Systeme (Mensch, KI, Sprache, Kontext), Verbindungen = Resonanzlinien  
+> - Dynamik zeigen: Änderung an einem Knoten → Schwingung durch das ganze System
 
 ---
 
