@@ -183,4 +183,4 @@ Die Simulation (`simulationen/run.py`) integriert Frequenz, Temperatur, Kohären
 
 ---
 
-[Zurück zur Übersicht](../../../README.md)
+[Zurück zur Übersicht](README.md)
