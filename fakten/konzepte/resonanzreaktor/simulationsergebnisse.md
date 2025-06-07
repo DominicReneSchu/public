@@ -65,7 +65,7 @@ Die Abnahme des Anregungsniveaus ist ein Indikator für die abnehmende Kopplungs
 
 ---
 
-## 📈 Grafische Darstellung (in Arbeit)
+## 📈 Grafische Darstellung
 
 - **Exzitationslevel (Liniengraf):**  
   Zeigt die Abnahme des Anregungsniveaus je Zeitschritt.
