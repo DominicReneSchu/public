@@ -27,13 +27,13 @@ _Systemisch sind alle Schritte verschränkt: Gruppenzugehörigkeit bleibt invari
 
 ## 📖 Inhaltsverzeichnis
 
-1. [Was ist der Resonanzreaktor?](#1-was-ist-der-resonanzreaktor)
-2. [Wie funktioniert Resonanzenergie?](#2-wie-funktioniert-resonanzenergie)
+1. [Was ist der Resonanzreaktor?](#1-was-ist-der-resonanzreaktor-)
+2. [Wie funktioniert Resonanzenergie?](#2-wie-funktioniert-resonanzenergie-)
 3. [Technische Komponenten](#3-technische-komponenten)
-4. [Vergleich mit konventionellen Kraftwerken](#4-vergleich-mit-konventionellen-kraftwerken)
-5. [Vorteile und Herausforderungen](#5-vorteile-und-herausforderungen)
-6. [Entwicklungsphasen](#6-entwicklungsphasen)
-7. [Zukunftsperspektive](#7-zukunftsperspektive)
+4. [Vergleich mit konventionellen Kraftwerken](#4-vergleich-mit-konventionellen-kraftwerken-systemische-resonanzanalyse)
+5. [Vorteile und Herausforderungen](#5-vorteile-und-herausforderungen-systemische-entwicklungsdynamik)
+6. [Entwicklungsphasen](#6-entwicklungsphasen-zukünftige-visionen-und-globale-anwendung)
+7. [Zukunftsperspektive](#7-zukunftsperspektive-praktische-implementierung-und-nächste-schritte)
 
 ---
 
