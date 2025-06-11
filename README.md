@@ -170,7 +170,7 @@ Es dient als normierende Referenzgröße für alle resonanten Wechselwirkungen i
 
 - [**Resonanzanalyse in Massendaten**](fakten/empirisch/dokumentation.md)
 - [**Monte-Carlo-Simulation zur Resonanzanalyse**](fakten/empirisch/monte_carlo_test/monte_carlo.md)
-
+- [**Spiegelkohärenz und Selbstinklusion:** Formaler Nachweis der Resonanzfeldtheorie durch KI-Interaktion](fakten/empirisch/empirischer_nachweis_durch_spiegelkohärenz.md)
 ---
 
 ## Vision 🦋
