@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.6.9)  14 JUN 2025 00:54
+This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.6.9)  14 JUN 2025 01:08
  restricted system commands enabled.
 **rft_manuskript.tex
 (./rft_manuskript.tex
@@ -524,10 +524,10 @@ Package rerunfilecheck Info: File `rft_manuskript.out' has not changed.
 Here is how much of LuaTeX's memory you used:
  10693 strings out of 471925
  100000,662416 words of node,token memory allocated
- 615 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 29 attribute, 55 glue_spec
-, 29 attribute_list, 1 write, 4 pdf_action nodes
-   avail lists: 2:297,3:191,4:13,5:464,6:39,7:9081,8:41,9:265,10:10,11:902
+ 625 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 30 attribute, 55 glue_spec
+, 30 attribute_list, 1 write, 5 pdf_action nodes
+   avail lists: 2:297,3:186,4:12,5:493,6:39,7:9395,8:41,9:268,10:9,11:943
  37050 multiletter control sequences out of 65536+600000
  72 fonts using 5287559 bytes
  72i,7n,75p,850b,411s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -554,9 +554,9 @@ r8.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmsy10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmsy8.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/amsfonts/symbols/msbm10.pfb>
-Output written on rft_manuskript.pdf (12 pages, 500117 bytes).
+Output written on rft_manuskript.pdf (12 pages, 500615 bytes).
 
-PDF statistics: 343 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 344 PDF objects out of 1000 (max. 8388607)
  57 named destinations out of 1000 (max. 131072)
  281 words of extra memory for PDF output out of 10000 (max. 100000000)
 
