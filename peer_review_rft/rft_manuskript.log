@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.6.9)  14 JUN 2025 00:39
+This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.6.9)  14 JUN 2025 00:54
  restricted system commands enabled.
 **rft_manuskript.tex
 (./rft_manuskript.tex
@@ -440,16 +440,18 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 16.
 (C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (16.91383pt too wide) in paragraph at lines 21--22
-\TU/lmr/m/n/10.95 licly avail-able via an open re-search plat-form ([]$\TU/lmtt
-/m/n/10.95 https://github.com/DominicReneSchu/
- []
-
 <plot.png, id=145, 1011.78pt x 433.62pt>
 File: plot.png Graphic file (type png)
 <use plot.png>
 Package luatex.def Info: plot.png  used on input line 28.
 (luatex.def)             Requested size: 386.96027pt x 165.84256pt.
+
+
+LaTeX Warning: Citation `rftrepo' on page 1 undefined on input line 35.
+
+
+LaTeX Warning: Citation `rftrepo' on page 1 undefined on input line 35.
+
 
 
 [1
@@ -461,7 +463,7 @@ Package luatex.def Info: plot.png  used on input line 28.
 [3]
 
 [4]
-Overfull \hbox (18.96854pt too wide) in paragraph at lines 132--134
+Overfull \hbox (18.96854pt too wide) in paragraph at lines 138--140
 \TU/lmr/m/n/12 tions, and ex-am-ples are openly ac-ces-si-ble ([]$\TU/lmtt/m/n/
 12 https://github.com/DominicReneSchu/public$[]\TU/lmr/m/n/12 ).
  []
@@ -475,19 +477,19 @@ Missing character: There is no 𝜀 (U+1D700) in font [lmroman12-regular]:+tlig;
 !
 ]
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <12> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 239.
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 245.
 
 
 [7]
 
 [8]
-Overfull \hbox (2.96893pt too wide) in paragraph at lines 273--274
+Overfull \hbox (2.96893pt too wide) in paragraph at lines 279--280
 \TU/lmr/m/n/12 invariant res-o-nance con-fig-u-ra-tions, each with its own pat-t
 ern of in-clu-sion and self-reference.
  []
 
 
-Overfull \hbox (2.02171pt too wide) in paragraph at lines 294--295
+Overfull \hbox (2.02171pt too wide) in paragraph at lines 300--301
 []\TU/lmr/m/n/12 Anal-y-sis of emer-gent phe-nom-ena—co-her-ence, syn-chro-niz
 a-tion, phase tran-si-tions—as
  []
@@ -497,7 +499,7 @@ a-tion, phase tran-si-tions—as
 [9]
 
 [10]
-Overfull \hbox (0.9005pt too wide) in paragraph at lines 360--361
+Overfull \hbox (0.9005pt too wide) in paragraph at lines 366--367
 \TU/lmr/m/n/12 pre-hen-sive doc-u-men-ta-tion ([]$\TU/lmtt/m/n/12 https://github
 .com/DominicReneSchu/public$[]\TU/lmr/m/n/12 ), in-vites the
  []
@@ -511,20 +513,24 @@ Overfull \hbox (0.9005pt too wide) in paragraph at lines 360--361
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `rft_manuskript.out' has not changed.
 (rerunfilecheck)             Checksum: D2C451721E147320BF4350111CE3DE7A;8039.
 )
 
 Here is how much of LuaTeX's memory you used:
- 10692 strings out of 471925
+ 10693 strings out of 471925
  100000,662416 words of node,token memory allocated
- 625 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 30 attribute, 55 glue_spec
-, 30 attribute_list, 1 write, 5 pdf_action nodes
-   avail lists: 2:297,3:193,4:13,5:452,6:39,7:8674,8:41,9:256,10:10,11:877
- 37049 multiletter control sequences out of 65536+600000
+ 615 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 29 attribute, 55 glue_spec
+, 29 attribute_list, 1 write, 4 pdf_action nodes
+   avail lists: 2:297,3:191,4:13,5:464,6:39,7:9081,8:41,9:265,10:10,11:902
+ 37050 multiletter control sequences out of 65536+600000
  72 fonts using 5287559 bytes
- 72i,6n,75p,697b,411s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,7n,75p,850b,411s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/users/admin/appdata/local/programs/miktex/fonts/opentype/public/lm/lmmonolt1
 0-bold.otf><c:/users/admin/appdata/local/programs/miktex/fonts/opentype/public/l
 m/lmroman8-regular.otf><c:/users/admin/appdata/local/programs/miktex/fonts/opent
@@ -542,14 +548,15 @@ rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Admin/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Admin/App
 Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Ad
 min/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/U
-sers/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb
+sers/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb
 ><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmsy8.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/symbols/msbm10.pfb>
-Output written on rft_manuskript.pdf (12 pages, 487369 bytes).
+r8.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmsy8.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/symbols/msbm10.pfb>
+Output written on rft_manuskript.pdf (12 pages, 500117 bytes).
 
-PDF statistics: 342 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 343 PDF objects out of 1000 (max. 8388607)
  57 named destinations out of 1000 (max. 131072)
  281 words of extra memory for PDF output out of 10000 (max. 100000000)
 

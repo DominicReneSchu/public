@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Schu-Resonanzfeldtheorie – Kompakter numerischer Beweis
+# Resonanzfeldtheorie – Kompakter numerischer Beweis
 # © Dominic Schu, 2025 – Alle Rechte vorbehalten.
 # Theorie siehe auch: https://github.com/DominicReneSchu/Resoshift und Pi-e-Theorie
 
@@ -14,7 +14,7 @@ def berechne_resonanzenergie(
     gamma: float = 0.2
 ) -> Tuple[np.ndarray, np.ndarray, np.ndarray]:
     """
-    Berechnet die Schu-Resonanzenergie:
+    Berechnet die Resonanzenergie:
         E_res = A / (1 + ((ω_ext - ω_0) / γ)²)
     wobei:
         ω_ext = ω_0 · (1 + sin(T))
@@ -62,7 +62,7 @@ def plot_resonanzfeld(
     show: bool = True
 ):
     """
-    Erstellt zwei 3D-Plots: Schu-Resonanzenergie und Resonanzentropie.
+    Erstellt zwei 3D-Plots: Resonanzenergie und Resonanzentropie.
 
     Args:
         T_grid, A_grid (ndarray): Gitter für T und A
@@ -75,7 +75,7 @@ def plot_resonanzfeld(
     # Plot 1: Resonanzenergie
     ax1 = fig.add_subplot(121, projection='3d')
     surf1 = ax1.plot_surface(T_grid, A_grid, E_res, cmap='inferno', edgecolor='none')
-    ax1.set_title("Schu-Resonanzenergie $E_{res}$")
+    ax1.set_title("Resonanzenergie $E_{res}$")
     ax1.set_xlabel('Temperatur $T$')
     ax1.set_ylabel('Amplitude $A$')
     ax1.set_zlabel('$E_{res}$')
