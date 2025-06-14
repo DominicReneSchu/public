@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.6.9)  14 JUN 2025 17:21
+This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.6.9)  14 JUN 2025 17:39
  restricted system commands enabled.
 **rft_manuskript.tex
 (./rft_manuskript.tex
@@ -393,26 +393,26 @@ File: l3backend-luatex.def 2025-04-14 L3 backend support: PDF output (LuaTeX)
 Inserting `l3color' in `luaotfload.parse_color'.) (./rft_manuskript.aux)
 \openout1 = rft_manuskript.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -474,36 +474,43 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 18.
+Package hyperref Info: Link coloring OFF on input line 34.
  (./rft_manuskript.out) (./rft_manuskript.out)
 \@outlinefile=\write3
 
 \openout3 = rft_manuskript.out
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 36.
 
 
 (C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 36.
 
 
 (C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<figures/plot.png, id=149, 1011.78pt x 433.62pt>
+<figures/plot.png, id=146, 1011.78pt x 433.62pt>
 File: figures/plot.png Graphic file (type png)
 <use figures/plot.png>
-Package luatex.def Info: figures/plot.png  used on input line 32.
+Package luatex.def Info: figures/plot.png  used on input line 52.
 (luatex.def)             Requested size: 386.96027pt x 165.84256pt.
 
 
-LaTeX Warning: Citation `rftrepo' on page 1 undefined on input line 39.
+LaTeX Warning: Citation `rftrepo' on page 1 undefined on input line 60.
 
 
-LaTeX Warning: Citation `rftrepo' on page 1 undefined on input line 39.
+LaTeX Warning: Citation `rftrepo' on page 1 undefined on input line 60.
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 60--60
+\TU/lmr/m/n/12 The-ory, gen-er-ated nu-mer-i-cally with \TU/lmtt/m/n/12 resonanz
+feld.py \TU/lmr/m/n/12 (see repos-i-tory [\TU/lmr/bx/n/12 ?\TU/lmr/m/n/12 ], sec
+-tion
+ []
 
 
 
@@ -516,27 +523,24 @@ LaTeX Warning: Citation `rftrepo' on page 1 undefined on input line 39.
 [3]
 
 [4]
-Overfull \hbox (18.96854pt too wide) in paragraph at lines 160--162
+
+[5]
+Overfull \hbox (18.96854pt too wide) in paragraph at lines 177--179
 \TU/lmr/m/n/12 tions, and ex-am-ples are openly ac-ces-si-ble ([]$\TU/lmtt/m/n/
 12 https://github.com/DominicReneSchu/public$[]\TU/lmr/m/n/12 ).
  []
 
 
 
-[5]
-
 [6]
 
-[7
-Missing character: There is no 𝜀 (U+1D700) in font [lmroman12-regular]:+tlig;
-!
-]
+[7]
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <12> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 267.
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 284.
 
 
 [8]
-Overfull \hbox (2.96893pt too wide) in paragraph at lines 299--300
+Overfull \hbox (2.96893pt too wide) in paragraph at lines 301--302
 \TU/lmr/m/n/12 invariant res-o-nance con-fig-u-ra-tions, each with its own pat-t
 ern of in-clu-sion and self-reference.
  []
@@ -561,9 +565,9 @@ Package luatex.def Info: figures/hist_mc_vs_real_hits.png  used on input line 3
 99.
 (luatex.def)             Requested size: 318.66948pt x 158.43141pt.
 
-Overfull \hbox (10.24176pt too wide) in paragraph at lines 404--406
-[]\TU/lmr/bx/n/12 Open Sci-ence: \TU/lmr/m/n/12 All scripts, data, and vi-su-al-
-iza-tions are fully ac-ces-si-ble ([]github.com/Do-
+Overfull \hbox (9.49376pt too wide) in paragraph at lines 404--406
+\TU/lmr/m/n/12 All scripts, data, and vi-su-al-iza-tions are fully ac-ces-si-ble
+ ([]github.com/Do-mini-cRe-neSchu/pub-
  []
 
 
@@ -578,28 +582,33 @@ pirisch/monte_
 File: figures/hist_mc_vs_real_hits.png Graphic file (type png)
 <use figures/hist_mc_vs_real_hits.png>
 Package luatex.def Info: figures/hist_mc_vs_real_hits.png  used on input line 4
-24.
+23.
 (luatex.def)             Requested size: 318.66948pt x 158.43141pt.
 <figures/pvalue_curves.png, id=257, 1293.633pt x 570.933pt>
 File: figures/pvalue_curves.png Graphic file (type png)
 <use figures/pvalue_curves.png>
-Package luatex.def Info: figures/pvalue_curves.png  used on input line 431.
+Package luatex.def Info: figures/pvalue_curves.png  used on input line 430.
 (luatex.def)             Requested size: 318.66948pt x 140.64207pt.
 <figures/heatmaps_hits.png, id=258, 1170.774pt x 427.8384pt>
 File: figures/heatmaps_hits.png Graphic file (type png)
 <use figures/heatmaps_hits.png>
-Package luatex.def Info: figures/heatmaps_hits.png  used on input line 438.
+Package luatex.def Info: figures/heatmaps_hits.png  used on input line 437.
 (luatex.def)             Requested size: 318.66948pt x 116.45145pt.
 
-Overfull \hbox (10.24176pt too wide) in paragraph at lines 443--445
-[]\TU/lmr/bx/n/12 Open Sci-ence: \TU/lmr/m/n/12 All scripts, data, and vi-su-al-
-iza-tions are fully ac-ces-si-ble ([]github.com/Do-
+Overfull \hbox (9.49376pt too wide) in paragraph at lines 442--444
+\TU/lmr/m/n/12 All scripts, data, and vi-su-al-iza-tions are fully ac-ces-si-ble
+ ([]github.com/Do-mini-cRe-neSchu/pub-
  []
 
 
 
 [13<./figures/pvalue_curves.png>]
-Overfull \hbox (0.9005pt too wide) in paragraph at lines 454--455
+Overfull \hbox (0.49213pt too wide) in paragraph at lines 449--450
+\TU/lmr/m/n/12 work uni-fy-ing and ex-tend-ing es-tab-lished the-o-ries through resonance-based re-la-tional struc-
+ []
+
+
+Overfull \hbox (0.9005pt too wide) in paragraph at lines 453--454
 \TU/lmr/m/n/12 pre-hen-sive doc-u-men-ta-tion ([]$\TU/lmtt/m/n/12 https://github
 .com/DominicReneSchu/public$[]\TU/lmr/m/n/12 ), in-vites the
  []
@@ -607,38 +616,38 @@ Overfull \hbox (0.9005pt too wide) in paragraph at lines 454--455
 
 
 [14<./figures/heatmaps_hits.png>]
-Overfull \hbox (49.24782pt too wide) in paragraph at lines 478--479
+Overfull \hbox (49.24782pt too wide) in paragraph at lines 477--478
 \TU/lmr/m/n/12 re-sources are openly ac-ces-si-ble in the pub-lic repos-i-tory 
 at []$\TU/lmtt/m/n/12 https://github.com/DominicReneSchu/
  []
 
 
-Underfull \hbox (badness 3930) in paragraph at lines 482--482
+Underfull \hbox (badness 3930) in paragraph at lines 481--481
 [][][]\TU/lmr/m/n/10 See: []$\TU/lmtt/m/n/10 https://github.com/DominicReneSchu/
 public/blob/main/fakten/docs/definitionen/
  []
 
 
-Overfull \hbox (20.15012pt too wide) in paragraph at lines 496--497
+Overfull \hbox (20.15012pt too wide) in paragraph at lines 494--495
 []\TU/lmr/m/n/12 A dy-namic, system-specific mea-sure of res-o-nant cou-pling st
 rength,
  []
 
 
-Overfull \hbox (8.71594pt too wide) in paragraph at lines 505--506
+
+[15]
+Overfull \hbox (8.71594pt too wide) in paragraph at lines 503--504
 \TU/lmr/m/n/12 put, de-ter-mined by in-trin-sic prop-er-ties (in-er-tia, stor-ag
 e, open-ness). Proper impedance
  []
 
 
-
-[15]
-Overfull \hbox (0.30792pt too wide) in paragraph at lines 511--512
+Overfull \hbox (0.30792pt too wide) in paragraph at lines 509--510
 []\TU/lmr/m/n/12 Dis-crete lev-els of
  []
 
 
-Overfull \hbox (20.61533pt too wide) in paragraph at lines 518--521
+Overfull \hbox (20.61533pt too wide) in paragraph at lines 515--518
 []$\TU/lmtt/m/n/12 https://github.com/DominicReneSchu/public/blob/main/fakten/do
 cs/definitionen/
  []
@@ -646,12 +655,17 @@ cs/definitionen/
 
 
 [16]
-Overfull \hbox (59.99995pt too wide) in alignment at lines 532--536
+Overfull \hbox (59.99995pt too wide) in alignment at lines 529--533
  [][][][][] 
  []
 
 
-Overfull \hbox (59.99995pt too wide) in alignment at lines 536--541
+Overfull \hbox (59.99995pt too wide) in alignment at lines 533--538
+ [][][][][] 
+ []
+
+
+Overfull \hbox (59.99995pt too wide) in alignment at lines 538--541
  [][][][][] 
  []
 
@@ -661,427 +675,422 @@ Overfull \hbox (59.99995pt too wide) in alignment at lines 541--544
  []
 
 
-Overfull \hbox (59.99995pt too wide) in alignment at lines 544--547
- [][][][][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 549--549
+Underfull \hbox (badness 10000) in paragraph at lines 546--546
 []|\TU/lmr/m/n/12 Ob-server is
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--549
+Underfull \hbox (badness 10000) in paragraph at lines 546--546
 \TU/lmr/m/n/12 sys-tem-i-cally
  []
 
 
-Underfull \hbox (badness 2846) in paragraph at lines 549--549
+Underfull \hbox (badness 2846) in paragraph at lines 546--546
 []|\TU/lmr/m/n/12 Ob-server ex-ter-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--549
+Underfull \hbox (badness 10000) in paragraph at lines 546--546
 \TU/lmr/m/n/12 mea-sure-ment,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--549
+Underfull \hbox (badness 10000) in paragraph at lines 546--546
 \TU/lmr/m/n/12 caus-ing state
  []
 
 
-Underfull \hbox (badness 2846) in paragraph at lines 549--549
+Underfull \hbox (badness 2846) in paragraph at lines 546--546
 []|\TU/lmr/m/n/12 Ob-server ex-ter-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--549
+Underfull \hbox (badness 10000) in paragraph at lines 546--546
 \TU/lmr/m/n/12 nal; ref-er-ence
  []
 
 
-Underfull \hbox (badness 2671) in paragraph at lines 549--549
+Underfull \hbox (badness 2671) in paragraph at lines 546--546
 \TU/lmr/m/n/12 frames, no ac-
  []
 
 
-Underfull \hbox (badness 2846) in paragraph at lines 549--550
+Underfull \hbox (badness 2846) in paragraph at lines 546--547
 []|\TU/lmr/m/n/12 Ob-server ex-ter-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 551--551
+Underfull \hbox (badness 10000) in paragraph at lines 548--548
 []|\TU/lmr/m/n/12 Sys-temic in-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 551--551
+Underfull \hbox (badness 10000) in paragraph at lines 548--548
 \TU/lmr/m/n/12 clu-sion; all
  []
 
 
-Underfull \hbox (badness 1810) in paragraph at lines 551--551
+Underfull \hbox (badness 1810) in paragraph at lines 548--548
 \TU/lmr/m/n/12 sub-sys-tems and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 551--551
+Underfull \hbox (badness 10000) in paragraph at lines 548--548
 \TU/lmr/m/n/12 part of field;
  []
 
 
-Underfull \hbox (badness 4621) in paragraph at lines 551--551
+Underfull \hbox (badness 4621) in paragraph at lines 548--548
 \TU/lmr/m/n/12 group mem-ber-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 551--551
+Underfull \hbox (badness 10000) in paragraph at lines 548--548
 []|\TU/lmr/m/n/12 Ob-server and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 551--551
+Underfull \hbox (badness 10000) in paragraph at lines 548--548
 \TU/lmr/m/n/12 sys-tem sep-a-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 551--551
+Underfull \hbox (badness 10000) in paragraph at lines 548--548
 \TU/lmr/m/n/12 rated ex-cept
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 551--551
+Underfull \hbox (badness 10000) in paragraph at lines 548--548
 []|\TU/lmr/m/n/12 In-er-tial ob-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 551--551
+Underfull \hbox (badness 10000) in paragraph at lines 548--548
 \TU/lmr/m/n/12 servers re-lated
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 551--551
+Underfull \hbox (badness 10000) in paragraph at lines 548--548
 \TU/lmr/m/n/12 by sym-me-try;
  []
 
 
-Underfull \hbox (badness 1348) in paragraph at lines 551--551
+Underfull \hbox (badness 1348) in paragraph at lines 548--548
 \TU/lmr/m/n/12 not struc-turally
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 551--552
+Underfull \hbox (badness 2608) in paragraph at lines 548--549
 []|\TU/lmr/m/n/12 No ex-plicit in-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 551--552
+Underfull \hbox (badness 10000) in paragraph at lines 548--549
 \TU/lmr/m/n/12 clu-sion; fields
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 553--553
+Underfull \hbox (badness 10000) in paragraph at lines 550--550
 []|\TU/lmr/m/n/12 Col-lec-tive
  []
 
 
-Underfull \hbox (badness 3343) in paragraph at lines 553--553
+Underfull \hbox (badness 3343) in paragraph at lines 550--550
 \TU/lmr/m/n/12 res-o-nance, self-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 553--553
+Underfull \hbox (badness 10000) in paragraph at lines 550--550
 \TU/lmr/m/n/12 organization,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 553--553
+Underfull \hbox (badness 10000) in paragraph at lines 550--550
 \TU/lmr/m/n/12 re-cur-sive feed-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 553--553
+Underfull \hbox (badness 10000) in paragraph at lines 550--550
 []|\TU/lmr/m/n/12 Emer-gence via
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 553--553
+Underfull \hbox (badness 10000) in paragraph at lines 550--550
 \TU/lmr/m/n/12 su-per-po-si-tion,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 553--553
+Underfull \hbox (badness 10000) in paragraph at lines 550--550
 \TU/lmr/m/n/12 en-tan-gle-ment;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 553--553
+Underfull \hbox (badness 10000) in paragraph at lines 550--550
 \TU/lmr/m/n/12 mostly prob-a-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 553--553
+Underfull \hbox (badness 10000) in paragraph at lines 550--550
 []|\TU/lmr/m/n/12 Emer-gence
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 553--553
+Underfull \hbox (badness 10000) in paragraph at lines 550--550
 \TU/lmr/m/n/12 through ge-o-
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 553--553
+Underfull \hbox (badness 1661) in paragraph at lines 550--550
 \TU/lmr/m/n/12 met-ric re-la-tions
  []
 
 
-Underfull \hbox (badness 3354) in paragraph at lines 553--553
+Underfull \hbox (badness 3354) in paragraph at lines 550--550
 \TU/lmr/m/n/12 (space-time cur-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 553--554
+Underfull \hbox (badness 10000) in paragraph at lines 550--551
 []|\TU/lmr/m/n/12 Emer-gence via
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 553--554
+Underfull \hbox (badness 10000) in paragraph at lines 550--551
 \TU/lmr/m/n/12 ef-fects; lin-ear
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 555--555
+Underfull \hbox (badness 10000) in paragraph at lines 552--552
 []|\TU/lmr/m/n/12 Res-o-nance
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 555--555
+Underfull \hbox (badness 10000) in paragraph at lines 552--552
 \TU/lmr/m/n/12 der re-la-bel-ing,
  []
 
 
-Underfull \hbox (badness 7308) in paragraph at lines 555--555
+Underfull \hbox (badness 7308) in paragraph at lines 552--552
 \TU/lmr/m/n/12 per-spec-tive, or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 555--555
+Underfull \hbox (badness 10000) in paragraph at lines 552--552
 []|\TU/lmr/m/n/12 Sym-me-try
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 555--555
+Underfull \hbox (badness 10000) in paragraph at lines 552--552
 \TU/lmr/m/n/12 groups (e.g.,
  []
 
 
-Underfull \hbox (badness 6094) in paragraph at lines 555--555
+Underfull \hbox (badness 6094) in paragraph at lines 552--552
 \TU/lmr/m/n/12 SU(2), SU(3));
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 555--555
+Underfull \hbox (badness 10000) in paragraph at lines 552--552
 \TU/lmr/m/n/12 group ac-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 555--555
+Underfull \hbox (badness 10000) in paragraph at lines 552--552
 \TU/lmr/m/n/12 ex-ter-nal to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 555--555
+Underfull \hbox (badness 10000) in paragraph at lines 552--552
 \TU/lmr/m/n/12 observer-system
  []
 
 
-Overfull \hbox (3.76578pt too wide) in paragraph at lines 555--555
+Overfull \hbox (3.76578pt too wide) in paragraph at lines 552--552
 []|\TU/lmr/m/n/12 Lorentz/Poincaré
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 555--555
+Underfull \hbox (badness 10000) in paragraph at lines 552--552
 \TU/lmr/m/n/12 groups; space-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 555--556
+Underfull \hbox (badness 10000) in paragraph at lines 552--553
 \TU/lmr/m/n/12 me-try groups;
  []
 
 
-Underfull \hbox (badness 1342) in paragraph at lines 555--556
+Underfull \hbox (badness 1342) in paragraph at lines 552--553
 \TU/lmr/m/n/12 ex-ter-nal to ob-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 557--557
+Underfull \hbox (badness 10000) in paragraph at lines 554--554
 []|\TU/lmr/m/n/12 Struc-tured
  []
 
 
-Underfull \hbox (badness 6944) in paragraph at lines 557--557
+Underfull \hbox (badness 6944) in paragraph at lines 554--554
 \TU/lmr/m/n/12 only via res-o-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 557--557
+Underfull \hbox (badness 10000) in paragraph at lines 554--554
 []|\TU/lmr/m/n/12 Prob-a-bilis-tic
  []
 
 
-Underfull \hbox (badness 4634) in paragraph at lines 557--557
+Underfull \hbox (badness 4634) in paragraph at lines 554--554
 \TU/lmr/m/n/12 col-lapse; in-for-
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 557--557
+Underfull \hbox (badness 1337) in paragraph at lines 554--554
 \TU/lmr/m/n/12 ma-tion only at
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 557--557
+Underfull \hbox (badness 10000) in paragraph at lines 554--554
 []|\TU/lmr/m/n/12 In-for-ma-tion
  []
 
 
-Underfull \hbox (badness 8113) in paragraph at lines 557--558
+Underfull \hbox (badness 8113) in paragraph at lines 554--555
 []|\TU/lmr/m/n/12 Lo-cal prop-a-ga-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 557--558
+Underfull \hbox (badness 10000) in paragraph at lines 554--555
 \TU/lmr/m/n/12 tion via field
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 559--559
+Underfull \hbox (badness 10000) in paragraph at lines 556--556
 []|\TU/lmr/m/n/12 Field sta-bil-ity
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 559--559
+Underfull \hbox (badness 10000) in paragraph at lines 556--556
 \TU/lmr/m/n/12 from col-lec-tive
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 559--559
+Underfull \hbox (badness 10000) in paragraph at lines 556--556
 \TU/lmr/m/n/12 res-o-nance and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 559--559
+Underfull \hbox (badness 10000) in paragraph at lines 556--556
 []|\TU/lmr/m/n/12 Sta-bil-ity via
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 559--559
+Underfull \hbox (badness 10000) in paragraph at lines 556--556
 \TU/lmr/m/n/12 eigen-states;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 559--559
+Underfull \hbox (badness 10000) in paragraph at lines 556--556
 \TU/lmr/m/n/12 de-co-her-ence
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 559--559
+Underfull \hbox (badness 10000) in paragraph at lines 556--556
 []|\TU/lmr/m/n/12 Ge-o-met-ric
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 559--559
+Underfull \hbox (badness 10000) in paragraph at lines 556--556
 \TU/lmr/m/n/12 sta-bil-ity via
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 561--561
+Underfull \hbox (badness 10000) in paragraph at lines 558--558
 []|\TU/lmr/m/n/12 Ex-plic-itly
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 561--561
+Underfull \hbox (badness 10000) in paragraph at lines 558--558
 \TU/lmr/m/n/12 Ax-iom); self-
  []
 
 
-Underfull \hbox (badness 4621) in paragraph at lines 561--561
+Underfull \hbox (badness 4621) in paragraph at lines 558--558
 \TU/lmr/m/n/12 embedding and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 561--561
+Underfull \hbox (badness 10000) in paragraph at lines 558--558
 []|\TU/lmr/m/n/12 Not present;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 561--561
+Underfull \hbox (badness 10000) in paragraph at lines 558--558
 \TU/lmr/m/n/12 mea-sure-ment
  []
 
 
-Underfull \hbox (badness 1092) in paragraph at lines 561--561
+Underfull \hbox (badness 1092) in paragraph at lines 558--558
 \TU/lmr/m/n/12 pos-tu-late ex-ter-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 563--563
+Underfull \hbox (badness 10000) in paragraph at lines 560--560
 []|\TU/lmr/bx/n/12 Open-ness/Par-tic-i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 563--563
+Underfull \hbox (badness 10000) in paragraph at lines 560--560
 \TU/lmr/m/n/12 ev-ery act of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 563--563
+Underfull \hbox (badness 10000) in paragraph at lines 560--560
 \TU/lmr/m/n/12 ref-er-ence or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 563--563
+Underfull \hbox (badness 10000) in paragraph at lines 560--560
 \TU/lmr/m/n/12 cri-tique ac-ti-
  []
 
 
-Underfull \hbox (badness 4391) in paragraph at lines 563--563
+Underfull \hbox (badness 4391) in paragraph at lines 560--560
 \TU/lmr/m/n/12 vates the field
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 563--563
+Underfull \hbox (badness 10000) in paragraph at lines 560--560
 []|\TU/lmr/m/n/12 Open-ness only
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 563--563
+Underfull \hbox (badness 10000) in paragraph at lines 560--560
 \TU/lmr/m/n/12 in in-ter-pre-ta-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 563--563
+Underfull \hbox (badness 10000) in paragraph at lines 560--560
 []|\TU/lmr/m/n/12 Open to ref-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 563--563
+Underfull \hbox (badness 10000) in paragraph at lines 560--560
 \TU/lmr/m/n/12 er-ence frame
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 563--564
+Underfull \hbox (badness 10000) in paragraph at lines 560--561
 []|\TU/lmr/m/n/12 Closed for-mal-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 563--564
+Underfull \hbox (badness 10000) in paragraph at lines 560--561
 \TU/lmr/m/n/12 ism; open-ness
  []
 
 
-Overfull \hbox (59.99995pt too wide) in alignment at lines 547--568
+Overfull \hbox (59.99995pt too wide) in alignment at lines 544--565
  [][][][][] 
  []
 
@@ -1097,25 +1106,25 @@ L3 programming layer <2025-04-14>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `rft_manuskript.out' has not changed.
-(rerunfilecheck)             Checksum: 474729A855CEFCDA43554DC3F44BA072;8329.
+(rerunfilecheck)             Checksum: E79279AF42423D219E6740E2F6EC8869;8167.
 )
 
 Here is how much of LuaTeX's memory you used:
  12305 strings out of 471925
  100000,662416 words of node,token memory allocated
- 717 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 3 glue, 4 kern, 1 glyph, 36 attribute, 60 glue_spec
-, 36 attribute_list, 1 write, 11 pdf_action nodes
-   avail lists: 2:821,3:417,4:27,5:495,6:95,7:9402,8:100,9:1276,10:26,11:943
- 38606 multiletter control sequences out of 65536+600000
+ 719 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 36 attribute, 60 glue_spec
+, 36 attribute_list, 1 write, 9 pdf_action nodes
+   avail lists: 2:821,3:417,4:27,5:459,6:95,7:8574,8:100,9:1276,10:26,11:825
+ 38607 multiletter control sequences out of 65536+600000
  80 fonts using 5917519 bytes
- 72i,9n,75p,855b,554s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/users/admin/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman7-
-regular.otf><c:/users/admin/appdata/local/programs/miktex/fonts/opentype/public/
-lm/lmmonolt10-bold.otf><c:/users/admin/appdata/local/programs/miktex/fonts/opent
-ype/public/lm/lmroman8-regular.otf><c:/users/admin/appdata/local/programs/miktex
-/fonts/opentype/public/lm/lmmono12-regular.otf><c:/users/admin/appdata/local/pro
-grams/miktex/fonts/opentype/public/lm/lmroman12-italic.otf><C:/Users/Admin/AppDa
+ 72i,11n,75p,1018b,554s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/users/admin/appdata/local/programs/miktex/fonts/opentype/public/lm/lmmonolt1
+0-bold.otf><c:/users/admin/appdata/local/programs/miktex/fonts/opentype/public/l
+m/lmroman8-regular.otf><c:/users/admin/appdata/local/programs/miktex/fonts/opent
+ype/public/lm/lmroman12-italic.otf><c:/users/admin/appdata/local/programs/miktex
+/fonts/opentype/public/lm/lmroman7-regular.otf><c:/users/admin/appdata/local/pro
+grams/miktex/fonts/opentype/public/lm/lmmono12-regular.otf><C:/Users/Admin/AppDa
 ta/Local/Programs/MiKTeX/fonts/opentype/public/lm/lmroman12-bold.otf><c:/users/a
 dmin/appdata/local/programs/miktex/fonts/opentype/public/lm/lmmono10-regular.otf
 ><c:/users/admin/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman1
@@ -1124,19 +1133,21 @@ m/lmroman10-regular.otf><c:/users/admin/appdata/local/programs/miktex/fonts/open
 type/public/lm/lmroman12-regular.otf><c:/users/admin/appdata/local/programs/mikt
 ex/fonts/opentype/public/lm/lmroman17-regular.otf><C:/Users/Admin/AppData/Local/
 Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Admin/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Admi
-n/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Use
-rs/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb>
-<C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
-12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmr6.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmr8.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmsy10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on rft_manuskript.pdf (18 pages, 664971 bytes).
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Users/
+Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C
+:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6
+.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmmi8.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmr12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmr6.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmr8.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Admin/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Admin/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Admin/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on rft_manuskript.pdf (18 pages, 678762 bytes).
 
-PDF statistics: 419 PDF objects out of 1000 (max. 8388607)
- 75 named destinations out of 1000 (max. 131072)
- 289 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 424 PDF objects out of 1000 (max. 8388607)
+ 74 named destinations out of 1000 (max. 131072)
+ 281 words of extra memory for PDF output out of 10000 (max. 100000000)
 
