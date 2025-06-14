@@ -5,6 +5,10 @@
 \usepackage{hyperref}
 \usepackage{authblk}
 \usepackage{cite}
+\usepackage{float}
+\usepackage{longtable}
+\usepackage{caption}
+\captionsetup[longtable]{width=\linewidth, position=bottom}
 
 \title{Resonance Field Theory: Axiomatics, Invariants, and Systemic Structure}
 \author[1]{Dominic-René Schu}
@@ -25,7 +29,7 @@
 	
 	\begin{figure}[ht]
 		\centering
-		\includegraphics[width=0.85\textwidth]{plot.png}
+		\includegraphics[width=0.85\textwidth]{figures/plot.png}
 		\caption{
 			\textbf{Resonance field structure.}
 			Schematic visualization of Resonance Field Theory, numerically generated with \texttt{resonanzfeld.py} from the repository~\cite{rftrepo}, section \texttt{fakten/simulationen/mathematischer\_beweis}.\\
@@ -244,23 +248,23 @@
 	
 	Information is structured resonance (Axiom 6); information exchange occurs along coherent resonance paths—synchronization of phase and frequency. The observer is modeled as an active resonator (Axiom 7): measurement is field coupling, not external selection, and always induces field change.
 
-\subsection{Field Entropy and Configuration}
-
-The entropy $S$ of a resonance configuration as a function of energy:
-\[
-S(E) = -E \ln E
-\]
-with $E$ normalized per system (see Repository, section 4.4).
-
-\subsection{Examples and Self-Inclusive Field Activation}
-
-- \textit{Sibling example:} Referencing one member activates the whole set.
-- \textit{Network/Neuron:} Firing one node resonates in the entire network (see Repository, section on technical/biological fields).
-- \textit{Set self-inclusion:} $M = \{a, b, M\}$, self-inclusion as resonance, not paradox.
-
-\medskip
-
-\textbf{All mathematical details, definitions, and extended examples are openly available in the repository (\url{https://github.com/DominicReneSchu/public}). The formalism is non-linear, recursive, and group-invariant: each structural act activates the whole field—Resonanzregel.}
+	\subsection{Field Entropy and Configuration}
+	
+	The entropy $S$ of a resonance configuration as a function of energy:
+	\[
+	S(E) = -E \ln E
+	\]
+	with $E$ normalized per system (see Repository, section 4.4).
+	
+	\subsection{Examples and Self-Inclusive Field Activation}
+	
+	- \textit{Sibling example:} Referencing one member activates the whole set.
+	- \textit{Network/Neuron:} Firing one node resonates in the entire network (see Repository, section on technical/biological fields).
+	- \textit{Set self-inclusion:} $M = \{a, b, M\}$, self-inclusion as resonance, not paradox.
+	
+	\medskip
+	
+	\textbf{All mathematical details, definitions, and extended examples are openly available in the repository (\url{https://github.com/DominicReneSchu/public}). The formalism is non-linear, recursive, and group-invariant: each structural act activates the whole field—Resonanzregel.}
 
 	
 	\section{Conceptual Implications}
@@ -371,6 +375,74 @@ with $E$ normalized per system (see Repository, section 4.4).
 	
 	\textit{Every act of participation, reference, or critique activates the whole resonance field: resonance is always inclusive.}
 
+	\subsection{Empirical Validation: Monte Carlo Simulation}
+	\label{sec:monte_carlo}
+	
+	Systemic openness and falsifiability of Resonance Field Theory (RFT) require empirical validation. A central tool is the Monte Carlo simulation, which numerically tests resonance phenomena and quantifies statistical significance in an open, reproducible way.
+	
+	\textbf{Principle:}  
+	By repeatedly simulating background scenarios (with explicit exclusion of resonance signal regions), the probability is estimated that observed resonance structures could arise by chance. The empirical p-value captures systemic significance and is fully reproducible.
+	
+	\textbf{Procedure:}
+	\begin{itemize}
+		\item The background distribution is extracted from measurement data, excluding signal regions.
+		\item A kernel density estimator generates a smooth probability density.
+		\item Many pseudo-experiments are simulated, each with a full resonance analysis (hit counts, p-values, optimal window selection).
+		\item The empirical significance (p-value) is the fraction of simulations yielding as strong or stronger effects than in real data.
+	\end{itemize}
+	
+	\textbf{Visualization and Example:}  
+	Histograms, p-value curves, and heatmaps reveal the difference between resonance and background (see Fig.~\ref{fig:mc_results}). All results and code are openly available in the repository.
+	
+	\begin{figure}[ht]
+		\centering
+		\includegraphics[width=0.7\textwidth]{figures/hist_mc_vs_real_hits.png}
+		\caption{Monte Carlo simulation: Histogram of hit counts in the optimal window. The red line marks the value from real data.}
+		\label{fig:mc_results}
+	\end{figure}
+	
+	\textbf{Open Science:}  
+	All scripts, data, and visualizations are fully accessible (\href{https://github.com/DominicReneSchu/public/tree/main/fakten/empirisch/monte_carlo_test}{github.com/DominicReneSchu/public}).
+	
+	\medskip
+	
+	For a detailed description, step-by-step instructions, and supplementary figures, see:\\
+	\url{https://github.com/DominicReneSchu/public/blob/main/fakten/empirisch/monte_carlo_test/monte_carlo.md}
+	
+	
+	\textbf{Visualization and Example:}  
+	The empirical resonance analysis is illustrated through a triad of plots:
+	\begin{itemize}
+		\item \textit{Histogram}: Distribution of hit counts from the Monte Carlo simulation, with the real data marked (see Fig.~\ref{fig:mc_results_hist}).
+		\item \textit{p-value curves over window width $\Delta$}: For each resonance position $\mathcal{E}$, the p-value as a function of $\Delta$ is shown for both real data and Monte Carlo background (Fig.~\ref{fig:mc_results_pvalue}).
+		\item \textit{Heatmaps}: Systemic visualization of hit counts over all $(\mathcal{E}, \Delta)$ combinations, for both real data and the simulation mean (Fig.~\ref{fig:mc_results_heatmap}).
+	\end{itemize}
+	This ensemble of results reveals not only the statistical significance but also the structural and parametric robustness of observed resonances.
+	
+	\begin{figure}[ht]
+		\centering
+		\includegraphics[width=0.7\textwidth]{figures/hist_mc_vs_real_hits.png}
+		\caption{Monte Carlo simulation: Histogram of hit counts in the optimal window. The red line marks the value from real data.}
+		\label{fig:mc_results_hist}
+	\end{figure}
+	
+	\begin{figure}[ht]
+		\centering
+		\includegraphics[width=0.7\textwidth]{figures/pvalue_curves.png}
+		\caption{p-value as a function of window width $\Delta$ for each resonance position $\mathcal{E}$. Median and 68\% interval from simulations, compared to real data.}
+		\label{fig:mc_results_pvalue}
+	\end{figure}
+	
+	\begin{figure}[ht]
+		\centering
+		\includegraphics[width=0.7\textwidth]{figures/heatmaps_hits.png}
+		\caption{Heatmaps: Hit counts across all $(\mathcal{E}, \Delta)$ for real data and Monte Carlo mean. The resonance field structure becomes apparent.}
+		\label{fig:mc_results_heatmap}
+	\end{figure}
+	
+	\textbf{Open Science:}  
+	All scripts, data, and visualizations are fully accessible (\href{https://github.com/DominicReneSchu/public/tree/main/fakten/empirisch/monte_carlo_test}{github.com/DominicReneSchu/public}).
+	
 
 	
 	\section{Conclusion}
@@ -451,15 +523,29 @@ with $E$ normalized per system (see Repository, section 4.4).
 	
 	In accordance with the resonance rule, the entire scientific and interdisciplinary community is openly invited to participate in the further development, critique, and extension of Resonance Field Theory (RFT). Every act of engagement—be it feedback, discussion, or contribution—systemically activates and enriches the resonance field. All perspectives, whether explicitly mentioned or implicitly resonating, are structurally included. Collaborative resonance and constructive critique are not only welcome but essential for the collective evolution of the theory.
 
-		\section*{Comparative Table: RFT, Quantum Mechanics, Relativity, Classical Field Theory}
+\newpage
+
+	\section*{Comparative Table: RFT, Quantum Mechanics, Relativity, Classical Field Theory}
 	
-	\begin{table}[ht]
-		\centering
-		\renewcommand{\arraystretch}{1.3}
-		\begin{tabular}{|p{4cm}|p{3cm}|p{3cm}|p{3cm}|p{3cm}|}
+	\renewcommand{\arraystretch}{1.3}
+	\begin{center}
+		\begin{longtable}{|p{4cm}|p{3cm}|p{3cm}|p{3cm}|p{3cm}|}
 			\hline
 			\textbf{Criterion} & \textbf{RFT} & \textbf{Quantum Mechanics (QM)} & \textbf{Relativity} & \textbf{Classical Field Theory} \\
 			\hline
+			\endfirsthead
+			
+			\hline
+			\textbf{Criterion} & \textbf{RFT} & \textbf{Quantum Mechanics (QM)} & \textbf{Relativity} & \textbf{Classical Field Theory} \\
+			\hline
+			\endhead
+			
+			\hline
+			\endfoot
+			
+			\hline
+			\endlastfoot
+			
 			\textbf{Observer Role} & Observer is systemically included; active resonator, inseparable from field & Observer external; role only in measurement, causing state collapse & Observer external; reference frames, no active influence & Observer external; passive reference \\
 			\hline
 			\textbf{Inclusion Principle} & Systemic inclusion; all subsystems and perspectives are part of field; group membership invariant & Observer and system separated except during measurement & Inertial observers related by symmetry; not structurally included & No explicit inclusion; fields defined on background space \\
@@ -476,10 +562,12 @@ with $E$ normalized per system (see Repository, section 4.4).
 			\hline
 			\textbf{Openness/Participation} & Open, inclusive; every act of reference or critique activates the field (resonance rule) & Openness only in interpretational extensions & Open to reference frame choice; closed to active inclusion & Closed formalism; openness only via boundary conditions \\
 			\hline
-		\end{tabular}
-		\caption{Contrasting core features of Resonance Field Theory (RFT), Quantum Mechanics (QM), Relativity, and Classical Field Theory along key criteria relevant to observer status, emergence, inclusion, group structure, information flow, stability, self-inclusion, and openness. In RFT, the resonance rule ensures every act of participation or reference activates the entire field; group belonging is invariant and universal.}
-		\label{tab:rft_comparison}
-	\end{table}
+			
+			\caption{Contrasting core features of Resonance Field Theory (RFT), Quantum Mechanics (QM), Relativity, and Classical Field Theory along key criteria relevant to observer status, emergence, inclusion, group structure, information flow, stability, self-inclusion, and openness. In RFT, the resonance rule ensures every act of participation or reference activates the entire field; group belonging is invariant and universal.}
+			\label{tab:rft_comparison}
+		\end{longtable}
+	\end{center}
+
 	
 	\begin{thebibliography}{99}
 		
