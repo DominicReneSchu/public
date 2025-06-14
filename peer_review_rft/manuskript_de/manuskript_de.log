@@ -1,0 +1,1763 @@
+This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.6.9)  14 JUN 2025 18:22
+ restricted system commands enabled.
+**manuskript_de.tex
+(./manuskript_de.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-04-14>
+Lua module: luaotfload 2024-12-03 v3.29 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 v2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 v2.76 ConTeXt Lua libraries -- extended 
+collection.
+luaotfload | conf : Root cache directory is "C:/Users/Admin/AppData/Local/MiKTeX
+/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-res
+olved path "C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/f
+ontloader-2023-12-28.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.134
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "C:/Users/Admin/AppData/Local/MiKTeX
+/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'. (C:/Users/Admin/AppData
+/Local/Programs/MiKTeX/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/base/size12.clo
+File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from C:/Users/Admin/AppData/Local/M
+iKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz)
+\c@part=\count270
+\c@section=\count271
+\c@subsection=\count272
+\c@subsubsection=\count273
+\c@paragraph=\count274
+\c@subparagraph=\count275
+\c@figure=\count276
+\c@table=\count277
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen145
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count278
+\Gm@cntv=\count279
+\c@Gm@tempcnt=\count280
+\Gm@bindingoffset=\dimen146
+\Gm@wd@mp=\dimen147
+\Gm@odd@mp=\dimen148
+\Gm@even@mp=\dimen149
+\Gm@layoutwidth=\dimen150
+\Gm@layoutheight=\dimen151
+\Gm@layouthoffset=\dimen152
+\Gm@layoutvoffset=\dimen153
+\Gm@dimlist=\toks18
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.cfg)) (C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen154
+))
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen155
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count281
+LaTeX Info: Redefining \frac on input line 235.
+\uproot@=\count282
+\leftroot@=\count283
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count284
+\DOTSCASE@=\count285
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen156
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count286
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count287
+\dotsspace@=\muskip17
+\c@parentequation=\count288
+\dspbrk@lvl=\count289
+\tag@help=\toks20
+\row@=\count290
+\column@=\count291
+\maxfields@=\count292
+\andhelp@=\toks21
+\eqnshift@=\dimen157
+\alignsep@=\dimen158
+\tagshift@=\dimen159
+\tagwidth@=\dimen160
+\totwidth@=\dimen161
+\lineht@=\dimen162
+\@envbody=\toks22
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 106.
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/graphics-def/luatex.def
+File: luatex.def 2024/04/13 v1.2e Graphics/color driver for luatex
+))
+\Gin@req@height=\dimen163
+\Gin@req@width=\dimen164
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/generic/kvdefinekeys/kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/generic/pdfescape/pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/generic/pdftexcmds/pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/generic/infwarerr/infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks24
+))
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/generic/gettitlestring/gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count293
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count294
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/generic/stringenc/stringenc.s
+ty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen165
+\Hy@linkcounter=\count295
+\Hy@pagecounter=\count296
+ (C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+) (C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count297
+ (C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count298
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen166
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/generic/bigintcalc/bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count299
+\Field@Width=\dimen167
+\Fld@charsize=\dimen168
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count300
+\c@Item=\count301
+\c@Hfootnote=\count302
+)
+Package hyperref Info: Driver (autodetected): hluatex.
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hluatex.def
+File: hluatex.def 2024-11-05 v7.01l Hyperref driver for luaTeX
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count303
+\c@bookmark@seq@number=\count304
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfil
+echeck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/generic/uniquecounter/uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip54
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/preprint/authblk.sty
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip55
+\@affilsep=\skip56
+\c@Maxaffil=\count305
+\c@authors=\count306
+\c@affil=\count307
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count308
+\float@exts=\toks25
+\float@box=\box55
+\@float@everytoks=\toks26
+\@floatcapt=\box56
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/tools/longtable.sty
+Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
+\LTleft=\skip57
+\LTright=\skip58
+\LTpre=\skip59
+\LTpost=\skip60
+\LTchunksize=\count309
+\LTcapwidth=\dimen169
+\LT@head=\box57
+\LT@firsthead=\box58
+\LT@foot=\box59
+\LT@lastfoot=\box60
+\LT@gbox=\box61
+\LT@cols=\count310
+\LT@rows=\count311
+\c@LT@tables=\count312
+\c@LT@chunks=\count313
+\LT@p@ftn=\toks27
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen170
+\captionmargin=\dimen171
+\caption@leftmargin=\dimen172
+\caption@rightmargin=\dimen173
+\caption@width=\dimen174
+\caption@indent=\dimen175
+\caption@parindent=\dimen176
+\caption@hangindent=\dimen177
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count314
+\c@continuedfloat=\count315
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)) (C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/qrcode/qrcode.sty
+Package: qrcode 2015/01/08 v1.51 QR code generation
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: luatex.def on input line 274.
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkeyval.tex
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks28
+\XKV@tempa@toks=\toks29
+)
+\XKV@depth=\count316
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\c@qr@i=\count317
+\c@qr@j=\count318
+\qr@a=\count319
+\qr@b=\count320
+\qr@c=\count321
+\qr@for@depth=\count322
+\qr@for@maxdepth=\count323
+\qr@for@start=\count324
+\qr@for@end=\count325
+\qr@for@step=\count326
+\qr@newforcount=\count327
+\qr@newforcount=\count328
+\qr@desiredheight=\skip61
+\qr@modulesize=\skip62
+\qr@minipagewidth=\skip63
+\c@maski=\count329
+\c@maskj=\count330
+\c@totalones=\count331
+\c@penaltyi=\count332
+\c@penaltyii=\count333
+\c@penaltyiii=\count334
+\c@penaltyiv=\count335
+\c@qr@hexchars=\count336
+\qr@newforcount=\count337
+\c@qr@divisionsremaining=\count338
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.sty
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xparse/xpars
+e.sty
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-04-14 L3 programming layer (loader) 
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-lua
+tex.def
+File: l3backend-luatex.def 2025-04-14 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count339
+Inserting `l3color' in `luaotfload.parse_color'.))
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec-luate
+x.sty
+Package: fontspec-luatex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaT
+eX
+\l__fontspec_script_int=\count340
+\l__fontspec_language_int=\count341
+\l__fontspec_strnum_int=\count342
+\l__fontspec_tmp_int=\count343
+\l__fontspec_tmpa_int=\count344
+\l__fontspec_tmpb_int=\count345
+\l__fontspec_tmpc_int=\count346
+\l__fontspec_em_int=\count347
+\l__fontspec_emdef_int=\count348
+\l__fontspec_strong_int=\count349
+\l__fontspec_strongdef_int=\count350
+\l__fontspec_tmpa_dim=\dimen178
+\l__fontspec_tmpb_dim=\dimen179
+\l__fontspec_tmpc_dim=\dimen180
+ (C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.cfg
+)))
+luaotfload | cache : Lookup cache loaded from C:/Users/Admin/AppData/Local/MiKTe
+X/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+
+Package fontspec Info: 
+(fontspec)             Font family 'LatinModernRoman(0)' created for font
+(fontspec)             'Latin Modern Roman' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"name:Latin Modern
+(fontspec)             Roman:mode=node;script=latn;language=dflt;+tlig;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"name:Latin Modern
+(fontspec)             Roman/B:mode=node;script=latn;language=dflt;+tlig;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"name:Latin
+(fontspec)             Modern
+(fontspec)             Roman/I:mode=node;script=latn;language=dflt;+tlig;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"name:Latin
+(fontspec)             Modern
+(fontspec)             Roman/BI:mode=node;script=latn;language=dflt;+tlig;"
+
+ (C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty
+Package: babel 2025/04/29 v25.8 The multilingual framework for pdfLaTeX, LuaLaT
+eX and XeLaTeX
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/generic/babel/luababel.def
+\bbl@readstream=\read2
+\l@afrikaans=\language2
+Package babel Info: Non-standard hyphenation setup on input line 118.
+\l@ancientgreek=\language3
+\l@armenian=\language4
+\l@assamese=\language5
+\l@basque=\language6
+\l@belarusian=\language7
+\l@bengali=\language8
+\l@bokmal=\language9
+\l@bulgarian=\language10
+\l@catalan=\language11
+\l@churchslavonic=\language12
+\l@classiclatin=\language13
+\l@coptic=\language14
+\l@croatian=\language15
+\l@czech=\language16
+\l@danish=\language17
+\l@dutch=\language18
+\l@esperanto=\language19
+\l@estonian=\language20
+\l@ethiopic=\language21
+\l@finnish=\language22
+\l@french=\language23
+\l@friulan=\language24
+\l@galician=\language25
+\l@georgian=\language26
+\l@german=\language27
+\l@greek=\language28
+\l@gujarati=\language29
+\l@hindi=\language30
+\l@hungarian=\language31
+\l@icelandic=\language32
+\l@indonesian=\language33
+\l@interlingua=\language34
+\l@irish=\language35
+\l@italian=\language36
+\l@kannada=\language37
+\l@kurmanji=\language38
+\l@latin=\language39
+\l@latvian=\language40
+\l@lithuanian=\language41
+\l@liturgicallatin=\language42
+\l@macedonian=\language43
+\l@malayalam=\language44
+\l@marathi=\language45
+\l@mongolian=\language46
+\l@mongolianlmc=\language47
+\l@monogreek=\language48
+\l@ngerman=\language49
+\l@nynorsk=\language50
+\l@occitan=\language51
+\l@oriya=\language52
+\l@pali=\language53
+\l@panjabi=\language54
+\l@piedmontese=\language55
+\l@polish=\language56
+\l@portuguese=\language57
+\l@romanian=\language58
+\l@romansh=\language59
+\l@russian=\language60
+\l@sanskrit=\language61
+\l@serbian=\language62
+\l@serbianc=\language63
+\l@slovak=\language64
+\l@slovenian=\language65
+\l@spanish=\language66
+\l@swedish=\language67
+\l@swissgerman=\language68
+\l@tamil=\language69
+\l@telugu=\language70
+\l@thai=\language71
+\l@turkish=\language72
+\l@turkmen=\language73
+\l@ukenglish=\language74
+\l@ukrainian=\language75
+\l@uppersorbian=\language76
+\l@usenglishmax=\language77
+\l@welsh=\language78
+\babelcatcodetablenum=\catcodetable14
+\bbl@pattcodes=\catcodetable15
+)
+\babel@savecnt=\count351
+\U@D=\dimen181
+\l@unhyphenated=\language79
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/generic/babel/luababel.def
+\bbl@attr@locale=\attribute4
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/arabi/bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/babel-german/ngerman.ld
+f
+Language: ngerman 2024/12/10 v2.15 German support for babel (post-1996 orthogra
+phy)
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/de/babel
+-ngerman.tex
+Package babel Info: Importing font and identification data for ngerman
+(babel)             from babel-de.ini. Reported on input line 11.
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/babel-german/ngermanb.l
+df
+Language: ngermanb 2024/12/10 v2.15 German support for babel (post-1996 orthogr
+aphy)
+Package babel Info: Making " an active character on input line 122.
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/generic/hyph-utf8/loadhyph/lo
+adhyph-de-1996.tex UTF-8 German hyphenation patterns (reformed orthography)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/generic/hyph-utf8/patterns/te
+x/hyph-de-1996.tex
+German Hyphenation Patterns (Reformed Orthography, 2006) `dehyphn-x' 2024-02-28
+ (WL)))))) (./manuskript_de.aux
+Package babel Info: 'ngerman' activates 'ngerman' shorthands.
+(babel)             Reported  on input line 11.
+
+<Reading QR code for "https://github.com/DominicReneSchu/public" at level 3-M f
+rom aux file.>
+)
+\openout1 = manuskript_de.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: luatex
+*geometry* verbose mode - [ preamble ] result:
+* driver: luatex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count352
+\scratchdimen=\dimen182
+\scratchbox=\box62
+\nofMPsegments=\count353
+\nofMParguments=\count354
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count355
+\MPscratchDim=\dimen183
+\MPnumerator=\count356
+\makeMPintoPDFobject=\count357
+\everyMPtoPDFconversion=\toks31
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/00miktex/epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package hyperref Info: Link coloring OFF on input line 38.
+ (./manuskript_de.out) (./manuskript_de.out)
+\@outlinefile=\write3
+
+\openout3 = manuskript_de.out
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 38.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 38.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 38.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 38.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 38.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 38.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 38.
+LaTeX Font Info:    Redeclaring math accent \check on input line 38.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 38.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 38.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 38.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 38.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 38.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/LatinModernRoman(0)/m/n on input lin
+e 38.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 38.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/LatinModernRoman(0)/m/n on input li
+ne 38.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/LatinModernRoman(0)/m/n --> TU/LatinModernRoman(0)/m
+/n on input line 38.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/LatinModernRoman(0)/m/it on input l
+ine 38.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/LatinModernRoman(0)/b/n on input li
+ne 38.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 38.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 38.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/LatinModernRoman(0)/m/n --> TU/LatinModernRoman(0)/b
+/n on input line 38.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/LatinModernRoman(0)/b/it on input 
+line 38.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 38.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 38.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
+
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
+
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (6.96924pt too wide) in paragraph at lines 52--53
+[]\TU/LatinModernRoman(0)/b/n/12 Schlag-wör-ter: \TU/LatinModernRoman(0)/m/n/1
+2 Re-so-nanz, Feld-theo-rie, sys-te-mi-sche In-klu-si-on, Grup-pen-in-va-ri-anz,
+ Emer-
+ []
+
+<figures/plot.png, id=146, 1011.78pt x 433.62pt>
+File: figures/plot.png Graphic file (type png)
+<use figures/plot.png>
+Package luatex.def Info: figures/plot.png  used on input line 58.
+(luatex.def)             Requested size: 386.96027pt x 165.84256pt.
+
+
+[1
+
+{C:/Users/Admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+
+[2<./figures/plot.png>]
+Overfull \hbox (2.7797pt too wide) in paragraph at lines 80--81
+\TU/LatinModernRoman(0)/m/n/12 For-schungs-platt-form zu-gäng-lich ([]$\TU/lmt
+t/m/n/12 https://github.com/DominicReneSchu/public$[]\TU/LatinModernRoman(0)/m/
+n/12 )—und
+ []
+
+
+
+[3
+Missing character: There is no   (U+202F) in font "name:Latin Modern Roman:mod
+e=node;script=latn;language=dflt;+tlig;"!
+]
+
+[4]
+
+[5]
+Overfull \hbox (10.69176pt too wide) in paragraph at lines 183--185
+\TU/LatinModernRoman(0)/m/n/12 Her-lei-tun-gen und Bei-spie-le sind of-fen zu-g
+äng-lich ([]$\TU/lmtt/m/n/12 https://github.com/DominicReneSchu/
+ []
+
+
+Overfull \hbox (1.60674pt too wide) in paragraph at lines 196--197
+\TU/LatinModernRoman(0)/m/n/12 gen-theo-re-ti-schen, al-ge-bra-ischen und ope-ra
+-tor-ba-sier-ten Rah-men, der al-le acht Axio-me—Re-
+ []
+
+
+
+[6
+Missing character: There is no   (U+202F) in font "name:Latin Modern Roman:mod
+e=node;script=latn;language=dflt;+tlig;"!
+]
+
+[7]
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <12> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 289.
+
+Overfull \hbox (3.81598pt too wide) in paragraph at lines 289--290
+\TU/LatinModernRoman(0)/b/n/12 fen im Re-po-si-to-ri-um zu-gäng-lich ([]$\TU/l
+mtt/b/n/12 https://github.com/DominicReneSchu/public$[]\TU/LatinModernRoman(0)/
+b/n/12 ).
+ []
+
+
+
+[8]
+
+[9]
+Overfull \hbox (6.77946pt too wide) in paragraph at lines 313--315
+\TU/LatinModernRoman(0)/m/n/12 Wei-ter-ent-wick-lung zu-gäng-lich ([]$\TU/lmtt
+/m/n/12 https://github.com/DominicReneSchu/public$[]\TU/LatinModernRoman(0)/m/n
+/12 ). Das Re-
+ []
+
+
+Overfull \hbox (4.90271pt too wide) in paragraph at lines 325--326
+[]\TU/LatinModernRoman(0)/m/n/12 Ana-ly-se emer-gen-ter Phä-no-me-ne—Ko-hä-r
+enz, Syn-chro-ni-sa-ti-on, Pha-sen-über-gän-ge—als
+ []
+
+
+Overfull \hbox (4.74265pt too wide) in paragraph at lines 326--327
+[]\TU/LatinModernRoman(0)/m/n/12 Ex-pe-ri-men-tel-le Vor-schlä-ge: ge-kop-pel-t
+e Os-zil-la-to-ren, Netz-werk-syn-chro-ni-sa-ti-on, Quan-
+ []
+
+
+Overfull \hbox (0.1973pt too wide) in paragraph at lines 326--327
+\TU/LatinModernRoman(0)/m/n/12 ten-ver-schrän-kung als Re-so-nanz-feld-ak-ti-vi
+e-rung (sie-he Re-po-si-to-ri-um: Mes-sung, Kopp-
+ []
+
+
+
+[10]
+Overfull \hbox (1.3361pt too wide) in paragraph at lines 344--345
+[]\TU/LatinModernRoman(0)/m/n/12 Ver-ständ-nis von Grup-pen-zu-ge-hö-rig-keit und Selbstin-k-lu-si-on (Re-so-nanz-re-gel) als Trei-
+ []
+
+
+
+[11]
+<figures/hist_mc_vs_real_hits.png, id=243, 1148.3703pt x 570.933pt>
+File: figures/hist_mc_vs_real_hits.png Graphic file (type png)
+<use figures/hist_mc_vs_real_hits.png>
+Package luatex.def Info: figures/hist_mc_vs_real_hits.png  used on input line 4
+04.
+(luatex.def)             Requested size: 318.66948pt x 158.43141pt.
+
+Overfull \hbox (8.25534pt too wide) in paragraph at lines 414--416
+[]$\TU/lmtt/m/n/12 https://github.com/DominicReneSchu/public/blob/main/fakten/em
+pirisch/monte_
+ []
+
+
+
+[12]
+Overfull \hbox (19.37733pt too wide) in paragraph at lines 420--421
+[]\TU/LatinModernRoman(0)/m/it/12 His-to-gramm\TU/LatinModernRoman(0)/m/n/12 : 
+Tref-fer-ver-tei-lung der Monte-Carlo-Simulation, Re-al-wert mar-kiert (Abb. []
+3[]). 
+ []
+
+File: figures/hist_mc_vs_real_hits.png Graphic file (type png)
+<use figures/hist_mc_vs_real_hits.png>
+Package luatex.def Info: figures/hist_mc_vs_real_hits.png  used on input line 4
+28.
+(luatex.def)             Requested size: 318.66948pt x 158.43141pt.
+<figures/pvalue_curves.png, id=255, 1293.633pt x 570.933pt>
+File: figures/pvalue_curves.png Graphic file (type png)
+<use figures/pvalue_curves.png>
+Package luatex.def Info: figures/pvalue_curves.png  used on input line 435.
+(luatex.def)             Requested size: 318.66948pt x 140.64207pt.
+<figures/heatmaps_hits.png, id=256, 1170.774pt x 427.8384pt>
+File: figures/heatmaps_hits.png Graphic file (type png)
+<use figures/heatmaps_hits.png>
+Package luatex.def Info: figures/heatmaps_hits.png  used on input line 442.
+(luatex.def)             Requested size: 318.66948pt x 116.45145pt.
+
+
+[13<./figures/hist_mc_vs_real_hits.png>]
+Overfull \hbox (3.425pt too wide) in paragraph at lines 458--459
+\TU/LatinModernRoman(0)/m/n/12 und um-fas-sen-der Do-ku-men-ta-ti-on ([]$\TU/lm
+tt/m/n/12 https://github.com/DominicReneSchu/public$[]\TU/LatinModernRoman(0)/m
+/n/12 ), lädt
+ []
+
+
+
+[14<./figures/pvalue_curves.png>]
+Overfull \hbox (61.99709pt too wide) in paragraph at lines 478--479
+\TU/lmtt/m/n/12 public$[]\TU/LatinModernRoman(0)/m/n/12 . Das Re-po-si-to-ri-um ent-h
+ält al-le Her-lei-tun-gen, Si-mu-la-ti-ons-skrip-te (in-klu-si-ve \TU/lmtt/m/n
+/12 resonanzfeld.py\TU/LatinModernRoman(0)/m/n/12 ),
+ []
+
+
+
+[15<./figures/heatmaps_hits.png>]
+Underfull \hbox (badness 1478) in paragraph at lines 486--486
+[][][]\TU/LatinModernRoman(0)/m/n/10 Sie-he: []$\TU/lmtt/m/n/10 https://github.c
+om/DominicReneSchu/public/blob/main/fakten/docs/definitionen/
+ []
+
+
+Overfull \hbox (5.632pt too wide) in paragraph at lines 490--491
+[]\TU/LatinModernRoman(0)/m/n/12 Grup-pen-zu-ge-hö-rig-keit ist sys-te-misch in
+-va-ri-ant und
+ []
+
+
+Overfull \hbox (1.49713pt too wide) in paragraph at lines 496--497
+\TU/LatinModernRoman(0)/m/n/12 Per-mu-ta-tio-nen, Um-be-nen-nun-gen oder Per-spe
+k-tiv-wech-seln. Zu-ge-hö-rig-keit und Struk-
+ []
+
+
+Overfull \hbox (17.33185pt too wide) in paragraph at lines 499--500
+[]\TU/LatinModernRoman(0)/m/n/12 Ein dy-na-mi-sches, sys-tem-spe-zi-fi-sches Ma
+ß
+ []
+
+
+Overfull \hbox (3.7974pt too wide) in paragraph at lines 508--509
+\TU/LatinModernRoman(0)/m/n/12 ge-gen-über schwin-gen-der An-re-gung, be-stimmt
+ durch in-trin-si-sche Ei-gen-schaf-ten (Träg-
+ []
+
+
+
+[16]
+Overfull \hbox (6.95604pt too wide) in paragraph at lines 532--533
+[]\TU/LatinModernRoman(0)/m/n/12 Ein Maß für die Kon-fi-gu-ra-ti-ons-viel-falt
+ oder
+ []
+
+
+Overfull \hbox (4.95592pt too wide) in paragraph at lines 535--536
+[]\TU/LatinModernRoman(0)/m/n/12 Der Ka-nal oder die
+ []
+
+
+Overfull \hbox (20.61533pt too wide) in paragraph at lines 539--542
+[]$\TU/lmtt/m/n/12 https://github.com/DominicReneSchu/public/blob/main/fakten/do
+cs/definitionen/
+ []
+
+
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 550--550
+[]|\TU/LatinModernRoman(0)/b/n/12 Quan-ten-me-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 550--551
+[]|\TU/LatinModernRoman(0)/b/n/12 Klas-si-sche
+ []
+
+
+Overfull \hbox (59.99995pt too wide) in alignment at lines 548--552
+ [][][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--555
+[]|\TU/LatinModernRoman(0)/b/n/12 Quan-ten-me-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--556
+[]|\TU/LatinModernRoman(0)/b/n/12 Klas-si-sche
+ []
+
+
+Overfull \hbox (59.99995pt too wide) in alignment at lines 552--557
+ [][][][][] 
+ []
+
+
+Overfull \hbox (59.99995pt too wide) in alignment at lines 557--560
+ [][][][][] 
+ []
+
+
+Overfull \hbox (59.99995pt too wide) in alignment at lines 560--563
+ [][][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--565
+[]|\TU/LatinModernRoman(0)/m/n/12 Be-ob-ach-ter ist
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--565
+\TU/LatinModernRoman(0)/m/n/12 sys-te-misch in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--565
+\TU/LatinModernRoman(0)/m/n/12 Re-so-na-tor, un-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--565
+\TU/LatinModernRoman(0)/m/n/12 trenn-bar vom
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--565
+[]|\TU/LatinModernRoman(0)/m/n/12 Be-ob-ach-ter ex-
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 565--565
+\TU/LatinModernRoman(0)/m/n/12 tern; Rol-le nur
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--565
+\TU/LatinModernRoman(0)/m/n/12 ver-ur-sacht Zu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--565
+[]|\TU/LatinModernRoman(0)/m/n/12 Be-ob-ach-ter
+ []
+
+
+Underfull \hbox (badness 3098) in paragraph at lines 565--565
+\TU/LatinModernRoman(0)/m/n/12 ex-tern; Be-zugs-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--565
+\TU/LatinModernRoman(0)/m/n/12 sys-te-me, kei-ne
+ []
+
+
+Underfull \hbox (badness 3514) in paragraph at lines 565--565
+\TU/LatinModernRoman(0)/m/n/12 ak-ti-ve Ein-fluss-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--566
+[]|\TU/LatinModernRoman(0)/m/n/12 Be-ob-ach-ter ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--566
+\TU/LatinModernRoman(0)/m/n/12 tern; pas-si-ve
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
+[]|\TU/LatinModernRoman(0)/m/n/12 Sys-te-mi-sche
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
+\TU/LatinModernRoman(0)/m/n/12 In-klu-si-on; al-le
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
+\TU/LatinModernRoman(0)/m/n/12 Teil-sys-te-me
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
+\TU/LatinModernRoman(0)/m/n/12 und Per-spek-
+ []
+
+
+Underfull \hbox (badness 2790) in paragraph at lines 567--567
+\TU/LatinModernRoman(0)/m/n/12 ti-ven sind Teil
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
+\TU/LatinModernRoman(0)/m/n/12 des Fel-des;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
+\TU/LatinModernRoman(0)/m/n/12 Grup-pen-zu-ge-hö-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
+[]|\TU/LatinModernRoman(0)/m/n/12 Be-ob-ach-ter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
+\TU/LatinModernRoman(0)/m/n/12 und Sys-tem
+ []
+
+
+Underfull \hbox (badness 5245) in paragraph at lines 567--567
+\TU/LatinModernRoman(0)/m/n/12 ge-trennt, au-ßer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
+\TU/LatinModernRoman(0)/m/n/12 wäh-rend der
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
+[]|\TU/LatinModernRoman(0)/m/n/12 In-er-ti-al-be-ob-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
+\TU/LatinModernRoman(0)/m/n/12 ach-ter durch
+ []
+
+
+Underfull \hbox (badness 4013) in paragraph at lines 567--567
+\TU/LatinModernRoman(0)/m/n/12 Sym-me-trie ver-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
+\TU/LatinModernRoman(0)/m/n/12 wandt; nicht
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
+\TU/LatinModernRoman(0)/m/n/12 struk-tu-rell in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--568
+[]|\TU/LatinModernRoman(0)/m/n/12 Kei-ne ex-pli-zi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--568
+\TU/LatinModernRoman(0)/m/n/12 te In-klu-si-on;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--568
+\TU/LatinModernRoman(0)/m/n/12 ter-grund-raum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+[]|\TU/LatinModernRoman(0)/m/n/12 Kol-lek-ti-ve Re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+\TU/LatinModernRoman(0)/m/n/12 so-nanz, Selbst-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+\TU/LatinModernRoman(0)/m/n/12 or-ga-ni-sa-ti-on,
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 569--569
+\TU/LatinModernRoman(0)/m/n/12 back; Emer-genz
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+\TU/LatinModernRoman(0)/m/n/12 Su-per-po-si-ti-on,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+\TU/LatinModernRoman(0)/m/n/12 Ver-schrän-kung;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+\TU/LatinModernRoman(0)/m/n/12 geo-me-tri-sche
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+\TU/LatinModernRoman(0)/m/n/12 Re-la-tio-nen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+\TU/LatinModernRoman(0)/m/n/12 (Raum-zeit-krüm-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--570
+\TU/LatinModernRoman(0)/m/n/12 Sum-me lo-ka-ler
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--570
+\TU/LatinModernRoman(0)/m/n/12 Feld-ef-fek-te;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
+[]|\TU/LatinModernRoman(0)/m/n/12 Re-so-nanz-grup-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
+\TU/LatinModernRoman(0)/m/n/12 pe; In-klu-si-on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
+\TU/LatinModernRoman(0)/m/n/12 in-va-ri-ant un-ter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
+\TU/LatinModernRoman(0)/m/n/12 Um-be-nen-nung,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
+\TU/LatinModernRoman(0)/m/n/12 Per-spek-ti-ve,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
+[]|\TU/LatinModernRoman(0)/m/n/12 Sym-me-trie-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
+\TU/LatinModernRoman(0)/m/n/12 grup-pen (z.B.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
+\TU/LatinModernRoman(0)/m/n/12 SU(2), SU(3));
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
+\TU/LatinModernRoman(0)/m/n/12 Grup-pen-wir-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
+\TU/LatinModernRoman(0)/m/n/12 Beobachter-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
+\TU/LatinModernRoman(0)/m/n/12 System-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
+[]|\TU/LatinModernRoman(0)/m/n/12 Lorentz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
+\TU/LatinModernRoman(0)/m/n/12 /Poincaré-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
+\TU/LatinModernRoman(0)/m/n/12 Gruppen;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
+\TU/LatinModernRoman(0)/m/n/12 Raum-zeit-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--572
+\TU/LatinModernRoman(0)/m/n/12 me-trie-grup-pen;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--572
+\TU/LatinModernRoman(0)/m/n/12 ex-tern zum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
+[]|\TU/LatinModernRoman(0)/m/n/12 Struk-tu-rier-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
+\TU/LatinModernRoman(0)/m/n/12 te Re-so-nanz;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
+\TU/LatinModernRoman(0)/m/n/12 In-for-ma-ti-ons-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
+\TU/LatinModernRoman(0)/m/n/12 aus-tausch nur
+ []
+
+
+Underfull \hbox (badness 2635) in paragraph at lines 573--573
+\TU/LatinModernRoman(0)/m/n/12 über Re-so-nanz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
+[]|\TU/LatinModernRoman(0)/m/n/12 Pro-ba-bi-lis-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
+\TU/LatinModernRoman(0)/m/n/12 scher Kol-laps;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
+[]|\TU/LatinModernRoman(0)/m/n/12 In-for-ma-ti-on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
+\TU/LatinModernRoman(0)/m/n/12 durch Licht-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
+\TU/LatinModernRoman(0)/m/n/12 ge-schwin-dig-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
+\TU/LatinModernRoman(0)/m/n/12 keit be-grenzt;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
+\TU/LatinModernRoman(0)/m/n/12 geo-me-tri-sche
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 573--574
+[]|\TU/LatinModernRoman(0)/m/n/12 Lo-ka-le Aus-brei-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--575
+[]|\TU/LatinModernRoman(0)/m/n/12 Feld-sta-bi-li-tät
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--575
+\TU/LatinModernRoman(0)/m/n/12 Re-so-nanz und
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--575
+\TU/LatinModernRoman(0)/m/n/12 Ei-gen-zu-stän-de;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--575
+\TU/LatinModernRoman(0)/m/n/12 De-ko-hä-renz
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--575
+[]|\TU/LatinModernRoman(0)/m/n/12 Geo-me-tri-sche
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--576
+\TU/LatinModernRoman(0)/m/n/12 li-nea-re Glei-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--576
+\TU/LatinModernRoman(0)/m/n/12 chun-gen oder
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--576
+\TU/LatinModernRoman(0)/m/n/12 En-er-gie-er-hal-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 577--577
+[]|\TU/LatinModernRoman(0)/m/n/12 Ex-pli-zit pos-tu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 577--577
+\TU/LatinModernRoman(0)/m/n/12 Inklusions-
+ []
+
+
+Underfull \hbox (badness 1661) in paragraph at lines 577--577
+\TU/LatinModernRoman(0)/m/n/12 Axiom); Selbst-
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 577--577
+\TU/LatinModernRoman(0)/m/n/12 Einbettung und
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 577--577
+[]|\TU/LatinModernRoman(0)/m/n/12 Nicht vor-han-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 579--579
+[]|\TU/LatinModernRoman(0)/b/n/12 Of-fen-heit/Par-ti-zi-
+ []
+
+
+Underfull \hbox (badness 5147) in paragraph at lines 579--579
+[]|\TU/LatinModernRoman(0)/m/n/12 Of-fen, in-klu-siv;
+ []
+
+
+Underfull \hbox (badness 7486) in paragraph at lines 579--579
+\TU/LatinModernRoman(0)/m/n/12 je-der Akt der
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 579--579
+\TU/LatinModernRoman(0)/m/n/12 Re-fe-renz oder
+ []
+
+
+Underfull \hbox (badness 3989) in paragraph at lines 579--579
+\TU/LatinModernRoman(0)/m/n/12 Kri-tik ak-ti-viert
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 579--579
+\TU/LatinModernRoman(0)/m/n/12 in-ter-pre-ta-ti-ven
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 579--579
+\TU/LatinModernRoman(0)/m/n/12 des Be-zugs-sys-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 579--579
+\TU/LatinModernRoman(0)/m/n/12 tems; ge-schlos-
+ []
+
+
+Underfull \hbox (badness 6141) in paragraph at lines 579--579
+\TU/LatinModernRoman(0)/m/n/12 sen für ak-ti-ve
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 579--580
+[]|\TU/LatinModernRoman(0)/m/n/12 Ge-schlos-se-nes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 579--580
+\TU/LatinModernRoman(0)/m/n/12 For-ma-lis-mus;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 579--580
+\TU/LatinModernRoman(0)/m/n/12 Of-fen-heit nur
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 579--580
+\TU/LatinModernRoman(0)/m/n/12 durch Rand-be-
+ []
+
+
+Underfull \hbox (badness 1953) in paragraph at lines 581--581
+\TU/LatinModernRoman(0)/m/n/12 mi-sches Axi-om;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 581--581
+\TU/LatinModernRoman(0)/m/n/12 Zu-ge-hö-rig-keit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 581--581
+\TU/LatinModernRoman(0)/m/n/12 sind in-va-ri-ant
+ []
+
+
+Underfull \hbox (badness 6047) in paragraph at lines 581--581
+\TU/LatinModernRoman(0)/m/n/12 über al-le Per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 581--581
+\TU/LatinModernRoman(0)/m/n/12 spek-ti-ven und
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 581--581
+[]|\TU/LatinModernRoman(0)/m/n/12 Nicht vor-han-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 581--581
+\TU/LatinModernRoman(0)/m/n/12 den; Grup-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 581--581
+\TU/LatinModernRoman(0)/m/n/12 pen-struk-tur
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 581--581
+\TU/LatinModernRoman(0)/m/n/12 an Sym-me-trie,
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 581--581
+\TU/LatinModernRoman(0)/m/n/12 nicht Par-ti-zi-pa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 581--581
+[]|\TU/LatinModernRoman(0)/m/n/12 Nicht vor-han-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 581--581
+\TU/LatinModernRoman(0)/m/n/12 den; In-va-ri-anz
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 581--581
+\TU/LatinModernRoman(0)/m/n/12 Ko-or-di-na-ten,
+ []
+
+
+Underfull \hbox (badness 3884) in paragraph at lines 581--581
+\TU/LatinModernRoman(0)/m/n/12 nicht Grup-pen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 581--582
+[]|\TU/LatinModernRoman(0)/m/n/12 Nicht vor-han-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 581--582
+\TU/LatinModernRoman(0)/m/n/12 den; In-klu-si-on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 583--583
+[]|\TU/LatinModernRoman(0)/m/n/12 Dy-na-mi-sche
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 583--583
+\TU/LatinModernRoman(0)/m/n/12 Re-kon-fi-gu-ra-ti-on
+ []
+
+
+Underfull \hbox (badness 1924) in paragraph at lines 583--583
+\TU/LatinModernRoman(0)/m/n/12 si-on; in-hä-ren-tes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 583--583
+[]|\TU/LatinModernRoman(0)/m/n/12 Ad-ap-ti-vi-tät
+ []
+
+
+Underfull \hbox (badness 7379) in paragraph at lines 583--583
+\TU/LatinModernRoman(0)/m/n/12 durch Mes-sung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 583--583
+\TU/LatinModernRoman(0)/m/n/12 und Kol-laps;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 583--583
+[]|\TU/LatinModernRoman(0)/m/n/12 Ad-ap-ti-vi-tät
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 583--583
+\TU/LatinModernRoman(0)/m/n/12 be-schränkt auf
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 583--584
+[]|\TU/LatinModernRoman(0)/m/n/12 Ad-ap-ti-vi-tät nur
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 583--584
+\TU/LatinModernRoman(0)/m/n/12 über Rand-be-
+ []
+
+
+Underfull \hbox (badness 2932) in paragraph at lines 583--584
+\TU/LatinModernRoman(0)/m/n/12 din-gun-gen oder
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 583--584
+\TU/LatinModernRoman(0)/m/n/12 ex-ter-ne Steue-
+ []
+
+
+Overfull \hbox (59.99995pt too wide) in alignment at lines 563--588
+ [][][][][] 
+ []
+
+[18]
+
+[19]
+
+
+<QR code requested for "https://github.com/DominicReneSchu/public" in version 0
+-M.>
+
+<Copying the QR code for "https://github.com/DominicReneSchu/public" in version
+ 3-M as previously calculated.>
+
+
+[20] (./manuskript_de.aux
+<Reading QR code for "https://github.com/DominicReneSchu/public" at level 3-M f
+rom aux file.>
+)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-04-14>
+ ***********
+Package rerunfilecheck Info: File `manuskript_de.out' has not changed.
+(rerunfilecheck)             Checksum: E44F293D0D1B9244D1BD6F9CE8AF574B;8158.
+)
+
+Here is how much of LuaTeX's memory you used:
+ 18148 strings out of 471925
+ 156261,1144653 words of node,token memory allocated
+ 824 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 8 glue, 4 kern, 1 glyph, 70 attribute, 61 glue_spec
+, 37 attribute_list, 1 write, 9 pdf_action nodes
+   avail lists: 1:1,2:3199,3:537,4:58,5:571,6:117,7:10407,8:100,9:5403,10:23,11:
+1395
+ 44328 multiletter control sequences out of 65536+600000
+ 94 fonts using 7763135 bytes
+ 73i,11n,92p,1023b,591s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lm/lmroman10
+-bolditalic.otf><c:/users/admin/appdata/local/programs/miktex/fonts/opentype/pub
+lic/lm/lmmonolt10-bold.otf><c:/users/admin/appdata/local/programs/miktex/fonts/o
+pentype/public/lm/lmroman12-italic.otf><c:/users/admin/appdata/local/programs/mi
+ktex/fonts/opentype/public/lm/lmroman6-regular.otf><c:/users/admin/appdata/local
+/programs/miktex/fonts/opentype/public/lm/lmroman8-regular.otf><c:/users/admin/a
+ppdata/local/programs/miktex/fonts/opentype/public/lm/lmroman7-regular.otf><c:/u
+sers/admin/appdata/local/programs/miktex/fonts/opentype/public/lm/lmmono12-regul
+ar.otf><c:/users/admin/appdata/local/programs/miktex/fonts/opentype/public/lm/lm
+roman12-regular.otf><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/opentype
+/public/lm/lmroman12-bold.otf><c:/users/admin/appdata/local/programs/miktex/font
+s/opentype/public/lm/lmmono10-regular.otf><c:/users/admin/appdata/local/programs
+/miktex/fonts/opentype/public/lm/lmroman10-bold.otf><c:/users/admin/appdata/loca
+l/programs/miktex/fonts/opentype/public/lm/lmroman10-regular.otf><c:/users/admin
+/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman17-regular.otf><C
+:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex1
+0.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cmextra/cmex8.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmmi12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Admin/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Admin/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Admin/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Admin/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Adm
+in/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Us
+ers/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbo
+ls/msbm10.pfb>
+Output written on manuskript_de.pdf (20 pages, 704677 bytes).
+
+PDF statistics: 459 PDF objects out of 1000 (max. 8388607)
+ 79 named destinations out of 1000 (max. 131072)
+ 281 words of extra memory for PDF output out of 10000 (max. 100000000)
+
