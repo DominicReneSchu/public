@@ -44,6 +44,14 @@ Die ausführliche Zusammenfassung der Resonanzfeldtheorie steht als PDF zum Down
 
 ---
 
+## Peer Review 📄
+
+Es wird ein Peer-Review-Verfahren angestrebt. Die aktuelle Fassung des Manuskripts und des Cover Letters sind hier zu finden:  
+- [**cover_letter.pdf**](peer_review_rft/cover_letter.pdf)
+- [**rft_manuskript.pdf**](peer_review_rft/rft_manuskript.pdf)
+
+---
+
 ![Visualisierung der Resonanzfeldtheorie: π, ℏ, 𝓔 und f im Resonanzraum](bilder/visualisierung_RFT.png)
 
 *Abb. 1: Symbolische Darstellung der Wechselwirkung von π, ℏ, 𝓔 und **𝑓** im Resonanzraum*
