@@ -46,12 +46,11 @@ Die ausführliche Zusammenfassung der Resonanzfeldtheorie steht als PDF zum Down
 
 ## Peer Review 📄
 
-Ein Peer-Review-Verfahren wird aktiv angestrebt. Die aktuelle Version des Manuskripts und des Begleitschreibens finden Sie hier:
+Ein Peer-Review-Verfahren wird aktiv angestrebt. Die aktuelle Version des Manuskripts finden Sie hier:
 
-- [**cover_letter_de.pdf**](peer_review_rft/cover_letter_de/cover_letter_de.pdf) – Anschreiben für die Begutachtung  
 - [**rft_manuskript_de.pdf**](peer_review_rft/manuskript_de/manuskript_de.pdf) – Manuskript zur Resonanzfeldtheorie  
 
-**Hinweis:** Diese Dokumente sind vorläufig und werden fortlaufend weiterentwickelt. 
+
 
 
 ---
