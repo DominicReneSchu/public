@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.6.9)  15 JUN 2025 11:33
+This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.6.9)  15 JUN 2025 11:54
  restricted system commands enabled.
 **rft_manuskript_en_iop.tex
 (./rft_manuskript_en_iop.tex
@@ -41,29 +41,129 @@ Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
 Inserting `tracingstacklevels' in `input_level_string'. (./iopart.cls
 Document Class: iopart 1996/06/10 v0.0 IOP Journals LaTeX article class
+(./iopart12.clo
+File: iopart12.clo 1997/01/15 v1.0 LaTeX2e file (size option)
+luaotfload | db : Font names database loaded from C:/Users/Admin/AppData/Local/M
+iKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz)
+\c@jnl=\count270
+\c@section=\count271
+\c@subsection=\count272
+\c@subsubsection=\count273
+\c@paragraph=\count274
+\c@subparagraph=\count275
+\c@figure=\count276
+\c@table=\count277
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\indentedwidth=\skip51
+\mathindent=\dimen145
+\c@eqnval=\count278
+) (./iopams.sty
+Package: iopams 1997/02/13 v1.0
 
-! LaTeX Error: File `iopart12.clo' not found.
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen146
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen147
+))
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 106.
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/graphics-def/luatex.def
+File: luatex.def 2024/04/13 v1.2e Graphics/color driver for luatex
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+)
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \usepackage{graphicx}[12pt]{i
+                                  opart}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count279
+\Gm@cntv=\count280
+\c@Gm@tempcnt=\count281
+\Gm@bindingoffset=\dimen150
+\Gm@wd@mp=\dimen151
+\Gm@odd@mp=\dimen152
+\Gm@even@mp=\dimen153
+\Gm@layoutwidth=\dimen154
+\Gm@layoutheight=\dimen155
+\Gm@layouthoffset=\dimen156
+\Gm@layoutvoffset=\dimen157
+\Gm@dimlist=\toks19
+
+(C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.cfg))
+
+! LaTeX Error: File `iopart.cls.sty' not found.
 
 Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: clo)
+or enter new name. (Default extension: sty)
 
 Enter file name: 
 ! Emergency stop.
 <read *> 
          
-l.52 \input{iopart1\@ptsize.clo}
-                                
+l.14 \usepackage
+                {amsmath,amsfonts,amssymb}
 *** (cannot \read from terminal in nonstop modes)
 
 
 
 Here is how much of LuaTeX's memory you used:
- 60 strings out of 471925
- 100000,662416 words of node,token memory allocated 303 words of node memory still in use:
-   1 hlist, 1 dir, 3 kern, 1 glyph, 1 attribute, 39 glue_spec, 1 attribute_list,
- 1 if_stack nodes
-   avail lists: 2:9,3:3,4:1
- 26760 multiletter control sequences out of 65536+600000
- 14 fonts using 591679 bytes
- 31i,0n,39p,119b,18s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 2190 strings out of 471925
+ 100000,662416 words of node,token memory allocated 497 words of node memory still in use:
+   4 hlist, 1 rule, 1 local_par, 1 dir, 4 glue, 3 kern, 1 penalty, 7 glyph, 8 at
+tribute, 49 glue_spec, 8 attribute_list, 1 write nodes
+   avail lists: 2:13,3:2,4:1,5:1,7:2,9:1
+ 28809 multiletter control sequences out of 65536+600000
+ 15 fonts using 723367 bytes
+ 57i,0n,62p,225b,40s stack positions out of 10000i,1000n,20000p,200000b,200000s
 !  ==> Fatal error occurred, no output PDF file produced!
