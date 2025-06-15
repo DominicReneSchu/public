@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.6.15)  15 JUN 2025 22:29
+This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.6.15)  15 JUN 2025 23:08
  restricted system commands enabled.
 **rft_manuskript_de_iop.tex
 (./rft_manuskript_de_iop.tex
@@ -692,52 +692,50 @@ ri-ant, inkludiert alle
 [15
 Missing character: There is no   (U+202F) in font [lmroman12-regular]:+tlig;!
 ]
-Underfull \hbox (badness 3724) in paragraph at lines 528--529
-[]\TU/lmr/m/n/12 Sys-temisch in-vari-ante Grup-pen-zuge-hörigkeit
+Underfull \hbox (badness 3492) in paragraph at lines 528--529
+[]\TU/lmr/m/n/12 Sys-temisch in-vari-ante Grup-pen-zuge-hörigkeit aller Mit-gli
+eder –
  []
 
 
-Overfull \hbox (1.94092pt too wide) in paragraph at lines 531--532
-[]\TU/lmr/m/n/12 Jedes Teil-sys-tem, jeder Beobachter,
+Underfull \hbox (badness 1769) in paragraph at lines 543--544
+[]\TU/lmr/m/n/12 Maß geord-neter, phasen-syn-chroner Wech-sel-wirkun-gen, Ba-si
+s sta-biler
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 534--535
-\TU/lmr/m/n/12 un-verän-dert unter Per-mu-ta-tio-nen, Um-be-nen-nun-gen oder Pe
-r-spek-tivwech-seln.
+Underfull \hbox (badness 3919) in paragraph at lines 546--547
+[]\TU/lmr/m/n/12 Kom-plexe Größe des Wider-stands gegen os-zil-la-torische An-
+re-gung,
  []
 
 
-Underfull \hbox (badness 2050) in paragraph at lines 540--541
-[]\TU/lmr/m/n/12 Charak-ter-is-tis-che Fre-quenz mit
- []
-
-
-Underfull \hbox (badness 4846) in paragraph at lines 543--544
-[]\TU/lmr/m/n/12 Maß geord-neter, phasen-syn-chroner Wech-sel-wirkun-gen,
+Underfull \hbox (badness 4899) in paragraph at lines 546--547
+\TU/lmr/m/n/12 bes-timmt durch Sys-tem-pa-ra-m-e-ter (Trägheit, Spe-icher-fähi
+gkeit, Of-fen-heit).
  []
 
 
 
 [16]
-Overfull \hbox (8.47603pt too wide) in paragraph at lines 552--553
-[]\TU/lmr/m/n/12 Diskrete Stufen
+Underfull \hbox (badness 2790) in paragraph at lines 549--550
+[]\TU/lmr/m/n/12 Prinzip, dass jede Bezug-nahme auf einen Teil das gesamte
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 558--559
-[]\TU/lmr/m/n/12 Menge aller El-e-mente, mit
+Overfull \hbox (13.51297pt too wide) in paragraph at lines 552--553
+[]\TU/lmr/m/n/12 Diskrete Stufen des Kop-plung-sop-er-a-tors, beobacht-
  []
 
 
-Underfull \hbox (badness 1748) in paragraph at lines 567--568
-\TU/lmr/m/n/12 oder eine Gruppe wirkt, ohne deren fun-da-men-tale Struk-tur zu 
-verän-dern
+Underfull \hbox (badness 1052) in paragraph at lines 561--562
+[]\TU/lmr/m/n/12 Ganzheitliche, of-fene und dy-namis-che Struk-tur aller gekop-p
+el-ten
  []
 
 
-Overfull \hbox (22.12405pt too wide) in paragraph at lines 573--574
-[]\TU/lmr/m/n/12 Se-quenz oder Kanal,
+Underfull \hbox (badness 1895) in paragraph at lines 567--568
+[]\TU/lmr/m/n/12 Op-er-a-tor, der auf das Res-o-nanzfeld oder eine Gruppe
  []
 
 
@@ -1474,46 +1472,45 @@ Package rerunfilecheck Info: File `rft_manuskript_de_iop.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 11481 strings out of 470209
+ 11480 strings out of 470209
  156270,662416 words of node,token memory allocated
  615 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 3 glue, 3 kern, 1 glyph, 24 attribute, 58 glue_spec
 , 24 attribute_list, 1 write, 12 pdf_action nodes
    avail lists: 2:2152,3:529,4:56,5:519,6:116,7:9147,8:100,9:5564,10:20,11:759
- 39550 multiletter control sequences out of 65536+600000
- 51 fonts using 3715159 bytes
+ 39549 multiletter control sequences out of 65536+600000
+ 50 fonts using 3583471 bytes
  72i,7n,75p,1028b,529s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lm/lmroman10
--italic.otf><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/opentype/public/
-lm/lmroman10-bolditalic.otf><c:/users/admin/appdata/local/programs/miktex/fonts/
-opentype/public/lm/lmroman12-italic.otf><c:/users/admin/appdata/local/programs/m
-iktex/fonts/opentype/public/lm/lmmono12-regular.otf><c:/users/admin/appdata/loca
-l/programs/miktex/fonts/opentype/public/lm/lmroman12-regular.otf><c:/users/admin
-/appdata/local/programs/miktex/fonts/opentype/public/lm/lmmono10-regular.otf><c:
-/users/admin/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman10-bo
-ld.otf><c:/users/admin/appdata/local/programs/miktex/fonts/opentype/public/lm/lm
-roman10-regular.otf><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/opentype
-/public/lm/lmroman12-bold.otf><C:/Users/Admin/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Admin/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Admin/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Admin/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Admin/Ap
-pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/A
-dmin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/
-Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.p
-fb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmmi8.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmr10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmr12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmr5.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Admin/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Admin/AppData/Local/
-Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/Admin/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on rft_manuskript_de_iop.pdf (21 pages, 736144 bytes).
+-italic.otf><c:/users/admin/appdata/local/programs/miktex/fonts/opentype/public/
+lm/lmroman12-italic.otf><c:/users/admin/appdata/local/programs/miktex/fonts/open
+type/public/lm/lmmono12-regular.otf><c:/users/admin/appdata/local/programs/mikte
+x/fonts/opentype/public/lm/lmroman12-regular.otf><c:/users/admin/appdata/local/p
+rograms/miktex/fonts/opentype/public/lm/lmmono10-regular.otf><c:/users/admin/app
+data/local/programs/miktex/fonts/opentype/public/lm/lmroman10-bold.otf><c:/users
+/admin/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman10-regular.
+otf><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lm/lmrom
+an12-bold.otf><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmbx12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmex10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Admin/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Admin/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Admin/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Admin/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Adm
+in/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Us
+ers/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb
+><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+r12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmr5.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmr7.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmr8.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/Admin/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on rft_manuskript_de_iop.pdf (21 pages, 729200 bytes).
 
-PDF statistics: 444 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 437 PDF objects out of 1000 (max. 8388607)
  78 named destinations out of 1000 (max. 131072)
  281 words of extra memory for PDF output out of 10000 (max. 100000000)
 
