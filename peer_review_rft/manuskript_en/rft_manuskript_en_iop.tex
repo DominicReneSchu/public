@@ -1,21 +1,25 @@
-% -- IOPscience-kompatibler Header und Titelfeld im vollständigen Resonanzfeld --
-% Für IOPscience bitte offizielle Vorlage verwenden, z.B.:
-% \documentclass[12pt]{iopart}
-% Hier weiterhin \articleclass für Bearbeitung, Hinweise im Kommentar.
-
 \documentclass[12pt]{iopart}
-% ACHTUNG: Bei Verwendung von iopart KEIN amsmath laden!
-% geometry wird für Bearbeitung genutzt, muss für IOP-Submission entfernt werden.
 \usepackage[a4paper,margin=2.5cm]{geometry}
 \usepackage{graphicx}
 \usepackage{hyperref}
-\usepackage{authblk}      % Für Autoren und Affiliations (bei iopart nicht erforderlich, aber hier für Bearbeitung)
+\usepackage{authblk}
 \usepackage{cite}
 \usepackage{float}
 \usepackage{longtable}
 \usepackage{caption}
 \usepackage{qrcode}
 \captionsetup[longtable]{width=\linewidth, position=bottom}
+% --- Eigene Definitionen fehlender Kommandos für iopart ---
+\providecommand{\mathbb}[1]{\mathbf{#1}}
+\providecommand{\mathcal}[1]{\mathscr{#1}}
+\providecommand{\text}[1]{\mbox{#1}}
+\providecommand{\implies}{\Rightarrow}
+\providecommand{\forall}{\hbox{for all }}
+\providecommand{\exists}{\hbox{there exists }}
+\providecommand{\quad}{\hskip1em\relax}
+\providecommand{\qquad}{\hskip2em\relax}
+
+
 
 % --- Titel, Autoren, Affiliations, Open Science, ORCID, Keywords ---
 \title{Resonance Field Theory: Axiomatics, Invariants, and Systemic Structure}
