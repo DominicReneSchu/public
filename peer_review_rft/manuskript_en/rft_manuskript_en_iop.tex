@@ -1,10 +1,14 @@
 % -- IOPscience-kompatibler Header und Titelfeld im vollständigen Resonanzfeld --
 
 % Für IOPscience bitte offizielle Vorlage verwenden, z.B.:
-% \documentclass[12pt]{iopart} 
+% \documentclass[12pt]{iopart}
+%\usepackage{iopams}
+%\usepackage{graphicx}[12pt]{iopart} 
 % Hier weiterhin \articleclass für Bearbeitung, Hinweise im Kommentar.
 
 \documentclass[12pt]{iopart}
+\usepackage{iopams}
+\usepackage{graphicx}[12pt]{iopart}
 \usepackage[a4paper,margin=2.5cm]{geometry}
 \usepackage{iopart.cls}
 \usepackage{amsmath,amsfonts,amssymb}
@@ -34,6 +38,16 @@
 % --- Beginn Dokument ---
 
 \begin{document}
+\title[Short Title]{Long Title of the Paper in Full Form}
+\author{Dominic-René Schu}
+\address{Institution, City, Country}
+\ead{email@example.com}
+\begin{abstract}
+Abstract text goes here.
+\end{abstract}
+\submitto{\NJP}
+\maketitle
+
 	
 	\maketitle
 	
