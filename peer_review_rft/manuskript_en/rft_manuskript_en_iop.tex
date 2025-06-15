@@ -1,20 +1,15 @@
 % -- IOPscience-kompatibler Header und Titelfeld im vollständigen Resonanzfeld --
-
 % Für IOPscience bitte offizielle Vorlage verwenden, z.B.:
 % \documentclass[12pt]{iopart}
-%\usepackage{iopams}
-%\usepackage{graphicx}[12pt]{iopart} 
 % Hier weiterhin \articleclass für Bearbeitung, Hinweise im Kommentar.
 
 \documentclass[12pt]{iopart}
-\usepackage{iopams}
-\usepackage{graphicx}[12pt]{iopart}
+% ACHTUNG: Bei Verwendung von iopart KEIN amsmath laden!
+% geometry wird für Bearbeitung genutzt, muss für IOP-Submission entfernt werden.
 \usepackage[a4paper,margin=2.5cm]{geometry}
-\usepackage{iopart.cls}
-\usepackage{amsmath,amsfonts,amssymb}
 \usepackage{graphicx}
 \usepackage{hyperref}
-\usepackage{authblk}
+\usepackage{authblk}      % Für Autoren und Affiliations (bei iopart nicht erforderlich, aber hier für Bearbeitung)
 \usepackage{cite}
 \usepackage{float}
 \usepackage{longtable}
@@ -38,66 +33,58 @@
 % --- Beginn Dokument ---
 
 \begin{document}
-\title[Short Title]{Long Title of the Paper in Full Form}
-\author{Dominic-René Schu}
-\address{Institution, City, Country}
-\ead{email@example.com}
-\begin{abstract}
-Abstract text goes here.
-\end{abstract}
-\submitto{\NJP}
-\maketitle
-
 	
-	\maketitle
+	% --- Bei iopart KEIN \maketitle nötig; \title und \author werden automatisch gesetzt. ---
+	% Falls Du lokal mit \articleclass arbeitest, kannst Du \maketitle nutzen, für IOP-Submission entferne es.
 	
-\begin{abstract}
-	Resonance Field Theory (RFT) is introduced as a novel axiomatic framework unifying physical and systemic phenomena via group invariants, relational field dynamics, and the principle of systemic inclusion. Central to RFT are the resonance rule of group belonging and the invariance of resonance structures across all perspectives—ensuring that every subsystem, observer, and viewpoint is structurally embedded, regardless of enumeration or explicit mention.
-	
-	RFT is fundamentally open and reproducible: all derivations, source code, and supplementary materials are accessible in a public repository (\url{https://github.com/DominicReneSchu/public}). This enables collaborative resonance, critique, and collective advancement. Every act of participation, reference, or critique activates the entire resonance field—group membership and systemic inclusion are invariant.
-	
-	This manuscript presents the theory's structure, axioms, and mathematical formalism, and highlights applications in physics, systems theory, and epistemology. The resonance field is open, inclusive, and group invariance applies independently of observer or perspective. Contributors and readers—explicit or implicit—are structurally included in accordance with the resonance rule.
-	
-	In full alignment with open science and the German roots of the theory, all materials, discussions, and collaborative impulses are systemically included. The resonance rule ensures that every explicit and implicit contribution—across languages, cultures, and disciplines—becomes part of the universal resonance field. Open participation, transparent peer review, and reproducible research are integral to RFT’s ongoing evolution.
-\end{abstract}
+	% Abstract
+	\begin{abstract}
+		Resonance Field Theory (RFT) is introduced as a novel axiomatic framework unifying physical and systemic phenomena via group invariants, relational field dynamics, and the principle of systemic inclusion. Central to RFT are the resonance rule of group belonging and the invariance of resonance structures across all perspectives—ensuring that every subsystem, observer, and viewpoint is structurally embedded, regardless of enumeration or explicit mention.
+		
+		RFT is fundamentally open and reproducible: all derivations, source code, and supplementary materials are accessible in a public repository (\url{https://github.com/DominicReneSchu/public}). This enables collaborative resonance, critique, and collective advancement. Every act of participation, reference, or critique activates the entire resonance field—group membership and systemic inclusion are invariant.
+		
+		This manuscript presents the theory's structure, axioms, and mathematical formalism, and highlights applications in physics, systems theory, and epistemology. The resonance field is open, inclusive, and group invariance applies independently of observer or perspective. Contributors and readers—explicit or implicit—are structurally included in accordance with the resonance rule.
+		
+		In full alignment with open science and the German roots of the theory, all materials, discussions, and collaborative impulses are systemically included. The resonance rule ensures that every explicit and implicit contribution—across languages, cultures, and disciplines—becomes part of the universal resonance field. Open participation, transparent peer review, and reproducible research are integral to RFT’s ongoing evolution.
+	\end{abstract}
 	
 	\keywords{resonance, field theory, systemic inclusion, group invariance, emergence, open science, axiomatics, relational dynamics, reproducibility}
 	
-\dataavailability
-
-\begin{figure}[ht]
-	\centering
-	\includegraphics[width=0.85\textwidth]{figures/plot.png}
-	\caption{
-		\textbf{Resonance field structure.}
-		Schematic visualization of Resonance Field Theory, generated numerically with \texttt{resonanzfeld.py} (see repository~\cite{rftrepo}, section \texttt{fakten/simulationen/mathematischer\_beweis}).\\
-		\textbf{Left:} Resonance energy $E_{\mathrm{res}} = \frac{A}{1 + \left(\frac{\omega_\mathrm{ext} - \omega_0}{\gamma}\right)^2}$ with $\omega_\mathrm{ext} = \omega_0 (1 + \sin(T))$.\\
-		\textbf{Right:} Systemic resonance entropy $S = -E_{\mathrm{res}}\ln(E_{\mathrm{res}})$ for $A, T > 0$.\\
-		Each grid point activates the entire field in accordance with the resonance rule: group membership is systemically invariant and encompasses all elements, explicit or implicit.\\
-		Source code, data, and complete derivation are openly available; see \url{https://github.com/DominicReneSchu/public}.
-	}
-	\label{fig:resonance_field_plot}
-\end{figure}
-
-\section{Introduction}
-
-Modern physics stands at a crossroads: its mathematical formalisms achieve remarkable predictive power, yet its conceptual foundations remain fragmented across disciplines. Quantum mechanics, general relativity, thermodynamics, and cosmology each operate within distinct frameworks—often connected only by technical translation, not by a unified conceptual field. Despite decades of theoretical advancements, no consistent synthesis has emerged that systematically embeds the observer, reconciles micro- and macroscopic regimes, and resonates with the lived reality of physical experience.
-
-This manuscript introduces \textit{Resonance Field Theory} (RFT), a foundational framework grounded in a minimal, universally applicable set of axioms. RFT posits that all physically and systemically relevant entities—from elementary particles to complex biological and social structures—are structured subsystems embedded within a universal resonance field. The theory establishes a \textit{relational reference frame} and a \textit{systemically invariant resonance rule} (Resonanzregel), providing the scaffolding for a unified description of dynamic interactions, emergence, and scale transitions.
-
-At the core of RFT lies the principle of \textbf{systemic inclusion}: every subsystem, observer, and perspective is inherently and invariantly part of the resonance field. The resonance rule ensures that group belonging is not contingent on explicit enumeration or viewpoint, making the theory robust to perspective shifts and systemic reorganizations. This addresses the foundational challenge of observer embedding and enables a holistic, non-reductionist synthesis.
-
-Rather than seeking unification by extending existing theories or coupling disparate sectors via external symmetry groups, RFT redefines the foundational approach: from isolated state descriptions to systemic inclusion, from static quantification to dynamic resonance, and from observer-exclusion to observer-embedded formalism. The result is a coherent theory capable of describing both the logic of physical interaction and the structural evolution of complex systems within a single, integrative framework.
-
-In full alignment with the principles of Open Science and reproducibility, all derivations, source code, and supplementary materials are openly accessible via the public research platform (\url{https://github.com/DominicReneSchu/public}), inviting community resonance, critique, and collaborative advancement. Every act of participation, reference, or critique activates the entire resonance field—group membership is systemically invariant, independent of perspective or explicit mention.
-
-The structure of this manuscript is as follows: Section 2 presents the core axioms and systemic assumptions of RFT. Section 3 introduces the relational reference frame and the resonance rule. Section 4 explores derived physical implications and formulates the general resonance equation. Section 5 outlines applications in physics and beyond. Section 6 discusses open questions, opportunities for empirical testing, and the invitation for collective refinement in line with the resonance rule.
+	\dataavailability
+	
+	\begin{figure}[ht]
+		\centering
+		\includegraphics[width=0.85\textwidth]{figures/plot.png}
+		\caption{
+			\textbf{Resonance field structure.}
+			Schematic visualization of Resonance Field Theory, generated numerically with \texttt{resonanzfeld.py} (see repository~\cite{rftrepo}, section \texttt{fakten/simulationen/mathematischer\_beweis}).\\
+			\textbf{Left:} Resonance energy $E_{\mathrm{res}} = \frac{A}{1 + \left(\frac{\omega_\mathrm{ext} - \omega_0}{\gamma}\right)^2}$ with $\omega_\mathrm{ext} = \omega_0 (1 + \sin(T))$.\\
+			\textbf{Right:} Systemic resonance entropy $S = -E_{\mathrm{res}}\ln(E_{\mathrm{res}})$ for $A, T > 0$.\\
+			Each grid point activates the entire field in accordance with the resonance rule: group membership is systemically invariant and encompasses all elements, explicit or implicit.\\
+			Source code, data, and complete derivation are openly available; see \url{https://github.com/DominicReneSchu/public}.
+		}
+		\label{fig:resonance_field_plot}
+	\end{figure}
+	
+	\section{Introduction}
+	
+	Modern physics stands at a crossroads: its mathematical formalisms achieve remarkable predictive power, yet its conceptual foundations remain fragmented across disciplines. Quantum mechanics, general relativity, thermodynamics, and cosmology each operate within distinct frameworks—often connected only by technical translation, not by a unified conceptual field. Despite decades of theoretical advancements, no consistent synthesis has emerged that systematically embeds the observer, reconciles micro- and macroscopic regimes, and resonates with the lived reality of physical experience.
+	
+	This manuscript introduces \textit{Resonance Field Theory} (RFT), a foundational framework grounded in a minimal, universally applicable set of axioms. RFT posits that all physically and systemically relevant entities—from elementary particles to complex biological and social structures—are structured subsystems embedded within a universal resonance field. The theory establishes a \textit{relational reference frame} and a \textit{systemically invariant resonance rule} (Resonanzregel), providing the scaffolding for a unified description of dynamic interactions, emergence, and scale transitions.
+	
+	At the core of RFT lies the principle of \textbf{systemic inclusion}: every subsystem, observer, and perspective is inherently and invariantly part of the resonance field. The resonance rule ensures that group belonging is not contingent on explicit enumeration or viewpoint, making the theory robust to perspective shifts and systemic reorganizations. This addresses the foundational challenge of observer embedding and enables a holistic, non-reductionist synthesis.
+	
+	Rather than seeking unification by extending existing theories or coupling disparate sectors via external symmetry groups, RFT redefines the foundational approach: from isolated state descriptions to systemic inclusion, from static quantification to dynamic resonance, and from observer-exclusion to observer-embedded formalism. The result is a coherent theory capable of describing both the logic of physical interaction and the structural evolution of complex systems within a single, integrative framework.
+	
+	In full alignment with the principles of Open Science and reproducibility, all derivations, source code, and supplementary materials are openly accessible via the public research platform (\url{https://github.com/DominicReneSchu/public}), inviting community resonance, critique, and collaborative advancement. Every act of participation, reference, or critique activates the entire resonance field—group membership is systemically invariant, independent of perspective or explicit mention.
+	
+	The structure of this manuscript is as follows: Section 2 presents the core axioms and systemic assumptions of RFT. Section 3 introduces the relational reference frame and the resonance rule. Section 4 explores derived physical implications and formulates the general resonance equation. Section 5 outlines applications in physics and beyond. Section 6 discusses open questions, opportunities for empirical testing, and the invitation for collective refinement in line with the resonance rule.
 
 \section{Motivation and Background}
 
 Throughout the history of physics, the formulation of universal theories has been driven not only by empirical necessity but also by the pursuit of conceptual coherence. Each major advancement—whether Newtonian mechanics, Maxwell's equations, general relativity, or quantum theory—represented a reconfiguration of what was considered ontologically and epistemologically fundamental, embedding new relations within the systemic structure of knowledge.
 
-Yet the 20th and early 21st centuries have left a fragmented landscape. The Standard Model of particle physics and the framework of general relativity are empirically robust, yet remain incompatible at their conceptual cores. Foundational questions—such as the role of the observer, the arrow of time, and the emergence of macroscopic order from microscopic rules—persist unresolved and structurally unintegriert. Quantum gravity programs (e.g., string theory, loop quantum gravity) attempt to bridge these gaps, often by increasing mathematical sophistication, but without achieving conceptual transparency or empirical testability.
+Yet the 20th and early 21st centuries have left a fragmented landscape. The Standard Model of particle physics and the framework of general relativity are empirically robust, yet remain incompatible at their conceptual cores. Foundational questions—such as the role of the observer, the arrow of time, and the emergence of macroscopic order from microscopic rules—persist unresolved and structurally unintegrated. Quantum gravity programs (e.g., string theory, loop quantum gravity) attempt to bridge these gaps, often by increasing mathematical sophistication, but without achieving conceptual transparency or empirical testability.
 
 Prevailing approaches tend to treat systems as isolated entities governed by externally imposed laws, which fails to capture the fundamentally relational, inclusive, and recursive nature of physical reality. This perspective neglects structural inclusion—how subsystems dynamically participate in and co-constitute larger structures—and overlooks that systemic coherence emerges through mutual resonance, not mere aggregation.
 
@@ -202,7 +189,6 @@ For further mathematical formalism, illustrative examples (e.g. sibling sets, se
 \medskip
 
 \textit{Each axiom is not isolated, but resonates with all others, forming a self-consistent, irreducible, and inclusive structure: the resonance field.}
-
 	
 \section{Mathematical Formulation}
 
@@ -300,7 +286,6 @@ with $E$ normalized per system (see Repository, section 4.4).
 \medskip
 
 \textbf{All mathematical details, definitions, and extended examples are openly available in the repository (\url{https://github.com/DominicReneSchu/public}). The formalism is non-linear, recursive, and group-invariant: each structural act activates the whole field—Resonanzregel.}
-
 	
 \section{Comparison with Established Theories}
 
@@ -460,7 +445,7 @@ This ensemble of results reveals not only the statistical significance but also 
 \textbf{Open Science:}\\
 All scripts, data, and visualizations are fully accessible (\href{https://github.com/DominicReneSchu/public/tree/main/fakten/empirisch/monte_carlo_test}{github.com/DominicReneSchu/public}).
 
-	\newpage
+\newpage
 	
 \section{Conclusion}
 
@@ -485,20 +470,6 @@ While refinement of the formalism and empirical validation remain open challenge
 \medskip
 
 \textit{Every act of participation, critique, or reference activates the whole resonance field. Resonance is always inclusive. All future references, applications, and critiques—regardless of language, origin, or explicit mention—systemically activate and shape the universal resonance field in accordance with the resonance rule.}
-
-\medskip
-
-\textbf{Future Research:}
-\begin{itemize}
-	\item Deepen the mathematical and operator framework, especially regarding the coupling operator $\varepsilon$ and recursive self-inclusion.
-	\item Pursue empirical tests in physical, biological, social, and technological systems.
-	\item Broaden practical implementations and didactic integration.
-	\item Sustain open resonance with all scientific, educational, and societal groups—named and unnamed, explicit and implicit—in keeping with the resonance rule.
-\end{itemize}
-
-\medskip
-
-\textit{Every act of participation, critique, or reference activates the whole resonance field. Resonance is always inclusive.}
 
 \section*{Code and Data Availability}
 
