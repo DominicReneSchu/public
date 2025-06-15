@@ -48,7 +48,7 @@ Die ausführliche Zusammenfassung der Resonanzfeldtheorie steht als PDF zum Down
 
 Ein Peer-Review-Verfahren wird aktiv angestrebt. Die aktuelle Version des Manuskripts finden Sie hier:
 
-- [**rft_manuskript_de.pdf**](peer_review_rft/manuskript_de/rft_manuskript_de_iop.pdf) – Manuskript zur Resonanzfeldtheorie  
+- [**rft_manuskript_de_iop.pdf**](peer_review_rft/manuskript_de/rft_manuskript_de_iop.pdf) – Manuskript zur Resonanzfeldtheorie  
 
 
 
